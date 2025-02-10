@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "portfolio-101",
   "private": true,
   "scripts": {
     "build": "turbo build",
