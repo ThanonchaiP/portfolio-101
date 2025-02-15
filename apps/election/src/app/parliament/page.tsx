@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 import { Button } from "@/components/button";
 
-export default function Home() {
+export default function ParliamentPage() {
   useEffect(() => {
     console.log("Hello from election");
   }, []);
@@ -16,7 +16,7 @@ export default function Home() {
         <Button
         // className="rounded-lg bg-[#f2f2f2] p-4 font-bold dark:bg-[#1a1a1a]"
         >
-          Click me คลิกเลย
+          GEO PAGe
         </Button>
         <Image
           className=""
