@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import { Kanit } from "next/font/google";
+
+import { Sidebar } from "@/components/sidebar";
+
 import "./globals.css";
 
 const geistSans = Kanit({
@@ -20,7 +23,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} antialiased`}>{children}</body>
+      <body className={`${geistSans.variable} antialiased`}>
+        <main className="flex p-8">
+          <Sidebar />
+          {children}
+        </main>
+      </body>
     </html>
   );
 }
