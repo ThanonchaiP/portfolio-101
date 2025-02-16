@@ -1,5 +1,3 @@
-"use client";
-
 import { Icon } from "@iconify/react";
 import clsx from "clsx";
 import Link from "next/link";
@@ -54,7 +52,7 @@ export const Menu = () => {
           {item.title}
         </Link>
       ))}
-      <div className="flex flex-col gap-[4px]">
+      <div className="flex flex-col gap-[10px]">
         {subNavItems.map((item) => (
           <Link
             key={item.href}
