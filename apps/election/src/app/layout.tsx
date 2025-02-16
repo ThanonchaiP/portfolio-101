@@ -26,7 +26,7 @@ export default function RootLayout({
       <body className={`${geistSans.variable} antialiased`}>
         <main className="flex min-h-screen p-8">
           <Sidebar />
-          <div>{children}</div>
+          <div className="flex-1 pl-6">{children}</div>
         </main>
       </body>
     </html>
