@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "1",
+    "name_th": "นารูโตะ",
+    "name_en": "Naruto Uzumaki",
+    "partyId": "1",
+    "image": "/naruto-sm.png"
+  },
+  {
+    "id": "2",
+    "name_th": "ซาสึเกะ",
+    "name_en": "Sasuke Uchiha",
+    "partyId": "1",
+    "image": "/sasuke-sm.png"
+  },
+  {
+    "id": "3",
+    "name_th": "ซากุระ",
+    "name_en": "Sakura Haruno",
+    "partyId": "1",
+    "image": "/sakura-sm.png"
+  },
+  {
+    "id": "4",
+    "name_th": "คาคาชิ",
+    "name_en": "Kakashi Hatake",
+    "partyId": "1",
+    "image": "/kakashi-sm.png"
+  },
+  {
+    "id": "5",
+    "name_th": "อิทาจิ",
+    "name_en": "Itachi Uchiha",
+    "partyId": "1",
+    "image": "/itachi-sm.png"
+  },
+  {
+    "id": "6",
+    "name_th": "โอโรจิมารุ",
+    "name_en": "Orochimaru",
+    "partyId": "1",
+    "image": "/orochimaru-sm.png"
+  },
+  {
+    "id": "7",
+    "name_th": "ซึนาเดะ",
+    "name_en": "Tsunade",
+    "partyId": "1",
+    "image": "/tsunade-sm.png"
+  },
+  {
+    "id": "8",
+    "name_th": "จิไรยะ",
+    "name_en": "Jiraiya",
+    "partyId": "1",
+    "image": "/jiraiya-sm.png"
+  },
+  {
+    "id": "9",
+    "name_th": "การะ",
+    "name_en": "Gaara",
+    "partyId": "1",
+    "image": "/gaara-sm.png"
+  },
+  {
+    "id": "10",
+    "name_th": "ชิกามารุ",
+    "name_en": "Shikamaru Nara",
+    "partyId": "1",
+    "image": "/shikamaru-sm.png"
+  },
+  {
+    "id": "11",
+    "name_th": "เนจิ",
+    "name_en": "Neji Hyuga",
+    "partyId": "1",
+    "image": "/neji-sm.png"
+  },
+  {
+    "id": "12",
+    "name_th": "ร็อค ลี",
+    "name_en": "Rock Lee",
+    "partyId": "1",
+    "image": "/rocklee-sm.png"
+  },
+  {
+    "id": "13",
+    "name_th": "คิบะ",
+    "name_en": "Kiba Inuzuka",
+    "partyId": "1",
+    "image": "/kiba-sm.png"
+  },
+  {
+    "id": "14",
+    "name_th": "ฮินาตะ",
+    "name_en": "Hinata Hyuga",
+    "partyId": "1",
+    "image": "/hinata-sm.png"
+  },
+  {
+    "id": "15",
+    "name_th": "โอบิโตะ",
+    "name_en": "Obito Uchiha",
+    "partyId": "1",
+    "image": "/obito-sm.png"
+  },
+  {
+    "id": "16",
+    "name_th": "ลูฟี่",
+    "name_en": "Monkey D. Luffy",
+    "partyId": "2",
+    "image": "/luffy-sm.png"
+  },
+  {
+    "id": "17",
+    "name_th": "โซโร",
+    "name_en": "Roronoa Zoro",
+    "partyId": "2",
+    "image": "/zoro-sm.png"
+  },
+  {
+    "id": "18",
+    "name_th": "ซันจิ",
+    "name_en": "Sanji",
+    "partyId": "2",
+    "image": "/sanji-sm.png"
+  },
+  {
+    "id": "19",
+    "name_th": "นามิ",
+    "name_en": "Nami",
+    "partyId": "2",
+    "image": "/nami-sm.png"
+  },
+  {
+    "id": "20",
+    "name_th": "อุซป",
+    "name_en": "Usopp",
+    "partyId": "2",
+    "image": "/usopp-sm.png"
+  },
+  {
+    "id": "21",
+    "name_th": "ช็อปเปอร์",
+    "name_en": "Tony Tony Chopper",
+    "partyId": "2",
+    "image": "/chopper-sm.png"
+  },
+  {
+    "id": "22",
+    "name_th": "โรบิน",
+    "name_en": "Nico Robin",
+    "partyId": "2",
+    "image": "/robin-sm.png"
+  },
+  {
+    "id": "23",
+    "name_th": "แฟรงกี้",
+    "name_en": "Franky",
+    "partyId": "2",
+    "image": "/franky-sm.png"
+  },
+  {
+    "id": "24",
+    "name_th": "บรู๊ค",
+    "name_en": "Brook",
+    "partyId": "2",
+    "image": "/brook-sm.png"
+  },
+  {
+    "id": "25",
+    "name_th": "จินเบ",
+    "name_en": "Jinbe",
+    "partyId": "2",
+    "image": "/jinbe-sm.png"
+  },
+  {
+    "id": "26",
+    "name_th": "แชงคูส",
+    "name_en": "Shanks",
+    "partyId": "2",
+    "image": "/shanks-sm.png"
+  },
+  {
+    "id": "27",
+    "name_th": "มาร์โก้",
+    "name_en": "Marco",
+    "partyId": "2",
+    "image": "/marco-sm.png"
+  },
+  {
+    "id": "28",
+    "name_th": "บากี้",
+    "name_en": "Buggy",
+    "partyId": "2",
+    "image": "/buggy-sm.png"
+  },
+  {
+    "id": "29",
+    "name_th": "โครคโคไดล์",
+    "name_en": "Crocodile",
+    "partyId": "2",
+    "image": "/crocodile-sm.png"
+  },
+  {
+    "id": "30",
+    "name_th": "โดฟลามิงโก้",
+    "name_en": "Doflamingo",
+    "partyId": "2",
+    "image": "/doflamingo-sm.png"
+  },
+  {
+    "id": "31",
+    "name_th": "โกคู",
+    "name_en": "Goku",
+    "partyId": "3",
+    "image": "/goku-sm.png"
+  },
+  {
+    "id": "32",
+    "name_th": "เบจิต้า",
+    "name_en": "Vegeta",
+    "partyId": "3",
+    "image": "/vegeta-sm.png"
+  },
+  {
+    "id": "33",
+    "name_th": "ปิกโกโร่",
+    "name_en": "Piccolo",
+    "partyId": "3",
+    "image": "/piccolo-sm.png"
+  },
+  {
+    "id": "34",
+    "name_th": "โกฮัง",
+    "name_en": "Gohan",
+    "partyId": "3",
+    "image": "/gohan-sm.png"
+  },
+  {
+    "id": "35",
+    "name_th": "ฟรีซเซอร์",
+    "name_en": "Frieza",
+    "partyId": "3",
+    "image": "/frieza-sm.png"
+  },
+  {
+    "id": "36",
+    "name_th": "โคล่าห์",
+    "name_en": "Krillin",
+    "partyId": "3",
+    "image": "/krillin-sm.png"
+  },
+  {
+    "id": "37",
+    "name_th": "ทรังค์",
+    "name_en": "Trunks",
+    "partyId": "3",
+    "image": "/trunks-sm.png"
+  },
+  {
+    "id": "38",
+    "name_th": "เบรลีย์",
+    "name_en": "Brolly",
+    "partyId": "3",
+    "image": "/brolly-sm.png"
+  },
+  {
+    "id": "39",
+    "name_th": "จอมโจรบู",
+    "name_en": "Majin Buu",
+    "partyId": "3",
+    "image": "/majinbuu-sm.png"
+  },
+  {
+    "id": "40",
+    "name_th": "เมจินบู",
+    "name_en": "Fat Buu",
+    "partyId": "3",
+    "image": "/fatbuu-sm.png"
+  },
+  {
+    "id": "41",
+    "name_th": "ว่าน",
+    "name_en": "Yamcha",
+    "partyId": "3",
+    "image": "/yamcha-sm.png"
+  },
+  {
+    "id": "42",
+    "name_th": "ทูมะ",
+    "name_en": "Tien Shinhan",
+    "partyId": "3",
+    "image": "/tien-shinhan-sm.png"
+  },
+  {
+    "id": "43",
+    "name_th": "ชุน",
+    "name_en": "Chiaotzu",
+    "partyId": "3",
+    "image": "/chiaotzu-sm.png"
+  },
+  {
+    "id": "44",
+    "name_th": "อูซู",
+    "name_en": "Uub",
+    "partyId": "3",
+    "image": "/uub-sm.png"
+  },
+  {
+    "id": "45",
+    "name_th": "ทามาโยะ",
+    "name_en": "Tanjiro Kamado",
+    "partyId": "4",
+    "image": "/tanjiro-sm.png"
+  },
+  {
+    "id": "46",
+    "name_th": "เนซึโกะ",
+    "name_en": "Nezuko Kamado",
+    "partyId": "4",
+    "image": "/nezuko-sm.png"
+  },
+  {
+    "id": "47",
+    "name_th": "ซาโต้",
+    "name_en": "Zenitsu Agatsuma",
+    "partyId": "4",
+    "image": "/zenitsu-sm.png"
+  },
+  {
+    "id": "48",
+    "name_th": "อิโนะซึเกะ",
+    "name_en": "Inosuke Hashibira",
+    "partyId": "4",
+    "image": "/inosuke-sm.png"
+  },
+  {
+    "id": "49",
+    "name_th": "คานาโอะ",
+    "name_en": "Kanao Tsuyuri",
+    "partyId": "4",
+    "image": "/kanao-sm.png"
+  },
+  {
+    "id": "50",
+    "name_th": "คามาดะ",
+    "name_en": "Kanao Tsuyuri",
+    "partyId": "4",
+    "image": "/kanao-sm.png"
+  },
+  {
+    "id": "51",
+    "name_th": "มิตสึริ",
+    "name_en": "Mitsuri Kanroji",
+    "partyId": "4",
+    "image": "/mitsuri-sm.png"
+  },
+  {
+    "id": "52",
+    "name_th": "คุโรโกะ",
+    "name_en": "Kanao Tsuyuri",
+    "partyId": "4",
+    "image": "/kuroko-sm.png"
+  },
+  {
+    "id": "53",
+    "name_th": "โยริวากะ",
+    "name_en": "Yoriichi Tsugikuni",
+    "partyId": "4",
+    "image": "/yoriichi-sm.png"
+  },
+  {
+    "id": "54",
+    "name_th": "ชิโนบุ",
+    "name_en": "Shinobu Kocho",
+    "partyId": "4",
+    "image": "/shinobu-sm.png"
+  },
+  {
+    "id": "55",
+    "name_th": "คามาดะ",
+    "name_en": "Kamado Tanjiro",
+    "partyId": "4",
+    "image": "/kamado-sm.png"
+  },
+  {
+    "id": "56",
+    "name_th": "ดากิ",
+    "name_en": "Daki",
+    "partyId": "4",
+    "image": "/daki-sm.png"
+  },
+  {
+    "id": "57",
+    "name_th": "เซ็นโซ",
+    "name_en": "Senjuro Rengoku",
+    "partyId": "4",
+    "image": "/senjuro-sm.png"
+  },
+  {
+    "id": "58",
+    "name_th": "มูซัน",
+    "name_en": "Muzan Kibutsuji",
+    "partyId": "4",
+    "image": "/muzan-sm.png"
+  },
+  {
+    "id": "59",
+    "name_th": "คิรัวร์",
+    "name_en": "Killua Zoldyck",
+    "partyId": "5",
+    "image": "/killua-sm.png"
+  },
+  {
+    "id": "60",
+    "name_th": "โกง",
+    "name_en": "Gon Freecss",
+    "partyId": "5",
+    "image": "/gon-sm.png"
+  },
+  {
+    "id": "61",
+    "name_th": "เลียวริ",
+    "name_en": "Leorio Paradinight",
+    "partyId": "5",
+    "image": "/leorio-sm.png"
+  },
+  {
+    "id": "62",
+    "name_th": "ครอฟต์",
+    "name_en": "Kurapika",
+    "partyId": "5",
+    "image": "/kurapika-sm.png"
+  },
+  {
+    "id": "63",
+    "name_th": "ป็อกกี้",
+    "name_en": "Hisoka Morow",
+    "partyId": "5",
+    "image": "/hisoka-sm.png"
+  },
+  {
+    "id": "64",
+    "name_th": "ปีเตอร์",
+    "name_en": "Chrollo Lucilfer",
+    "partyId": "5",
+    "image": "/chrollo-sm.png"
+  },
+  {
+    "id": "65",
+    "name_th": "บิส",
+    "name_en": "Biscuit Krueger",
+    "partyId": "5",
+    "image": "/biscuit-sm.png"
+  },
+  {
+    "id": "66",
+    "name_th": "กอร์กอน",
+    "name_en": "Genthru",
+    "partyId": "5",
+    "image": "/genthru-sm.png"
+  },
+  {
+    "id": "67",
+    "name_th": "ไอซี่",
+    "name_en": "Killua Zoldyck",
+    "partyId": "5",
+    "image": "/killua2-sm.png"
+  },
+  {
+    "id": "68",
+    "name_th": "เบอร์น",
+    "name_en": "Netero",
+    "partyId": "5",
+    "image": "/netero-sm.png"
+  },
+  {
+    "id": "69",
+    "name_th": "ซิลวา",
+    "name_en": "Silva Zoldyck",
+    "partyId": "5",
+    "image": "/silva-sm.png"
+  },
+  {
+    "id": "70",
+    "name_th": "คิอาน",
+    "name_en": "Kite",
+    "partyId": "5",
+    "image": "/kite-sm.png"
+  },
+  {
+    "id": "71",
+    "name_th": "คูอิ",
+    "name_en": "Kurapika",
+    "partyId": "5",
+    "image": "/kurapika2-sm.png"
+  },
+  {
+    "id": "72",
+    "name_th": "แฮงค์",
+    "name_en": "Hanzo",
+    "partyId": "5",
+    "image": "/hanzo-sm.png"
+  },
+  {
+    "id": "73",
+    "name_th": "เอ็ดเวิร์ด",
+    "name_en": "Edward Elric",
+    "partyId": "6",
+    "image": "/edward-sm.png"
+  },
+  {
+    "id": "74",
+    "name_th": "อัลฟอนซ์",
+    "name_en": "Alphonse Elric",
+    "partyId": "6",
+    "image": "/alphonse-sm.png"
+  },
+  {
+    "id": "75",
+    "name_th": "รอย มัสแตง",
+    "name_en": "Roy Mustang",
+    "partyId": "6",
+    "image": "/roy-sm.png"
+  },
+  {
+    "id": "76",
+    "name_th": "ริซา ฮอว์คอาย",
+    "name_en": "Riza Hawkeye",
+    "partyId": "6",
+    "image": "/riza-sm.png"
+  },
+  {
+    "id": "77",
+    "name_th": "ฮิวอี้",
+    "name_en": "Hughes",
+    "partyId": "6",
+    "image": "/hughes-sm.png"
+  },
+  {
+    "id": "78",
+    "name_th": "มินา",
+    "name_en": "Maes Hughes",
+    "partyId": "6",
+    "image": "/mina-sm.png"
+  },
+  {
+    "id": "79",
+    "name_th": "ลูซี่",
+    "name_en": "Lust",
+    "partyId": "6",
+    "image": "/lust-sm.png"
+  },
+  {
+    "id": "80",
+    "name_th": "เอนวี",
+    "name_en": "Envy",
+    "partyId": "6",
+    "image": "/envy-sm.png"
+  },
+  {
+    "id": "81",
+    "name_th": "กลัท",
+    "name_en": "Gluttony",
+    "partyId": "6",
+    "image": "/gluttony-sm.png"
+  },
+  {
+    "id": "82",
+    "name_th": "สการ์",
+    "name_en": "Scar",
+    "partyId": "6",
+    "image": "/scar-sm.png"
+  },
+  {
+    "id": "83",
+    "name_th": "ริวา",
+    "name_en": "Riza Hawkeye",
+    "partyId": "6",
+    "image": "/riza2-sm.png"
+  },
+  {
+    "id": "84",
+    "name_th": "ตองโก",
+    "name_en": "Hohenheim",
+    "partyId": "6",
+    "image": "/hohenheim-sm.png"
+  },
+  {
+    "id": "85",
+    "name_th": "อีดา",
+    "name_en": "Edward",
+    "partyId": "6",
+    "image": "/edward2-sm.png"
+  },
+  {
+    "id": "86",
+    "name_th": "ดอกท้อ",
+    "name_en": "Tao",
+    "partyId": "6",
+    "image": "/tao-sm.png"
+  },
+  {
+    "id": "87",
+    "name_th": "เอเรน เยเกอร์",
+    "name_en": "Eren Yeager",
+    "partyId": "7",
+    "image": "/eren-sm.png"
+  },
+  {
+    "id": "88",
+    "name_th": "มิคาสะ อะกุรุ",
+    "name_en": "Mikasa Ackerman",
+    "partyId": "7",
+    "image": "/mikasa-sm.png"
+  },
+  {
+    "id": "89",
+    "name_th": "อาร์มิน อาร์เลิร์ต",
+    "name_en": "Armin Arlert",
+    "partyId": "7",
+    "image": "/armin-sm.png"
+  },
+  {
+    "id": "90",
+    "name_th": "ริไว เอ็คเคอร์แมน",
+    "name_en": "Levi Ackerman",
+    "partyId": "7",
+    "image": "/levi-sm.png"
+  },
+  {
+    "id": "91",
+    "name_th": "เอริวิน สมิธ",
+    "name_en": "Erwin Smith",
+    "partyId": "7",
+    "image": "/erwin-sm.png"
+  },
+  {
+    "id": "92",
+    "name_th": "ฮานจี โซอิ",
+    "name_en": "Hange Zoë",
+    "partyId": "7",
+    "image": "/hange-sm.png"
+  },
+  {
+    "id": "93",
+    "name_th": "เจนิส ฟรีซ",
+    "name_en": "Jean Kirstein",
+    "partyId": "7",
+    "image": "/jean-sm.png"
+  },
+  {
+    "id": "94",
+    "name_th": "คอนนี สปริงเกอร์",
+    "name_en": "Connie Springer",
+    "partyId": "7",
+    "image": "/connie-sm.png"
+  },
+  {
+    "id": "95",
+    "name_th": "ซาช่า บราวน์",
+    "name_en": "Sasha Blouse",
+    "partyId": "7",
+    "image": "/sasha-sm.png"
+  },
+  {
+    "id": "96",
+    "name_th": "รีเวียร์ คาซู",
+    "name_en": "Reiner Braun",
+    "partyId": "7",
+    "image": "/reiner-sm.png"
+  },
+  {
+    "id": "97",
+    "name_th": "เบอร์ทโฮลด์",
+    "name_en": "Bertolt Hoover",
+    "partyId": "7",
+    "image": "/bertolt-sm.png"
+  },
+  {
+    "id": "98",
+    "name_th": "อันนี่ เลออนฮาร์ท",
+    "name_en": "Annie Leonhart",
+    "partyId": "7",
+    "image": "/annie-sm.png"
+  },
+  {
+    "id": "99",
+    "name_th": "พิคซิส",
+    "name_en": "Pixis",
+    "partyId": "7",
+    "image": "/pixis-sm.png"
+  },
+  {
+    "id": "100",
+    "name_th": "ชิมา",
+    "name_en": "Shima",
+    "partyId": "7",
+    "image": "/shima-sm.png"
+  },
+  {
+    "id": "101",
+    "name_th": "อิจิโกะ คุโรซากิ",
+    "name_en": "Ichigo Kurosaki",
+    "partyId": "8",
+    "image": "/ichigo-sm.png"
+  },
+  {
+    "id": "102",
+    "name_th": "โซระคุ ฮิสึกายะ",
+    "name_en": "Toshiro Hitsugaya",
+    "partyId": "8",
+    "image": "/hitsugaya-sm.png"
+  },
+  {
+    "id": "103",
+    "name_th": "อุคิโยะ รุกุ",
+    "name_en": "Rukia Kuchiki",
+    "partyId": "8",
+    "image": "/rukia-sm.png"
+  },
+  {
+    "id": "104",
+    "name_th": "โคมามูระ",
+    "name_en": "Kommamura",
+    "partyId": "8",
+    "image": "/kommamura-sm.png"
+  },
+  {
+    "id": "105",
+    "name_th": "โอริฮิเมะ อิชิดะ",
+    "name_en": "Orihime Inoue",
+    "partyId": "8",
+    "image": "/orihime-sm.png"
+  },
+  {
+    "id": "106",
+    "name_th": "อิชิดะ อุคิโยะ",
+    "name_en": "Uryu Ishida",
+    "partyId": "8",
+    "image": "/ishida-sm.png"
+  },
+  {
+    "id": "107",
+    "name_th": "เค็นปาชิ",
+    "name_en": "Kenpachi Zaraki",
+    "partyId": "8",
+    "image": "/kenpachi-sm.png"
+  },
+  {
+    "id": "108",
+    "name_th": "ยะมะโมโตะ",
+    "name_en": "Yamamoto Genryusai",
+    "partyId": "8",
+    "image": "/yamamoto-sm.png"
+  },
+  {
+    "id": "109",
+    "name_th": "ยามาดะ",
+    "name_en": "Yamada Hanataro",
+    "partyId": "8",
+    "image": "/yamada-sm.png"
+  },
+  {
+    "id": "110",
+    "name_th": "ไอเซ็น",
+    "name_en": "Aizen Sosuke",
+    "partyId": "8",
+    "image": "/aizen-sm.png"
+  },
+  {
+    "id": "111",
+    "name_th": "ซาโซมารุ",
+    "name_en": "Sasori",
+    "partyId": "8",
+    "image": "/sasori-sm.png"
+  },
+  {
+    "id": "112",
+    "name_th": "โทบิ",
+    "name_en": "Tobi",
+    "partyId": "8",
+    "image": "/tobi-sm.png"
+  },
+  {
+    "id": "113",
+    "name_th": "เฮียวกะ",
+    "name_en": "Hyorinmaru",
+    "partyId": "8",
+    "image": "/hyorinmaru-sm.png"
+  },
+  {
+    "id": "114",
+    "name_th": "แทรคเกอร์",
+    "name_en": "Tracker",
+    "partyId": "8",
+    "image": "/tracker-sm.png"
+  },
+  {
+    "id": "115",
+    "name_th": "ชินอิจิ คุโด",
+    "name_en": "Shinichi Kudo",
+    "partyId": "9",
+    "image": "/shinichi-sm.png"
+  },
+  {
+    "id": "116",
+    "name_th": "รัน โมริ",
+    "name_en": "Ran Mouri",
+    "partyId": "9",
+    "image": "/ran-sm.png"
+  },
+  {
+    "id": "117",
+    "name_th": "โคโกโร่ โมริ",
+    "name_en": "Kogoro Mouri",
+    "partyId": "9",
+    "image": "/kogoro-sm.png"
+  },
+  {
+    "id": "118",
+    "name_th": "ไฮบาระ อาโออิ",
+    "name_en": "Ai Haibara",
+    "partyId": "9",
+    "image": "/ai-sm.png"
+  },
+  {
+    "id": "119",
+    "name_th": "มิยูกิ โยโกยามะ",
+    "name_en": "Miyuki Yokoyama",
+    "partyId": "9",
+    "image": "/miyuki-sm.png"
+  },
+  {
+    "id": "120",
+    "name_th": "เจย์ เจย์ ฮารุโนะ",
+    "name_en": "JJ Haruno",
+    "partyId": "9",
+    "image": "/jj-sm.png"
+  },
+  {
+    "id": "121",
+    "name_th": "คาซึฮะ ทากายามะ",
+    "name_en": "Kazuha Takayama",
+    "partyId": "9",
+    "image": "/kazuha-sm.png"
+  },
+  {
+    "id": "122",
+    "name_th": "มิซูกิ ฮายาชิ",
+    "name_en": "Mizuki Hayashi",
+    "partyId": "9",
+    "image": "/mizuki-sm.png"
+  },
+  {
+    "id": "123",
+    "name_th": "ชิซุกะ โคโดมะ",
+    "name_en": "Shizuka Kodama",
+    "partyId": "9",
+    "image": "/shizuka-sm.png"
+  },
+  {
+    "id": "124",
+    "name_th": "โฮคุโร่ ยามาโมโตะ",
+    "name_en": "Hokuro Yamamoto",
+    "partyId": "9",
+    "image": "/hokuro-sm.png"
+  },
+  {
+    "id": "125",
+    "name_th": "คันไค ซะมาระ",
+    "name_en": "Kankai Samara",
+    "partyId": "9",
+    "image": "/kankai-sm.png"
+  },
+  {
+    "id": "126",
+    "name_th": "อายะ โชโจ",
+    "name_en": "Aya Shojo",
+    "partyId": "9",
+    "image": "/aya-sm.png"
+  },
+  {
+    "id": "127",
+    "name_th": "โทชิโอะ โยชิมูระ",
+    "name_en": "Toshio Yoshimura",
+    "partyId": "9",
+    "image": "/toshio-sm.png"
+  },
+  {
+    "id": "128",
+    "name_th": "ซาวาดะ สึนะโยชิ",
+    "name_en": "Tsunayoshi Sawada",
+    "partyId": "10",
+    "image": "/tsuna-sm.png"
+  },
+  {
+    "id": "129",
+    "name_th": "รีบอร์น",
+    "name_en": "Reborn",
+    "partyId": "10",
+    "image": "/reborn-sm.png"
+  },
+  {
+    "id": "130",
+    "name_th": "คูซามิ โทชิ",
+    "name_en": "Kusami Toshio",
+    "partyId": "10",
+    "image": "/kusami-sm.png"
+  },
+  {
+    "id": "131",
+    "name_th": "ยามาโมโตะ ทาคาชิ",
+    "name_en": "Takeshi Yamamoto",
+    "partyId": "10",
+    "image": "/yamamoto-sm.png"
+  },
+  {
+    "id": "132",
+    "name_th": "ฮิบาริ เคียวยะ",
+    "name_en": "Kyoya Hibari",
+    "partyId": "10",
+    "image": "/hibari-sm.png"
+  },
+  {
+    "id": "133",
+    "name_th": "โกคุเดระ ฮายาโตะ",
+    "name_en": "Hayato Gokudera",
+    "partyId": "10",
+    "image": "/gokudera-sm.png"
+  },
+  {
+    "id": "134",
+    "name_th": "มุคุโร่ โลคา",
+    "name_en": "Mukuro Rokudo",
+    "partyId": "10",
+    "image": "/mukuro-sm.png"
+  },
+  {
+    "id": "135",
+    "name_th": "จิซึยะ",
+    "name_en": "Jizura",
+    "partyId": "10",
+    "image": "/jizura-sm.png"
+  },
+  {
+    "id": "136",
+    "name_th": "ลุค",
+    "name_en": "Luce",
+    "partyId": "10",
+    "image": "/luce-sm.png"
+  },
+  {
+    "id": "137",
+    "name_th": "วาดิ",
+    "name_en": "Vadi",
+    "partyId": "10",
+    "image": "/vadi-sm.png"
+  },
+  {
+    "id": "138",
+    "name_th": "ร็อคกี้",
+    "name_en": "Rocky",
+    "partyId": "10",
+    "image": "/rocky-sm.png"
+  },
+  {
+    "id": "139",
+    "name_th": "ลุฟฟี่",
+    "name_en": "Luffy",
+    "partyId": "10",
+    "image": "/luffy-sm.png"
+  },
+  {
+    "id": "140",
+    "name_th": "มุกุโร่",
+    "name_en": "Mukuro",
+    "partyId": "10",
+    "image": "/mukuro2-sm.png"
+  },
+  {
+    "id": "141",
+    "name_th": "ชิโระ",
+    "name_en": "Shiro",
+    "partyId": "11",
+    "image": "/shiro-sm.png"
+  },
+  {
+    "id": "142",
+    "name_th": "โซลี่",
+    "name_en": "Sora",
+    "partyId": "11",
+    "image": "/sora-sm.png"
+  },
+  {
+    "id": "143",
+    "name_th": "เฟียร์",
+    "name_en": "Phyrne",
+    "partyId": "11",
+    "image": "/phyrne-sm.png"
+  },
+  {
+    "id": "144",
+    "name_th": "จิยู",
+    "name_en": "Jibril",
+    "partyId": "11",
+    "image": "/jibril-sm.png"
+  },
+  {
+    "id": "145",
+    "name_th": "เอซ่า",
+    "name_en": "Aiza",
+    "partyId": "11",
+    "image": "/aiza-sm.png"
+  },
+  {
+    "id": "146",
+    "name_th": "ซูรู",
+    "name_en": "Suzu",
+    "partyId": "11",
+    "image": "/suzu-sm.png"
+  },
+  {
+    "id": "147",
+    "name_th": "วู้ดเลย์",
+    "name_en": "Woodley",
+    "partyId": "11",
+    "image": "/woodley-sm.png"
+  },
+  {
+    "id": "148",
+    "name_th": "คลีฟ",
+    "name_en": "Clef",
+    "partyId": "11",
+    "image": "/clef-sm.png"
+  },
+  {
+    "id": "149",
+    "name_th": "เพเนโลพี",
+    "name_en": "Penelope",
+    "partyId": "11",
+    "image": "/penelope-sm.png"
+  },
+  {
+    "id": "150",
+    "name_th": "เมย์",
+    "name_en": "Mey",
+    "partyId": "11",
+    "image": "/mey-sm.png"
+  },
+  {
+    "id": "151",
+    "name_th": "อาซู",
+    "name_en": "Azusa",
+    "partyId": "11",
+    "image": "/azusa-sm.png"
+  },
+  {
+    "id": "152",
+    "name_th": "ฟลาม",
+    "name_en": "Flam",
+    "partyId": "11",
+    "image": "/flam-sm.png"
+  },
+  {
+    "id": "153",
+    "name_th": "ทิลา",
+    "name_en": "Tyla",
+    "partyId": "11",
+    "image": "/tyla-sm.png"
+  },
+  {
+    "id": "154",
+    "name_th": "คันกะ คิมิชิมะ",
+    "name_en": "Ken Kaneki",
+    "partyId": "12",
+    "image": "/kaneki-sm.png"
+  },
+  {
+    "id": "155",
+    "name_th": "ริสุะ",
+    "name_en": "Rize Kamishiro",
+    "partyId": "12",
+    "image": "/rize-sm.png"
+  },
+  {
+    "id": "156",
+    "name_th": "โทเคียว",
+    "name_en": "Touka Kirishima",
+    "partyId": "12",
+    "image": "/touka-sm.png"
+  },
+  {
+    "id": "157",
+    "name_th": "อายาเมะ",
+    "name_en": "Ayato Kirishima",
+    "partyId": "12",
+    "image": "/ayato-sm.png"
+  },
+  {
+    "id": "158",
+    "name_th": "ฮิโรกิ",
+    "name_en": "Hiroki",
+    "partyId": "12",
+    "image": "/hiroki-sm.png"
+  },
+  {
+    "id": "159",
+    "name_th": "จูอิจิ",
+    "name_en": "Juuzou Suzuya",
+    "partyId": "12",
+    "image": "/juuzou-sm.png"
+  },
+  {
+    "id": "160",
+    "name_th": "ไคริ",
+    "name_en": "Karry",
+    "partyId": "12",
+    "image": "/karry-sm.png"
+  },
+  {
+    "id": "161",
+    "name_th": "เรย์",
+    "name_en": "Rei",
+    "partyId": "12",
+    "image": "/rei-sm.png"
+  },
+  {
+    "id": "162",
+    "name_th": "โยชิมุระ",
+    "name_en": "Yoshimura",
+    "partyId": "12",
+    "image": "/yoshimura-sm.png"
+  },
+  {
+    "id": "163",
+    "name_th": "มิทสึกิ",
+    "name_en": "Mitsuki",
+    "partyId": "12",
+    "image": "/mitsuki-sm.png"
+  },
+  {
+    "id": "164",
+    "name_th": "โอริฮาระ",
+    "name_en": "Orihara",
+    "partyId": "12",
+    "image": "/ori-sm.png"
+  },
+  {
+    "id": "165",
+    "name_th": "จูซู",
+    "name_en": "Juzu",
+    "partyId": "12",
+    "image": "/juzu-sm.png"
+  },
+  {
+    "id": "166",
+    "name_th": "ฮารุกะ",
+    "name_en": "Haruka",
+    "partyId": "12",
+    "image": "/haruka-sm.png"
+  },
+  {
+    "id": "167",
+    "name_th": "มาค่า อัลบาร์น",
+    "name_en": "Maka Albarn",
+    "partyId": "13",
+    "image": "/maka-sm.png"
+  },
+  {
+    "id": "168",
+    "name_th": "ดีสต้า",
+    "name_en": "Dante",
+    "partyId": "13",
+    "image": "/dante-sm.png"
+  },
+  {
+    "id": "169",
+    "name_th": "ซุปเปอร์",
+    "name_en": "Super",
+    "partyId": "13",
+    "image": "/super-sm.png"
+  },
+  {
+    "id": "170",
+    "name_th": "ซอว์",
+    "name_en": "Saw",
+    "partyId": "13",
+    "image": "/saw-sm.png"
+  },
+  {
+    "id": "171",
+    "name_th": "สเปียร์",
+    "name_en": "Spear",
+    "partyId": "13",
+    "image": "/spear-sm.png"
+  },
+  {
+    "id": "172",
+    "name_th": "เดวิด",
+    "name_en": "David",
+    "partyId": "13",
+    "image": "/david-sm.png"
+  },
+  {
+    "id": "173",
+    "name_th": "บาร์บี้",
+    "name_en": "Barbie",
+    "partyId": "13",
+    "image": "/barbie-sm.png"
+  },
+  {
+    "id": "174",
+    "name_th": "ไอริ",
+    "name_en": "Iri",
+    "partyId": "13",
+    "image": "/iri-sm.png"
+  },
+  {
+    "id": "175",
+    "name_th": "เอสเตล่า",
+    "name_en": "Estella",
+    "partyId": "13",
+    "image": "/estella-sm.png"
+  },
+  {
+    "id": "176",
+    "name_th": "ลูดวิก",
+    "name_en": "Ludwig",
+    "partyId": "13",
+    "image": "/ludwig-sm.png"
+  },
+  {
+    "id": "177",
+    "name_th": "โทกะ",
+    "name_en": "Toga",
+    "partyId": "13",
+    "image": "/toga-sm.png"
+  },
+  {
+    "id": "178",
+    "name_th": "ฮาโกะ",
+    "name_en": "Hako",
+    "partyId": "13",
+    "image": "/hako-sm.png"
+  },
+  {
+    "id": "179",
+    "name_th": "โทนี่",
+    "name_en": "Tony",
+    "partyId": "13",
+    "image": "/tony-sm.png"
+  },
+  {
+    "id": "180",
+    "name_th": "ไลท์ ยากามิ",
+    "name_en": "Light Yagami",
+    "partyId": "14",
+    "image": "/light-sm.png"
+  },
+  {
+    "id": "181",
+    "name_th": "แอล",
+    "name_en": "L Lawliet",
+    "partyId": "14",
+    "image": "/l-sm.png"
+  },
+  {
+    "id": "182",
+    "name_th": "เรม",
+    "name_en": "Rem",
+    "partyId": "14",
+    "image": "/rem-sm.png"
+  },
+  {
+    "id": "183",
+    "name_th": "ริคุ",
+    "name_en": "Riku",
+    "partyId": "14",
+    "image": "/riku-sm.png"
+  },
+  {
+    "id": "184",
+    "name_th": "มิกะ",
+    "name_en": "Misa Amane",
+    "partyId": "14",
+    "image": "/misa-sm.png"
+  },
+  {
+    "id": "185",
+    "name_th": "บาโร่",
+    "name_en": "Baro",
+    "partyId": "14",
+    "image": "/baro-sm.png"
+  },
+  {
+    "id": "186",
+    "name_th": "นามิ",
+    "name_en": "Nami",
+    "partyId": "14",
+    "image": "/nami-sm.png"
+  },
+  {
+    "id": "187",
+    "name_th": "โซจิ",
+    "name_en": "Soji",
+    "partyId": "14",
+    "image": "/soji-sm.png"
+  },
+  {
+    "id": "188",
+    "name_th": "ทัตซึยะ",
+    "name_en": "Tatsuya",
+    "partyId": "14",
+    "image": "/tatsuya-sm.png"
+  },
+  {
+    "id": "189",
+    "name_th": "ทามูระ",
+    "name_en": "Tamura",
+    "partyId": "14",
+    "image": "/tamura-sm.png"
+  },
+  {
+    "id": "190",
+    "name_th": "โคจิ",
+    "name_en": "Koji",
+    "partyId": "14",
+    "image": "/koji-sm.png"
+  },
+  {
+    "id": "191",
+    "name_th": "อิซึมิ",
+    "name_en": "Izumi",
+    "partyId": "14",
+    "image": "/izumi-sm.png"
+  },
+  {
+    "id": "192",
+    "name_th": "โซฟี",
+    "name_en": "Sophie",
+    "partyId": "14",
+    "image": "/sophie-sm.png"
+  },
+  {
+    "id": "193",
+    "name_th": "โจโจ้",
+    "name_en": "Jotaro Kujo",
+    "partyId": "15",
+    "image": "/jotaro-sm.png"
+  },
+  {
+    "id": "194",
+    "name_th": "โจเซฟ โจสตาร์",
+    "name_en": "Joseph Joestar",
+    "partyId": "15",
+    "image": "/joseph-sm.png"
+  },
+  {
+    "id": "195",
+    "name_th": "จอร์น โจสตาร์",
+    "name_en": "Jonathan Joestar",
+    "partyId": "15",
+    "image": "/jonathan-sm.png"
+  },
+  {
+    "id": "196",
+    "name_th": "คาวาซากิ",
+    "name_en": "Kawasaki",
+    "partyId": "15",
+    "image": "/kawasaki-sm.png"
+  },
+  {
+    "id": "197",
+    "name_th": "เดย์",
+    "name_en": "Dio Brando",
+    "partyId": "15",
+    "image": "/dio-sm.png"
+  },
+  {
+    "id": "198",
+    "name_th": "โพลาโร่",
+    "name_en": "Polnareff",
+    "partyId": "15",
+    "image": "/polnareff-sm.png"
+  },
+  {
+    "id": "199",
+    "name_th": "คิระ",
+    "name_en": "Kira Yoshikage",
+    "partyId": "15",
+    "image": "/kira-sm.png"
+  },
+  {
+    "id": "200",
+    "name_th": "บรูโน่ บูเกีย",
+    "name_en": "Bruno Bucciarati",
+    "partyId": "15",
+    "image": "/bruno-sm.png"
+  },
+  {
+    "id": "201",
+    "name_th": "มิโดริยะ",
+    "name_en": "Midoriya Izuku",
+    "partyId": "15",
+    "image": "/midoriya-sm.png"
+  },
+  {
+    "id": "202",
+    "name_th": "ไฮโรอุคิ",
+    "name_en": "Hiroshi",
+    "partyId": "15",
+    "image": "/hiroshi-sm.png"
+  },
+  {
+    "id": "203",
+    "name_th": "คาซูมิ",
+    "name_en": "Kazumi",
+    "partyId": "15",
+    "image": "/kazumi-sm.png"
+  },
+  {
+    "id": "204",
+    "name_th": "กิฮะโร",
+    "name_en": "Giharo",
+    "partyId": "15",
+    "image": "/giharo-sm.png"
+  },
+  {
+    "id": "205",
+    "name_th": "อากิโกะ",
+    "name_en": "Akiko",
+    "partyId": "15",
+    "image": "/akiko-sm.png"
+  },
+  {
+    "id": "206",
+    "name_th": "ฮินาตะ ชินโบ",
+    "name_en": "Shoyo Hinata",
+    "partyId": "16",
+    "image": "/hinata-sm.png"
+  },
+  {
+    "id": "207",
+    "name_th": "คาเงยามะ โตคิโอะ",
+    "name_en": "Tobio Kageyama",
+    "partyId": "16",
+    "image": "/kageyama-sm.png"
+  },
+  {
+    "id": "208",
+    "name_th": "ซาวามูระ ดาอิซึเกะ",
+    "name_en": "Daichi Sawamura",
+    "partyId": "16",
+    "image": "/daichi-sm.png"
+  },
+  {
+    "id": "209",
+    "name_th": "อาสึกะ ยูคิมูระ",
+    "name_en": "Asuka Yukimura",
+    "partyId": "16",
+    "image": "/asuka-sm.png"
+  },
+  {
+    "id": "210",
+    "name_th": "โยอิจิ",
+    "name_en": "Yoichi",
+    "partyId": "16",
+    "image": "/yoichi-sm.png"
+  },
+  {
+    "id": "211",
+    "name_th": "ฟูจิวาระ โคซึคิ",
+    "name_en": "Kozuki Fujihara",
+    "partyId": "16",
+    "image": "/fujihara-sm.png"
+  },
+  {
+    "id": "212",
+    "name_th": "คิริฮาระ ยูกะ",
+    "name_en": "Yuka Kirihara",
+    "partyId": "16",
+    "image": "/kirihara-sm.png"
+  },
+  {
+    "id": "213",
+    "name_th": "เซนโกะ",
+    "name_en": "Senko",
+    "partyId": "16",
+    "image": "/senko-sm.png"
+  },
+  {
+    "id": "214",
+    "name_th": "โนโบรุ โคจิ",
+    "name_en": "Noboru Koji",
+    "partyId": "16",
+    "image": "/koji-sm.png"
+  },
+  {
+    "id": "215",
+    "name_th": "คุโรโกะ",
+    "name_en": "Kuroko",
+    "partyId": "16",
+    "image": "/kuroko-sm.png"
+  },
+  {
+    "id": "216",
+    "name_th": "คูจิ",
+    "name_en": "Kuji",
+    "partyId": "16",
+    "image": "/kuji-sm.png"
+  },
+  {
+    "id": "217",
+    "name_th": "เท็นมะ",
+    "name_en": "Tenma",
+    "partyId": "16",
+    "image": "/tenma-sm.png"
+  },
+  {
+    "id": "218",
+    "name_th": "คามิยะ ยูคิ",
+    "name_en": "Yuki Kamiya",
+    "partyId": "16",
+    "image": "/kamiya-sm.png"
+  },
+  {
+    "id": "219",
+    "name_th": "โมบะ",
+    "name_en": "Shigeo Kageyama (Mob)",
+    "partyId": "17",
+    "image": "/mob-sm.png"
+  },
+  {
+    "id": "220",
+    "name_th": "เรย์เกียว",
+    "name_en": "Reigen Arataka",
+    "partyId": "17",
+    "image": "/reigen-sm.png"
+  },
+  {
+    "id": "221",
+    "name_th": "เทรุ",
+    "name_en": "Teru Kageyama",
+    "partyId": "17",
+    "image": "/teru-sm.png"
+  },
+  {
+    "id": "222",
+    "name_th": "มิโอะ",
+    "name_en": "Miyo",
+    "partyId": "17",
+    "image": "/miyo-sm.png"
+  },
+  {
+    "id": "223",
+    "name_th": "คิริยามะ",
+    "name_en": "Kiryama",
+    "partyId": "17",
+    "image": "/kiryama-sm.png"
+  },
+  {
+    "id": "224",
+    "name_th": "อิโนะ",
+    "name_en": "Ino",
+    "partyId": "17",
+    "image": "/ino-sm.png"
+  },
+  {
+    "id": "225",
+    "name_th": "รุย",
+    "name_en": "Rui",
+    "partyId": "17",
+    "image": "/rui-sm.png"
+  },
+  {
+    "id": "226",
+    "name_th": "ทัตสึยะ",
+    "name_en": "Tatsuya",
+    "partyId": "17",
+    "image": "/tatsuya-sm.png"
+  },
+  {
+    "id": "227",
+    "name_th": "ยูกิ",
+    "name_en": "Yuki",
+    "partyId": "17",
+    "image": "/yuki-sm.png"
+  },
+  {
+    "id": "228",
+    "name_th": "ซึคาสะ",
+    "name_en": "Tsukasa",
+    "partyId": "17",
+    "image": "/tsukasa-sm.png"
+  },
+  {
+    "id": "229",
+    "name_th": "คาซึยะ",
+    "name_en": "Kazuya",
+    "partyId": "17",
+    "image": "/kazuya-sm.png"
+  },
+  {
+    "id": "230",
+    "name_th": "มาริ",
+    "name_en": "Mari",
+    "partyId": "17",
+    "image": "/mari-sm.png"
+  },
+  {
+    "id": "231",
+    "name_th": "ซาโอะ",
+    "name_en": "Sao",
+    "partyId": "17",
+    "image": "/sao-sm.png"
+  },
+  {
+    "id": "232",
+    "name_th": "ไซตามะ",
+    "name_en": "Saitama",
+    "partyId": "18",
+    "image": "/saitama-sm.png"
+  },
+  {
+    "id": "233",
+    "name_th": "เจนไนท์",
+    "name_en": "Genos",
+    "partyId": "18",
+    "image": "/genos-sm.png"
+  },
+  {
+    "id": "234",
+    "name_th": "มูซึ",
+    "name_en": "Mumen Rider",
+    "partyId": "18",
+    "image": "/mumen-sm.png"
+  },
+  {
+    "id": "235",
+    "name_th": "ฟูดามิ",
+    "name_en": "Fubuki",
+    "partyId": "18",
+    "image": "/fubuki-sm.png"
+  },
+  {
+    "id": "236",
+    "name_th": "โซนิค",
+    "name_en": "Speed-o'-Sound Sonic",
+    "partyId": "18",
+    "image": "/sonic-sm.png"
+  },
+  {
+    "id": "237",
+    "name_th": "คิง",
+    "name_en": "King",
+    "partyId": "18",
+    "image": "/king-sm.png"
+  },
+  {
+    "id": "238",
+    "name_th": "ทัตสึ",
+    "name_en": "Tatsumaki",
+    "partyId": "18",
+    "image": "/tatsumaki-sm.png"
+  },
+  {
+    "id": "239",
+    "name_th": "ซิลเวอร์ฟังค์",
+    "name_en": "Silverfang",
+    "partyId": "18",
+    "image": "/silverfang-sm.png"
+  },
+  {
+    "id": "240",
+    "name_th": "แบล็คสปาร์ค",
+    "name_en": "Black Sperm",
+    "partyId": "18",
+    "image": "/blacksperm-sm.png"
+  },
+  {
+    "id": "241",
+    "name_th": "ซอมบี้แมน",
+    "name_en": "Zombie Man",
+    "partyId": "18",
+    "image": "/zombieman-sm.png"
+  },
+  {
+    "id": "242",
+    "name_th": "เมตัลไนท์",
+    "name_en": "Metal Knight",
+    "partyId": "18",
+    "image": "/metalknight-sm.png"
+  },
+  {
+    "id": "243",
+    "name_th": "ด็อกเตอร์คอมโป",
+    "name_en": "Dr. Kuseno",
+    "partyId": "18",
+    "image": "/drkuseno-sm.png"
+  },
+  {
+    "id": "244",
+    "name_th": "ครอกด็อก",
+    "name_en": "Crocodile",
+    "partyId": "18",
+    "image": "/crocodile-sm.png"
+  },
+  {
+    "id": "245",
+    "name_th": "อิซึกุ มิโดริยะ",
+    "name_en": "Izuku Midoriya",
+    "partyId": "19",
+    "image": "/midoriya-sm.png"
+  },
+  {
+    "id": "246",
+    "name_th": "โทโรกะ ชิโดริ",
+    "name_en": "Shoto Todoroki",
+    "partyId": "19",
+    "image": "/todoroki-sm.png"
+  },
+  {
+    "id": "247",
+    "name_th": "คาเชมะ เคนโกะ",
+    "name_en": "Katsuki Bakugo",
+    "partyId": "19",
+    "image": "/bakugo-sm.png"
+  },
+  {
+    "id": "248",
+    "name_th": "อุรารากะ โอโชคะ",
+    "name_en": "Ochaco Uraraka",
+    "partyId": "19",
+    "image": "/uraraka-sm.png"
+  },
+  {
+    "id": "249",
+    "name_th": "ไอโซกะ ริคิ",
+    "name_en": "Rikiya Ibara",
+    "partyId": "19",
+    "image": "/rikiya-sm.png"
+  },
+  {
+    "id": "250",
+    "name_th": "ชินโบะ",
+    "name_en": "Shinso Hitoshi",
+    "partyId": "19",
+    "image": "/shinso-sm.png"
+  },
+  {
+    "id": "251",
+    "name_th": "มายา",
+    "name_en": "Maya",
+    "partyId": "19",
+    "image": "/maya-sm.png"
+  },
+  {
+    "id": "252",
+    "name_th": "คิระ",
+    "name_en": "Kira",
+    "partyId": "19",
+    "image": "/kira-sm.png"
+  },
+  {
+    "id": "253",
+    "name_th": "บาคุ",
+    "name_en": "Baku",
+    "partyId": "19",
+    "image": "/baku-sm.png"
+  },
+  {
+    "id": "254",
+    "name_th": "มิโคซะ",
+    "name_en": "Mikosa",
+    "partyId": "19",
+    "image": "/mikosa-sm.png"
+  },
+  {
+    "id": "255",
+    "name_th": "ฮารุกะ",
+    "name_en": "Haruka",
+    "partyId": "19",
+    "image": "/haruka-sm.png"
+  },
+  {
+    "id": "256",
+    "name_th": "โทมะ",
+    "name_en": "Toma",
+    "partyId": "19",
+    "image": "/toma-sm.png"
+  },
+  {
+    "id": "257",
+    "name_th": "รีคา",
+    "name_en": "Rika",
+    "partyId": "19",
+    "image": "/rika-sm.png"
+  },
+  {
+    "id": "258",
+    "name_th": "ไทจิ คิโยกะ",
+    "name_en": "Taichi Kamiya",
+    "partyId": "20",
+    "image": "/taichi-sm.png"
+  },
+  {
+    "id": "259",
+    "name_th": "ยูคิโอะ",
+    "name_en": "Yamato Ishida",
+    "partyId": "20",
+    "image": "/yamato-sm.png"
+  },
+  {
+    "id": "260",
+    "name_th": "ซึโอะคะ",
+    "name_en": "Sora Takenouchi",
+    "partyId": "20",
+    "image": "/sora-sm.png"
+  },
+  {
+    "id": "261",
+    "name_th": "คิอิ",
+    "name_en": "Koushiro Izumi",
+    "partyId": "20",
+    "image": "/koushiro-sm.png"
+  },
+  {
+    "id": "262",
+    "name_th": "มิยูกิ",
+    "name_en": "Mimi Tachikawa",
+    "partyId": "20",
+    "image": "/mimi-sm.png"
+  },
+  {
+    "id": "263",
+    "name_th": "โจ",
+    "name_en": "Joe Kido",
+    "partyId": "20",
+    "image": "/joe-sm.png"
+  },
+  {
+    "id": "264",
+    "name_th": "ทาจิ",
+    "name_en": "Takeru Takaishi",
+    "partyId": "20",
+    "image": "/takeru-sm.png"
+  },
+  {
+    "id": "265",
+    "name_th": "ฮิคาริ",
+    "name_en": "Hikari Yagami",
+    "partyId": "20",
+    "image": "/hikari-sm.png"
+  },
+  {
+    "id": "266",
+    "name_th": "อากุมอน",
+    "name_en": "Agumon",
+    "partyId": "20",
+    "image": "/agumon-sm.png"
+  },
+  {
+    "id": "267",
+    "name_th": "เบอามอน",
+    "name_en": "Gabumon",
+    "partyId": "20",
+    "image": "/gabumon-sm.png"
+  },
+  {
+    "id": "268",
+    "name_th": "ปัตเตอร์ฟลาย",
+    "name_en": "Biyomon",
+    "partyId": "20",
+    "image": "/biyomon-sm.png"
+  },
+  {
+    "id": "269",
+    "name_th": "พัลดามอน",
+    "name_en": "Tentomon",
+    "partyId": "20",
+    "image": "/tentomon-sm.png"
+  },
+  {
+    "id": "270",
+    "name_th": "ปาปา",
+    "name_en": "Palmon",
+    "partyId": "20",
+    "image": "/palmon-sm.png"
+  },
+  {
+    "id": "271",
+    "name_th": "กาลา",
+    "name_en": "Gomamon",
+    "partyId": "20",
+    "image": "/gomamon-sm.png"
+  },
+  {
+    "id": "272",
+    "name_th": "โอเมกามอน",
+    "name_en": "Omegamon",
+    "partyId": "20",
+    "image": "/omegamon-sm.png"
+  }
+]

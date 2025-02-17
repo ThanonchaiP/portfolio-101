@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name_th": "นินจาคาถาโอ้โฮเฮะ",
+    "name_en": "Naruto",
+    "image": "/naruto.png",
+    "color": "#FF9900"
+  },
+  {
+    "id": "2",
+    "name_th": "วันพีซ",
+    "name_en": "One Piece",
+    "image": "/onepiece.png",
+    "color": "#FFD700"
+  },
+  {
+    "id": "3",
+    "name_th": "ดราก้อนบอล",
+    "name_en": "Dragon Ball",
+    "image": "/dragonball.png",
+    "color": "#FF6600"
+  },
+  {
+    "id": "4",
+    "name_th": "ไยบะ ดาบพิฆาตอสูร",
+    "name_en": "Demon Slayer",
+    "image": "/demonslayer.png",
+    "color": "#800000"
+  },
+  {
+    "id": "5",
+    "name_th": "ฮันเตอร์ x ฮันเตอร์",
+    "name_en": "Hunter x Hunter",
+    "image": "/hunterxhunter.png",
+    "color": "#3AAA35"
+  },
+  {
+    "id": "6",
+    "name_th": "แขนกลคนแปรธาตุ",
+    "name_en": "Fullmetal Alchemist",
+    "image": "/fullmetalalchemist.png",
+    "color": "#B22222"
+  },
+  {
+    "id": "7",
+    "name_th": "มหาศึกคนชนเทพ",
+    "name_en": "Attack on Titan",
+    "image": "/attackontitan.png",
+    "color": "#6B4226"
+  },
+  {
+    "id": "8",
+    "name_th": "บลีช เทพมรณะ",
+    "name_en": "Bleach",
+    "image": "/bleach.png",
+    "color": "#FF4500"
+  },
+  {
+    "id": "9",
+    "name_th": "โคนัน เจ้าหนูยอดนักสืบ",
+    "name_en": "Detective Conan",
+    "image": "/detectiveconan.png",
+    "color": "#0000FF"
+  },
+  {
+    "id": "10",
+    "name_th": "รีบอร์น ครูพิเศษจอมป่วน",
+    "name_en": "Katekyo Hitman Reborn!",
+    "image": "/reborn.png",
+    "color": "#FFA500"
+  },
+  {
+    "id": "11",
+    "name_th": "โนเกม โนไลฟ์",
+    "name_en": "No Game No Life",
+    "image": "/nogamenolife.png",
+    "color": "#FF1493"
+  },
+  {
+    "id": "12",
+    "name_th": "โตเกียวกูล",
+    "name_en": "Tokyo Ghoul",
+    "image": "/tokyoghoul.png",
+    "color": "#8B0000"
+  },
+  {
+    "id": "13",
+    "name_th": "โซลอีทเตอร์",
+    "name_en": "Soul Eater",
+    "image": "/souleater.png",
+    "color": "#FFD700"
+  },
+  {
+    "id": "14",
+    "name_th": "เดธโน้ต",
+    "name_en": "Death Note",
+    "image": "/deathnote.png",
+    "color": "#000000"
+  },
+  {
+    "id": "15",
+    "name_th": "โจโจ้ ล่าข้ามศตวรรษ",
+    "name_en": "JoJo's Bizarre Adventure",
+    "image": "/jojo.png",
+    "color": "#800080"
+  },
+  {
+    "id": "16",
+    "name_th": "ไฮคิว คู่ตบฟ้าประทาน",
+    "name_en": "Haikyuu!!",
+    "image": "/haikyuu.png",
+    "color": "#FFA500"
+  },
+  {
+    "id": "17",
+    "name_th": "ม็อบไซโค 100",
+    "name_en": "Mob Psycho 100",
+    "image": "/mobpsycho100.png",
+    "color": "#00FF00"
+  },
+  {
+    "id": "18",
+    "name_th": "วันพันช์แมน",
+    "name_en": "One Punch Man",
+    "image": "/onepunchman.png",
+    "color": "#FF0000"
+  },
+  {
+    "id": "19",
+    "name_th": "มายฮีโร่ อคาเดเมีย",
+    "name_en": "My Hero Academia",
+    "image": "/myheroacademia.png",
+    "color": "#2E8B57"
+  },
+  {
+    "id": "20",
+    "name_th": "ดิจิมอน แอดเวนเจอร์",
+    "name_en": "Digimon Adventure",
+    "image": "/digimon.png",
+    "color": "#FFD700"
+  }
+]
