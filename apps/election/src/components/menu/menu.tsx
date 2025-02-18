@@ -1,10 +1,8 @@
 import { Icon } from "@iconify/react";
-import clsx from "clsx";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { twMerge } from "tailwind-merge";
 
-const cn = (...classes: (string | undefined)[]) => twMerge(clsx(classes));
+import { cn } from "@/lib/utils";
 
 export const Menu = () => {
   const pathname = usePathname();

@@ -1,13 +1,10 @@
 "use client";
 
-import clsx from "clsx";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { twMerge } from "tailwind-merge";
 
 import { Title } from "@/components/title";
-
-const cn = (...classes: (string | undefined)[]) => twMerge(clsx(classes));
+import { cn } from "@/lib/utils";
 
 export default function GeoPage() {
   const pathname = usePathname();

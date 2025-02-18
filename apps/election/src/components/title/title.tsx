@@ -1,8 +1,6 @@
-import clsx from "clsx";
 import { HTMLAttributes } from "react";
-import { twMerge } from "tailwind-merge";
 
-const cn = (...classes: (string | undefined)[]) => twMerge(clsx(classes));
+import { cn } from "@/lib/utils";
 
 type TitleProps = HTMLAttributes<HTMLDivElement> & {
   label: string;
