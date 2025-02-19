@@ -10,7 +10,7 @@ export const Title = ({ label, className, ...props }: TitleProps) => {
   return (
     <div
       className={cn(
-        "w-fit border-l-8 border-solid border-[var(--primary)] bg-gray-800 px-3 py-[10px] text-xl text-white",
+        "w-fit border-l-8 border-solid border-[var(--primary)] bg-gray-800 px-3 py-[10px] text-lg text-white",
         className,
       )}
       style={{

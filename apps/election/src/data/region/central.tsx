@@ -1,10 +1,11 @@
-import { SVGProps } from 'react';
+import { SVGProps } from "react";
 
 export const Central = (props: SVGProps<SVGSVGElement>) => {
   return (
     <svg
       width={656}
       height={743}
+      className="size-full max-h-full"
       viewBox="0 0 656 743"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"

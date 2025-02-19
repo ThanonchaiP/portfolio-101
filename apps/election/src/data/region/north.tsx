@@ -1,4 +1,4 @@
-import { SVGProps } from 'react';
+import { SVGProps } from "react";
 
 export const North = (props: SVGProps<SVGSVGElement>) => {
   return (
@@ -6,6 +6,7 @@ export const North = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       width={716}
       height={765}
+      className="size-full max-h-full"
       viewBox="0 0 716 765"
       fill="none"
       {...props}

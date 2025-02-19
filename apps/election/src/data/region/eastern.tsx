@@ -1,10 +1,11 @@
-import { SVGProps } from 'react';
+import { SVGProps } from "react";
 
 export const Eastern = (props: SVGProps<SVGSVGElement>) => {
   return (
     <svg
       width={420}
       height={536}
+      className="size-full max-h-full"
       viewBox="0 0 420 536"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"

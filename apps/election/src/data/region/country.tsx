@@ -6,6 +6,7 @@ export const Country = (props: SVGProps<SVGSVGElement>) => {
       xmlns="http://www.w3.org/2000/svg"
       width={1648}
       height={2709}
+      className="size-full max-h-full"
       viewBox="0 0 1648 2709"
       fill="none"
       {...props}
