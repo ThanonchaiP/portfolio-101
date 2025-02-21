@@ -8,6 +8,7 @@ export const Southern = (props: SVGProps<SVGSVGElement>) => {
       height={1225}
       className="size-full max-h-full"
       viewBox="0 0 453 1225"
+      style={{ maxWidth: 280 }}
       fill="none"
       {...props}
     >
