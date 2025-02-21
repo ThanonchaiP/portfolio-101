@@ -7,6 +7,7 @@ export const North = (props: SVGProps<SVGSVGElement>) => {
       width={716}
       height={765}
       className="size-full max-h-full"
+      style={{ maxWidth: 562 }}
       viewBox="0 0 716 765"
       fill="none"
       {...props}

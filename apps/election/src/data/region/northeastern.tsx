@@ -8,6 +8,7 @@ export const Northeastern = (props: SVGProps<SVGSVGElement>) => {
       viewBox="0 0 979 912"
       fill="none"
       className="size-full max-h-full"
+      style={{ maxWidth: 762 }}
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >

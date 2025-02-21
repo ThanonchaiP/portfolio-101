@@ -6,6 +6,7 @@ export const Central = (props: SVGProps<SVGSVGElement>) => {
       width={656}
       height={743}
       className="size-full max-h-full"
+      style={{ maxWidth: 512 }}
       viewBox="0 0 656 743"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
