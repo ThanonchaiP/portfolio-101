@@ -1,4 +1,4 @@
-import { GeoRegionMap, GeoSwitchData } from "@/features/geo";
+import { GeoRegionMap, GeoSwitchData, GeoVoteList } from "@/features/geo";
 
 export default function GeoPage() {
   return (
@@ -7,7 +7,9 @@ export default function GeoPage() {
         <GeoRegionMap region="geo" />
         <GeoSwitchData />
       </div>
-      <div className="w-[360px]">Table</div>
+      <div className="w-[360px]">
+        <GeoVoteList />
+      </div>
     </>
   );
 }

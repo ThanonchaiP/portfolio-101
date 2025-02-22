@@ -1,5 +1,5 @@
 import { Title } from "@/components/title";
-import { GeoRegionMenu } from "@/features/geo";
+import { GeoPartyCount, GeoRegionMenu } from "@/features/geo";
 
 export default function GeoLayout({
   children,
@@ -11,6 +11,7 @@ export default function GeoLayout({
       <div className="flex flex-col gap-6">
         <Title label="ผลคะแนนรายเขต" />
         <GeoRegionMenu />
+        <GeoPartyCount />
       </div>
       {children}
     </div>

@@ -13,3 +13,21 @@ body {
   background: var(--background);
   font-family: var(--font-kanit-sans), sans-serif;
 }
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px; /* กำหนดความกว้างของ Scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #ffffff; /* สีพื้นหลังของ Scrollbar */
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #b6b6b6; /* สีของตัวเลื่อน */
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #858585; /* เปลี่ยนสีเมื่อ Hover */
+}

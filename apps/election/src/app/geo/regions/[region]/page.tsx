@@ -1,6 +1,6 @@
 import { use } from "react";
 
-import { GeoRegionMap, GeoSwitchData } from "@/features/geo";
+import { GeoRegionMap, GeoSwitchData, GeoVoteList } from "@/features/geo";
 
 type RegionPageProps = {
   params: Promise<{ region: string }>;
@@ -15,7 +15,9 @@ export default function RegionPage({ params }: RegionPageProps) {
         <GeoRegionMap region={region} />
         <GeoSwitchData />
       </div>
-      <div className="h-full w-[360px]">{region}</div>
+      <div className="h-full w-[360px]">
+        <GeoVoteList />
+      </div>
     </>
   );
 }
