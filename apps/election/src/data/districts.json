@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "1001",
+    "name_th": "กรุงเทพมหานคร เขต 1",
+    "name_en": "Bangkok Constituency 1",
+    "province_id": "10"
+  },
+  {
+    "id": "1002",
+    "name_th": "กรุงเทพมหานคร เขต 2",
+    "name_en": "Bangkok Constituency 2",
+    "province_id": "10"
+  },
+  {
+    "id": "1003",
+    "name_th": "กรุงเทพมหานคร เขต 3",
+    "name_en": "Bangkok Constituency 3",
+    "province_id": "10"
+  },
+  {
+    "id": "1004",
+    "name_th": "กรุงเทพมหานคร เขต 4",
+    "name_en": "Bangkok Constituency 4",
+    "province_id": "10"
+  },
+  {
+    "id": "1005",
+    "name_th": "กรุงเทพมหานคร เขต 5",
+    "name_en": "Bangkok Constituency 5",
+    "province_id": "10"
+  },
+  {
+    "id": "1006",
+    "name_th": "กรุงเทพมหานคร เขต 6",
+    "name_en": "Bangkok Constituency 6",
+    "province_id": "10"
+  },
+  {
+    "id": "1007",
+    "name_th": "กรุงเทพมหานคร เขต 7",
+    "name_en": "Bangkok Constituency 7",
+    "province_id": "10"
+  },
+  {
+    "id": "1008",
+    "name_th": "กรุงเทพมหานคร เขต 8",
+    "name_en": "Bangkok Constituency 8",
+    "province_id": "10"
+  },
+  {
+    "id": "1009",
+    "name_th": "กรุงเทพมหานคร เขต 9",
+    "name_en": "Bangkok Constituency 9",
+    "province_id": "10"
+  },
+  {
+    "id": "1010",
+    "name_th": "กรุงเทพมหานคร เขต 10",
+    "name_en": "Bangkok Constituency 10",
+    "province_id": "10"
+  },
+  {
+    "id": "1011",
+    "name_th": "กรุงเทพมหานคร เขต 11",
+    "name_en": "Bangkok Constituency 11",
+    "province_id": "10"
+  },
+  {
+    "id": "1012",
+    "name_th": "กรุงเทพมหานคร เขต 12",
+    "name_en": "Bangkok Constituency 12",
+    "province_id": "10"
+  },
+  {
+    "id": "1013",
+    "name_th": "กรุงเทพมหานคร เขต 13",
+    "name_en": "Bangkok Constituency 13",
+    "province_id": "10"
+  },
+  {
+    "id": "1014",
+    "name_th": "กรุงเทพมหานคร เขต 14",
+    "name_en": "Bangkok Constituency 14",
+    "province_id": "10"
+  },
+  {
+    "id": "1015",
+    "name_th": "กรุงเทพมหานคร เขต 15",
+    "name_en": "Bangkok Constituency 15",
+    "province_id": "10"
+  },
+  {
+    "id": "1016",
+    "name_th": "กรุงเทพมหานคร เขต 16",
+    "name_en": "Bangkok Constituency 16",
+    "province_id": "10"
+  },
+  {
+    "id": "1017",
+    "name_th": "กรุงเทพมหานคร เขต 17",
+    "name_en": "Bangkok Constituency 17",
+    "province_id": "10"
+  },
+  {
+    "id": "1018",
+    "name_th": "กรุงเทพมหานคร เขต 18",
+    "name_en": "Bangkok Constituency 18",
+    "province_id": "10"
+  },
+  {
+    "id": "1019",
+    "name_th": "กรุงเทพมหานคร เขต 19",
+    "name_en": "Bangkok Constituency 19",
+    "province_id": "10"
+  },
+  {
+    "id": "1020",
+    "name_th": "กรุงเทพมหานคร เขต 20",
+    "name_en": "Bangkok Constituency 20",
+    "province_id": "10"
+  },
+  {
+    "id": "1021",
+    "name_th": "กรุงเทพมหานคร เขต 21",
+    "name_en": "Bangkok Constituency 21",
+    "province_id": "10"
+  },
+  {
+    "id": "1022",
+    "name_th": "กรุงเทพมหานคร เขต 22",
+    "name_en": "Bangkok Constituency 22",
+    "province_id": "10"
+  },
+  {
+    "id": "1023",
+    "name_th": "กรุงเทพมหานคร เขต 23",
+    "name_en": "Bangkok Constituency 23",
+    "province_id": "10"
+  },
+  {
+    "id": "1024",
+    "name_th": "กรุงเทพมหานคร เขต 24",
+    "name_en": "Bangkok Constituency 24",
+    "province_id": "10"
+  },
+  {
+    "id": "1025",
+    "name_th": "กรุงเทพมหานคร เขต 25",
+    "name_en": "Bangkok Constituency 25",
+    "province_id": "10"
+  },
+  {
+    "id": "1026",
+    "name_th": "กรุงเทพมหานคร เขต 26",
+    "name_en": "Bangkok Constituency 26",
+    "province_id": "10"
+  },
+  {
+    "id": "1027",
+    "name_th": "กรุงเทพมหานคร เขต 27",
+    "name_en": "Bangkok Constituency 27",
+    "province_id": "10"
+  },
+  {
+    "id": "1028",
+    "name_th": "กรุงเทพมหานคร เขต 28",
+    "name_en": "Bangkok Constituency 28",
+    "province_id": "10"
+  },
+  {
+    "id": "1029",
+    "name_th": "กรุงเทพมหานคร เขต 29",
+    "name_en": "Bangkok Constituency 29",
+    "province_id": "10"
+  },
+  {
+    "id": "1030",
+    "name_th": "กรุงเทพมหานคร เขต 30",
+    "name_en": "Bangkok Constituency 30",
+    "province_id": "10"
+  },
+  {
+    "id": "1031",
+    "name_th": "กรุงเทพมหานคร เขต 31",
+    "name_en": "Bangkok Constituency 31",
+    "province_id": "10"
+  },
+  {
+    "id": "1032",
+    "name_th": "กรุงเทพมหานคร เขต 32",
+    "name_en": "Bangkok Constituency 32",
+    "province_id": "10"
+  },
+  {
+    "id": "1033",
+    "name_th": "กรุงเทพมหานคร เขต 33",
+    "name_en": "Bangkok Constituency 33",
+    "province_id": "10"
+  },
+  {
+    "id": "7101",
+    "name_th": "กาญจนบุรี เขต 1",
+    "name_en": "Kanchanaburi Constituency 1",
+    "province_id": "71"
+  },
+  {
+    "id": "7102",
+    "name_th": "กาญจนบุรี เขต 2",
+    "name_en": "Kanchanaburi Constituency 2",
+    "province_id": "71"
+  },
+  {
+    "id": "7103",
+    "name_th": "กาญจนบุรี เขต 3",
+    "name_en": "Kanchanaburi Constituency 3",
+    "province_id": "71"
+  },
+  {
+    "id": "7104",
+    "name_th": "กาญจนบุรี เขต 4",
+    "name_en": "Kanchanaburi Constituency 4",
+    "province_id": "71"
+  },
+  {
+    "id": "7105",
+    "name_th": "กาญจนบุรี เขต 5",
+    "name_en": "Kanchanaburi Constituency 5",
+    "province_id": "71"
+  },
+  {
+    "id": "7001",
+    "name_th": "ราชบุรี เขต 1",
+    "name_en": "Ratchaburi Constituency 1",
+    "province_id": "70"
+  },
+  {
+    "id": "7002",
+    "name_th": "ราชบุรี เขต 2",
+    "name_en": "Ratchaburi Constituency 2",
+    "province_id": "70"
+  },
+  {
+    "id": "7003",
+    "name_th": "ราชบุรี เขต 3",
+    "name_en": "Ratchaburi Constituency 3",
+    "province_id": "70"
+  },
+  {
+    "id": "7004",
+    "name_th": "ราชบุรี เขต 4",
+    "name_en": "Ratchaburi Constituency 4",
+    "province_id": "70"
+  },
+  {
+    "id": "7005",
+    "name_th": "ราชบุรี เขต 5",
+    "name_en": "Ratchaburi Constituency 5",
+    "province_id": "70"
+  },
+  {
+    "id": "7201",
+    "name_th": "สุพรรณบุรี เขต 1",
+    "name_en": "Suphanburi Constituency 1",
+    "province_id": "72"
+  },
+  {
+    "id": "7202",
+    "name_th": "สุพรรณบุรี เขต 2",
+    "name_en": "Suphanburi Constituency 2",
+    "province_id": "72"
+  },
+  {
+    "id": "7203",
+    "name_th": "สุพรรณบุรี เขต 3",
+    "name_en": "Suphanburi Constituency 3",
+    "province_id": "72"
+  },
+  {
+    "id": "7204",
+    "name_th": "สุพรรณบุรี เขต 4",
+    "name_en": "Suphanburi Constituency 4",
+    "province_id": "72"
+  },
+  {
+    "id": "7205",
+    "name_th": "สุพรรณบุรี เขต 5",
+    "name_en": "Suphanburi Constituency 5",
+    "province_id": "72"
+  },
+  {
+    "id": "1801",
+    "name_th": "ชัยนาท เขต 1",
+    "name_en": "Chainat Constituency 1",
+    "province_id": "18"
+  },
+  {
+    "id": "1802",
+    "name_th": "ชัยนาท เขต 2",
+    "name_en": "Chainat Constituency 2",
+    "province_id": "18"
+  },
+  {
+    "id": "1501",
+    "name_th": "อ่างทอง เขต 1",
+    "name_en": "Ang Thong Constituency 1",
+    "province_id": "15"
+  },
+  {
+    "id": "1502",
+    "name_th": "อ่างทอง เขต 2",
+    "name_en": "Ang Thong Constituency 2",
+    "province_id": "15"
+  },
+  {
+    "id": "1701",
+    "name_th": "สิงห์บุรี เขต 1",
+    "name_en": "Sing Buri Constituency 1",
+    "province_id": "17"
+  },
+  {
+    "id": "1601",
+    "name_th": "ลพบุรี เขต 1",
+    "name_en": "Lopburi Constituency 1",
+    "province_id": "16"
+  },
+  {
+    "id": "1602",
+    "name_th": "ลพบุรี เขต 2",
+    "name_en": "Lopburi Constituency 2",
+    "province_id": "16"
+  },
+  {
+    "id": "1603",
+    "name_th": "ลพบุรี เขต 3",
+    "name_en": "Lopburi Constituency 3",
+    "province_id": "16"
+  },
+  {
+    "id": "1604",
+    "name_th": "ลพบุรี เขต 4",
+    "name_en": "Lopburi Constituency 4",
+    "province_id": "16"
+  },
+  {
+    "id": "1605",
+    "name_th": "ลพบุรี เขต 5",
+    "name_en": "Lopburi Constituency 5",
+    "province_id": "16"
+  },
+  {
+    "id": "7601",
+    "name_th": "เพชรบุรี เขต 1",
+    "name_en": "Phetchaburi Constituency 1",
+    "province_id": "76"
+  },
+  {
+    "id": "7602",
+    "name_th": "เพชรบุรี เขต 2",
+    "name_en": "Phetchaburi Constituency 2",
+    "province_id": "76"
+  },
+  {
+    "id": "7603",
+    "name_th": "เพชรบุรี เขต 3",
+    "name_en": "Phetchaburi Constituency 3",
+    "province_id": "76"
+  },
+  {
+    "id": "1401",
+    "name_th": "พระนครศรีอยุธยา เขต 1",
+    "name_en": "Phra Nakhon Si Ayutthaya Constituency 1",
+    "province_id": "14"
+  },
+  {
+    "id": "1402",
+    "name_th": "พระนครศรีอยุธยา เขต 2",
+    "name_en": "Phra Nakhon Si Ayutthaya Constituency 2",
+    "province_id": "14"
+  },
+  {
+    "id": "1403",
+    "name_th": "พระนครศรีอยุธยา เขต 3",
+    "name_en": "Phra Nakhon Si Ayutthaya Constituency 3",
+    "province_id": "14"
+  },
+  {
+    "id": "1404",
+    "name_th": "พระนครศรีอยุธยา เขต 4",
+    "name_en": "Phra Nakhon Si Ayutthaya Constituency 4",
+    "province_id": "14"
+  },
+  {
+    "id": "1405",
+    "name_th": "พระนครศรีอยุธยา เขต 5",
+    "name_en": "Phra Nakhon Si Ayutthaya Constituency 5",
+    "province_id": "14"
+  },
+  {
+    "id": "1301",
+    "name_th": "ปทุมธานี เขต 1",
+    "name_en": "Pathum Thani Constituency 1",
+    "province_id": "13"
+  },
+  {
+    "id": "1302",
+    "name_th": "ปทุมธานี เขต 2",
+    "name_en": "Pathum Thani Constituency 2",
+    "province_id": "13"
+  },
+  {
+    "id": "1303",
+    "name_th": "ปทุมธานี เขต 3",
+    "name_en": "Pathum Thani Constituency 3",
+    "province_id": "13"
+  },
+  {
+    "id": "1304",
+    "name_th": "ปทุมธานี เขต 4",
+    "name_en": "Pathum Thani Constituency 4",
+    "province_id": "13"
+  },
+  {
+    "id": "1305",
+    "name_th": "ปทุมธานี เขต 5",
+    "name_en": "Pathum Thani Constituency 5",
+    "province_id": "13"
+  },
+  {
+    "id": "1306",
+    "name_th": "ปทุมธานี เขต 6",
+    "name_en": "Pathum Thani Constituency 6",
+    "province_id": "13"
+  },
+  {
+    "id": "1307",
+    "name_th": "ปทุมธานี เขต 7",
+    "name_en": "Pathum Thani Constituency 7",
+    "province_id": "13"
+  },
+  {
+    "id": "1901",
+    "name_th": "สระบุรี เขต 1",
+    "name_en": "Saraburi Constituency 1",
+    "province_id": "19"
+  },
+  {
+    "id": "1902",
+    "name_th": "สระบุรี เขต 2",
+    "name_en": "Saraburi Constituency 2",
+    "province_id": "19"
+  },
+  {
+    "id": "1903",
+    "name_th": "สระบุรี เขต 3",
+    "name_en": "Saraburi Constituency 3",
+    "province_id": "19"
+  },
+  {
+    "id": "1904",
+    "name_th": "สระบุรี เขต 4",
+    "name_en": "Saraburi Constituency 4",
+    "province_id": "19"
+  },
+  {
+    "id": "2601",
+    "name_th": "นครนายก เขต 1",
+    "name_en": "Nakhon Nayok Constituency 1",
+    "province_id": "26"
+  },
+  {
+    "id": "2602",
+    "name_th": "นครนายก เขต 2",
+    "name_en": "Nakhon Nayok Constituency 2",
+    "province_id": "26"
+  },
+  {
+    "id": "7301",
+    "name_th": "นครปฐม เขต 1",
+    "name_en": "Nakhon Pathom Constituency 1",
+    "province_id": "73"
+  },
+  {
+    "id": "7302",
+    "name_th": "นครปฐม เขต 2",
+    "name_en": "Nakhon Pathom Constituency 2",
+    "province_id": "73"
+  },
+  {
+    "id": "7303",
+    "name_th": "นครปฐม เขต 3",
+    "name_en": "Nakhon Pathom Constituency 3",
+    "province_id": "73"
+  },
+  {
+    "id": "7304",
+    "name_th": "นครปฐม เขต 4",
+    "name_en": "Nakhon Pathom Constituency 4",
+    "province_id": "73"
+  },
+  {
+    "id": "7305",
+    "name_th": "นครปฐม เขต 5",
+    "name_en": "Nakhon Pathom Constituency 5",
+    "province_id": "73"
+  },
+  {
+    "id": "7306",
+    "name_th": "นครปฐม เขต 6",
+    "name_en": "Nakhon Pathom Constituency 6",
+    "province_id": "73"
+  },
+  {
+    "id": "1201",
+    "name_th": "นนทบุรี เขต 1",
+    "name_en": "Nonthaburi Constituency 1",
+    "province_id": "12"
+  },
+  {
+    "id": "1202",
+    "name_th": "นนทบุรี เขต 2",
+    "name_en": "Nonthaburi Constituency 2",
+    "province_id": "12"
+  },
+  {
+    "id": "1203",
+    "name_th": "นนทบุรี เขต 3",
+    "name_en": "Nonthaburi Constituency 3",
+    "province_id": "12"
+  },
+  {
+    "id": "1204",
+    "name_th": "นนทบุรี เขต 4",
+    "name_en": "Nonthaburi Constituency 4",
+    "province_id": "12"
+  },
+  {
+    "id": "1205",
+    "name_th": "นนทบุรี เขต 5",
+    "name_en": "Nonthaburi Constituency 5",
+    "province_id": "12"
+  },
+  {
+    "id": "1206",
+    "name_th": "นนทบุรี เขต 6",
+    "name_en": "Nonthaburi Constituency 6",
+    "province_id": "12"
+  },
+  {
+    "id": "1207",
+    "name_th": "นนทบุรี เขต 7",
+    "name_en": "Nonthaburi Constituency 7",
+    "province_id": "12"
+  },
+  {
+    "id": "1208",
+    "name_th": "นนทบุรี เขต 8",
+    "name_en": "Nonthaburi Constituency 8",
+    "province_id": "12"
+  },
+  {
+    "id": "1101",
+    "name_th": "สมุทรปราการ เขต 1",
+    "name_en": "Samut Prakan Constituency 1",
+    "province_id": "11"
+  },
+  {
+    "id": "1102",
+    "name_th": "สมุทรปราการ เขต 2",
+    "name_en": "Samut Prakan Constituency 2",
+    "province_id": "11"
+  },
+  {
+    "id": "1103",
+    "name_th": "สมุทรปราการ เขต 3",
+    "name_en": "Samut Prakan Constituency 3",
+    "province_id": "11"
+  },
+  {
+    "id": "1104",
+    "name_th": "สมุทรปราการ เขต 4",
+    "name_en": "Samut Prakan Constituency 4",
+    "province_id": "11"
+  },
+  {
+    "id": "1105",
+    "name_th": "สมุทรปราการ เขต 5",
+    "name_en": "Samut Prakan Constituency 5",
+    "province_id": "11"
+  },
+  {
+    "id": "1106",
+    "name_th": "สมุทรปราการ เขต 6",
+    "name_en": "Samut Prakan Constituency 6",
+    "province_id": "11"
+  },
+  {
+    "id": "1107",
+    "name_th": "สมุทรปราการ เขต 7",
+    "name_en": "Samut Prakan Constituency 7",
+    "province_id": "11"
+  },
+  {
+    "id": "1108",
+    "name_th": "สมุทรปราการ เขต 8",
+    "name_en": "Samut Prakan Constituency 8",
+    "province_id": "11"
+  },
+  {
+    "id": "7701",
+    "name_th": "ประจวบคีรีขันธ์ เขต 1",
+    "name_en": "Prachuap Khiri Khan Constituency 1",
+    "province_id": "77"
+  },
+  {
+    "id": "7702",
+    "name_th": "ประจวบคีรีขันธ์ เขต 2",
+    "name_en": "Prachuap Khiri Khan Constituency 2",
+    "province_id": "77"
+  },
+  {
+    "id": "7703",
+    "name_th": "ประจวบคีรีขันธ์ เขต 3",
+    "name_en": "Prachuap Khiri Khan Constituency 3",
+    "province_id": "77"
+  },
+  {
+    "id": "7501",
+    "name_th": "สมุทรสงคราม เขต 1",
+    "name_en": "Samut Songkhram Constituency 1",
+    "province_id": "75"
+  },
+  {
+    "id": "7401",
+    "name_th": "สมุทรสาคร เขต 1",
+    "name_en": "Samut Sakhon Constituency 1",
+    "province_id": "74"
+  },
+  {
+    "id": "7402",
+    "name_th": "สมุทรสาคร เขต 2",
+    "name_en": "Samut Sakhon Constituency 2",
+    "province_id": "74"
+  },
+  {
+    "id": "7403",
+    "name_th": "สมุทรสาคร เขต 3",
+    "name_en": "Samut Sakhon Constituency 3",
+    "province_id": "74"
+  },
+  {
+    "id": "2501",
+    "name_th": "ปราจีนบุรี เขต 1",
+    "name_en": "Prachin Buri Constituency 1",
+    "province_id": "25"
+  },
+  {
+    "id": "2502",
+    "name_th": "ปราจีนบุรี เขต 2",
+    "name_en": "Prachin Buri Constituency 2",
+    "province_id": "25"
+  },
+  {
+    "id": "2503",
+    "name_th": "ปราจีนบุรี เขต 3",
+    "name_en": "Prachin Buri Constituency 3",
+    "province_id": "25"
+  },
+  {
+    "id": "2701",
+    "name_th": "สระแก้ว เขต 1",
+    "name_en": "Sa Kaeo Constituency 1",
+    "province_id": "27"
+  },
+  {
+    "id": "2702",
+    "name_th": "สระแก้ว เขต 2",
+    "name_en": "Sa Kaeo Constituency 2",
+    "province_id": "27"
+  },
+  {
+    "id": "2703",
+    "name_th": "สระแก้ว เขต 3",
+    "name_en": "Sa Kaeo Constituency 3",
+    "province_id": "27"
+  },
+  {
+    "id": "2401",
+    "name_th": "ฉะเชิงเทรา เขต 1",
+    "name_en": "Chachoengsao Constituency 1",
+    "province_id": "24"
+  },
+  {
+    "id": "2402",
+    "name_th": "ฉะเชิงเทรา เขต 2",
+    "name_en": "Chachoengsao Constituency 2",
+    "province_id": "24"
+  },
+  {
+    "id": "2403",
+    "name_th": "ฉะเชิงเทรา เขต 3",
+    "name_en": "Chachoengsao Constituency 3",
+    "province_id": "24"
+  },
+  {
+    "id": "2404",
+    "name_th": "ฉะเชิงเทรา เขต 4",
+    "name_en": "Chachoengsao Constituency 4",
+    "province_id": "24"
+  },
+  {
+    "id": "2201",
+    "name_th": "จันทบุรี เขต 1",
+    "name_en": "Chanthaburi Constituency 1",
+    "province_id": "22"
+  },
+  {
+    "id": "2202",
+    "name_th": "จันทบุรี เขต 2",
+    "name_en": "Chanthaburi Constituency 2",
+    "province_id": "22"
+  },
+  {
+    "id": "2203",
+    "name_th": "จันทบุรี เขต 3",
+    "name_en": "Chanthaburi Constituency 3",
+    "province_id": "22"
+  },
+  {
+    "id": "2001",
+    "name_th": "ชลบุรี เขต 1",
+    "name_en": "Chonburi Constituency 1",
+    "province_id": "20"
+  },
+  {
+    "id": "2002",
+    "name_th": "ชลบุรี เขต 2",
+    "name_en": "Chonburi Constituency 2",
+    "province_id": "20"
+  },
+  {
+    "id": "2003",
+    "name_th": "ชลบุรี เขต 3",
+    "name_en": "Chonburi Constituency 3",
+    "province_id": "20"
+  },
+  {
+    "id": "2004",
+    "name_th": "ชลบุรี เขต 4",
+    "name_en": "Chonburi Constituency 4",
+    "province_id": "20"
+  },
+  {
+    "id": "2005",
+    "name_th": "ชลบุรี เขต 5",
+    "name_en": "Chonburi Constituency 5",
+    "province_id": "20"
+  },
+  {
+    "id": "2006",
+    "name_th": "ชลบุรี เขต 6",
+    "name_en": "Chonburi Constituency 6",
+    "province_id": "20"
+  },
+  {
+    "id": "2007",
+    "name_th": "ชลบุรี เขต 7",
+    "name_en": "Chonburi Constituency 7",
+    "province_id": "20"
+  },
+  {
+    "id": "2008",
+    "name_th": "ชลบุรี เขต 8",
+    "name_en": "Chonburi Constituency 8",
+    "province_id": "20"
+  },
+  {
+    "id": "2009",
+    "name_th": "ชลบุรี เขต 9",
+    "name_en": "Chonburi Constituency 9",
+    "province_id": "20"
+  },
+  {
+    "id": "2010",
+    "name_th": "ชลบุรี เขต 10",
+    "name_en": "Chonburi Constituency 10",
+    "province_id": "20"
+  },
+  {
+    "id": "2101",
+    "name_th": "ระยอง เขต 1",
+    "name_en": "Rayong Constituency 1",
+    "province_id": "21"
+  },
+  {
+    "id": "2102",
+    "name_th": "ระยอง เขต 2",
+    "name_en": "Rayong Constituency 2",
+    "province_id": "21"
+  },
+  {
+    "id": "2103",
+    "name_th": "ระยอง เขต 3",
+    "name_en": "Rayong Constituency 3",
+    "province_id": "21"
+  },
+  {
+    "id": "2104",
+    "name_th": "ระยอง เขต 4",
+    "name_en": "Rayong Constituency 4",
+    "province_id": "21"
+  },
+  {
+    "id": "2105",
+    "name_th": "ระยอง เขต 5",
+    "name_en": "Rayong Constituency 5",
+    "province_id": "21"
+  },
+  {
+    "id": "2301",
+    "name_th": "ตราด เขต 1",
+    "name_en": "Trat Constituency 1",
+    "province_id": "23"
+  },
+  {
+    "id": "4201",
+    "name_th": "เลย เขต 1",
+    "name_en": "Loei Constituency 1",
+    "province_id": "42"
+  },
+  {
+    "id": "4202",
+    "name_th": "เลย เขต 2",
+    "name_en": "Loei Constituency 2",
+    "province_id": "42"
+  },
+  {
+    "id": "4203",
+    "name_th": "เลย เขต 3",
+    "name_en": "Loei Constituency 3",
+    "province_id": "42"
+  },
+  {
+    "id": "4204",
+    "name_th": "เลย เขต 4",
+    "name_en": "Loei Constituency 4",
+    "province_id": "42"
+  },
+  {
+    "id": "4301",
+    "name_th": "หนองคาย เขต 1",
+    "name_en": "Nong Khai Constituency 1",
+    "province_id": "43"
+  },
+  {
+    "id": "4302",
+    "name_th": "หนองคาย เขต 2",
+    "name_en": "Nong Khai Constituency 2",
+    "province_id": "43"
+  },
+  {
+    "id": "4303",
+    "name_th": "หนองคาย เขต 3",
+    "name_en": "Nong Khai Constituency 3",
+    "province_id": "43"
+  },
+  {
+    "id": "3801",
+    "name_th": "บึงกาฬ เขต 1",
+    "name_en": "Bueng Kan Constituency 1",
+    "province_id": "38"
+  },
+  {
+    "id": "3802",
+    "name_th": "บึงกาฬ เขต 2",
+    "name_en": "Bueng Kan Constituency 2",
+    "province_id": "38"
+  },
+  {
+    "id": "3803",
+    "name_th": "บึงกาฬ เขต 3",
+    "name_en": "Bueng Kan Constituency 3",
+    "province_id": "38"
+  },
+  {
+    "id": "4801",
+    "name_th": "นครพนม เขต 1",
+    "name_en": "Nakhon Phanom Constituency 1",
+    "province_id": "48"
+  },
+  {
+    "id": "4802",
+    "name_th": "นครพนม เขต 2",
+    "name_en": "Nakhon Phanom Constituency 2",
+    "province_id": "48"
+  },
+  {
+    "id": "4803",
+    "name_th": "นครพนม เขต 3",
+    "name_en": "Nakhon Phanom Constituency 3",
+    "province_id": "48"
+  },
+  {
+    "id": "4804",
+    "name_th": "นครพนม เขต 4",
+    "name_en": "Nakhon Phanom Constituency 4",
+    "province_id": "48"
+  },
+  {
+    "id": "4101",
+    "name_th": "อุดรธานี เขต 1",
+    "name_en": "Udon Thani Constituency 1",
+    "province_id": "41"
+  },
+  {
+    "id": "4102",
+    "name_th": "อุดรธานี เขต 2",
+    "name_en": "Udon Thani Constituency 2",
+    "province_id": "41"
+  },
+  {
+    "id": "4103",
+    "name_th": "อุดรธานี เขต 3",
+    "name_en": "Udon Thani Constituency 3",
+    "province_id": "41"
+  },
+  {
+    "id": "4104",
+    "name_th": "อุดรธานี เขต 4",
+    "name_en": "Udon Thani Constituency 4",
+    "province_id": "41"
+  },
+  {
+    "id": "4105",
+    "name_th": "อุดรธานี เขต 5",
+    "name_en": "Udon Thani Constituency 5",
+    "province_id": "41"
+  },
+  {
+    "id": "4106",
+    "name_th": "อุดรธานี เขต 6",
+    "name_en": "Udon Thani Constituency 6",
+    "province_id": "41"
+  },
+  {
+    "id": "4107",
+    "name_th": "อุดรธานี เขต 7",
+    "name_en": "Udon Thani Constituency 7",
+    "province_id": "41"
+  },
+  {
+    "id": "4108",
+    "name_th": "อุดรธานี เขต 8",
+    "name_en": "Udon Thani Constituency 8",
+    "province_id": "41"
+  },
+  {
+    "id": "4109",
+    "name_th": "อุดรธานี เขต 9",
+    "name_en": "Udon Thani Constituency 9",
+    "province_id": "41"
+  },
+  {
+    "id": "4110",
+    "name_th": "อุดรธานี เขต 10",
+    "name_en": "Udon Thani Constituency 10",
+    "province_id": "41"
+  },
+  {
+    "id": "4701",
+    "name_th": "สกลนคร เขต 1",
+    "name_en": "Sakon Nakhon Constituency 1",
+    "province_id": "47"
+  },
+  {
+    "id": "4702",
+    "name_th": "สกลนคร เขต 2",
+    "name_en": "Sakon Nakhon Constituency 2",
+    "province_id": "47"
+  },
+  {
+    "id": "4703",
+    "name_th": "สกลนคร เขต 3",
+    "name_en": "Sakon Nakhon Constituency 3",
+    "province_id": "47"
+  },
+  {
+    "id": "4704",
+    "name_th": "สกลนคร เขต 4",
+    "name_en": "Sakon Nakhon Constituency 4",
+    "province_id": "47"
+  },
+  {
+    "id": "4705",
+    "name_th": "สกลนคร เขต 5",
+    "name_en": "Sakon Nakhon Constituency 5",
+    "province_id": "47"
+  },
+  {
+    "id": "4706",
+    "name_th": "สกลนคร เขต 6",
+    "name_en": "Sakon Nakhon Constituency 6",
+    "province_id": "47"
+  },
+  {
+    "id": "4707",
+    "name_th": "สกลนคร เขต 7",
+    "name_en": "Sakon Nakhon Constituency 7",
+    "province_id": "47"
+  },
+  {
+    "id": "4901",
+    "name_th": "มุกดาหาร เขต 1",
+    "name_en": "Mukdahan Constituency 1",
+    "province_id": "49"
+  },
+  {
+    "id": "4902",
+    "name_th": "มุกดาหาร เขต 2",
+    "name_en": "Mukdahan Constituency 2",
+    "province_id": "49"
+  },
+  {
+    "id": "3601",
+    "name_th": "ชัยภูมิ เขต 1",
+    "name_en": "Chaiyaphum Constituency 1",
+    "province_id": "36"
+  },
+  {
+    "id": "3602",
+    "name_th": "ชัยภูมิ เขต 2",
+    "name_en": "Chaiyaphum Constituency 2",
+    "province_id": "36"
+  },
+  {
+    "id": "3603",
+    "name_th": "ชัยภูมิ เขต 3",
+    "name_en": "Chaiyaphum Constituency 3",
+    "province_id": "36"
+  },
+  {
+    "id": "3604",
+    "name_th": "ชัยภูมิ เขต 4",
+    "name_en": "Chaiyaphum Constituency 4",
+    "province_id": "36"
+  },
+  {
+    "id": "3605",
+    "name_th": "ชัยภูมิ เขต 5",
+    "name_en": "Chaiyaphum Constituency 5",
+    "province_id": "36"
+  },
+  {
+    "id": "3606",
+    "name_th": "ชัยภูมิ เขต 6",
+    "name_en": "Chaiyaphum Constituency 6",
+    "province_id": "36"
+  },
+  {
+    "id": "3607",
+    "name_th": "ชัยภูมิ เขต 7",
+    "name_en": "Chaiyaphum Constituency 7",
+    "province_id": "36"
+  },
+  {
+    "id": "3901",
+    "name_th": "หนองบัวลำภู เขต 1",
+    "name_en": "Nong Bua Lamphu Constituency 1",
+    "province_id": "39"
+  },
+  {
+    "id": "3902",
+    "name_th": "หนองบัวลำภู เขต 2",
+    "name_en": "Nong Bua Lamphu Constituency 2",
+    "province_id": "39"
+  },
+  {
+    "id": "3903",
+    "name_th": "หนองบัวลำภู เขต 3",
+    "name_en": "Nong Bua Lamphu Constituency 3",
+    "province_id": "39"
+  },
+  {
+    "id": "4601",
+    "name_th": "กาฬสินธุ์ เขต 1",
+    "name_en": "Kalasin Constituency 1",
+    "province_id": "46"
+  },
+  {
+    "id": "4602",
+    "name_th": "กาฬสินธุ์ เขต 2",
+    "name_en": "Kalasin Constituency 2",
+    "province_id": "46"
+  },
+  {
+    "id": "4603",
+    "name_th": "กาฬสินธุ์ เขต 3",
+    "name_en": "Kalasin Constituency 3",
+    "province_id": "46"
+  },
+  {
+    "id": "4604",
+    "name_th": "กาฬสินธุ์ เขต 4",
+    "name_en": "Kalasin Constituency 4",
+    "province_id": "46"
+  },
+  {
+    "id": "4605",
+    "name_th": "กาฬสินธุ์ เขต 5",
+    "name_en": "Kalasin Constituency 5",
+    "province_id": "46"
+  },
+  {
+    "id": "4606",
+    "name_th": "กาฬสินธุ์ เขต 6",
+    "name_en": "Kalasin Constituency 6",
+    "province_id": "46"
+  },
+  {
+    "id": "4501",
+    "name_th": "ร้อยเอ็ด เขต 1",
+    "name_en": "Roi Et Constituency 1",
+    "province_id": "45"
+  },
+  {
+    "id": "4502",
+    "name_th": "ร้อยเอ็ด เขต 2",
+    "name_en": "Roi Et Constituency 2",
+    "province_id": "45"
+  },
+  {
+    "id": "4503",
+    "name_th": "ร้อยเอ็ด เขต 3",
+    "name_en": "Roi Et Constituency 3",
+    "province_id": "45"
+  },
+  {
+    "id": "4504",
+    "name_th": "ร้อยเอ็ด เขต 4",
+    "name_en": "Roi Et Constituency 4",
+    "province_id": "45"
+  },
+  {
+    "id": "4505",
+    "name_th": "ร้อยเอ็ด เขต 5",
+    "name_en": "Roi Et Constituency 5",
+    "province_id": "45"
+  },
+  {
+    "id": "4506",
+    "name_th": "ร้อยเอ็ด เขต 6",
+    "name_en": "Roi Et Constituency 6",
+    "province_id": "45"
+  },
+  {
+    "id": "4507",
+    "name_th": "ร้อยเอ็ด เขต 7",
+    "name_en": "Roi Et Constituency 7",
+    "province_id": "45"
+  },
+  {
+    "id": "4508",
+    "name_th": "ร้อยเอ็ด เขต 8",
+    "name_en": "Roi Et Constituency 8",
+    "province_id": "45"
+  },
+  {
+    "id": "3501",
+    "name_th": "ยโสธร เขต 1",
+    "name_en": "Yasothon Constituency 1",
+    "province_id": "35"
+  },
+  {
+    "id": "3502",
+    "name_th": "ยโสธร เขต 2",
+    "name_en": "Yasothon Constituency 2",
+    "province_id": "35"
+  },
+  {
+    "id": "3503",
+    "name_th": "ยโสธร เขต 3",
+    "name_en": "Yasothon Constituency 3",
+    "province_id": "35"
+  },
+  {
+    "id": "4001",
+    "name_th": "ขอนแก่น เขต 1",
+    "name_en": "Khon Kaen Constituency 1",
+    "province_id": "40"
+  },
+  {
+    "id": "4002",
+    "name_th": "ขอนแก่น เขต 2",
+    "name_en": "Khon Kaen Constituency 2",
+    "province_id": "40"
+  },
+  {
+    "id": "4003",
+    "name_th": "ขอนแก่น เขต 3",
+    "name_en": "Khon Kaen Constituency 3",
+    "province_id": "40"
+  },
+  {
+    "id": "4004",
+    "name_th": "ขอนแก่น เขต 4",
+    "name_en": "Khon Kaen Constituency 4",
+    "province_id": "40"
+  },
+  {
+    "id": "4005",
+    "name_th": "ขอนแก่น เขต 5",
+    "name_en": "Khon Kaen Constituency 5",
+    "province_id": "40"
+  },
+  {
+    "id": "4006",
+    "name_th": "ขอนแก่น เขต 6",
+    "name_en": "Khon Kaen Constituency 6",
+    "province_id": "40"
+  },
+  {
+    "id": "4007",
+    "name_th": "ขอนแก่น เขต 7",
+    "name_en": "Khon Kaen Constituency 7",
+    "province_id": "40"
+  },
+  {
+    "id": "4008",
+    "name_th": "ขอนแก่น เขต 8",
+    "name_en": "Khon Kaen Constituency 8",
+    "province_id": "40"
+  },
+  {
+    "id": "4009",
+    "name_th": "ขอนแก่น เขต 9",
+    "name_en": "Khon Kaen Constituency 9",
+    "province_id": "40"
+  },
+  {
+    "id": "4010",
+    "name_th": "ขอนแก่น เขต 10",
+    "name_en": "Khon Kaen Constituency 10",
+    "province_id": "40"
+  },
+  {
+    "id": "4011",
+    "name_th": "ขอนแก่น เขต 11",
+    "name_en": "Khon Kaen Constituency 11",
+    "province_id": "40"
+  },
+  {
+    "id": "4401",
+    "name_th": "มหาสารคาม เขต 1",
+    "name_en": "Maha Sarakham Constituency 1",
+    "province_id": "44"
+  },
+  {
+    "id": "4402",
+    "name_th": "มหาสารคาม เขต 2",
+    "name_en": "Maha Sarakham Constituency 2",
+    "province_id": "44"
+  },
+  {
+    "id": "4403",
+    "name_th": "มหาสารคาม เขต 3",
+    "name_en": "Maha Sarakham Constituency 3",
+    "province_id": "44"
+  },
+  {
+    "id": "4404",
+    "name_th": "มหาสารคาม เขต 4",
+    "name_en": "Maha Sarakham Constituency 4",
+    "province_id": "44"
+  },
+  {
+    "id": "4405",
+    "name_th": "มหาสารคาม เขต 5",
+    "name_en": "Maha Sarakham Constituency 5",
+    "province_id": "44"
+  },
+  {
+    "id": "4406",
+    "name_th": "มหาสารคาม เขต 6",
+    "name_en": "Maha Sarakham Constituency 6",
+    "province_id": "44"
+  },
+  {
+    "id": "3701",
+    "name_th": "อำนาจเจริญ เขต 1",
+    "name_en": "Amnat Charoen Constituency 1",
+    "province_id": "37"
+  },
+  {
+    "id": "3702",
+    "name_th": "อำนาจเจริญ เขต 2",
+    "name_en": "Amnat Charoen Constituency 2",
+    "province_id": "37"
+  },
+  {
+    "id": "3001",
+    "name_th": "นครราชสีมา เขต 1",
+    "name_en": "Nakhon Ratchasima Constituency 1",
+    "province_id": "30"
+  },
+  {
+    "id": "3002",
+    "name_th": "นครราชสีมา เขต 2",
+    "name_en": "Nakhon Ratchasima Constituency 2",
+    "province_id": "30"
+  },
+  {
+    "id": "3003",
+    "name_th": "นครราชสีมา เขต 3",
+    "name_en": "Nakhon Ratchasima Constituency 3",
+    "province_id": "30"
+  },
+  {
+    "id": "3004",
+    "name_th": "นครราชสีมา เขต 4",
+    "name_en": "Nakhon Ratchasima Constituency 4",
+    "province_id": "30"
+  },
+  {
+    "id": "3005",
+    "name_th": "นครราชสีมา เขต 5",
+    "name_en": "Nakhon Ratchasima Constituency 5",
+    "province_id": "30"
+  },
+  {
+    "id": "3006",
+    "name_th": "นครราชสีมา เขต 6",
+    "name_en": "Nakhon Ratchasima Constituency 6",
+    "province_id": "30"
+  },
+  {
+    "id": "3007",
+    "name_th": "นครราชสีมา เขต 7",
+    "name_en": "Nakhon Ratchasima Constituency 7",
+    "province_id": "30"
+  },
+  {
+    "id": "3008",
+    "name_th": "นครราชสีมา เขต 8",
+    "name_en": "Nakhon Ratchasima Constituency 8",
+    "province_id": "30"
+  },
+  {
+    "id": "3009",
+    "name_th": "นครราชสีมา เขต 9",
+    "name_en": "Nakhon Ratchasima Constituency 9",
+    "province_id": "30"
+  },
+  {
+    "id": "3010",
+    "name_th": "นครราชสีมา เขต 10",
+    "name_en": "Nakhon Ratchasima Constituency 10",
+    "province_id": "30"
+  },
+  {
+    "id": "3011",
+    "name_th": "นครราชสีมา เขต 11",
+    "name_en": "Nakhon Ratchasima Constituency 11",
+    "province_id": "30"
+  },
+  {
+    "id": "3012",
+    "name_th": "นครราชสีมา เขต 12",
+    "name_en": "Nakhon Ratchasima Constituency 12",
+    "province_id": "30"
+  },
+  {
+    "id": "3013",
+    "name_th": "นครราชสีมา เขต 13",
+    "name_en": "Nakhon Ratchasima Constituency 13",
+    "province_id": "30"
+  },
+  {
+    "id": "3014",
+    "name_th": "นครราชสีมา เขต 14",
+    "name_en": "Nakhon Ratchasima Constituency 14",
+    "province_id": "30"
+  },
+  {
+    "id": "3015",
+    "name_th": "นครราชสีมา เขต 15",
+    "name_en": "Nakhon Ratchasima Constituency 15",
+    "province_id": "30"
+  },
+  {
+    "id": "3016",
+    "name_th": "นครราชสีมา เขต 16",
+    "name_en": "Nakhon Ratchasima Constituency 16",
+    "province_id": "30"
+  },
+  {
+    "id": "3101",
+    "name_th": "บุรีรัมย์ เขต 1",
+    "name_en": "Buriram Constituency 1",
+    "province_id": "31"
+  },
+  {
+    "id": "3102",
+    "name_th": "บุรีรัมย์ เขต 2",
+    "name_en": "Buriram Constituency 2",
+    "province_id": "31"
+  },
+  {
+    "id": "3103",
+    "name_th": "บุรีรัมย์ เขต 3",
+    "name_en": "Buriram Constituency 3",
+    "province_id": "31"
+  },
+  {
+    "id": "3104",
+    "name_th": "บุรีรัมย์ เขต 4",
+    "name_en": "Buriram Constituency 4",
+    "province_id": "31"
+  },
+  {
+    "id": "3105",
+    "name_th": "บุรีรัมย์ เขต 5",
+    "name_en": "Buriram Constituency 5",
+    "province_id": "31"
+  },
+  {
+    "id": "3106",
+    "name_th": "บุรีรัมย์ เขต 6",
+    "name_en": "Buriram Constituency 6",
+    "province_id": "31"
+  },
+  {
+    "id": "3107",
+    "name_th": "บุรีรัมย์ เขต 7",
+    "name_en": "Buriram Constituency 7",
+    "province_id": "31"
+  },
+  {
+    "id": "3108",
+    "name_th": "บุรีรัมย์ เขต 8",
+    "name_en": "Buriram Constituency 8",
+    "province_id": "31"
+  },
+  {
+    "id": "3109",
+    "name_th": "บุรีรัมย์ เขต 9",
+    "name_en": "Buriram Constituency 9",
+    "province_id": "31"
+  },
+  {
+    "id": "3110",
+    "name_th": "บุรีรัมย์ เขต 10",
+    "name_en": "Buriram Constituency 10",
+    "province_id": "31"
+  },
+  {
+    "id": "3401",
+    "name_th": "อุบลราชธานี เขต 1",
+    "name_en": "Ubon Ratchathani Constituency 1",
+    "province_id": "34"
+  },
+  {
+    "id": "3402",
+    "name_th": "อุบลราชธานี เขต 2",
+    "name_en": "Ubon Ratchathani Constituency 2",
+    "province_id": "34"
+  },
+  {
+    "id": "3403",
+    "name_th": "อุบลราชธานี เขต 3",
+    "name_en": "Ubon Ratchathani Constituency 3",
+    "province_id": "34"
+  },
+  {
+    "id": "3404",
+    "name_th": "อุบลราชธานี เขต 4",
+    "name_en": "Ubon Ratchathani Constituency 4",
+    "province_id": "34"
+  },
+  {
+    "id": "3405",
+    "name_th": "อุบลราชธานี เขต 5",
+    "name_en": "Ubon Ratchathani Constituency 5",
+    "province_id": "34"
+  },
+  {
+    "id": "3406",
+    "name_th": "อุบลราชธานี เขต 6",
+    "name_en": "Ubon Ratchathani Constituency 6",
+    "province_id": "34"
+  },
+  {
+    "id": "3407",
+    "name_th": "อุบลราชธานี เขต 7",
+    "name_en": "Ubon Ratchathani Constituency 7",
+    "province_id": "34"
+  },
+  {
+    "id": "3408",
+    "name_th": "อุบลราชธานี เขต 8",
+    "name_en": "Ubon Ratchathani Constituency 8",
+    "province_id": "34"
+  },
+  {
+    "id": "3409",
+    "name_th": "อุบลราชธานี เขต 9",
+    "name_en": "Ubon Ratchathani Constituency 9",
+    "province_id": "34"
+  },
+  {
+    "id": "3410",
+    "name_th": "อุบลราชธานี เขต 10",
+    "name_en": "Ubon Ratchathani Constituency 10",
+    "province_id": "34"
+  },
+  {
+    "id": "3411",
+    "name_th": "อุบลราชธานี เขต 11",
+    "name_en": "Ubon Ratchathani Constituency 11",
+    "province_id": "34"
+  },
+  {
+    "id": "3201",
+    "name_th": "สุรินทร์ เขต 1",
+    "name_en": "Surin Constituency 1",
+    "province_id": "32"
+  },
+  {
+    "id": "3202",
+    "name_th": "สุรินทร์ เขต 2",
+    "name_en": "Surin Constituency 2",
+    "province_id": "32"
+  },
+  {
+    "id": "3203",
+    "name_th": "สุรินทร์ เขต 3",
+    "name_en": "Surin Constituency 3",
+    "province_id": "32"
+  },
+  {
+    "id": "3204",
+    "name_th": "สุรินทร์ เขต 4",
+    "name_en": "Surin Constituency 4",
+    "province_id": "32"
+  },
+  {
+    "id": "3205",
+    "name_th": "สุรินทร์ เขต 5",
+    "name_en": "Surin Constituency 5",
+    "province_id": "32"
+  },
+  {
+    "id": "3206",
+    "name_th": "สุรินทร์ เขต 6",
+    "name_en": "Surin Constituency 6",
+    "province_id": "32"
+  },
+  {
+    "id": "3207",
+    "name_th": "สุรินทร์ เขต 7",
+    "name_en": "Surin Constituency 7",
+    "province_id": "32"
+  },
+  {
+    "id": "3208",
+    "name_th": "สุรินทร์ เขต 8",
+    "name_en": "Surin Constituency 8",
+    "province_id": "32"
+  },
+  {
+    "id": "3301",
+    "name_th": "ศรีสะเกษ เขต 1",
+    "name_en": "Si Sa Ket Constituency 1",
+    "province_id": "33"
+  },
+  {
+    "id": "3302",
+    "name_th": "ศรีสะเกษ เขต 2",
+    "name_en": "Si Sa Ket Constituency 2",
+    "province_id": "33"
+  },
+  {
+    "id": "3303",
+    "name_th": "ศรีสะเกษ เขต 3",
+    "name_en": "Si Sa Ket Constituency 3",
+    "province_id": "33"
+  },
+  {
+    "id": "3304",
+    "name_th": "ศรีสะเกษ เขต 4",
+    "name_en": "Si Sa Ket Constituency 4",
+    "province_id": "33"
+  },
+  {
+    "id": "3305",
+    "name_th": "ศรีสะเกษ เขต 5",
+    "name_en": "Si Sa Ket Constituency 5",
+    "province_id": "33"
+  },
+  {
+    "id": "3306",
+    "name_th": "ศรีสะเกษ เขต 6",
+    "name_en": "Si Sa Ket Constituency 6",
+    "province_id": "33"
+  },
+  {
+    "id": "3307",
+    "name_th": "ศรีสะเกษ เขต 7",
+    "name_en": "Si Sa Ket Constituency 7",
+    "province_id": "33"
+  },
+  {
+    "id": "3308",
+    "name_th": "ศรีสะเกษ เขต 8",
+    "name_en": "Si Sa Ket Constituency 8",
+    "province_id": "33"
+  },
+  {
+    "id": "3309",
+    "name_th": "ศรีสะเกษ เขต 9",
+    "name_en": "Si Sa Ket Constituency 9",
+    "province_id": "33"
+  }
+]

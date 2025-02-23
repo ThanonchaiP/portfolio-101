@@ -32,7 +32,7 @@ export const GeoVoteList = () => {
         {Array.from({ length: 10 }).map((_, index) => (
           <div
             key={index}
-            className="border-b border-gray-300 bg-white pb-2 pl-[14px] pr-2 pt-4"
+            className="cursor-pointer border-b border-gray-300 bg-white pb-2 pl-[14px] pr-2 pt-4 transition-colors hover:bg-[#FAF2EC]"
           >
             <div className="flex items-center justify-between text-[var(--primary)]">
               <h3>กาญจนบุรี เขต 1</h3>
