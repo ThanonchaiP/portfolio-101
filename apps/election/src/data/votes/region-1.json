@@ -1,0 +1,6302 @@
+[
+  {
+    "id": "4051",
+    "candidate_id": "64",
+    "district_id": "5801",
+    "vote_count": 24648
+  },
+  {
+    "id": "4052",
+    "candidate_id": "40",
+    "district_id": "5801",
+    "vote_count": 5312
+  },
+  {
+    "id": "4053",
+    "candidate_id": "147",
+    "district_id": "5801",
+    "vote_count": 24638
+  },
+  {
+    "id": "4054",
+    "candidate_id": "186",
+    "district_id": "5801",
+    "vote_count": 13324
+  },
+  {
+    "id": "4055",
+    "candidate_id": "70",
+    "district_id": "5801",
+    "vote_count": 20357
+  },
+  {
+    "id": "4056",
+    "candidate_id": "108",
+    "district_id": "5801",
+    "vote_count": 1516
+  },
+  {
+    "id": "4057",
+    "candidate_id": "68",
+    "district_id": "5801",
+    "vote_count": 13022
+  },
+  {
+    "id": "4058",
+    "candidate_id": "228",
+    "district_id": "5801",
+    "vote_count": 34695
+  },
+  {
+    "id": "4059",
+    "candidate_id": "189",
+    "district_id": "5801",
+    "vote_count": 26657
+  },
+  {
+    "id": "4060",
+    "candidate_id": "255",
+    "district_id": "5801",
+    "vote_count": 14877
+  },
+  {
+    "id": "4061",
+    "candidate_id": "181",
+    "district_id": "5801",
+    "vote_count": 34410
+  },
+  {
+    "id": "4062",
+    "candidate_id": "173",
+    "district_id": "5801",
+    "vote_count": 34323
+  },
+  {
+    "id": "4063",
+    "candidate_id": "35",
+    "district_id": "5801",
+    "vote_count": 20351
+  },
+  {
+    "id": "4064",
+    "candidate_id": "105",
+    "district_id": "5801",
+    "vote_count": 19828
+  },
+  {
+    "id": "4065",
+    "candidate_id": "24",
+    "district_id": "5801",
+    "vote_count": 34844
+  },
+  {
+    "id": "4066",
+    "candidate_id": "2",
+    "district_id": "5802",
+    "vote_count": 28183
+  },
+  {
+    "id": "4067",
+    "candidate_id": "15",
+    "district_id": "5802",
+    "vote_count": 5035
+  },
+  {
+    "id": "4068",
+    "candidate_id": "183",
+    "district_id": "5802",
+    "vote_count": 37506
+  },
+  {
+    "id": "4069",
+    "candidate_id": "204",
+    "district_id": "5802",
+    "vote_count": 14161
+  },
+  {
+    "id": "4070",
+    "candidate_id": "186",
+    "district_id": "5802",
+    "vote_count": 10742
+  },
+  {
+    "id": "4071",
+    "candidate_id": "144",
+    "district_id": "5802",
+    "vote_count": 8606
+  },
+  {
+    "id": "4072",
+    "candidate_id": "113",
+    "district_id": "5802",
+    "vote_count": 698
+  },
+  {
+    "id": "4073",
+    "candidate_id": "252",
+    "district_id": "5802",
+    "vote_count": 29238
+  },
+  {
+    "id": "4074",
+    "candidate_id": "107",
+    "district_id": "5802",
+    "vote_count": 17003
+  },
+  {
+    "id": "4075",
+    "candidate_id": "188",
+    "district_id": "5802",
+    "vote_count": 12658
+  },
+  {
+    "id": "4076",
+    "candidate_id": "52",
+    "district_id": "5802",
+    "vote_count": 4532
+  },
+  {
+    "id": "4077",
+    "candidate_id": "6",
+    "district_id": "5802",
+    "vote_count": 25805
+  },
+  {
+    "id": "4078",
+    "candidate_id": "92",
+    "district_id": "5802",
+    "vote_count": 22536
+  },
+  {
+    "id": "4079",
+    "candidate_id": "39",
+    "district_id": "5802",
+    "vote_count": 2063
+  },
+  {
+    "id": "4080",
+    "candidate_id": "44",
+    "district_id": "5802",
+    "vote_count": 7018
+  },
+  {
+    "id": "4081",
+    "candidate_id": "188",
+    "district_id": "5001",
+    "vote_count": 254
+  },
+  {
+    "id": "4082",
+    "candidate_id": "261",
+    "district_id": "5001",
+    "vote_count": 4397
+  },
+  {
+    "id": "4083",
+    "candidate_id": "33",
+    "district_id": "5001",
+    "vote_count": 29152
+  },
+  {
+    "id": "4084",
+    "candidate_id": "101",
+    "district_id": "5001",
+    "vote_count": 15432
+  },
+  {
+    "id": "4085",
+    "candidate_id": "242",
+    "district_id": "5001",
+    "vote_count": 25924
+  },
+  {
+    "id": "4086",
+    "candidate_id": "69",
+    "district_id": "5001",
+    "vote_count": 21559
+  },
+  {
+    "id": "4087",
+    "candidate_id": "77",
+    "district_id": "5001",
+    "vote_count": 9030
+  },
+  {
+    "id": "4088",
+    "candidate_id": "125",
+    "district_id": "5001",
+    "vote_count": 14283
+  },
+  {
+    "id": "4089",
+    "candidate_id": "105",
+    "district_id": "5001",
+    "vote_count": 24370
+  },
+  {
+    "id": "4090",
+    "candidate_id": "240",
+    "district_id": "5001",
+    "vote_count": 20974
+  },
+  {
+    "id": "4091",
+    "candidate_id": "250",
+    "district_id": "5001",
+    "vote_count": 5532
+  },
+  {
+    "id": "4092",
+    "candidate_id": "99",
+    "district_id": "5001",
+    "vote_count": 23871
+  },
+  {
+    "id": "4093",
+    "candidate_id": "5",
+    "district_id": "5001",
+    "vote_count": 21557
+  },
+  {
+    "id": "4094",
+    "candidate_id": "136",
+    "district_id": "5001",
+    "vote_count": 19118
+  },
+  {
+    "id": "4095",
+    "candidate_id": "259",
+    "district_id": "5001",
+    "vote_count": 8374
+  },
+  {
+    "id": "4096",
+    "candidate_id": "109",
+    "district_id": "5002",
+    "vote_count": 26186
+  },
+  {
+    "id": "4097",
+    "candidate_id": "111",
+    "district_id": "5002",
+    "vote_count": 8808
+  },
+  {
+    "id": "4098",
+    "candidate_id": "180",
+    "district_id": "5002",
+    "vote_count": 15356
+  },
+  {
+    "id": "4099",
+    "candidate_id": "140",
+    "district_id": "5002",
+    "vote_count": 18255
+  },
+  {
+    "id": "4100",
+    "candidate_id": "65",
+    "district_id": "5002",
+    "vote_count": 12873
+  },
+  {
+    "id": "4101",
+    "candidate_id": "116",
+    "district_id": "5002",
+    "vote_count": 3340
+  },
+  {
+    "id": "4102",
+    "candidate_id": "170",
+    "district_id": "5002",
+    "vote_count": 32679
+  },
+  {
+    "id": "4103",
+    "candidate_id": "69",
+    "district_id": "5002",
+    "vote_count": 17297
+  },
+  {
+    "id": "4104",
+    "candidate_id": "240",
+    "district_id": "5002",
+    "vote_count": 14633
+  },
+  {
+    "id": "4105",
+    "candidate_id": "34",
+    "district_id": "5002",
+    "vote_count": 36457
+  },
+  {
+    "id": "4106",
+    "candidate_id": "95",
+    "district_id": "5002",
+    "vote_count": 35035
+  },
+  {
+    "id": "4107",
+    "candidate_id": "99",
+    "district_id": "5002",
+    "vote_count": 14043
+  },
+  {
+    "id": "4108",
+    "candidate_id": "57",
+    "district_id": "5002",
+    "vote_count": 10675
+  },
+  {
+    "id": "4109",
+    "candidate_id": "12",
+    "district_id": "5002",
+    "vote_count": 19806
+  },
+  {
+    "id": "4110",
+    "candidate_id": "247",
+    "district_id": "5002",
+    "vote_count": 12837
+  },
+  {
+    "id": "4111",
+    "candidate_id": "71",
+    "district_id": "5003",
+    "vote_count": 38911
+  },
+  {
+    "id": "4112",
+    "candidate_id": "187",
+    "district_id": "5003",
+    "vote_count": 18827
+  },
+  {
+    "id": "4113",
+    "candidate_id": "145",
+    "district_id": "5003",
+    "vote_count": 39523
+  },
+  {
+    "id": "4114",
+    "candidate_id": "29",
+    "district_id": "5003",
+    "vote_count": 38833
+  },
+  {
+    "id": "4115",
+    "candidate_id": "225",
+    "district_id": "5003",
+    "vote_count": 3529
+  },
+  {
+    "id": "4116",
+    "candidate_id": "109",
+    "district_id": "5003",
+    "vote_count": 7432
+  },
+  {
+    "id": "4117",
+    "candidate_id": "6",
+    "district_id": "5003",
+    "vote_count": 38748
+  },
+  {
+    "id": "4118",
+    "candidate_id": "133",
+    "district_id": "5003",
+    "vote_count": 10355
+  },
+  {
+    "id": "4119",
+    "candidate_id": "68",
+    "district_id": "5003",
+    "vote_count": 18435
+  },
+  {
+    "id": "4120",
+    "candidate_id": "118",
+    "district_id": "5003",
+    "vote_count": 16542
+  },
+  {
+    "id": "4121",
+    "candidate_id": "76",
+    "district_id": "5003",
+    "vote_count": 1074
+  },
+  {
+    "id": "4122",
+    "candidate_id": "168",
+    "district_id": "5003",
+    "vote_count": 38070
+  },
+  {
+    "id": "4123",
+    "candidate_id": "22",
+    "district_id": "5003",
+    "vote_count": 15517
+  },
+  {
+    "id": "4124",
+    "candidate_id": "248",
+    "district_id": "5003",
+    "vote_count": 22623
+  },
+  {
+    "id": "4125",
+    "candidate_id": "66",
+    "district_id": "5003",
+    "vote_count": 23592
+  },
+  {
+    "id": "4126",
+    "candidate_id": "188",
+    "district_id": "5004",
+    "vote_count": 15858
+  },
+  {
+    "id": "4127",
+    "candidate_id": "164",
+    "district_id": "5004",
+    "vote_count": 22663
+  },
+  {
+    "id": "4128",
+    "candidate_id": "113",
+    "district_id": "5004",
+    "vote_count": 33789
+  },
+  {
+    "id": "4129",
+    "candidate_id": "201",
+    "district_id": "5004",
+    "vote_count": 25601
+  },
+  {
+    "id": "4130",
+    "candidate_id": "191",
+    "district_id": "5004",
+    "vote_count": 17071
+  },
+  {
+    "id": "4131",
+    "candidate_id": "190",
+    "district_id": "5004",
+    "vote_count": 31261
+  },
+  {
+    "id": "4132",
+    "candidate_id": "137",
+    "district_id": "5004",
+    "vote_count": 24807
+  },
+  {
+    "id": "4133",
+    "candidate_id": "169",
+    "district_id": "5004",
+    "vote_count": 24711
+  },
+  {
+    "id": "4134",
+    "candidate_id": "49",
+    "district_id": "5004",
+    "vote_count": 27534
+  },
+  {
+    "id": "4135",
+    "candidate_id": "45",
+    "district_id": "5004",
+    "vote_count": 716
+  },
+  {
+    "id": "4136",
+    "candidate_id": "202",
+    "district_id": "5004",
+    "vote_count": 4355
+  },
+  {
+    "id": "4137",
+    "candidate_id": "31",
+    "district_id": "5004",
+    "vote_count": 32231
+  },
+  {
+    "id": "4138",
+    "candidate_id": "97",
+    "district_id": "5004",
+    "vote_count": 22715
+  },
+  {
+    "id": "4139",
+    "candidate_id": "184",
+    "district_id": "5004",
+    "vote_count": 28933
+  },
+  {
+    "id": "4140",
+    "candidate_id": "241",
+    "district_id": "5004",
+    "vote_count": 393
+  },
+  {
+    "id": "4141",
+    "candidate_id": "145",
+    "district_id": "5005",
+    "vote_count": 28078
+  },
+  {
+    "id": "4142",
+    "candidate_id": "138",
+    "district_id": "5005",
+    "vote_count": 37145
+  },
+  {
+    "id": "4143",
+    "candidate_id": "176",
+    "district_id": "5005",
+    "vote_count": 22988
+  },
+  {
+    "id": "4144",
+    "candidate_id": "71",
+    "district_id": "5005",
+    "vote_count": 15059
+  },
+  {
+    "id": "4145",
+    "candidate_id": "188",
+    "district_id": "5005",
+    "vote_count": 19076
+  },
+  {
+    "id": "4146",
+    "candidate_id": "86",
+    "district_id": "5005",
+    "vote_count": 39745
+  },
+  {
+    "id": "4147",
+    "candidate_id": "57",
+    "district_id": "5005",
+    "vote_count": 20399
+  },
+  {
+    "id": "4148",
+    "candidate_id": "201",
+    "district_id": "5005",
+    "vote_count": 21329
+  },
+  {
+    "id": "4149",
+    "candidate_id": "115",
+    "district_id": "5005",
+    "vote_count": 3892
+  },
+  {
+    "id": "4150",
+    "candidate_id": "155",
+    "district_id": "5005",
+    "vote_count": 26051
+  },
+  {
+    "id": "4151",
+    "candidate_id": "202",
+    "district_id": "5005",
+    "vote_count": 16856
+  },
+  {
+    "id": "4152",
+    "candidate_id": "250",
+    "district_id": "5005",
+    "vote_count": 18411
+  },
+  {
+    "id": "4153",
+    "candidate_id": "223",
+    "district_id": "5005",
+    "vote_count": 36464
+  },
+  {
+    "id": "4154",
+    "candidate_id": "163",
+    "district_id": "5005",
+    "vote_count": 7225
+  },
+  {
+    "id": "4155",
+    "candidate_id": "134",
+    "district_id": "5005",
+    "vote_count": 12242
+  },
+  {
+    "id": "4156",
+    "candidate_id": "90",
+    "district_id": "5006",
+    "vote_count": 38912
+  },
+  {
+    "id": "4157",
+    "candidate_id": "115",
+    "district_id": "5006",
+    "vote_count": 15115
+  },
+  {
+    "id": "4158",
+    "candidate_id": "148",
+    "district_id": "5006",
+    "vote_count": 12681
+  },
+  {
+    "id": "4159",
+    "candidate_id": "7",
+    "district_id": "5006",
+    "vote_count": 27192
+  },
+  {
+    "id": "4160",
+    "candidate_id": "200",
+    "district_id": "5006",
+    "vote_count": 14370
+  },
+  {
+    "id": "4161",
+    "candidate_id": "71",
+    "district_id": "5006",
+    "vote_count": 29891
+  },
+  {
+    "id": "4162",
+    "candidate_id": "12",
+    "district_id": "5006",
+    "vote_count": 31803
+  },
+  {
+    "id": "4163",
+    "candidate_id": "61",
+    "district_id": "5006",
+    "vote_count": 30594
+  },
+  {
+    "id": "4164",
+    "candidate_id": "137",
+    "district_id": "5006",
+    "vote_count": 8176
+  },
+  {
+    "id": "4165",
+    "candidate_id": "25",
+    "district_id": "5006",
+    "vote_count": 6024
+  },
+  {
+    "id": "4166",
+    "candidate_id": "167",
+    "district_id": "5006",
+    "vote_count": 8839
+  },
+  {
+    "id": "4167",
+    "candidate_id": "196",
+    "district_id": "5006",
+    "vote_count": 11662
+  },
+  {
+    "id": "4168",
+    "candidate_id": "260",
+    "district_id": "5006",
+    "vote_count": 5924
+  },
+  {
+    "id": "4169",
+    "candidate_id": "106",
+    "district_id": "5006",
+    "vote_count": 31772
+  },
+  {
+    "id": "4170",
+    "candidate_id": "272",
+    "district_id": "5006",
+    "vote_count": 4270
+  },
+  {
+    "id": "4171",
+    "candidate_id": "45",
+    "district_id": "5007",
+    "vote_count": 37325
+  },
+  {
+    "id": "4172",
+    "candidate_id": "177",
+    "district_id": "5007",
+    "vote_count": 18687
+  },
+  {
+    "id": "4173",
+    "candidate_id": "91",
+    "district_id": "5007",
+    "vote_count": 11800
+  },
+  {
+    "id": "4174",
+    "candidate_id": "76",
+    "district_id": "5007",
+    "vote_count": 20393
+  },
+  {
+    "id": "4175",
+    "candidate_id": "227",
+    "district_id": "5007",
+    "vote_count": 33100
+  },
+  {
+    "id": "4176",
+    "candidate_id": "141",
+    "district_id": "5007",
+    "vote_count": 37110
+  },
+  {
+    "id": "4177",
+    "candidate_id": "34",
+    "district_id": "5007",
+    "vote_count": 34895
+  },
+  {
+    "id": "4178",
+    "candidate_id": "156",
+    "district_id": "5007",
+    "vote_count": 28275
+  },
+  {
+    "id": "4179",
+    "candidate_id": "61",
+    "district_id": "5007",
+    "vote_count": 19200
+  },
+  {
+    "id": "4180",
+    "candidate_id": "10",
+    "district_id": "5007",
+    "vote_count": 3103
+  },
+  {
+    "id": "4181",
+    "candidate_id": "215",
+    "district_id": "5007",
+    "vote_count": 4883
+  },
+  {
+    "id": "4182",
+    "candidate_id": "214",
+    "district_id": "5007",
+    "vote_count": 6076
+  },
+  {
+    "id": "4183",
+    "candidate_id": "5",
+    "district_id": "5007",
+    "vote_count": 10522
+  },
+  {
+    "id": "4184",
+    "candidate_id": "218",
+    "district_id": "5007",
+    "vote_count": 466
+  },
+  {
+    "id": "4185",
+    "candidate_id": "244",
+    "district_id": "5007",
+    "vote_count": 5268
+  },
+  {
+    "id": "4186",
+    "candidate_id": "45",
+    "district_id": "5008",
+    "vote_count": 25
+  },
+  {
+    "id": "4187",
+    "candidate_id": "5",
+    "district_id": "5008",
+    "vote_count": 15130
+  },
+  {
+    "id": "4188",
+    "candidate_id": "106",
+    "district_id": "5008",
+    "vote_count": 4233
+  },
+  {
+    "id": "4189",
+    "candidate_id": "244",
+    "district_id": "5008",
+    "vote_count": 14512
+  },
+  {
+    "id": "4190",
+    "candidate_id": "179",
+    "district_id": "5008",
+    "vote_count": 32869
+  },
+  {
+    "id": "4191",
+    "candidate_id": "26",
+    "district_id": "5008",
+    "vote_count": 21845
+  },
+  {
+    "id": "4192",
+    "candidate_id": "268",
+    "district_id": "5008",
+    "vote_count": 8212
+  },
+  {
+    "id": "4193",
+    "candidate_id": "71",
+    "district_id": "5008",
+    "vote_count": 22913
+  },
+  {
+    "id": "4194",
+    "candidate_id": "80",
+    "district_id": "5008",
+    "vote_count": 32451
+  },
+  {
+    "id": "4195",
+    "candidate_id": "208",
+    "district_id": "5008",
+    "vote_count": 18175
+  },
+  {
+    "id": "4196",
+    "candidate_id": "116",
+    "district_id": "5008",
+    "vote_count": 7994
+  },
+  {
+    "id": "4197",
+    "candidate_id": "32",
+    "district_id": "5008",
+    "vote_count": 35121
+  },
+  {
+    "id": "4198",
+    "candidate_id": "177",
+    "district_id": "5008",
+    "vote_count": 1615
+  },
+  {
+    "id": "4199",
+    "candidate_id": "39",
+    "district_id": "5008",
+    "vote_count": 5852
+  },
+  {
+    "id": "4200",
+    "candidate_id": "44",
+    "district_id": "5008",
+    "vote_count": 38656
+  },
+  {
+    "id": "4201",
+    "candidate_id": "102",
+    "district_id": "5009",
+    "vote_count": 31807
+  },
+  {
+    "id": "4202",
+    "candidate_id": "25",
+    "district_id": "5009",
+    "vote_count": 29293
+  },
+  {
+    "id": "4203",
+    "candidate_id": "34",
+    "district_id": "5009",
+    "vote_count": 11516
+  },
+  {
+    "id": "4204",
+    "candidate_id": "271",
+    "district_id": "5009",
+    "vote_count": 7947
+  },
+  {
+    "id": "4205",
+    "candidate_id": "135",
+    "district_id": "5009",
+    "vote_count": 24654
+  },
+  {
+    "id": "4206",
+    "candidate_id": "238",
+    "district_id": "5009",
+    "vote_count": 19087
+  },
+  {
+    "id": "4207",
+    "candidate_id": "97",
+    "district_id": "5009",
+    "vote_count": 39866
+  },
+  {
+    "id": "4208",
+    "candidate_id": "49",
+    "district_id": "5009",
+    "vote_count": 18023
+  },
+  {
+    "id": "4209",
+    "candidate_id": "248",
+    "district_id": "5009",
+    "vote_count": 20418
+  },
+  {
+    "id": "4210",
+    "candidate_id": "41",
+    "district_id": "5009",
+    "vote_count": 27752
+  },
+  {
+    "id": "4211",
+    "candidate_id": "165",
+    "district_id": "5009",
+    "vote_count": 36697
+  },
+  {
+    "id": "4212",
+    "candidate_id": "162",
+    "district_id": "5009",
+    "vote_count": 32372
+  },
+  {
+    "id": "4213",
+    "candidate_id": "201",
+    "district_id": "5009",
+    "vote_count": 15010
+  },
+  {
+    "id": "4214",
+    "candidate_id": "144",
+    "district_id": "5009",
+    "vote_count": 17738
+  },
+  {
+    "id": "4215",
+    "candidate_id": "36",
+    "district_id": "5009",
+    "vote_count": 17775
+  },
+  {
+    "id": "4216",
+    "candidate_id": "238",
+    "district_id": "5010",
+    "vote_count": 5641
+  },
+  {
+    "id": "4217",
+    "candidate_id": "9",
+    "district_id": "5010",
+    "vote_count": 38431
+  },
+  {
+    "id": "4218",
+    "candidate_id": "25",
+    "district_id": "5010",
+    "vote_count": 38543
+  },
+  {
+    "id": "4219",
+    "candidate_id": "180",
+    "district_id": "5010",
+    "vote_count": 39653
+  },
+  {
+    "id": "4220",
+    "candidate_id": "176",
+    "district_id": "5010",
+    "vote_count": 17277
+  },
+  {
+    "id": "4221",
+    "candidate_id": "137",
+    "district_id": "5010",
+    "vote_count": 26686
+  },
+  {
+    "id": "4222",
+    "candidate_id": "178",
+    "district_id": "5010",
+    "vote_count": 19936
+  },
+  {
+    "id": "4223",
+    "candidate_id": "64",
+    "district_id": "5010",
+    "vote_count": 10788
+  },
+  {
+    "id": "4224",
+    "candidate_id": "139",
+    "district_id": "5010",
+    "vote_count": 20926
+  },
+  {
+    "id": "4225",
+    "candidate_id": "26",
+    "district_id": "5010",
+    "vote_count": 149
+  },
+  {
+    "id": "4226",
+    "candidate_id": "239",
+    "district_id": "5010",
+    "vote_count": 927
+  },
+  {
+    "id": "4227",
+    "candidate_id": "270",
+    "district_id": "5010",
+    "vote_count": 29064
+  },
+  {
+    "id": "4228",
+    "candidate_id": "96",
+    "district_id": "5010",
+    "vote_count": 8373
+  },
+  {
+    "id": "4229",
+    "candidate_id": "52",
+    "district_id": "5010",
+    "vote_count": 3658
+  },
+  {
+    "id": "4230",
+    "candidate_id": "145",
+    "district_id": "5010",
+    "vote_count": 35768
+  },
+  {
+    "id": "4231",
+    "candidate_id": "267",
+    "district_id": "5701",
+    "vote_count": 21782
+  },
+  {
+    "id": "4232",
+    "candidate_id": "186",
+    "district_id": "5701",
+    "vote_count": 2810
+  },
+  {
+    "id": "4233",
+    "candidate_id": "76",
+    "district_id": "5701",
+    "vote_count": 9062
+  },
+  {
+    "id": "4234",
+    "candidate_id": "234",
+    "district_id": "5701",
+    "vote_count": 25909
+  },
+  {
+    "id": "4235",
+    "candidate_id": "207",
+    "district_id": "5701",
+    "vote_count": 23593
+  },
+  {
+    "id": "4236",
+    "candidate_id": "6",
+    "district_id": "5701",
+    "vote_count": 36964
+  },
+  {
+    "id": "4237",
+    "candidate_id": "30",
+    "district_id": "5701",
+    "vote_count": 15726
+  },
+  {
+    "id": "4238",
+    "candidate_id": "14",
+    "district_id": "5701",
+    "vote_count": 18429
+  },
+  {
+    "id": "4239",
+    "candidate_id": "18",
+    "district_id": "5701",
+    "vote_count": 16877
+  },
+  {
+    "id": "4240",
+    "candidate_id": "12",
+    "district_id": "5701",
+    "vote_count": 39277
+  },
+  {
+    "id": "4241",
+    "candidate_id": "51",
+    "district_id": "5701",
+    "vote_count": 12755
+  },
+  {
+    "id": "4242",
+    "candidate_id": "56",
+    "district_id": "5701",
+    "vote_count": 2772
+  },
+  {
+    "id": "4243",
+    "candidate_id": "208",
+    "district_id": "5701",
+    "vote_count": 18651
+  },
+  {
+    "id": "4244",
+    "candidate_id": "140",
+    "district_id": "5701",
+    "vote_count": 32391
+  },
+  {
+    "id": "4245",
+    "candidate_id": "4",
+    "district_id": "5701",
+    "vote_count": 37891
+  },
+  {
+    "id": "4246",
+    "candidate_id": "125",
+    "district_id": "5702",
+    "vote_count": 11468
+  },
+  {
+    "id": "4247",
+    "candidate_id": "238",
+    "district_id": "5702",
+    "vote_count": 33218
+  },
+  {
+    "id": "4248",
+    "candidate_id": "12",
+    "district_id": "5702",
+    "vote_count": 23198
+  },
+  {
+    "id": "4249",
+    "candidate_id": "18",
+    "district_id": "5702",
+    "vote_count": 1699
+  },
+  {
+    "id": "4250",
+    "candidate_id": "14",
+    "district_id": "5702",
+    "vote_count": 22593
+  },
+  {
+    "id": "4251",
+    "candidate_id": "71",
+    "district_id": "5702",
+    "vote_count": 12964
+  },
+  {
+    "id": "4252",
+    "candidate_id": "63",
+    "district_id": "5702",
+    "vote_count": 38530
+  },
+  {
+    "id": "4253",
+    "candidate_id": "191",
+    "district_id": "5702",
+    "vote_count": 6170
+  },
+  {
+    "id": "4254",
+    "candidate_id": "30",
+    "district_id": "5702",
+    "vote_count": 4297
+  },
+  {
+    "id": "4255",
+    "candidate_id": "168",
+    "district_id": "5702",
+    "vote_count": 6499
+  },
+  {
+    "id": "4256",
+    "candidate_id": "247",
+    "district_id": "5702",
+    "vote_count": 39527
+  },
+  {
+    "id": "4257",
+    "candidate_id": "149",
+    "district_id": "5702",
+    "vote_count": 9231
+  },
+  {
+    "id": "4258",
+    "candidate_id": "206",
+    "district_id": "5702",
+    "vote_count": 12555
+  },
+  {
+    "id": "4259",
+    "candidate_id": "6",
+    "district_id": "5702",
+    "vote_count": 18106
+  },
+  {
+    "id": "4260",
+    "candidate_id": "61",
+    "district_id": "5702",
+    "vote_count": 827
+  },
+  {
+    "id": "4261",
+    "candidate_id": "25",
+    "district_id": "5703",
+    "vote_count": 7796
+  },
+  {
+    "id": "4262",
+    "candidate_id": "267",
+    "district_id": "5703",
+    "vote_count": 34995
+  },
+  {
+    "id": "4263",
+    "candidate_id": "182",
+    "district_id": "5703",
+    "vote_count": 22317
+  },
+  {
+    "id": "4264",
+    "candidate_id": "121",
+    "district_id": "5703",
+    "vote_count": 10655
+  },
+  {
+    "id": "4265",
+    "candidate_id": "67",
+    "district_id": "5703",
+    "vote_count": 778
+  },
+  {
+    "id": "4266",
+    "candidate_id": "85",
+    "district_id": "5703",
+    "vote_count": 2044
+  },
+  {
+    "id": "4267",
+    "candidate_id": "82",
+    "district_id": "5703",
+    "vote_count": 29252
+  },
+  {
+    "id": "4268",
+    "candidate_id": "81",
+    "district_id": "5703",
+    "vote_count": 12517
+  },
+  {
+    "id": "4269",
+    "candidate_id": "44",
+    "district_id": "5703",
+    "vote_count": 29255
+  },
+  {
+    "id": "4270",
+    "candidate_id": "12",
+    "district_id": "5703",
+    "vote_count": 5884
+  },
+  {
+    "id": "4271",
+    "candidate_id": "271",
+    "district_id": "5703",
+    "vote_count": 8998
+  },
+  {
+    "id": "4272",
+    "candidate_id": "41",
+    "district_id": "5703",
+    "vote_count": 1823
+  },
+  {
+    "id": "4273",
+    "candidate_id": "237",
+    "district_id": "5703",
+    "vote_count": 30871
+  },
+  {
+    "id": "4274",
+    "candidate_id": "134",
+    "district_id": "5703",
+    "vote_count": 469
+  },
+  {
+    "id": "4275",
+    "candidate_id": "24",
+    "district_id": "5703",
+    "vote_count": 26460
+  },
+  {
+    "id": "4276",
+    "candidate_id": "137",
+    "district_id": "5704",
+    "vote_count": 31405
+  },
+  {
+    "id": "4277",
+    "candidate_id": "176",
+    "district_id": "5704",
+    "vote_count": 2753
+  },
+  {
+    "id": "4278",
+    "candidate_id": "234",
+    "district_id": "5704",
+    "vote_count": 31719
+  },
+  {
+    "id": "4279",
+    "candidate_id": "30",
+    "district_id": "5704",
+    "vote_count": 4655
+  },
+  {
+    "id": "4280",
+    "candidate_id": "23",
+    "district_id": "5704",
+    "vote_count": 3293
+  },
+  {
+    "id": "4281",
+    "candidate_id": "154",
+    "district_id": "5704",
+    "vote_count": 7168
+  },
+  {
+    "id": "4282",
+    "candidate_id": "153",
+    "district_id": "5704",
+    "vote_count": 27512
+  },
+  {
+    "id": "4283",
+    "candidate_id": "80",
+    "district_id": "5704",
+    "vote_count": 22398
+  },
+  {
+    "id": "4284",
+    "candidate_id": "158",
+    "district_id": "5704",
+    "vote_count": 26444
+  },
+  {
+    "id": "4285",
+    "candidate_id": "162",
+    "district_id": "5704",
+    "vote_count": 36851
+  },
+  {
+    "id": "4286",
+    "candidate_id": "20",
+    "district_id": "5704",
+    "vote_count": 17711
+  },
+  {
+    "id": "4287",
+    "candidate_id": "81",
+    "district_id": "5704",
+    "vote_count": 5542
+  },
+  {
+    "id": "4288",
+    "candidate_id": "52",
+    "district_id": "5704",
+    "vote_count": 34679
+  },
+  {
+    "id": "4289",
+    "candidate_id": "237",
+    "district_id": "5704",
+    "vote_count": 23109
+  },
+  {
+    "id": "4290",
+    "candidate_id": "19",
+    "district_id": "5704",
+    "vote_count": 30362
+  },
+  {
+    "id": "4291",
+    "candidate_id": "69",
+    "district_id": "5705",
+    "vote_count": 37574
+  },
+  {
+    "id": "4292",
+    "candidate_id": "189",
+    "district_id": "5705",
+    "vote_count": 7669
+  },
+  {
+    "id": "4293",
+    "candidate_id": "29",
+    "district_id": "5705",
+    "vote_count": 20258
+  },
+  {
+    "id": "4294",
+    "candidate_id": "134",
+    "district_id": "5705",
+    "vote_count": 10210
+  },
+  {
+    "id": "4295",
+    "candidate_id": "81",
+    "district_id": "5705",
+    "vote_count": 7100
+  },
+  {
+    "id": "4296",
+    "candidate_id": "265",
+    "district_id": "5705",
+    "vote_count": 26214
+  },
+  {
+    "id": "4297",
+    "candidate_id": "149",
+    "district_id": "5705",
+    "vote_count": 18263
+  },
+  {
+    "id": "4298",
+    "candidate_id": "184",
+    "district_id": "5705",
+    "vote_count": 35873
+  },
+  {
+    "id": "4299",
+    "candidate_id": "272",
+    "district_id": "5705",
+    "vote_count": 7155
+  },
+  {
+    "id": "4300",
+    "candidate_id": "82",
+    "district_id": "5705",
+    "vote_count": 10652
+  },
+  {
+    "id": "4301",
+    "candidate_id": "57",
+    "district_id": "5705",
+    "vote_count": 14168
+  },
+  {
+    "id": "4302",
+    "candidate_id": "163",
+    "district_id": "5705",
+    "vote_count": 5726
+  },
+  {
+    "id": "4303",
+    "candidate_id": "150",
+    "district_id": "5705",
+    "vote_count": 38071
+  },
+  {
+    "id": "4304",
+    "candidate_id": "211",
+    "district_id": "5705",
+    "vote_count": 33041
+  },
+  {
+    "id": "4305",
+    "candidate_id": "240",
+    "district_id": "5705",
+    "vote_count": 37548
+  },
+  {
+    "id": "4306",
+    "candidate_id": "196",
+    "district_id": "5706",
+    "vote_count": 4640
+  },
+  {
+    "id": "4307",
+    "candidate_id": "114",
+    "district_id": "5706",
+    "vote_count": 27192
+  },
+  {
+    "id": "4308",
+    "candidate_id": "141",
+    "district_id": "5706",
+    "vote_count": 3453
+  },
+  {
+    "id": "4309",
+    "candidate_id": "169",
+    "district_id": "5706",
+    "vote_count": 17562
+  },
+  {
+    "id": "4310",
+    "candidate_id": "224",
+    "district_id": "5706",
+    "vote_count": 26150
+  },
+  {
+    "id": "4311",
+    "candidate_id": "119",
+    "district_id": "5706",
+    "vote_count": 21213
+  },
+  {
+    "id": "4312",
+    "candidate_id": "201",
+    "district_id": "5706",
+    "vote_count": 27279
+  },
+  {
+    "id": "4313",
+    "candidate_id": "231",
+    "district_id": "5706",
+    "vote_count": 38308
+  },
+  {
+    "id": "4314",
+    "candidate_id": "257",
+    "district_id": "5706",
+    "vote_count": 7842
+  },
+  {
+    "id": "4315",
+    "candidate_id": "1",
+    "district_id": "5706",
+    "vote_count": 26806
+  },
+  {
+    "id": "4316",
+    "candidate_id": "29",
+    "district_id": "5706",
+    "vote_count": 38953
+  },
+  {
+    "id": "4317",
+    "candidate_id": "128",
+    "district_id": "5706",
+    "vote_count": 27866
+  },
+  {
+    "id": "4318",
+    "candidate_id": "135",
+    "district_id": "5706",
+    "vote_count": 27787
+  },
+  {
+    "id": "4319",
+    "candidate_id": "124",
+    "district_id": "5706",
+    "vote_count": 12126
+  },
+  {
+    "id": "4320",
+    "candidate_id": "69",
+    "district_id": "5706",
+    "vote_count": 27100
+  },
+  {
+    "id": "4321",
+    "candidate_id": "202",
+    "district_id": "5707",
+    "vote_count": 35358
+  },
+  {
+    "id": "4322",
+    "candidate_id": "192",
+    "district_id": "5707",
+    "vote_count": 28979
+  },
+  {
+    "id": "4323",
+    "candidate_id": "197",
+    "district_id": "5707",
+    "vote_count": 14731
+  },
+  {
+    "id": "4324",
+    "candidate_id": "170",
+    "district_id": "5707",
+    "vote_count": 33970
+  },
+  {
+    "id": "4325",
+    "candidate_id": "260",
+    "district_id": "5707",
+    "vote_count": 25923
+  },
+  {
+    "id": "4326",
+    "candidate_id": "194",
+    "district_id": "5707",
+    "vote_count": 13299
+  },
+  {
+    "id": "4327",
+    "candidate_id": "137",
+    "district_id": "5707",
+    "vote_count": 14859
+  },
+  {
+    "id": "4328",
+    "candidate_id": "120",
+    "district_id": "5707",
+    "vote_count": 12616
+  },
+  {
+    "id": "4329",
+    "candidate_id": "95",
+    "district_id": "5707",
+    "vote_count": 37388
+  },
+  {
+    "id": "4330",
+    "candidate_id": "223",
+    "district_id": "5707",
+    "vote_count": 14864
+  },
+  {
+    "id": "4331",
+    "candidate_id": "247",
+    "district_id": "5707",
+    "vote_count": 25259
+  },
+  {
+    "id": "4332",
+    "candidate_id": "141",
+    "district_id": "5707",
+    "vote_count": 3721
+  },
+  {
+    "id": "4333",
+    "candidate_id": "176",
+    "district_id": "5707",
+    "vote_count": 13777
+  },
+  {
+    "id": "4334",
+    "candidate_id": "201",
+    "district_id": "5707",
+    "vote_count": 37237
+  },
+  {
+    "id": "4335",
+    "candidate_id": "196",
+    "district_id": "5707",
+    "vote_count": 35333
+  },
+  {
+    "id": "4336",
+    "candidate_id": "161",
+    "district_id": "5101",
+    "vote_count": 32064
+  },
+  {
+    "id": "4337",
+    "candidate_id": "152",
+    "district_id": "5101",
+    "vote_count": 10368
+  },
+  {
+    "id": "4338",
+    "candidate_id": "215",
+    "district_id": "5101",
+    "vote_count": 6183
+  },
+  {
+    "id": "4339",
+    "candidate_id": "150",
+    "district_id": "5101",
+    "vote_count": 15457
+  },
+  {
+    "id": "4340",
+    "candidate_id": "133",
+    "district_id": "5101",
+    "vote_count": 10074
+  },
+  {
+    "id": "4341",
+    "candidate_id": "230",
+    "district_id": "5101",
+    "vote_count": 12118
+  },
+  {
+    "id": "4342",
+    "candidate_id": "39",
+    "district_id": "5101",
+    "vote_count": 22601
+  },
+  {
+    "id": "4343",
+    "candidate_id": "3",
+    "district_id": "5101",
+    "vote_count": 10660
+  },
+  {
+    "id": "4344",
+    "candidate_id": "214",
+    "district_id": "5101",
+    "vote_count": 1869
+  },
+  {
+    "id": "4345",
+    "candidate_id": "159",
+    "district_id": "5101",
+    "vote_count": 24233
+  },
+  {
+    "id": "4346",
+    "candidate_id": "2",
+    "district_id": "5101",
+    "vote_count": 16107
+  },
+  {
+    "id": "4347",
+    "candidate_id": "72",
+    "district_id": "5101",
+    "vote_count": 35723
+  },
+  {
+    "id": "4348",
+    "candidate_id": "21",
+    "district_id": "5101",
+    "vote_count": 25975
+  },
+  {
+    "id": "4349",
+    "candidate_id": "158",
+    "district_id": "5101",
+    "vote_count": 5348
+  },
+  {
+    "id": "4350",
+    "candidate_id": "1",
+    "district_id": "5101",
+    "vote_count": 17882
+  },
+  {
+    "id": "4351",
+    "candidate_id": "260",
+    "district_id": "5102",
+    "vote_count": 11528
+  },
+  {
+    "id": "4352",
+    "candidate_id": "84",
+    "district_id": "5102",
+    "vote_count": 20231
+  },
+  {
+    "id": "4353",
+    "candidate_id": "138",
+    "district_id": "5102",
+    "vote_count": 29357
+  },
+  {
+    "id": "4354",
+    "candidate_id": "184",
+    "district_id": "5102",
+    "vote_count": 38338
+  },
+  {
+    "id": "4355",
+    "candidate_id": "185",
+    "district_id": "5102",
+    "vote_count": 5253
+  },
+  {
+    "id": "4356",
+    "candidate_id": "25",
+    "district_id": "5102",
+    "vote_count": 24229
+  },
+  {
+    "id": "4357",
+    "candidate_id": "20",
+    "district_id": "5102",
+    "vote_count": 25093
+  },
+  {
+    "id": "4358",
+    "candidate_id": "74",
+    "district_id": "5102",
+    "vote_count": 39528
+  },
+  {
+    "id": "4359",
+    "candidate_id": "27",
+    "district_id": "5102",
+    "vote_count": 39736
+  },
+  {
+    "id": "4360",
+    "candidate_id": "264",
+    "district_id": "5102",
+    "vote_count": 29077
+  },
+  {
+    "id": "4361",
+    "candidate_id": "96",
+    "district_id": "5102",
+    "vote_count": 5450
+  },
+  {
+    "id": "4362",
+    "candidate_id": "266",
+    "district_id": "5102",
+    "vote_count": 18844
+  },
+  {
+    "id": "4363",
+    "candidate_id": "258",
+    "district_id": "5102",
+    "vote_count": 12267
+  },
+  {
+    "id": "4364",
+    "candidate_id": "105",
+    "district_id": "5102",
+    "vote_count": 20466
+  },
+  {
+    "id": "4365",
+    "candidate_id": "60",
+    "district_id": "5102",
+    "vote_count": 25336
+  },
+  {
+    "id": "4366",
+    "candidate_id": "155",
+    "district_id": "5201",
+    "vote_count": 10023
+  },
+  {
+    "id": "4367",
+    "candidate_id": "157",
+    "district_id": "5201",
+    "vote_count": 6789
+  },
+  {
+    "id": "4368",
+    "candidate_id": "253",
+    "district_id": "5201",
+    "vote_count": 26215
+  },
+  {
+    "id": "4369",
+    "candidate_id": "256",
+    "district_id": "5201",
+    "vote_count": 12769
+  },
+  {
+    "id": "4370",
+    "candidate_id": "39",
+    "district_id": "5201",
+    "vote_count": 7038
+  },
+  {
+    "id": "4371",
+    "candidate_id": "110",
+    "district_id": "5201",
+    "vote_count": 22762
+  },
+  {
+    "id": "4372",
+    "candidate_id": "259",
+    "district_id": "5201",
+    "vote_count": 29648
+  },
+  {
+    "id": "4373",
+    "candidate_id": "87",
+    "district_id": "5201",
+    "vote_count": 24233
+  },
+  {
+    "id": "4374",
+    "candidate_id": "75",
+    "district_id": "5201",
+    "vote_count": 22380
+  },
+  {
+    "id": "4375",
+    "candidate_id": "72",
+    "district_id": "5201",
+    "vote_count": 30218
+  },
+  {
+    "id": "4376",
+    "candidate_id": "258",
+    "district_id": "5201",
+    "vote_count": 36916
+  },
+  {
+    "id": "4377",
+    "candidate_id": "76",
+    "district_id": "5201",
+    "vote_count": 37719
+  },
+  {
+    "id": "4378",
+    "candidate_id": "137",
+    "district_id": "5201",
+    "vote_count": 26519
+  },
+  {
+    "id": "4379",
+    "candidate_id": "70",
+    "district_id": "5201",
+    "vote_count": 19231
+  },
+  {
+    "id": "4380",
+    "candidate_id": "98",
+    "district_id": "5201",
+    "vote_count": 9708
+  },
+  {
+    "id": "4381",
+    "candidate_id": "32",
+    "district_id": "5202",
+    "vote_count": 26646
+  },
+  {
+    "id": "4382",
+    "candidate_id": "248",
+    "district_id": "5202",
+    "vote_count": 28609
+  },
+  {
+    "id": "4383",
+    "candidate_id": "126",
+    "district_id": "5202",
+    "vote_count": 23701
+  },
+  {
+    "id": "4384",
+    "candidate_id": "201",
+    "district_id": "5202",
+    "vote_count": 23777
+  },
+  {
+    "id": "4385",
+    "candidate_id": "192",
+    "district_id": "5202",
+    "vote_count": 33648
+  },
+  {
+    "id": "4386",
+    "candidate_id": "217",
+    "district_id": "5202",
+    "vote_count": 24831
+  },
+  {
+    "id": "4387",
+    "candidate_id": "36",
+    "district_id": "5202",
+    "vote_count": 17906
+  },
+  {
+    "id": "4388",
+    "candidate_id": "185",
+    "district_id": "5202",
+    "vote_count": 17602
+  },
+  {
+    "id": "4389",
+    "candidate_id": "33",
+    "district_id": "5202",
+    "vote_count": 30295
+  },
+  {
+    "id": "4390",
+    "candidate_id": "90",
+    "district_id": "5202",
+    "vote_count": 18106
+  },
+  {
+    "id": "4391",
+    "candidate_id": "61",
+    "district_id": "5202",
+    "vote_count": 32903
+  },
+  {
+    "id": "4392",
+    "candidate_id": "51",
+    "district_id": "5202",
+    "vote_count": 9993
+  },
+  {
+    "id": "4393",
+    "candidate_id": "19",
+    "district_id": "5202",
+    "vote_count": 15105
+  },
+  {
+    "id": "4394",
+    "candidate_id": "140",
+    "district_id": "5202",
+    "vote_count": 1654
+  },
+  {
+    "id": "4395",
+    "candidate_id": "186",
+    "district_id": "5202",
+    "vote_count": 6286
+  },
+  {
+    "id": "4396",
+    "candidate_id": "51",
+    "district_id": "5203",
+    "vote_count": 36362
+  },
+  {
+    "id": "4397",
+    "candidate_id": "256",
+    "district_id": "5203",
+    "vote_count": 21122
+  },
+  {
+    "id": "4398",
+    "candidate_id": "116",
+    "district_id": "5203",
+    "vote_count": 1255
+  },
+  {
+    "id": "4399",
+    "candidate_id": "1",
+    "district_id": "5203",
+    "vote_count": 2647
+  },
+  {
+    "id": "4400",
+    "candidate_id": "200",
+    "district_id": "5203",
+    "vote_count": 18758
+  },
+  {
+    "id": "4401",
+    "candidate_id": "78",
+    "district_id": "5203",
+    "vote_count": 22307
+  },
+  {
+    "id": "4402",
+    "candidate_id": "137",
+    "district_id": "5203",
+    "vote_count": 29
+  },
+  {
+    "id": "4403",
+    "candidate_id": "202",
+    "district_id": "5203",
+    "vote_count": 34679
+  },
+  {
+    "id": "4404",
+    "candidate_id": "230",
+    "district_id": "5203",
+    "vote_count": 5497
+  },
+  {
+    "id": "4405",
+    "candidate_id": "268",
+    "district_id": "5203",
+    "vote_count": 24068
+  },
+  {
+    "id": "4406",
+    "candidate_id": "258",
+    "district_id": "5203",
+    "vote_count": 23454
+  },
+  {
+    "id": "4407",
+    "candidate_id": "265",
+    "district_id": "5203",
+    "vote_count": 22329
+  },
+  {
+    "id": "4408",
+    "candidate_id": "16",
+    "district_id": "5203",
+    "vote_count": 25505
+  },
+  {
+    "id": "4409",
+    "candidate_id": "88",
+    "district_id": "5203",
+    "vote_count": 11840
+  },
+  {
+    "id": "4410",
+    "candidate_id": "178",
+    "district_id": "5203",
+    "vote_count": 22396
+  },
+  {
+    "id": "4411",
+    "candidate_id": "163",
+    "district_id": "5204",
+    "vote_count": 3835
+  },
+  {
+    "id": "4412",
+    "candidate_id": "26",
+    "district_id": "5204",
+    "vote_count": 34310
+  },
+  {
+    "id": "4413",
+    "candidate_id": "267",
+    "district_id": "5204",
+    "vote_count": 33459
+  },
+  {
+    "id": "4414",
+    "candidate_id": "201",
+    "district_id": "5204",
+    "vote_count": 36444
+  },
+  {
+    "id": "4415",
+    "candidate_id": "59",
+    "district_id": "5204",
+    "vote_count": 19269
+  },
+  {
+    "id": "4416",
+    "candidate_id": "139",
+    "district_id": "5204",
+    "vote_count": 2409
+  },
+  {
+    "id": "4417",
+    "candidate_id": "248",
+    "district_id": "5204",
+    "vote_count": 768
+  },
+  {
+    "id": "4418",
+    "candidate_id": "116",
+    "district_id": "5204",
+    "vote_count": 27055
+  },
+  {
+    "id": "4419",
+    "candidate_id": "113",
+    "district_id": "5204",
+    "vote_count": 11977
+  },
+  {
+    "id": "4420",
+    "candidate_id": "202",
+    "district_id": "5204",
+    "vote_count": 14168
+  },
+  {
+    "id": "4421",
+    "candidate_id": "16",
+    "district_id": "5204",
+    "vote_count": 39146
+  },
+  {
+    "id": "4422",
+    "candidate_id": "11",
+    "district_id": "5204",
+    "vote_count": 5775
+  },
+  {
+    "id": "4423",
+    "candidate_id": "146",
+    "district_id": "5204",
+    "vote_count": 29113
+  },
+  {
+    "id": "4424",
+    "candidate_id": "264",
+    "district_id": "5204",
+    "vote_count": 36944
+  },
+  {
+    "id": "4425",
+    "candidate_id": "178",
+    "district_id": "5204",
+    "vote_count": 28350
+  },
+  {
+    "id": "4426",
+    "candidate_id": "217",
+    "district_id": "5601",
+    "vote_count": 14855
+  },
+  {
+    "id": "4427",
+    "candidate_id": "87",
+    "district_id": "5601",
+    "vote_count": 28104
+  },
+  {
+    "id": "4428",
+    "candidate_id": "80",
+    "district_id": "5601",
+    "vote_count": 26194
+  },
+  {
+    "id": "4429",
+    "candidate_id": "93",
+    "district_id": "5601",
+    "vote_count": 20902
+  },
+  {
+    "id": "4430",
+    "candidate_id": "92",
+    "district_id": "5601",
+    "vote_count": 17050
+  },
+  {
+    "id": "4431",
+    "candidate_id": "69",
+    "district_id": "5601",
+    "vote_count": 31982
+  },
+  {
+    "id": "4432",
+    "candidate_id": "70",
+    "district_id": "5601",
+    "vote_count": 34420
+  },
+  {
+    "id": "4433",
+    "candidate_id": "71",
+    "district_id": "5601",
+    "vote_count": 37681
+  },
+  {
+    "id": "4434",
+    "candidate_id": "91",
+    "district_id": "5601",
+    "vote_count": 10514
+  },
+  {
+    "id": "4435",
+    "candidate_id": "73",
+    "district_id": "5601",
+    "vote_count": 26411
+  },
+  {
+    "id": "4436",
+    "candidate_id": "96",
+    "district_id": "5601",
+    "vote_count": 21410
+  },
+  {
+    "id": "4437",
+    "candidate_id": "77",
+    "district_id": "5601",
+    "vote_count": 37350
+  },
+  {
+    "id": "4438",
+    "candidate_id": "101",
+    "district_id": "5601",
+    "vote_count": 20036
+  },
+  {
+    "id": "4439",
+    "candidate_id": "1",
+    "district_id": "5601",
+    "vote_count": 2194
+  },
+  {
+    "id": "4440",
+    "candidate_id": "132",
+    "district_id": "5601",
+    "vote_count": 35047
+  },
+  {
+    "id": "4441",
+    "candidate_id": "4",
+    "district_id": "5602",
+    "vote_count": 22196
+  },
+  {
+    "id": "4442",
+    "candidate_id": "236",
+    "district_id": "5602",
+    "vote_count": 34733
+  },
+  {
+    "id": "4443",
+    "candidate_id": "196",
+    "district_id": "5602",
+    "vote_count": 37727
+  },
+  {
+    "id": "4444",
+    "candidate_id": "222",
+    "district_id": "5602",
+    "vote_count": 8116
+  },
+  {
+    "id": "4445",
+    "candidate_id": "229",
+    "district_id": "5602",
+    "vote_count": 897
+  },
+  {
+    "id": "4446",
+    "candidate_id": "190",
+    "district_id": "5602",
+    "vote_count": 15665
+  },
+  {
+    "id": "4447",
+    "candidate_id": "218",
+    "district_id": "5602",
+    "vote_count": 29219
+  },
+  {
+    "id": "4448",
+    "candidate_id": "117",
+    "district_id": "5602",
+    "vote_count": 30424
+  },
+  {
+    "id": "4449",
+    "candidate_id": "61",
+    "district_id": "5602",
+    "vote_count": 34899
+  },
+  {
+    "id": "4450",
+    "candidate_id": "212",
+    "district_id": "5602",
+    "vote_count": 32875
+  },
+  {
+    "id": "4451",
+    "candidate_id": "57",
+    "district_id": "5602",
+    "vote_count": 37055
+  },
+  {
+    "id": "4452",
+    "candidate_id": "2",
+    "district_id": "5602",
+    "vote_count": 29722
+  },
+  {
+    "id": "4453",
+    "candidate_id": "24",
+    "district_id": "5602",
+    "vote_count": 13655
+  },
+  {
+    "id": "4454",
+    "candidate_id": "48",
+    "district_id": "5602",
+    "vote_count": 28233
+  },
+  {
+    "id": "4455",
+    "candidate_id": "238",
+    "district_id": "5602",
+    "vote_count": 4738
+  },
+  {
+    "id": "4456",
+    "candidate_id": "265",
+    "district_id": "5603",
+    "vote_count": 20920
+  },
+  {
+    "id": "4457",
+    "candidate_id": "216",
+    "district_id": "5603",
+    "vote_count": 227
+  },
+  {
+    "id": "4458",
+    "candidate_id": "246",
+    "district_id": "5603",
+    "vote_count": 20916
+  },
+  {
+    "id": "4459",
+    "candidate_id": "248",
+    "district_id": "5603",
+    "vote_count": 11483
+  },
+  {
+    "id": "4460",
+    "candidate_id": "95",
+    "district_id": "5603",
+    "vote_count": 21072
+  },
+  {
+    "id": "4461",
+    "candidate_id": "141",
+    "district_id": "5603",
+    "vote_count": 29052
+  },
+  {
+    "id": "4462",
+    "candidate_id": "102",
+    "district_id": "5603",
+    "vote_count": 9564
+  },
+  {
+    "id": "4463",
+    "candidate_id": "175",
+    "district_id": "5603",
+    "vote_count": 36033
+  },
+  {
+    "id": "4464",
+    "candidate_id": "103",
+    "district_id": "5603",
+    "vote_count": 22185
+  },
+  {
+    "id": "4465",
+    "candidate_id": "148",
+    "district_id": "5603",
+    "vote_count": 21038
+  },
+  {
+    "id": "4466",
+    "candidate_id": "224",
+    "district_id": "5603",
+    "vote_count": 36051
+  },
+  {
+    "id": "4467",
+    "candidate_id": "120",
+    "district_id": "5603",
+    "vote_count": 22773
+  },
+  {
+    "id": "4468",
+    "candidate_id": "110",
+    "district_id": "5603",
+    "vote_count": 32804
+  },
+  {
+    "id": "4469",
+    "candidate_id": "43",
+    "district_id": "5603",
+    "vote_count": 11272
+  },
+  {
+    "id": "4470",
+    "candidate_id": "39",
+    "district_id": "5603",
+    "vote_count": 33919
+  },
+  {
+    "id": "4471",
+    "candidate_id": "205",
+    "district_id": "5501",
+    "vote_count": 26938
+  },
+  {
+    "id": "4472",
+    "candidate_id": "234",
+    "district_id": "5501",
+    "vote_count": 20736
+  },
+  {
+    "id": "4473",
+    "candidate_id": "200",
+    "district_id": "5501",
+    "vote_count": 34625
+  },
+  {
+    "id": "4474",
+    "candidate_id": "141",
+    "district_id": "5501",
+    "vote_count": 19038
+  },
+  {
+    "id": "4475",
+    "candidate_id": "211",
+    "district_id": "5501",
+    "vote_count": 24923
+  },
+  {
+    "id": "4476",
+    "candidate_id": "147",
+    "district_id": "5501",
+    "vote_count": 6328
+  },
+  {
+    "id": "4477",
+    "candidate_id": "238",
+    "district_id": "5501",
+    "vote_count": 39507
+  },
+  {
+    "id": "4478",
+    "candidate_id": "184",
+    "district_id": "5501",
+    "vote_count": 10509
+  },
+  {
+    "id": "4479",
+    "candidate_id": "224",
+    "district_id": "5501",
+    "vote_count": 20576
+  },
+  {
+    "id": "4480",
+    "candidate_id": "96",
+    "district_id": "5501",
+    "vote_count": 3450
+  },
+  {
+    "id": "4481",
+    "candidate_id": "83",
+    "district_id": "5501",
+    "vote_count": 20460
+  },
+  {
+    "id": "4482",
+    "candidate_id": "216",
+    "district_id": "5501",
+    "vote_count": 6729
+  },
+  {
+    "id": "4483",
+    "candidate_id": "191",
+    "district_id": "5501",
+    "vote_count": 32439
+  },
+  {
+    "id": "4484",
+    "candidate_id": "233",
+    "district_id": "5501",
+    "vote_count": 19894
+  },
+  {
+    "id": "4485",
+    "candidate_id": "70",
+    "district_id": "5501",
+    "vote_count": 211
+  },
+  {
+    "id": "4486",
+    "candidate_id": "212",
+    "district_id": "5502",
+    "vote_count": 34365
+  },
+  {
+    "id": "4487",
+    "candidate_id": "253",
+    "district_id": "5502",
+    "vote_count": 24947
+  },
+  {
+    "id": "4488",
+    "candidate_id": "136",
+    "district_id": "5502",
+    "vote_count": 2442
+  },
+  {
+    "id": "4489",
+    "candidate_id": "173",
+    "district_id": "5502",
+    "vote_count": 38239
+  },
+  {
+    "id": "4490",
+    "candidate_id": "123",
+    "district_id": "5502",
+    "vote_count": 38013
+  },
+  {
+    "id": "4491",
+    "candidate_id": "240",
+    "district_id": "5502",
+    "vote_count": 20320
+  },
+  {
+    "id": "4492",
+    "candidate_id": "236",
+    "district_id": "5502",
+    "vote_count": 37242
+  },
+  {
+    "id": "4493",
+    "candidate_id": "24",
+    "district_id": "5502",
+    "vote_count": 33494
+  },
+  {
+    "id": "4494",
+    "candidate_id": "129",
+    "district_id": "5502",
+    "vote_count": 1320
+  },
+  {
+    "id": "4495",
+    "candidate_id": "48",
+    "district_id": "5502",
+    "vote_count": 2608
+  },
+  {
+    "id": "4496",
+    "candidate_id": "2",
+    "district_id": "5502",
+    "vote_count": 18703
+  },
+  {
+    "id": "4497",
+    "candidate_id": "180",
+    "district_id": "5502",
+    "vote_count": 16661
+  },
+  {
+    "id": "4498",
+    "candidate_id": "261",
+    "district_id": "5502",
+    "vote_count": 25253
+  },
+  {
+    "id": "4499",
+    "candidate_id": "256",
+    "district_id": "5502",
+    "vote_count": 6227
+  },
+  {
+    "id": "4500",
+    "candidate_id": "91",
+    "district_id": "5502",
+    "vote_count": 31306
+  },
+  {
+    "id": "4501",
+    "candidate_id": "184",
+    "district_id": "5503",
+    "vote_count": 19175
+  },
+  {
+    "id": "4502",
+    "candidate_id": "111",
+    "district_id": "5503",
+    "vote_count": 7046
+  },
+  {
+    "id": "4503",
+    "candidate_id": "258",
+    "district_id": "5503",
+    "vote_count": 32106
+  },
+  {
+    "id": "4504",
+    "candidate_id": "16",
+    "district_id": "5503",
+    "vote_count": 21985
+  },
+  {
+    "id": "4505",
+    "candidate_id": "194",
+    "district_id": "5503",
+    "vote_count": 20805
+  },
+  {
+    "id": "4506",
+    "candidate_id": "219",
+    "district_id": "5503",
+    "vote_count": 19895
+  },
+  {
+    "id": "4507",
+    "candidate_id": "227",
+    "district_id": "5503",
+    "vote_count": 7872
+  },
+  {
+    "id": "4508",
+    "candidate_id": "190",
+    "district_id": "5503",
+    "vote_count": 20970
+  },
+  {
+    "id": "4509",
+    "candidate_id": "163",
+    "district_id": "5503",
+    "vote_count": 17889
+  },
+  {
+    "id": "4510",
+    "candidate_id": "112",
+    "district_id": "5503",
+    "vote_count": 13510
+  },
+  {
+    "id": "4511",
+    "candidate_id": "74",
+    "district_id": "5503",
+    "vote_count": 9482
+  },
+  {
+    "id": "4512",
+    "candidate_id": "148",
+    "district_id": "5503",
+    "vote_count": 20976
+  },
+  {
+    "id": "4513",
+    "candidate_id": "128",
+    "district_id": "5503",
+    "vote_count": 34271
+  },
+  {
+    "id": "4514",
+    "candidate_id": "136",
+    "district_id": "5503",
+    "vote_count": 37956
+  },
+  {
+    "id": "4515",
+    "candidate_id": "58",
+    "district_id": "5503",
+    "vote_count": 12693
+  },
+  {
+    "id": "4516",
+    "candidate_id": "175",
+    "district_id": "5401",
+    "vote_count": 3465
+  },
+  {
+    "id": "4517",
+    "candidate_id": "35",
+    "district_id": "5401",
+    "vote_count": 14473
+  },
+  {
+    "id": "4518",
+    "candidate_id": "66",
+    "district_id": "5401",
+    "vote_count": 25547
+  },
+  {
+    "id": "4519",
+    "candidate_id": "36",
+    "district_id": "5401",
+    "vote_count": 36237
+  },
+  {
+    "id": "4520",
+    "candidate_id": "15",
+    "district_id": "5401",
+    "vote_count": 9494
+  },
+  {
+    "id": "4521",
+    "candidate_id": "28",
+    "district_id": "5401",
+    "vote_count": 34189
+  },
+  {
+    "id": "4522",
+    "candidate_id": "16",
+    "district_id": "5401",
+    "vote_count": 7512
+  },
+  {
+    "id": "4523",
+    "candidate_id": "40",
+    "district_id": "5401",
+    "vote_count": 3648
+  },
+  {
+    "id": "4524",
+    "candidate_id": "19",
+    "district_id": "5401",
+    "vote_count": 30328
+  },
+  {
+    "id": "4525",
+    "candidate_id": "27",
+    "district_id": "5401",
+    "vote_count": 26656
+  },
+  {
+    "id": "4526",
+    "candidate_id": "103",
+    "district_id": "5401",
+    "vote_count": 29134
+  },
+  {
+    "id": "4527",
+    "candidate_id": "133",
+    "district_id": "5401",
+    "vote_count": 15432
+  },
+  {
+    "id": "4528",
+    "candidate_id": "24",
+    "district_id": "5401",
+    "vote_count": 2131
+  },
+  {
+    "id": "4529",
+    "candidate_id": "4",
+    "district_id": "5401",
+    "vote_count": 9417
+  },
+  {
+    "id": "4530",
+    "candidate_id": "23",
+    "district_id": "5401",
+    "vote_count": 3164
+  },
+  {
+    "id": "4531",
+    "candidate_id": "202",
+    "district_id": "5402",
+    "vote_count": 3758
+  },
+  {
+    "id": "4532",
+    "candidate_id": "133",
+    "district_id": "5402",
+    "vote_count": 37312
+  },
+  {
+    "id": "4533",
+    "candidate_id": "106",
+    "district_id": "5402",
+    "vote_count": 2288
+  },
+  {
+    "id": "4534",
+    "candidate_id": "87",
+    "district_id": "5402",
+    "vote_count": 25043
+  },
+  {
+    "id": "4535",
+    "candidate_id": "56",
+    "district_id": "5402",
+    "vote_count": 18492
+  },
+  {
+    "id": "4536",
+    "candidate_id": "61",
+    "district_id": "5402",
+    "vote_count": 38673
+  },
+  {
+    "id": "4537",
+    "candidate_id": "220",
+    "district_id": "5402",
+    "vote_count": 39656
+  },
+  {
+    "id": "4538",
+    "candidate_id": "208",
+    "district_id": "5402",
+    "vote_count": 34971
+  },
+  {
+    "id": "4539",
+    "candidate_id": "215",
+    "district_id": "5402",
+    "vote_count": 30911
+  },
+  {
+    "id": "4540",
+    "candidate_id": "31",
+    "district_id": "5402",
+    "vote_count": 26310
+  },
+  {
+    "id": "4541",
+    "candidate_id": "272",
+    "district_id": "5402",
+    "vote_count": 33121
+  },
+  {
+    "id": "4542",
+    "candidate_id": "24",
+    "district_id": "5402",
+    "vote_count": 39660
+  },
+  {
+    "id": "4543",
+    "candidate_id": "23",
+    "district_id": "5402",
+    "vote_count": 22217
+  },
+  {
+    "id": "4544",
+    "candidate_id": "22",
+    "district_id": "5402",
+    "vote_count": 10182
+  },
+  {
+    "id": "4545",
+    "candidate_id": "4",
+    "district_id": "5402",
+    "vote_count": 32605
+  },
+  {
+    "id": "4546",
+    "candidate_id": "249",
+    "district_id": "5403",
+    "vote_count": 23677
+  },
+  {
+    "id": "4547",
+    "candidate_id": "179",
+    "district_id": "5403",
+    "vote_count": 19664
+  },
+  {
+    "id": "4548",
+    "candidate_id": "2",
+    "district_id": "5403",
+    "vote_count": 12867
+  },
+  {
+    "id": "4549",
+    "candidate_id": "113",
+    "district_id": "5403",
+    "vote_count": 35617
+  },
+  {
+    "id": "4550",
+    "candidate_id": "145",
+    "district_id": "5403",
+    "vote_count": 26980
+  },
+  {
+    "id": "4551",
+    "candidate_id": "173",
+    "district_id": "5403",
+    "vote_count": 3827
+  },
+  {
+    "id": "4552",
+    "candidate_id": "71",
+    "district_id": "5403",
+    "vote_count": 32998
+  },
+  {
+    "id": "4553",
+    "candidate_id": "208",
+    "district_id": "5403",
+    "vote_count": 25167
+  },
+  {
+    "id": "4554",
+    "candidate_id": "68",
+    "district_id": "5403",
+    "vote_count": 16582
+  },
+  {
+    "id": "4555",
+    "candidate_id": "170",
+    "district_id": "5403",
+    "vote_count": 31537
+  },
+  {
+    "id": "4556",
+    "candidate_id": "83",
+    "district_id": "5403",
+    "vote_count": 17702
+  },
+  {
+    "id": "4557",
+    "candidate_id": "35",
+    "district_id": "5403",
+    "vote_count": 8964
+  },
+  {
+    "id": "4558",
+    "candidate_id": "49",
+    "district_id": "5403",
+    "vote_count": 19374
+  },
+  {
+    "id": "4559",
+    "candidate_id": "91",
+    "district_id": "5403",
+    "vote_count": 37656
+  },
+  {
+    "id": "4560",
+    "candidate_id": "13",
+    "district_id": "5403",
+    "vote_count": 24751
+  },
+  {
+    "id": "4561",
+    "candidate_id": "193",
+    "district_id": "6301",
+    "vote_count": 8388
+  },
+  {
+    "id": "4562",
+    "candidate_id": "174",
+    "district_id": "6301",
+    "vote_count": 16198
+  },
+  {
+    "id": "4563",
+    "candidate_id": "178",
+    "district_id": "6301",
+    "vote_count": 19168
+  },
+  {
+    "id": "4564",
+    "candidate_id": "187",
+    "district_id": "6301",
+    "vote_count": 34977
+  },
+  {
+    "id": "4565",
+    "candidate_id": "189",
+    "district_id": "6301",
+    "vote_count": 25416
+  },
+  {
+    "id": "4566",
+    "candidate_id": "161",
+    "district_id": "6301",
+    "vote_count": 21252
+  },
+  {
+    "id": "4567",
+    "candidate_id": "262",
+    "district_id": "6301",
+    "vote_count": 14614
+  },
+  {
+    "id": "4568",
+    "candidate_id": "186",
+    "district_id": "6301",
+    "vote_count": 39483
+  },
+  {
+    "id": "4569",
+    "candidate_id": "140",
+    "district_id": "6301",
+    "vote_count": 581
+  },
+  {
+    "id": "4570",
+    "candidate_id": "246",
+    "district_id": "6301",
+    "vote_count": 23987
+  },
+  {
+    "id": "4571",
+    "candidate_id": "267",
+    "district_id": "6301",
+    "vote_count": 18786
+  },
+  {
+    "id": "4572",
+    "candidate_id": "250",
+    "district_id": "6301",
+    "vote_count": 33339
+  },
+  {
+    "id": "4573",
+    "candidate_id": "256",
+    "district_id": "6301",
+    "vote_count": 33068
+  },
+  {
+    "id": "4574",
+    "candidate_id": "239",
+    "district_id": "6301",
+    "vote_count": 38682
+  },
+  {
+    "id": "4575",
+    "candidate_id": "84",
+    "district_id": "6301",
+    "vote_count": 25479
+  },
+  {
+    "id": "4576",
+    "candidate_id": "119",
+    "district_id": "6302",
+    "vote_count": 13805
+  },
+  {
+    "id": "4577",
+    "candidate_id": "97",
+    "district_id": "6302",
+    "vote_count": 2177
+  },
+  {
+    "id": "4578",
+    "candidate_id": "245",
+    "district_id": "6302",
+    "vote_count": 5043
+  },
+  {
+    "id": "4579",
+    "candidate_id": "19",
+    "district_id": "6302",
+    "vote_count": 8886
+  },
+  {
+    "id": "4580",
+    "candidate_id": "183",
+    "district_id": "6302",
+    "vote_count": 3022
+  },
+  {
+    "id": "4581",
+    "candidate_id": "235",
+    "district_id": "6302",
+    "vote_count": 23594
+  },
+  {
+    "id": "4582",
+    "candidate_id": "8",
+    "district_id": "6302",
+    "vote_count": 24006
+  },
+  {
+    "id": "4583",
+    "candidate_id": "190",
+    "district_id": "6302",
+    "vote_count": 10084
+  },
+  {
+    "id": "4584",
+    "candidate_id": "5",
+    "district_id": "6302",
+    "vote_count": 29115
+  },
+  {
+    "id": "4585",
+    "candidate_id": "247",
+    "district_id": "6302",
+    "vote_count": 21619
+  },
+  {
+    "id": "4586",
+    "candidate_id": "192",
+    "district_id": "6302",
+    "vote_count": 14691
+  },
+  {
+    "id": "4587",
+    "candidate_id": "250",
+    "district_id": "6302",
+    "vote_count": 18396
+  },
+  {
+    "id": "4588",
+    "candidate_id": "239",
+    "district_id": "6302",
+    "vote_count": 20500
+  },
+  {
+    "id": "4589",
+    "candidate_id": "206",
+    "district_id": "6302",
+    "vote_count": 35696
+  },
+  {
+    "id": "4590",
+    "candidate_id": "181",
+    "district_id": "6302",
+    "vote_count": 31740
+  },
+  {
+    "id": "4591",
+    "candidate_id": "68",
+    "district_id": "6303",
+    "vote_count": 34515
+  },
+  {
+    "id": "4592",
+    "candidate_id": "41",
+    "district_id": "6303",
+    "vote_count": 18739
+  },
+  {
+    "id": "4593",
+    "candidate_id": "150",
+    "district_id": "6303",
+    "vote_count": 5713
+  },
+  {
+    "id": "4594",
+    "candidate_id": "40",
+    "district_id": "6303",
+    "vote_count": 488
+  },
+  {
+    "id": "4595",
+    "candidate_id": "219",
+    "district_id": "6303",
+    "vote_count": 29222
+  },
+  {
+    "id": "4596",
+    "candidate_id": "28",
+    "district_id": "6303",
+    "vote_count": 17767
+  },
+  {
+    "id": "4597",
+    "candidate_id": "190",
+    "district_id": "6303",
+    "vote_count": 23712
+  },
+  {
+    "id": "4598",
+    "candidate_id": "46",
+    "district_id": "6303",
+    "vote_count": 11189
+  },
+  {
+    "id": "4599",
+    "candidate_id": "238",
+    "district_id": "6303",
+    "vote_count": 888
+  },
+  {
+    "id": "4600",
+    "candidate_id": "111",
+    "district_id": "6303",
+    "vote_count": 7783
+  },
+  {
+    "id": "4601",
+    "candidate_id": "180",
+    "district_id": "6303",
+    "vote_count": 21076
+  },
+  {
+    "id": "4602",
+    "candidate_id": "206",
+    "district_id": "6303",
+    "vote_count": 30684
+  },
+  {
+    "id": "4603",
+    "candidate_id": "125",
+    "district_id": "6303",
+    "vote_count": 29249
+  },
+  {
+    "id": "4604",
+    "candidate_id": "224",
+    "district_id": "6303",
+    "vote_count": 33484
+  },
+  {
+    "id": "4605",
+    "candidate_id": "23",
+    "district_id": "6303",
+    "vote_count": 36379
+  },
+  {
+    "id": "4606",
+    "candidate_id": "131",
+    "district_id": "6401",
+    "vote_count": 35550
+  },
+  {
+    "id": "4607",
+    "candidate_id": "36",
+    "district_id": "6401",
+    "vote_count": 2604
+  },
+  {
+    "id": "4608",
+    "candidate_id": "48",
+    "district_id": "6401",
+    "vote_count": 13995
+  },
+  {
+    "id": "4609",
+    "candidate_id": "53",
+    "district_id": "6401",
+    "vote_count": 5794
+  },
+  {
+    "id": "4610",
+    "candidate_id": "49",
+    "district_id": "6401",
+    "vote_count": 23181
+  },
+  {
+    "id": "4611",
+    "candidate_id": "40",
+    "district_id": "6401",
+    "vote_count": 38857
+  },
+  {
+    "id": "4612",
+    "candidate_id": "61",
+    "district_id": "6401",
+    "vote_count": 12401
+  },
+  {
+    "id": "4613",
+    "candidate_id": "218",
+    "district_id": "6401",
+    "vote_count": 34778
+  },
+  {
+    "id": "4614",
+    "candidate_id": "38",
+    "district_id": "6401",
+    "vote_count": 10111
+  },
+  {
+    "id": "4615",
+    "candidate_id": "242",
+    "district_id": "6401",
+    "vote_count": 24178
+  },
+  {
+    "id": "4616",
+    "candidate_id": "51",
+    "district_id": "6401",
+    "vote_count": 19054
+  },
+  {
+    "id": "4617",
+    "candidate_id": "247",
+    "district_id": "6401",
+    "vote_count": 38167
+  },
+  {
+    "id": "4618",
+    "candidate_id": "52",
+    "district_id": "6401",
+    "vote_count": 15199
+  },
+  {
+    "id": "4619",
+    "candidate_id": "173",
+    "district_id": "6401",
+    "vote_count": 27090
+  },
+  {
+    "id": "4620",
+    "candidate_id": "250",
+    "district_id": "6401",
+    "vote_count": 17019
+  },
+  {
+    "id": "4621",
+    "candidate_id": "83",
+    "district_id": "6402",
+    "vote_count": 18315
+  },
+  {
+    "id": "4622",
+    "candidate_id": "118",
+    "district_id": "6402",
+    "vote_count": 31528
+  },
+  {
+    "id": "4623",
+    "candidate_id": "222",
+    "district_id": "6402",
+    "vote_count": 22706
+  },
+  {
+    "id": "4624",
+    "candidate_id": "18",
+    "district_id": "6402",
+    "vote_count": 30164
+  },
+  {
+    "id": "4625",
+    "candidate_id": "217",
+    "district_id": "6402",
+    "vote_count": 2274
+  },
+  {
+    "id": "4626",
+    "candidate_id": "178",
+    "district_id": "6402",
+    "vote_count": 8467
+  },
+  {
+    "id": "4627",
+    "candidate_id": "228",
+    "district_id": "6402",
+    "vote_count": 20271
+  },
+  {
+    "id": "4628",
+    "candidate_id": "61",
+    "district_id": "6402",
+    "vote_count": 25891
+  },
+  {
+    "id": "4629",
+    "candidate_id": "13",
+    "district_id": "6402",
+    "vote_count": 10532
+  },
+  {
+    "id": "4630",
+    "candidate_id": "92",
+    "district_id": "6402",
+    "vote_count": 5472
+  },
+  {
+    "id": "4631",
+    "candidate_id": "190",
+    "district_id": "6402",
+    "vote_count": 30391
+  },
+  {
+    "id": "4632",
+    "candidate_id": "74",
+    "district_id": "6402",
+    "vote_count": 20692
+  },
+  {
+    "id": "4633",
+    "candidate_id": "33",
+    "district_id": "6402",
+    "vote_count": 14516
+  },
+  {
+    "id": "4634",
+    "candidate_id": "182",
+    "district_id": "6402",
+    "vote_count": 28183
+  },
+  {
+    "id": "4635",
+    "candidate_id": "134",
+    "district_id": "6402",
+    "vote_count": 29611
+  },
+  {
+    "id": "4636",
+    "candidate_id": "202",
+    "district_id": "6403",
+    "vote_count": 38167
+  },
+  {
+    "id": "4637",
+    "candidate_id": "254",
+    "district_id": "6403",
+    "vote_count": 13965
+  },
+  {
+    "id": "4638",
+    "candidate_id": "228",
+    "district_id": "6403",
+    "vote_count": 36945
+  },
+  {
+    "id": "4639",
+    "candidate_id": "61",
+    "district_id": "6403",
+    "vote_count": 3025
+  },
+  {
+    "id": "4640",
+    "candidate_id": "81",
+    "district_id": "6403",
+    "vote_count": 26495
+  },
+  {
+    "id": "4641",
+    "candidate_id": "170",
+    "district_id": "6403",
+    "vote_count": 25022
+  },
+  {
+    "id": "4642",
+    "candidate_id": "114",
+    "district_id": "6403",
+    "vote_count": 309
+  },
+  {
+    "id": "4643",
+    "candidate_id": "178",
+    "district_id": "6403",
+    "vote_count": 15075
+  },
+  {
+    "id": "4644",
+    "candidate_id": "3",
+    "district_id": "6403",
+    "vote_count": 19236
+  },
+  {
+    "id": "4645",
+    "candidate_id": "183",
+    "district_id": "6403",
+    "vote_count": 12355
+  },
+  {
+    "id": "4646",
+    "candidate_id": "147",
+    "district_id": "6403",
+    "vote_count": 30413
+  },
+  {
+    "id": "4647",
+    "candidate_id": "87",
+    "district_id": "6403",
+    "vote_count": 36981
+  },
+  {
+    "id": "4648",
+    "candidate_id": "64",
+    "district_id": "6403",
+    "vote_count": 720
+  },
+  {
+    "id": "4649",
+    "candidate_id": "214",
+    "district_id": "6403",
+    "vote_count": 4918
+  },
+  {
+    "id": "4650",
+    "candidate_id": "259",
+    "district_id": "6403",
+    "vote_count": 33690
+  },
+  {
+    "id": "4651",
+    "candidate_id": "93",
+    "district_id": "6404",
+    "vote_count": 17233
+  },
+  {
+    "id": "4652",
+    "candidate_id": "147",
+    "district_id": "6404",
+    "vote_count": 2849
+  },
+  {
+    "id": "4653",
+    "candidate_id": "261",
+    "district_id": "6404",
+    "vote_count": 648
+  },
+  {
+    "id": "4654",
+    "candidate_id": "254",
+    "district_id": "6404",
+    "vote_count": 20931
+  },
+  {
+    "id": "4655",
+    "candidate_id": "14",
+    "district_id": "6404",
+    "vote_count": 31833
+  },
+  {
+    "id": "4656",
+    "candidate_id": "85",
+    "district_id": "6404",
+    "vote_count": 39249
+  },
+  {
+    "id": "4657",
+    "candidate_id": "61",
+    "district_id": "6404",
+    "vote_count": 8932
+  },
+  {
+    "id": "4658",
+    "candidate_id": "13",
+    "district_id": "6404",
+    "vote_count": 16485
+  },
+  {
+    "id": "4659",
+    "candidate_id": "26",
+    "district_id": "6404",
+    "vote_count": 19923
+  },
+  {
+    "id": "4660",
+    "candidate_id": "81",
+    "district_id": "6404",
+    "vote_count": 4069
+  },
+  {
+    "id": "4661",
+    "candidate_id": "259",
+    "district_id": "6404",
+    "vote_count": 25326
+  },
+  {
+    "id": "4662",
+    "candidate_id": "191",
+    "district_id": "6404",
+    "vote_count": 14193
+  },
+  {
+    "id": "4663",
+    "candidate_id": "116",
+    "district_id": "6404",
+    "vote_count": 3062
+  },
+  {
+    "id": "4664",
+    "candidate_id": "245",
+    "district_id": "6404",
+    "vote_count": 25765
+  },
+  {
+    "id": "4665",
+    "candidate_id": "69",
+    "district_id": "6404",
+    "vote_count": 14539
+  },
+  {
+    "id": "4666",
+    "candidate_id": "88",
+    "district_id": "6501",
+    "vote_count": 20292
+  },
+  {
+    "id": "4667",
+    "candidate_id": "132",
+    "district_id": "6501",
+    "vote_count": 15024
+  },
+  {
+    "id": "4668",
+    "candidate_id": "118",
+    "district_id": "6501",
+    "vote_count": 30289
+  },
+  {
+    "id": "4669",
+    "candidate_id": "204",
+    "district_id": "6501",
+    "vote_count": 25323
+  },
+  {
+    "id": "4670",
+    "candidate_id": "126",
+    "district_id": "6501",
+    "vote_count": 37953
+  },
+  {
+    "id": "4671",
+    "candidate_id": "82",
+    "district_id": "6501",
+    "vote_count": 8614
+  },
+  {
+    "id": "4672",
+    "candidate_id": "205",
+    "district_id": "6501",
+    "vote_count": 11530
+  },
+  {
+    "id": "4673",
+    "candidate_id": "74",
+    "district_id": "6501",
+    "vote_count": 24529
+  },
+  {
+    "id": "4674",
+    "candidate_id": "75",
+    "district_id": "6501",
+    "vote_count": 658
+  },
+  {
+    "id": "4675",
+    "candidate_id": "106",
+    "district_id": "6501",
+    "vote_count": 14366
+  },
+  {
+    "id": "4676",
+    "candidate_id": "147",
+    "district_id": "6501",
+    "vote_count": 16852
+  },
+  {
+    "id": "4677",
+    "candidate_id": "247",
+    "district_id": "6501",
+    "vote_count": 39155
+  },
+  {
+    "id": "4678",
+    "candidate_id": "43",
+    "district_id": "6501",
+    "vote_count": 8146
+  },
+  {
+    "id": "4679",
+    "candidate_id": "80",
+    "district_id": "6501",
+    "vote_count": 10513
+  },
+  {
+    "id": "4680",
+    "candidate_id": "208",
+    "district_id": "6501",
+    "vote_count": 27031
+  },
+  {
+    "id": "4681",
+    "candidate_id": "183",
+    "district_id": "6502",
+    "vote_count": 17452
+  },
+  {
+    "id": "4682",
+    "candidate_id": "37",
+    "district_id": "6502",
+    "vote_count": 3800
+  },
+  {
+    "id": "4683",
+    "candidate_id": "196",
+    "district_id": "6502",
+    "vote_count": 1616
+  },
+  {
+    "id": "4684",
+    "candidate_id": "64",
+    "district_id": "6502",
+    "vote_count": 10705
+  },
+  {
+    "id": "4685",
+    "candidate_id": "208",
+    "district_id": "6502",
+    "vote_count": 8462
+  },
+  {
+    "id": "4686",
+    "candidate_id": "174",
+    "district_id": "6502",
+    "vote_count": 25595
+  },
+  {
+    "id": "4687",
+    "candidate_id": "262",
+    "district_id": "6502",
+    "vote_count": 11243
+  },
+  {
+    "id": "4688",
+    "candidate_id": "168",
+    "district_id": "6502",
+    "vote_count": 39849
+  },
+  {
+    "id": "4689",
+    "candidate_id": "154",
+    "district_id": "6502",
+    "vote_count": 32105
+  },
+  {
+    "id": "4690",
+    "candidate_id": "113",
+    "district_id": "6502",
+    "vote_count": 12864
+  },
+  {
+    "id": "4691",
+    "candidate_id": "14",
+    "district_id": "6502",
+    "vote_count": 22582
+  },
+  {
+    "id": "4692",
+    "candidate_id": "39",
+    "district_id": "6502",
+    "vote_count": 12880
+  },
+  {
+    "id": "4693",
+    "candidate_id": "204",
+    "district_id": "6502",
+    "vote_count": 1105
+  },
+  {
+    "id": "4694",
+    "candidate_id": "16",
+    "district_id": "6502",
+    "vote_count": 28052
+  },
+  {
+    "id": "4695",
+    "candidate_id": "88",
+    "district_id": "6502",
+    "vote_count": 15828
+  },
+  {
+    "id": "4696",
+    "candidate_id": "249",
+    "district_id": "6503",
+    "vote_count": 7052
+  },
+  {
+    "id": "4697",
+    "candidate_id": "187",
+    "district_id": "6503",
+    "vote_count": 35064
+  },
+  {
+    "id": "4698",
+    "candidate_id": "127",
+    "district_id": "6503",
+    "vote_count": 18861
+  },
+  {
+    "id": "4699",
+    "candidate_id": "152",
+    "district_id": "6503",
+    "vote_count": 27228
+  },
+  {
+    "id": "4700",
+    "candidate_id": "82",
+    "district_id": "6503",
+    "vote_count": 24874
+  },
+  {
+    "id": "4701",
+    "candidate_id": "247",
+    "district_id": "6503",
+    "vote_count": 18936
+  },
+  {
+    "id": "4702",
+    "candidate_id": "183",
+    "district_id": "6503",
+    "vote_count": 39373
+  },
+  {
+    "id": "4703",
+    "candidate_id": "47",
+    "district_id": "6503",
+    "vote_count": 17821
+  },
+  {
+    "id": "4704",
+    "candidate_id": "192",
+    "district_id": "6503",
+    "vote_count": 31700
+  },
+  {
+    "id": "4705",
+    "candidate_id": "67",
+    "district_id": "6503",
+    "vote_count": 10400
+  },
+  {
+    "id": "4706",
+    "candidate_id": "142",
+    "district_id": "6503",
+    "vote_count": 9734
+  },
+  {
+    "id": "4707",
+    "candidate_id": "126",
+    "district_id": "6503",
+    "vote_count": 39414
+  },
+  {
+    "id": "4708",
+    "candidate_id": "18",
+    "district_id": "6503",
+    "vote_count": 10363
+  },
+  {
+    "id": "4709",
+    "candidate_id": "13",
+    "district_id": "6503",
+    "vote_count": 30942
+  },
+  {
+    "id": "4710",
+    "candidate_id": "163",
+    "district_id": "6503",
+    "vote_count": 36958
+  },
+  {
+    "id": "4711",
+    "candidate_id": "267",
+    "district_id": "6504",
+    "vote_count": 18493
+  },
+  {
+    "id": "4712",
+    "candidate_id": "214",
+    "district_id": "6504",
+    "vote_count": 13950
+  },
+  {
+    "id": "4713",
+    "candidate_id": "256",
+    "district_id": "6504",
+    "vote_count": 28258
+  },
+  {
+    "id": "4714",
+    "candidate_id": "86",
+    "district_id": "6504",
+    "vote_count": 39032
+  },
+  {
+    "id": "4715",
+    "candidate_id": "206",
+    "district_id": "6504",
+    "vote_count": 23100
+  },
+  {
+    "id": "4716",
+    "candidate_id": "27",
+    "district_id": "6504",
+    "vote_count": 27328
+  },
+  {
+    "id": "4717",
+    "candidate_id": "194",
+    "district_id": "6504",
+    "vote_count": 21237
+  },
+  {
+    "id": "4718",
+    "candidate_id": "177",
+    "district_id": "6504",
+    "vote_count": 26184
+  },
+  {
+    "id": "4719",
+    "candidate_id": "262",
+    "district_id": "6504",
+    "vote_count": 7905
+  },
+  {
+    "id": "4720",
+    "candidate_id": "185",
+    "district_id": "6504",
+    "vote_count": 116
+  },
+  {
+    "id": "4721",
+    "candidate_id": "224",
+    "district_id": "6504",
+    "vote_count": 31186
+  },
+  {
+    "id": "4722",
+    "candidate_id": "263",
+    "district_id": "6504",
+    "vote_count": 3158
+  },
+  {
+    "id": "4723",
+    "candidate_id": "23",
+    "district_id": "6504",
+    "vote_count": 30376
+  },
+  {
+    "id": "4724",
+    "candidate_id": "183",
+    "district_id": "6504",
+    "vote_count": 24962
+  },
+  {
+    "id": "4725",
+    "candidate_id": "30",
+    "district_id": "6504",
+    "vote_count": 16609
+  },
+  {
+    "id": "4726",
+    "candidate_id": "134",
+    "district_id": "6505",
+    "vote_count": 34233
+  },
+  {
+    "id": "4727",
+    "candidate_id": "83",
+    "district_id": "6505",
+    "vote_count": 16300
+  },
+  {
+    "id": "4728",
+    "candidate_id": "86",
+    "district_id": "6505",
+    "vote_count": 15367
+  },
+  {
+    "id": "4729",
+    "candidate_id": "243",
+    "district_id": "6505",
+    "vote_count": 29034
+  },
+  {
+    "id": "4730",
+    "candidate_id": "266",
+    "district_id": "6505",
+    "vote_count": 33987
+  },
+  {
+    "id": "4731",
+    "candidate_id": "164",
+    "district_id": "6505",
+    "vote_count": 13629
+  },
+  {
+    "id": "4732",
+    "candidate_id": "267",
+    "district_id": "6505",
+    "vote_count": 36003
+  },
+  {
+    "id": "4733",
+    "candidate_id": "21",
+    "district_id": "6505",
+    "vote_count": 36608
+  },
+  {
+    "id": "4734",
+    "candidate_id": "132",
+    "district_id": "6505",
+    "vote_count": 12245
+  },
+  {
+    "id": "4735",
+    "candidate_id": "142",
+    "district_id": "6505",
+    "vote_count": 28238
+  },
+  {
+    "id": "4736",
+    "candidate_id": "62",
+    "district_id": "6505",
+    "vote_count": 7354
+  },
+  {
+    "id": "4737",
+    "candidate_id": "74",
+    "district_id": "6505",
+    "vote_count": 2567
+  },
+  {
+    "id": "4738",
+    "candidate_id": "245",
+    "district_id": "6505",
+    "vote_count": 27524
+  },
+  {
+    "id": "4739",
+    "candidate_id": "252",
+    "district_id": "6505",
+    "vote_count": 19955
+  },
+  {
+    "id": "4740",
+    "candidate_id": "80",
+    "district_id": "6505",
+    "vote_count": 20910
+  },
+  {
+    "id": "4741",
+    "candidate_id": "1",
+    "district_id": "5301",
+    "vote_count": 38884
+  },
+  {
+    "id": "4742",
+    "candidate_id": "49",
+    "district_id": "5301",
+    "vote_count": 26787
+  },
+  {
+    "id": "4743",
+    "candidate_id": "72",
+    "district_id": "5301",
+    "vote_count": 38516
+  },
+  {
+    "id": "4744",
+    "candidate_id": "2",
+    "district_id": "5301",
+    "vote_count": 39807
+  },
+  {
+    "id": "4745",
+    "candidate_id": "31",
+    "district_id": "5301",
+    "vote_count": 26506
+  },
+  {
+    "id": "4746",
+    "candidate_id": "104",
+    "district_id": "5301",
+    "vote_count": 34495
+  },
+  {
+    "id": "4747",
+    "candidate_id": "17",
+    "district_id": "5301",
+    "vote_count": 1217
+  },
+  {
+    "id": "4748",
+    "candidate_id": "23",
+    "district_id": "5301",
+    "vote_count": 19628
+  },
+  {
+    "id": "4749",
+    "candidate_id": "59",
+    "district_id": "5301",
+    "vote_count": 2689
+  },
+  {
+    "id": "4750",
+    "candidate_id": "10",
+    "district_id": "5301",
+    "vote_count": 15063
+  },
+  {
+    "id": "4751",
+    "candidate_id": "124",
+    "district_id": "5301",
+    "vote_count": 13751
+  },
+  {
+    "id": "4752",
+    "candidate_id": "96",
+    "district_id": "5301",
+    "vote_count": 3104
+  },
+  {
+    "id": "4753",
+    "candidate_id": "24",
+    "district_id": "5301",
+    "vote_count": 4414
+  },
+  {
+    "id": "4754",
+    "candidate_id": "75",
+    "district_id": "5301",
+    "vote_count": 28766
+  },
+  {
+    "id": "4755",
+    "candidate_id": "116",
+    "district_id": "5301",
+    "vote_count": 7572
+  },
+  {
+    "id": "4756",
+    "candidate_id": "254",
+    "district_id": "5302",
+    "vote_count": 13907
+  },
+  {
+    "id": "4757",
+    "candidate_id": "13",
+    "district_id": "5302",
+    "vote_count": 4733
+  },
+  {
+    "id": "4758",
+    "candidate_id": "175",
+    "district_id": "5302",
+    "vote_count": 38417
+  },
+  {
+    "id": "4759",
+    "candidate_id": "85",
+    "district_id": "5302",
+    "vote_count": 27706
+  },
+  {
+    "id": "4760",
+    "candidate_id": "181",
+    "district_id": "5302",
+    "vote_count": 2396
+  },
+  {
+    "id": "4761",
+    "candidate_id": "58",
+    "district_id": "5302",
+    "vote_count": 33344
+  },
+  {
+    "id": "4762",
+    "candidate_id": "196",
+    "district_id": "5302",
+    "vote_count": 24865
+  },
+  {
+    "id": "4763",
+    "candidate_id": "146",
+    "district_id": "5302",
+    "vote_count": 39170
+  },
+  {
+    "id": "4764",
+    "candidate_id": "234",
+    "district_id": "5302",
+    "vote_count": 36176
+  },
+  {
+    "id": "4765",
+    "candidate_id": "86",
+    "district_id": "5302",
+    "vote_count": 9143
+  },
+  {
+    "id": "4766",
+    "candidate_id": "190",
+    "district_id": "5302",
+    "vote_count": 11780
+  },
+  {
+    "id": "4767",
+    "candidate_id": "68",
+    "district_id": "5302",
+    "vote_count": 5011
+  },
+  {
+    "id": "4768",
+    "candidate_id": "202",
+    "district_id": "5302",
+    "vote_count": 26210
+  },
+  {
+    "id": "4769",
+    "candidate_id": "182",
+    "district_id": "5302",
+    "vote_count": 10766
+  },
+  {
+    "id": "4770",
+    "candidate_id": "209",
+    "district_id": "5302",
+    "vote_count": 3375
+  },
+  {
+    "id": "4771",
+    "candidate_id": "55",
+    "district_id": "5303",
+    "vote_count": 29972
+  },
+  {
+    "id": "4772",
+    "candidate_id": "82",
+    "district_id": "5303",
+    "vote_count": 8284
+  },
+  {
+    "id": "4773",
+    "candidate_id": "146",
+    "district_id": "5303",
+    "vote_count": 34787
+  },
+  {
+    "id": "4774",
+    "candidate_id": "138",
+    "district_id": "5303",
+    "vote_count": 25786
+  },
+  {
+    "id": "4775",
+    "candidate_id": "23",
+    "district_id": "5303",
+    "vote_count": 26077
+  },
+  {
+    "id": "4776",
+    "candidate_id": "153",
+    "district_id": "5303",
+    "vote_count": 7714
+  },
+  {
+    "id": "4777",
+    "candidate_id": "50",
+    "district_id": "5303",
+    "vote_count": 31341
+  },
+  {
+    "id": "4778",
+    "candidate_id": "165",
+    "district_id": "5303",
+    "vote_count": 25128
+  },
+  {
+    "id": "4779",
+    "candidate_id": "145",
+    "district_id": "5303",
+    "vote_count": 32718
+  },
+  {
+    "id": "4780",
+    "candidate_id": "158",
+    "district_id": "5303",
+    "vote_count": 12684
+  },
+  {
+    "id": "4781",
+    "candidate_id": "124",
+    "district_id": "5303",
+    "vote_count": 27851
+  },
+  {
+    "id": "4782",
+    "candidate_id": "13",
+    "district_id": "5303",
+    "vote_count": 12186
+  },
+  {
+    "id": "4783",
+    "candidate_id": "204",
+    "district_id": "5303",
+    "vote_count": 36447
+  },
+  {
+    "id": "4784",
+    "candidate_id": "238",
+    "district_id": "5303",
+    "vote_count": 21894
+  },
+  {
+    "id": "4785",
+    "candidate_id": "130",
+    "district_id": "5303",
+    "vote_count": 17808
+  },
+  {
+    "id": "4786",
+    "candidate_id": "35",
+    "district_id": "6201",
+    "vote_count": 23860
+  },
+  {
+    "id": "4787",
+    "candidate_id": "200",
+    "district_id": "6201",
+    "vote_count": 1264
+  },
+  {
+    "id": "4788",
+    "candidate_id": "206",
+    "district_id": "6201",
+    "vote_count": 11600
+  },
+  {
+    "id": "4789",
+    "candidate_id": "105",
+    "district_id": "6201",
+    "vote_count": 7731
+  },
+  {
+    "id": "4790",
+    "candidate_id": "214",
+    "district_id": "6201",
+    "vote_count": 19684
+  },
+  {
+    "id": "4791",
+    "candidate_id": "145",
+    "district_id": "6201",
+    "vote_count": 7063
+  },
+  {
+    "id": "4792",
+    "candidate_id": "70",
+    "district_id": "6201",
+    "vote_count": 500
+  },
+  {
+    "id": "4793",
+    "candidate_id": "29",
+    "district_id": "6201",
+    "vote_count": 3500
+  },
+  {
+    "id": "4794",
+    "candidate_id": "104",
+    "district_id": "6201",
+    "vote_count": 9555
+  },
+  {
+    "id": "4795",
+    "candidate_id": "28",
+    "district_id": "6201",
+    "vote_count": 26000
+  },
+  {
+    "id": "4796",
+    "candidate_id": "201",
+    "district_id": "6201",
+    "vote_count": 6066
+  },
+  {
+    "id": "4797",
+    "candidate_id": "188",
+    "district_id": "6201",
+    "vote_count": 39871
+  },
+  {
+    "id": "4798",
+    "candidate_id": "211",
+    "district_id": "6201",
+    "vote_count": 35715
+  },
+  {
+    "id": "4799",
+    "candidate_id": "263",
+    "district_id": "6201",
+    "vote_count": 32054
+  },
+  {
+    "id": "4800",
+    "candidate_id": "154",
+    "district_id": "6201",
+    "vote_count": 2418
+  },
+  {
+    "id": "4801",
+    "candidate_id": "249",
+    "district_id": "6202",
+    "vote_count": 25185
+  },
+  {
+    "id": "4802",
+    "candidate_id": "163",
+    "district_id": "6202",
+    "vote_count": 20694
+  },
+  {
+    "id": "4803",
+    "candidate_id": "174",
+    "district_id": "6202",
+    "vote_count": 23543
+  },
+  {
+    "id": "4804",
+    "candidate_id": "125",
+    "district_id": "6202",
+    "vote_count": 17133
+  },
+  {
+    "id": "4805",
+    "candidate_id": "241",
+    "district_id": "6202",
+    "vote_count": 22080
+  },
+  {
+    "id": "4806",
+    "candidate_id": "212",
+    "district_id": "6202",
+    "vote_count": 487
+  },
+  {
+    "id": "4807",
+    "candidate_id": "195",
+    "district_id": "6202",
+    "vote_count": 1810
+  },
+  {
+    "id": "4808",
+    "candidate_id": "228",
+    "district_id": "6202",
+    "vote_count": 24883
+  },
+  {
+    "id": "4809",
+    "candidate_id": "164",
+    "district_id": "6202",
+    "vote_count": 31430
+  },
+  {
+    "id": "4810",
+    "candidate_id": "100",
+    "district_id": "6202",
+    "vote_count": 12272
+  },
+  {
+    "id": "4811",
+    "candidate_id": "171",
+    "district_id": "6202",
+    "vote_count": 19701
+  },
+  {
+    "id": "4812",
+    "candidate_id": "71",
+    "district_id": "6202",
+    "vote_count": 36766
+  },
+  {
+    "id": "4813",
+    "candidate_id": "216",
+    "district_id": "6202",
+    "vote_count": 14385
+  },
+  {
+    "id": "4814",
+    "candidate_id": "168",
+    "district_id": "6202",
+    "vote_count": 35982
+  },
+  {
+    "id": "4815",
+    "candidate_id": "36",
+    "district_id": "6202",
+    "vote_count": 30232
+  },
+  {
+    "id": "4816",
+    "candidate_id": "155",
+    "district_id": "6203",
+    "vote_count": 6652
+  },
+  {
+    "id": "4817",
+    "candidate_id": "169",
+    "district_id": "6203",
+    "vote_count": 15844
+  },
+  {
+    "id": "4818",
+    "candidate_id": "98",
+    "district_id": "6203",
+    "vote_count": 20468
+  },
+  {
+    "id": "4819",
+    "candidate_id": "99",
+    "district_id": "6203",
+    "vote_count": 25925
+  },
+  {
+    "id": "4820",
+    "candidate_id": "57",
+    "district_id": "6203",
+    "vote_count": 6573
+  },
+  {
+    "id": "4821",
+    "candidate_id": "58",
+    "district_id": "6203",
+    "vote_count": 23789
+  },
+  {
+    "id": "4822",
+    "candidate_id": "16",
+    "district_id": "6203",
+    "vote_count": 22390
+  },
+  {
+    "id": "4823",
+    "candidate_id": "136",
+    "district_id": "6203",
+    "vote_count": 39871
+  },
+  {
+    "id": "4824",
+    "candidate_id": "188",
+    "district_id": "6203",
+    "vote_count": 20639
+  },
+  {
+    "id": "4825",
+    "candidate_id": "131",
+    "district_id": "6203",
+    "vote_count": 15455
+  },
+  {
+    "id": "4826",
+    "candidate_id": "79",
+    "district_id": "6203",
+    "vote_count": 23868
+  },
+  {
+    "id": "4827",
+    "candidate_id": "122",
+    "district_id": "6203",
+    "vote_count": 23736
+  },
+  {
+    "id": "4828",
+    "candidate_id": "121",
+    "district_id": "6203",
+    "vote_count": 26813
+  },
+  {
+    "id": "4829",
+    "candidate_id": "72",
+    "district_id": "6203",
+    "vote_count": 22643
+  },
+  {
+    "id": "4830",
+    "candidate_id": "143",
+    "district_id": "6203",
+    "vote_count": 14969
+  },
+  {
+    "id": "4831",
+    "candidate_id": "156",
+    "district_id": "6204",
+    "vote_count": 21288
+  },
+  {
+    "id": "4832",
+    "candidate_id": "78",
+    "district_id": "6204",
+    "vote_count": 4401
+  },
+  {
+    "id": "4833",
+    "candidate_id": "179",
+    "district_id": "6204",
+    "vote_count": 2578
+  },
+  {
+    "id": "4834",
+    "candidate_id": "64",
+    "district_id": "6204",
+    "vote_count": 11114
+  },
+  {
+    "id": "4835",
+    "candidate_id": "28",
+    "district_id": "6204",
+    "vote_count": 8282
+  },
+  {
+    "id": "4836",
+    "candidate_id": "4",
+    "district_id": "6204",
+    "vote_count": 26541
+  },
+  {
+    "id": "4837",
+    "candidate_id": "22",
+    "district_id": "6204",
+    "vote_count": 8738
+  },
+  {
+    "id": "4838",
+    "candidate_id": "115",
+    "district_id": "6204",
+    "vote_count": 320
+  },
+  {
+    "id": "4839",
+    "candidate_id": "67",
+    "district_id": "6204",
+    "vote_count": 25466
+  },
+  {
+    "id": "4840",
+    "candidate_id": "148",
+    "district_id": "6204",
+    "vote_count": 5229
+  },
+  {
+    "id": "4841",
+    "candidate_id": "200",
+    "district_id": "6204",
+    "vote_count": 6967
+  },
+  {
+    "id": "4842",
+    "candidate_id": "12",
+    "district_id": "6204",
+    "vote_count": 12328
+  },
+  {
+    "id": "4843",
+    "candidate_id": "159",
+    "district_id": "6204",
+    "vote_count": 29199
+  },
+  {
+    "id": "4844",
+    "candidate_id": "251",
+    "district_id": "6204",
+    "vote_count": 34496
+  },
+  {
+    "id": "4845",
+    "candidate_id": "75",
+    "district_id": "6204",
+    "vote_count": 31818
+  },
+  {
+    "id": "4846",
+    "candidate_id": "125",
+    "district_id": "6601",
+    "vote_count": 7630
+  },
+  {
+    "id": "4847",
+    "candidate_id": "215",
+    "district_id": "6601",
+    "vote_count": 245
+  },
+  {
+    "id": "4848",
+    "candidate_id": "5",
+    "district_id": "6601",
+    "vote_count": 25823
+  },
+  {
+    "id": "4849",
+    "candidate_id": "7",
+    "district_id": "6601",
+    "vote_count": 9924
+  },
+  {
+    "id": "4850",
+    "candidate_id": "75",
+    "district_id": "6601",
+    "vote_count": 8728
+  },
+  {
+    "id": "4851",
+    "candidate_id": "171",
+    "district_id": "6601",
+    "vote_count": 39964
+  },
+  {
+    "id": "4852",
+    "candidate_id": "63",
+    "district_id": "6601",
+    "vote_count": 16334
+  },
+  {
+    "id": "4853",
+    "candidate_id": "210",
+    "district_id": "6601",
+    "vote_count": 18267
+  },
+  {
+    "id": "4854",
+    "candidate_id": "34",
+    "district_id": "6601",
+    "vote_count": 15139
+  },
+  {
+    "id": "4855",
+    "candidate_id": "212",
+    "district_id": "6601",
+    "vote_count": 1243
+  },
+  {
+    "id": "4856",
+    "candidate_id": "60",
+    "district_id": "6601",
+    "vote_count": 22501
+  },
+  {
+    "id": "4857",
+    "candidate_id": "220",
+    "district_id": "6601",
+    "vote_count": 23181
+  },
+  {
+    "id": "4858",
+    "candidate_id": "222",
+    "district_id": "6601",
+    "vote_count": 16800
+  },
+  {
+    "id": "4859",
+    "candidate_id": "226",
+    "district_id": "6601",
+    "vote_count": 3892
+  },
+  {
+    "id": "4860",
+    "candidate_id": "56",
+    "district_id": "6601",
+    "vote_count": 9447
+  },
+  {
+    "id": "4861",
+    "candidate_id": "6",
+    "district_id": "6602",
+    "vote_count": 21066
+  },
+  {
+    "id": "4862",
+    "candidate_id": "1",
+    "district_id": "6602",
+    "vote_count": 37505
+  },
+  {
+    "id": "4863",
+    "candidate_id": "172",
+    "district_id": "6602",
+    "vote_count": 27154
+  },
+  {
+    "id": "4864",
+    "candidate_id": "157",
+    "district_id": "6602",
+    "vote_count": 28757
+  },
+  {
+    "id": "4865",
+    "candidate_id": "226",
+    "district_id": "6602",
+    "vote_count": 6870
+  },
+  {
+    "id": "4866",
+    "candidate_id": "233",
+    "district_id": "6602",
+    "vote_count": 24075
+  },
+  {
+    "id": "4867",
+    "candidate_id": "186",
+    "district_id": "6602",
+    "vote_count": 11419
+  },
+  {
+    "id": "4868",
+    "candidate_id": "217",
+    "district_id": "6602",
+    "vote_count": 19213
+  },
+  {
+    "id": "4869",
+    "candidate_id": "103",
+    "district_id": "6602",
+    "vote_count": 32967
+  },
+  {
+    "id": "4870",
+    "candidate_id": "204",
+    "district_id": "6602",
+    "vote_count": 30398
+  },
+  {
+    "id": "4871",
+    "candidate_id": "140",
+    "district_id": "6602",
+    "vote_count": 33162
+  },
+  {
+    "id": "4872",
+    "candidate_id": "167",
+    "district_id": "6602",
+    "vote_count": 31678
+  },
+  {
+    "id": "4873",
+    "candidate_id": "118",
+    "district_id": "6602",
+    "vote_count": 19377
+  },
+  {
+    "id": "4874",
+    "candidate_id": "90",
+    "district_id": "6602",
+    "vote_count": 17753
+  },
+  {
+    "id": "4875",
+    "candidate_id": "32",
+    "district_id": "6602",
+    "vote_count": 11583
+  },
+  {
+    "id": "4876",
+    "candidate_id": "204",
+    "district_id": "6603",
+    "vote_count": 2272
+  },
+  {
+    "id": "4877",
+    "candidate_id": "238",
+    "district_id": "6603",
+    "vote_count": 33415
+  },
+  {
+    "id": "4878",
+    "candidate_id": "202",
+    "district_id": "6603",
+    "vote_count": 25943
+  },
+  {
+    "id": "4879",
+    "candidate_id": "193",
+    "district_id": "6603",
+    "vote_count": 15653
+  },
+  {
+    "id": "4880",
+    "candidate_id": "125",
+    "district_id": "6603",
+    "vote_count": 35282
+  },
+  {
+    "id": "4881",
+    "candidate_id": "29",
+    "district_id": "6603",
+    "vote_count": 19055
+  },
+  {
+    "id": "4882",
+    "candidate_id": "233",
+    "district_id": "6603",
+    "vote_count": 9582
+  },
+  {
+    "id": "4883",
+    "candidate_id": "159",
+    "district_id": "6603",
+    "vote_count": 391
+  },
+  {
+    "id": "4884",
+    "candidate_id": "132",
+    "district_id": "6603",
+    "vote_count": 39292
+  },
+  {
+    "id": "4885",
+    "candidate_id": "152",
+    "district_id": "6603",
+    "vote_count": 12415
+  },
+  {
+    "id": "4886",
+    "candidate_id": "111",
+    "district_id": "6603",
+    "vote_count": 5908
+  },
+  {
+    "id": "4887",
+    "candidate_id": "102",
+    "district_id": "6603",
+    "vote_count": 23295
+  },
+  {
+    "id": "4888",
+    "candidate_id": "30",
+    "district_id": "6603",
+    "vote_count": 6721
+  },
+  {
+    "id": "4889",
+    "candidate_id": "174",
+    "district_id": "6603",
+    "vote_count": 38254
+  },
+  {
+    "id": "4890",
+    "candidate_id": "140",
+    "district_id": "6603",
+    "vote_count": 4807
+  },
+  {
+    "id": "4891",
+    "candidate_id": "248",
+    "district_id": "6701",
+    "vote_count": 5268
+  },
+  {
+    "id": "4892",
+    "candidate_id": "131",
+    "district_id": "6701",
+    "vote_count": 9447
+  },
+  {
+    "id": "4893",
+    "candidate_id": "25",
+    "district_id": "6701",
+    "vote_count": 37860
+  },
+  {
+    "id": "4894",
+    "candidate_id": "11",
+    "district_id": "6701",
+    "vote_count": 35935
+  },
+  {
+    "id": "4895",
+    "candidate_id": "1",
+    "district_id": "6701",
+    "vote_count": 19947
+  },
+  {
+    "id": "4896",
+    "candidate_id": "137",
+    "district_id": "6701",
+    "vote_count": 37495
+  },
+  {
+    "id": "4897",
+    "candidate_id": "29",
+    "district_id": "6701",
+    "vote_count": 30336
+  },
+  {
+    "id": "4898",
+    "candidate_id": "27",
+    "district_id": "6701",
+    "vote_count": 10994
+  },
+  {
+    "id": "4899",
+    "candidate_id": "168",
+    "district_id": "6701",
+    "vote_count": 19168
+  },
+  {
+    "id": "4900",
+    "candidate_id": "147",
+    "district_id": "6701",
+    "vote_count": 32090
+  },
+  {
+    "id": "4901",
+    "candidate_id": "149",
+    "district_id": "6701",
+    "vote_count": 21084
+  },
+  {
+    "id": "4902",
+    "candidate_id": "19",
+    "district_id": "6701",
+    "vote_count": 9808
+  },
+  {
+    "id": "4903",
+    "candidate_id": "106",
+    "district_id": "6701",
+    "vote_count": 22366
+  },
+  {
+    "id": "4904",
+    "candidate_id": "80",
+    "district_id": "6701",
+    "vote_count": 13466
+  },
+  {
+    "id": "4905",
+    "candidate_id": "138",
+    "district_id": "6701",
+    "vote_count": 22112
+  },
+  {
+    "id": "4906",
+    "candidate_id": "118",
+    "district_id": "6702",
+    "vote_count": 24455
+  },
+  {
+    "id": "4907",
+    "candidate_id": "63",
+    "district_id": "6702",
+    "vote_count": 17677
+  },
+  {
+    "id": "4908",
+    "candidate_id": "75",
+    "district_id": "6702",
+    "vote_count": 27486
+  },
+  {
+    "id": "4909",
+    "candidate_id": "51",
+    "district_id": "6702",
+    "vote_count": 5486
+  },
+  {
+    "id": "4910",
+    "candidate_id": "19",
+    "district_id": "6702",
+    "vote_count": 36615
+  },
+  {
+    "id": "4911",
+    "candidate_id": "4",
+    "district_id": "6702",
+    "vote_count": 39759
+  },
+  {
+    "id": "4912",
+    "candidate_id": "57",
+    "district_id": "6702",
+    "vote_count": 13869
+  },
+  {
+    "id": "4913",
+    "candidate_id": "205",
+    "district_id": "6702",
+    "vote_count": 21666
+  },
+  {
+    "id": "4914",
+    "candidate_id": "247",
+    "district_id": "6702",
+    "vote_count": 7899
+  },
+  {
+    "id": "4915",
+    "candidate_id": "138",
+    "district_id": "6702",
+    "vote_count": 13070
+  },
+  {
+    "id": "4916",
+    "candidate_id": "56",
+    "district_id": "6702",
+    "vote_count": 22718
+  },
+  {
+    "id": "4917",
+    "candidate_id": "44",
+    "district_id": "6702",
+    "vote_count": 11043
+  },
+  {
+    "id": "4918",
+    "candidate_id": "233",
+    "district_id": "6702",
+    "vote_count": 2706
+  },
+  {
+    "id": "4919",
+    "candidate_id": "271",
+    "district_id": "6702",
+    "vote_count": 35888
+  },
+  {
+    "id": "4920",
+    "candidate_id": "88",
+    "district_id": "6702",
+    "vote_count": 31435
+  },
+  {
+    "id": "4921",
+    "candidate_id": "105",
+    "district_id": "6703",
+    "vote_count": 13488
+  },
+  {
+    "id": "4922",
+    "candidate_id": "49",
+    "district_id": "6703",
+    "vote_count": 8239
+  },
+  {
+    "id": "4923",
+    "candidate_id": "220",
+    "district_id": "6703",
+    "vote_count": 32206
+  },
+  {
+    "id": "4924",
+    "candidate_id": "109",
+    "district_id": "6703",
+    "vote_count": 8634
+  },
+  {
+    "id": "4925",
+    "candidate_id": "246",
+    "district_id": "6703",
+    "vote_count": 24260
+  },
+  {
+    "id": "4926",
+    "candidate_id": "144",
+    "district_id": "6703",
+    "vote_count": 31046
+  },
+  {
+    "id": "4927",
+    "candidate_id": "182",
+    "district_id": "6703",
+    "vote_count": 3982
+  },
+  {
+    "id": "4928",
+    "candidate_id": "58",
+    "district_id": "6703",
+    "vote_count": 31075
+  },
+  {
+    "id": "4929",
+    "candidate_id": "258",
+    "district_id": "6703",
+    "vote_count": 10319
+  },
+  {
+    "id": "4930",
+    "candidate_id": "256",
+    "district_id": "6703",
+    "vote_count": 31969
+  },
+  {
+    "id": "4931",
+    "candidate_id": "242",
+    "district_id": "6703",
+    "vote_count": 39901
+  },
+  {
+    "id": "4932",
+    "candidate_id": "113",
+    "district_id": "6703",
+    "vote_count": 25669
+  },
+  {
+    "id": "4933",
+    "candidate_id": "221",
+    "district_id": "6703",
+    "vote_count": 35015
+  },
+  {
+    "id": "4934",
+    "candidate_id": "140",
+    "district_id": "6703",
+    "vote_count": 18140
+  },
+  {
+    "id": "4935",
+    "candidate_id": "125",
+    "district_id": "6703",
+    "vote_count": 29761
+  },
+  {
+    "id": "4936",
+    "candidate_id": "212",
+    "district_id": "6704",
+    "vote_count": 9310
+  },
+  {
+    "id": "4937",
+    "candidate_id": "9",
+    "district_id": "6704",
+    "vote_count": 14514
+  },
+  {
+    "id": "4938",
+    "candidate_id": "146",
+    "district_id": "6704",
+    "vote_count": 12842
+  },
+  {
+    "id": "4939",
+    "candidate_id": "235",
+    "district_id": "6704",
+    "vote_count": 19411
+  },
+  {
+    "id": "4940",
+    "candidate_id": "245",
+    "district_id": "6704",
+    "vote_count": 6749
+  },
+  {
+    "id": "4941",
+    "candidate_id": "102",
+    "district_id": "6704",
+    "vote_count": 1020
+  },
+  {
+    "id": "4942",
+    "candidate_id": "244",
+    "district_id": "6704",
+    "vote_count": 34964
+  },
+  {
+    "id": "4943",
+    "candidate_id": "190",
+    "district_id": "6704",
+    "vote_count": 1674
+  },
+  {
+    "id": "4944",
+    "candidate_id": "122",
+    "district_id": "6704",
+    "vote_count": 20426
+  },
+  {
+    "id": "4945",
+    "candidate_id": "185",
+    "district_id": "6704",
+    "vote_count": 2677
+  },
+  {
+    "id": "4946",
+    "candidate_id": "218",
+    "district_id": "6704",
+    "vote_count": 21835
+  },
+  {
+    "id": "4947",
+    "candidate_id": "272",
+    "district_id": "6704",
+    "vote_count": 29557
+  },
+  {
+    "id": "4948",
+    "candidate_id": "34",
+    "district_id": "6704",
+    "vote_count": 7278
+  },
+  {
+    "id": "4949",
+    "candidate_id": "199",
+    "district_id": "6704",
+    "vote_count": 8451
+  },
+  {
+    "id": "4950",
+    "candidate_id": "28",
+    "district_id": "6704",
+    "vote_count": 36285
+  },
+  {
+    "id": "4951",
+    "candidate_id": "185",
+    "district_id": "6705",
+    "vote_count": 415
+  },
+  {
+    "id": "4952",
+    "candidate_id": "103",
+    "district_id": "6705",
+    "vote_count": 32657
+  },
+  {
+    "id": "4953",
+    "candidate_id": "203",
+    "district_id": "6705",
+    "vote_count": 22118
+  },
+  {
+    "id": "4954",
+    "candidate_id": "141",
+    "district_id": "6705",
+    "vote_count": 31098
+  },
+  {
+    "id": "4955",
+    "candidate_id": "209",
+    "district_id": "6705",
+    "vote_count": 27423
+  },
+  {
+    "id": "4956",
+    "candidate_id": "26",
+    "district_id": "6705",
+    "vote_count": 22777
+  },
+  {
+    "id": "4957",
+    "candidate_id": "114",
+    "district_id": "6705",
+    "vote_count": 31874
+  },
+  {
+    "id": "4958",
+    "candidate_id": "11",
+    "district_id": "6705",
+    "vote_count": 14196
+  },
+  {
+    "id": "4959",
+    "candidate_id": "41",
+    "district_id": "6705",
+    "vote_count": 35251
+  },
+  {
+    "id": "4960",
+    "candidate_id": "160",
+    "district_id": "6705",
+    "vote_count": 34777
+  },
+  {
+    "id": "4961",
+    "candidate_id": "125",
+    "district_id": "6705",
+    "vote_count": 24176
+  },
+  {
+    "id": "4962",
+    "candidate_id": "28",
+    "district_id": "6705",
+    "vote_count": 19145
+  },
+  {
+    "id": "4963",
+    "candidate_id": "272",
+    "district_id": "6705",
+    "vote_count": 4697
+  },
+  {
+    "id": "4964",
+    "candidate_id": "244",
+    "district_id": "6705",
+    "vote_count": 21007
+  },
+  {
+    "id": "4965",
+    "candidate_id": "154",
+    "district_id": "6705",
+    "vote_count": 13935
+  },
+  {
+    "id": "4966",
+    "candidate_id": "3",
+    "district_id": "6706",
+    "vote_count": 12768
+  },
+  {
+    "id": "4967",
+    "candidate_id": "210",
+    "district_id": "6706",
+    "vote_count": 4879
+  },
+  {
+    "id": "4968",
+    "candidate_id": "206",
+    "district_id": "6706",
+    "vote_count": 36934
+  },
+  {
+    "id": "4969",
+    "candidate_id": "80",
+    "district_id": "6706",
+    "vote_count": 39389
+  },
+  {
+    "id": "4970",
+    "candidate_id": "155",
+    "district_id": "6706",
+    "vote_count": 37906
+  },
+  {
+    "id": "4971",
+    "candidate_id": "55",
+    "district_id": "6706",
+    "vote_count": 4666
+  },
+  {
+    "id": "4972",
+    "candidate_id": "236",
+    "district_id": "6706",
+    "vote_count": 24979
+  },
+  {
+    "id": "4973",
+    "candidate_id": "175",
+    "district_id": "6706",
+    "vote_count": 4814
+  },
+  {
+    "id": "4974",
+    "candidate_id": "24",
+    "district_id": "6706",
+    "vote_count": 28308
+  },
+  {
+    "id": "4975",
+    "candidate_id": "165",
+    "district_id": "6706",
+    "vote_count": 12747
+  },
+  {
+    "id": "4976",
+    "candidate_id": "185",
+    "district_id": "6706",
+    "vote_count": 11375
+  },
+  {
+    "id": "4977",
+    "candidate_id": "269",
+    "district_id": "6706",
+    "vote_count": 36333
+  },
+  {
+    "id": "4978",
+    "candidate_id": "170",
+    "district_id": "6706",
+    "vote_count": 16195
+  },
+  {
+    "id": "4979",
+    "candidate_id": "20",
+    "district_id": "6706",
+    "vote_count": 13856
+  },
+  {
+    "id": "4980",
+    "candidate_id": "51",
+    "district_id": "6706",
+    "vote_count": 34223
+  },
+  {
+    "id": "4981",
+    "candidate_id": "94",
+    "district_id": "6001",
+    "vote_count": 4437
+  },
+  {
+    "id": "4982",
+    "candidate_id": "156",
+    "district_id": "6001",
+    "vote_count": 25383
+  },
+  {
+    "id": "4983",
+    "candidate_id": "96",
+    "district_id": "6001",
+    "vote_count": 37367
+  },
+  {
+    "id": "4984",
+    "candidate_id": "7",
+    "district_id": "6001",
+    "vote_count": 14046
+  },
+  {
+    "id": "4985",
+    "candidate_id": "87",
+    "district_id": "6001",
+    "vote_count": 2992
+  },
+  {
+    "id": "4986",
+    "candidate_id": "85",
+    "district_id": "6001",
+    "vote_count": 18213
+  },
+  {
+    "id": "4987",
+    "candidate_id": "168",
+    "district_id": "6001",
+    "vote_count": 28365
+  },
+  {
+    "id": "4988",
+    "candidate_id": "90",
+    "district_id": "6001",
+    "vote_count": 24257
+  },
+  {
+    "id": "4989",
+    "candidate_id": "5",
+    "district_id": "6001",
+    "vote_count": 33654
+  },
+  {
+    "id": "4990",
+    "candidate_id": "26",
+    "district_id": "6001",
+    "vote_count": 16482
+  },
+  {
+    "id": "4991",
+    "candidate_id": "218",
+    "district_id": "6001",
+    "vote_count": 32877
+  },
+  {
+    "id": "4992",
+    "candidate_id": "193",
+    "district_id": "6001",
+    "vote_count": 19555
+  },
+  {
+    "id": "4993",
+    "candidate_id": "184",
+    "district_id": "6001",
+    "vote_count": 11682
+  },
+  {
+    "id": "4994",
+    "candidate_id": "82",
+    "district_id": "6001",
+    "vote_count": 28020
+  },
+  {
+    "id": "4995",
+    "candidate_id": "178",
+    "district_id": "6001",
+    "vote_count": 5557
+  },
+  {
+    "id": "4996",
+    "candidate_id": "237",
+    "district_id": "6002",
+    "vote_count": 3800
+  },
+  {
+    "id": "4997",
+    "candidate_id": "214",
+    "district_id": "6002",
+    "vote_count": 184
+  },
+  {
+    "id": "4998",
+    "candidate_id": "194",
+    "district_id": "6002",
+    "vote_count": 36282
+  },
+  {
+    "id": "4999",
+    "candidate_id": "233",
+    "district_id": "6002",
+    "vote_count": 20690
+  },
+  {
+    "id": "5000",
+    "candidate_id": "45",
+    "district_id": "6002",
+    "vote_count": 18426
+  },
+  {
+    "id": "5001",
+    "candidate_id": "157",
+    "district_id": "6002",
+    "vote_count": 29665
+  },
+  {
+    "id": "5002",
+    "candidate_id": "151",
+    "district_id": "6002",
+    "vote_count": 24304
+  },
+  {
+    "id": "5003",
+    "candidate_id": "16",
+    "district_id": "6002",
+    "vote_count": 36165
+  },
+  {
+    "id": "5004",
+    "candidate_id": "256",
+    "district_id": "6002",
+    "vote_count": 36849
+  },
+  {
+    "id": "5005",
+    "candidate_id": "95",
+    "district_id": "6002",
+    "vote_count": 7604
+  },
+  {
+    "id": "5006",
+    "candidate_id": "102",
+    "district_id": "6002",
+    "vote_count": 3705
+  },
+  {
+    "id": "5007",
+    "candidate_id": "161",
+    "district_id": "6002",
+    "vote_count": 15996
+  },
+  {
+    "id": "5008",
+    "candidate_id": "159",
+    "district_id": "6002",
+    "vote_count": 1414
+  },
+  {
+    "id": "5009",
+    "candidate_id": "72",
+    "district_id": "6002",
+    "vote_count": 19635
+  },
+  {
+    "id": "5010",
+    "candidate_id": "59",
+    "district_id": "6002",
+    "vote_count": 12855
+  },
+  {
+    "id": "5011",
+    "candidate_id": "16",
+    "district_id": "6003",
+    "vote_count": 153
+  },
+  {
+    "id": "5012",
+    "candidate_id": "31",
+    "district_id": "6003",
+    "vote_count": 25166
+  },
+  {
+    "id": "5013",
+    "candidate_id": "216",
+    "district_id": "6003",
+    "vote_count": 21942
+  },
+  {
+    "id": "5014",
+    "candidate_id": "175",
+    "district_id": "6003",
+    "vote_count": 36086
+  },
+  {
+    "id": "5015",
+    "candidate_id": "265",
+    "district_id": "6003",
+    "vote_count": 12301
+  },
+  {
+    "id": "5016",
+    "candidate_id": "187",
+    "district_id": "6003",
+    "vote_count": 2537
+  },
+  {
+    "id": "5017",
+    "candidate_id": "179",
+    "district_id": "6003",
+    "vote_count": 1361
+  },
+  {
+    "id": "5018",
+    "candidate_id": "271",
+    "district_id": "6003",
+    "vote_count": 30304
+  },
+  {
+    "id": "5019",
+    "candidate_id": "116",
+    "district_id": "6003",
+    "vote_count": 22125
+  },
+  {
+    "id": "5020",
+    "candidate_id": "140",
+    "district_id": "6003",
+    "vote_count": 7871
+  },
+  {
+    "id": "5021",
+    "candidate_id": "56",
+    "district_id": "6003",
+    "vote_count": 1504
+  },
+  {
+    "id": "5022",
+    "candidate_id": "74",
+    "district_id": "6003",
+    "vote_count": 19738
+  },
+  {
+    "id": "5023",
+    "candidate_id": "104",
+    "district_id": "6003",
+    "vote_count": 15793
+  },
+  {
+    "id": "5024",
+    "candidate_id": "133",
+    "district_id": "6003",
+    "vote_count": 35707
+  },
+  {
+    "id": "5025",
+    "candidate_id": "238",
+    "district_id": "6003",
+    "vote_count": 34297
+  },
+  {
+    "id": "5026",
+    "candidate_id": "81",
+    "district_id": "6004",
+    "vote_count": 26092
+  },
+  {
+    "id": "5027",
+    "candidate_id": "30",
+    "district_id": "6004",
+    "vote_count": 14656
+  },
+  {
+    "id": "5028",
+    "candidate_id": "232",
+    "district_id": "6004",
+    "vote_count": 22578
+  },
+  {
+    "id": "5029",
+    "candidate_id": "198",
+    "district_id": "6004",
+    "vote_count": 6405
+  },
+  {
+    "id": "5030",
+    "candidate_id": "187",
+    "district_id": "6004",
+    "vote_count": 23234
+  },
+  {
+    "id": "5031",
+    "candidate_id": "99",
+    "district_id": "6004",
+    "vote_count": 32698
+  },
+  {
+    "id": "5032",
+    "candidate_id": "120",
+    "district_id": "6004",
+    "vote_count": 1618
+  },
+  {
+    "id": "5033",
+    "candidate_id": "145",
+    "district_id": "6004",
+    "vote_count": 21691
+  },
+  {
+    "id": "5034",
+    "candidate_id": "72",
+    "district_id": "6004",
+    "vote_count": 8699
+  },
+  {
+    "id": "5035",
+    "candidate_id": "89",
+    "district_id": "6004",
+    "vote_count": 1851
+  },
+  {
+    "id": "5036",
+    "candidate_id": "34",
+    "district_id": "6004",
+    "vote_count": 38770
+  },
+  {
+    "id": "5037",
+    "candidate_id": "16",
+    "district_id": "6004",
+    "vote_count": 27341
+  },
+  {
+    "id": "5038",
+    "candidate_id": "54",
+    "district_id": "6004",
+    "vote_count": 30793
+  },
+  {
+    "id": "5039",
+    "candidate_id": "128",
+    "district_id": "6004",
+    "vote_count": 20123
+  },
+  {
+    "id": "5040",
+    "candidate_id": "140",
+    "district_id": "6004",
+    "vote_count": 13792
+  },
+  {
+    "id": "5041",
+    "candidate_id": "259",
+    "district_id": "6005",
+    "vote_count": 25327
+  },
+  {
+    "id": "5042",
+    "candidate_id": "229",
+    "district_id": "6005",
+    "vote_count": 13732
+  },
+  {
+    "id": "5043",
+    "candidate_id": "250",
+    "district_id": "6005",
+    "vote_count": 39416
+  },
+  {
+    "id": "5044",
+    "candidate_id": "78",
+    "district_id": "6005",
+    "vote_count": 8848
+  },
+  {
+    "id": "5045",
+    "candidate_id": "132",
+    "district_id": "6005",
+    "vote_count": 38758
+  },
+  {
+    "id": "5046",
+    "candidate_id": "86",
+    "district_id": "6005",
+    "vote_count": 34598
+  },
+  {
+    "id": "5047",
+    "candidate_id": "216",
+    "district_id": "6005",
+    "vote_count": 7944
+  },
+  {
+    "id": "5048",
+    "candidate_id": "41",
+    "district_id": "6005",
+    "vote_count": 24792
+  },
+  {
+    "id": "5049",
+    "candidate_id": "270",
+    "district_id": "6005",
+    "vote_count": 5511
+  },
+  {
+    "id": "5050",
+    "candidate_id": "5",
+    "district_id": "6005",
+    "vote_count": 32433
+  },
+  {
+    "id": "5051",
+    "candidate_id": "147",
+    "district_id": "6005",
+    "vote_count": 37654
+  },
+  {
+    "id": "5052",
+    "candidate_id": "173",
+    "district_id": "6005",
+    "vote_count": 25654
+  },
+  {
+    "id": "5053",
+    "candidate_id": "36",
+    "district_id": "6005",
+    "vote_count": 24927
+  },
+  {
+    "id": "5054",
+    "candidate_id": "6",
+    "district_id": "6005",
+    "vote_count": 10028
+  },
+  {
+    "id": "5055",
+    "candidate_id": "8",
+    "district_id": "6005",
+    "vote_count": 27604
+  },
+  {
+    "id": "5056",
+    "candidate_id": "262",
+    "district_id": "6006",
+    "vote_count": 25503
+  },
+  {
+    "id": "5057",
+    "candidate_id": "231",
+    "district_id": "6006",
+    "vote_count": 11439
+  },
+  {
+    "id": "5058",
+    "candidate_id": "100",
+    "district_id": "6006",
+    "vote_count": 39217
+  },
+  {
+    "id": "5059",
+    "candidate_id": "218",
+    "district_id": "6006",
+    "vote_count": 28684
+  },
+  {
+    "id": "5060",
+    "candidate_id": "54",
+    "district_id": "6006",
+    "vote_count": 5253
+  },
+  {
+    "id": "5061",
+    "candidate_id": "61",
+    "district_id": "6006",
+    "vote_count": 17832
+  },
+  {
+    "id": "5062",
+    "candidate_id": "135",
+    "district_id": "6006",
+    "vote_count": 17904
+  },
+  {
+    "id": "5063",
+    "candidate_id": "90",
+    "district_id": "6006",
+    "vote_count": 38079
+  },
+  {
+    "id": "5064",
+    "candidate_id": "193",
+    "district_id": "6006",
+    "vote_count": 3652
+  },
+  {
+    "id": "5065",
+    "candidate_id": "94",
+    "district_id": "6006",
+    "vote_count": 17188
+  },
+  {
+    "id": "5066",
+    "candidate_id": "70",
+    "district_id": "6006",
+    "vote_count": 5553
+  },
+  {
+    "id": "5067",
+    "candidate_id": "137",
+    "district_id": "6006",
+    "vote_count": 15463
+  },
+  {
+    "id": "5068",
+    "candidate_id": "245",
+    "district_id": "6006",
+    "vote_count": 37979
+  },
+  {
+    "id": "5069",
+    "candidate_id": "49",
+    "district_id": "6006",
+    "vote_count": 20117
+  },
+  {
+    "id": "5070",
+    "candidate_id": "209",
+    "district_id": "6006",
+    "vote_count": 16405
+  },
+  {
+    "id": "5071",
+    "candidate_id": "117",
+    "district_id": "6101",
+    "vote_count": 30596
+  },
+  {
+    "id": "5072",
+    "candidate_id": "175",
+    "district_id": "6101",
+    "vote_count": 36173
+  },
+  {
+    "id": "5073",
+    "candidate_id": "76",
+    "district_id": "6101",
+    "vote_count": 25016
+  },
+  {
+    "id": "5074",
+    "candidate_id": "260",
+    "district_id": "6101",
+    "vote_count": 24518
+  },
+  {
+    "id": "5075",
+    "candidate_id": "174",
+    "district_id": "6101",
+    "vote_count": 4675
+  },
+  {
+    "id": "5076",
+    "candidate_id": "204",
+    "district_id": "6101",
+    "vote_count": 33324
+  },
+  {
+    "id": "5077",
+    "candidate_id": "179",
+    "district_id": "6101",
+    "vote_count": 8103
+  },
+  {
+    "id": "5078",
+    "candidate_id": "57",
+    "district_id": "6101",
+    "vote_count": 29361
+  },
+  {
+    "id": "5079",
+    "candidate_id": "93",
+    "district_id": "6101",
+    "vote_count": 18945
+  },
+  {
+    "id": "5080",
+    "candidate_id": "85",
+    "district_id": "6101",
+    "vote_count": 12020
+  },
+  {
+    "id": "5081",
+    "candidate_id": "87",
+    "district_id": "6101",
+    "vote_count": 18640
+  },
+  {
+    "id": "5082",
+    "candidate_id": "210",
+    "district_id": "6101",
+    "vote_count": 23729
+  },
+  {
+    "id": "5083",
+    "candidate_id": "96",
+    "district_id": "6101",
+    "vote_count": 8272
+  },
+  {
+    "id": "5084",
+    "candidate_id": "225",
+    "district_id": "6101",
+    "vote_count": 26572
+  },
+  {
+    "id": "5085",
+    "candidate_id": "199",
+    "district_id": "6101",
+    "vote_count": 2874
+  },
+  {
+    "id": "5086",
+    "candidate_id": "232",
+    "district_id": "6102",
+    "vote_count": 29801
+  },
+  {
+    "id": "5087",
+    "candidate_id": "54",
+    "district_id": "6102",
+    "vote_count": 15080
+  },
+  {
+    "id": "5088",
+    "candidate_id": "90",
+    "district_id": "6102",
+    "vote_count": 23770
+  },
+  {
+    "id": "5089",
+    "candidate_id": "242",
+    "district_id": "6102",
+    "vote_count": 12707
+  },
+  {
+    "id": "5090",
+    "candidate_id": "6",
+    "district_id": "6102",
+    "vote_count": 24949
+  },
+  {
+    "id": "5091",
+    "candidate_id": "222",
+    "district_id": "6102",
+    "vote_count": 26902
+  },
+  {
+    "id": "5092",
+    "candidate_id": "170",
+    "district_id": "6102",
+    "vote_count": 37273
+  },
+  {
+    "id": "5093",
+    "candidate_id": "238",
+    "district_id": "6102",
+    "vote_count": 34224
+  },
+  {
+    "id": "5094",
+    "candidate_id": "65",
+    "district_id": "6102",
+    "vote_count": 38067
+  },
+  {
+    "id": "5095",
+    "candidate_id": "202",
+    "district_id": "6102",
+    "vote_count": 11031
+  },
+  {
+    "id": "5096",
+    "candidate_id": "169",
+    "district_id": "6102",
+    "vote_count": 795
+  },
+  {
+    "id": "5097",
+    "candidate_id": "77",
+    "district_id": "6102",
+    "vote_count": 14749
+  },
+  {
+    "id": "5098",
+    "candidate_id": "215",
+    "district_id": "6102",
+    "vote_count": 36865
+  },
+  {
+    "id": "5099",
+    "candidate_id": "35",
+    "district_id": "6102",
+    "vote_count": 15604
+  },
+  {
+    "id": "5100",
+    "candidate_id": "189",
+    "district_id": "6102",
+    "vote_count": 868
+  }
+]
