@@ -1,3 +1,5 @@
+"use client";
+
 import { GeoRegionMap, GeoSwitchData, GeoVoteList } from "@/features/geo";
 
 export default function GeoPage() {

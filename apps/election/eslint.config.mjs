@@ -19,6 +19,7 @@ const eslintConfig = [
       "plugin:@typescript-eslint/recommended",
       "prettier",
     ],
+    plugins: ["@tanstack/query"],
     rules: {
       "no-var": "error",
       "import/order": [
@@ -40,6 +41,10 @@ const eslintConfig = [
           },
         },
       ],
+      "@tanstack/query/exhaustive-deps": "error",
+      "@tanstack/query/no-deprecated-options": "error",
+      "@tanstack/query/prefer-query-object-syntax": "error",
+      "@tanstack/query/stable-query-client": "error",
     },
   }),
 ];
