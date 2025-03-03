@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@repo/ui": "workspace:*",
+    "axios": "^1.8.1",
     "clsx": "^2.1.1",
     "next": "15.1.7",
     "react": "^19.0.0",
