@@ -1,14 +1,13 @@
 import axios from "axios";
 
+import { API_URL } from "@/config";
 import candidates from "@/data/candidates.json";
 import { Candidate } from "@/types";
 
-export const dynamic = "force-static";
+export async function GET() {
+  const host = API_URL;
 
-export async function GET(request: Request) {
-  const host = request.url.replace(/\/api\/candidates*/, "");
-
-  const parties = (await axios.get(`${host}/api/parties`)).data.data;
+  const parties = (await axios.get(`${host}/parties`)).data.data;
 
   const candidateParty = candidates.map((candidate) => {
     const party = parties[candidate.partyId];
