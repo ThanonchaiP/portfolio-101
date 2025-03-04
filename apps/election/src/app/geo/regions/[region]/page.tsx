@@ -1,6 +1,14 @@
-import { use } from "react";
+"use client";
 
-import { GeoRegionMap, GeoSwitchData, GeoVoteList } from "@/features/geo";
+import axios from "axios";
+import { use, useEffect } from "react";
+
+import {
+  GeoRegionMap,
+  GeoSwitchData,
+  GeoVoteList,
+  useGetRegionVote,
+} from "@/features/geo";
 
 type RegionPageProps = {
   params: Promise<{ region: string }>;
@@ -8,6 +16,18 @@ type RegionPageProps = {
 
 export default function RegionPage({ params }: RegionPageProps) {
   const { region } = use(params);
+
+  const { data, isPending, isError } = useGetRegionVote({ regionId: region });
+
+  // useEffect(() => {
+  //   const fetchRegion = async () => {
+  //     // const response = await axios.get(`/api/candidates`);
+  //     const response = await axios.get(`/api/regions/${region}`);
+  //     console.log(response.data);
+  //   };
+
+  //   fetchRegion();
+  // }, []);
 
   return (
     <>

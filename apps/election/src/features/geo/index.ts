@@ -1,3 +1,6 @@
+//apis:
+export * from "./api/get-region-vote";
+
 //components:
 export * from "./components/geo-region-map";
 export * from "./components/geo-switch-data";

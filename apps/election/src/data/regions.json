@@ -2,42 +2,42 @@
   {
     "id": "7",
     "alias": "กรุงเทพ ฯ",
-    "name_th:": "กรุงเทพมหานคร",
+    "name_th": "กรุงเทพมหานคร",
     "name_en": "Bangkok",
     "constituency": 33
   },
   {
     "id": "2",
     "alias": "กลาง",
-    "name_th:": "ภาคกลาง",
+    "name_th": "ภาคกลาง",
     "name_en": "Central",
     "constituency": 75
   },
   {
     "id": "5",
     "alias": "ตะวันออก",
-    "name_th:": "ภาคตะวันออก",
+    "name_th": "ภาคตะวันออก",
     "name_en": "Eastern",
     "constituency": 29
   },
   {
     "id": "3",
     "alias": "อีสาน",
-    "name_th:": "ภาคอีสาน",
+    "name_th": "ภาคอีสาน",
     "name_en": "Northeastern",
     "constituency": 133
   },
   {
     "id": "1",
     "alias": "เหนือ",
-    "name_th:": "ภาคเหนือ",
+    "name_th": "ภาคเหนือ",
     "name_en": "Northern",
     "constituency": 70
   },
   {
     "id": "6",
     "alias": "ใต้",
-    "name_th:": "ภาคใต้",
+    "name_th": "ภาคใต้",
     "name_en": "Southern",
     "constituency": 60
   }
