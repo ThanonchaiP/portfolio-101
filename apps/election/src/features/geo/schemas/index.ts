@@ -38,5 +38,5 @@ export const RegionVoteSchema = z.object({
 });
 
 export const RegionVoteResponseSchema = z.object({
-  data: z.array(RegionVoteSchema),
+  data: RegionVoteSchema,
 });

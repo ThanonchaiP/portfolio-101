@@ -12,14 +12,15 @@ const compat = new FlatCompat({
 
 const eslintConfig = [
   ...compat.config({
+    plugins: ["@tanstack/query"],
     extends: [
       "next/core-web-vitals",
       "next/typescript",
       "plugin:tailwindcss/recommended",
       "plugin:@typescript-eslint/recommended",
       "prettier",
+      "plugin:@tanstack/eslint-plugin-query/recommended",
     ],
-    plugins: ["@tanstack/query"],
     rules: {
       "no-var": "error",
       "import/order": [
@@ -41,10 +42,6 @@ const eslintConfig = [
           },
         },
       ],
-      "@tanstack/query/exhaustive-deps": "error",
-      "@tanstack/query/no-deprecated-options": "error",
-      "@tanstack/query/prefer-query-object-syntax": "error",
-      "@tanstack/query/stable-query-client": "error",
     },
   }),
 ];

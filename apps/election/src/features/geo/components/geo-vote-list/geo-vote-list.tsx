@@ -1,6 +1,14 @@
 import { cn } from "@/lib/utils";
+import { formatNumberWithCommas } from "@/utils";
 
-export const GeoVoteList = () => {
+import { RegionVote } from "../../types";
+
+type GeoVoteListProps = {
+  data?: RegionVote;
+  isLoading?: boolean;
+};
+
+export const GeoVoteList = ({ data }: GeoVoteListProps) => {
   return (
     <div className="flex max-h-full flex-col">
       <div className="bg-[#E5E4E3] p-[10px]">
@@ -27,41 +35,50 @@ export const GeoVoteList = () => {
         </div>
       </div>
 
-      <h3 className="text-[var(--primary)]">ภาคกลาง (75)</h3>
+      <h3 className="min-h-[24px] text-[var(--primary)]">
+        {data && `${data?.name_th} (${data?.constituency})`}
+      </h3>
       <div className="custom-scrollbar h-full max-h-full overflow-y-auto">
-        {Array.from({ length: 10 }).map((_, index) => (
-          <div
-            key={index}
-            className="cursor-pointer border-b border-gray-300 bg-white pb-2 pl-[14px] pr-2 pt-4 transition-colors hover:bg-[#FAF2EC]"
-          >
-            <div className="flex items-center justify-between text-[var(--primary)]">
-              <h3>กาญจนบุรี เขต 1</h3>
-              <h3 className="text-sm">
-                ห่างกัน <strong>7,463</strong>
-              </h3>
-            </div>
-            <div className="mt-2 flex flex-col">
-              {Array.from({ length: 2 }).map((_, index) => (
-                <div key={index} className="flex items-center justify-between">
-                  <div className="flex items-center gap-4">
-                    <h4 className="text-lg font-semibold text-gray-700">
-                      {index + 1}
-                    </h4>
-                    <h4>อัครนันท์ กัณณ์กิตตินันท์</h4>
-                  </div>
-                  <h4
-                    className={cn(
-                      "text-[21px] font-bold text-gray-700",
-                      index > 0 && "text-gray-400",
-                    )}
+        {data &&
+          Object.values(data.votes).map((vote, index) => (
+            <div
+              key={index}
+              className="cursor-pointer border-b border-gray-300 bg-white pb-2 pl-[14px] pr-2 pt-4 transition-colors hover:bg-[#FAF2EC]"
+            >
+              <div className="flex items-center justify-between text-[var(--primary)]">
+                <h3>{vote[0].district.name_th}</h3>
+                <h3 className="text-sm">
+                  ห่างกัน
+                  <strong className="ml-1">
+                    {vote[0].vote_count - vote[1].vote_count}
+                  </strong>
+                </h3>
+              </div>
+              <div className="mt-2 flex flex-col">
+                {vote.map((item, index) => (
+                  <div
+                    key={index}
+                    className="flex items-center justify-between"
                   >
-                    33,183
-                  </h4>
-                </div>
-              ))}
+                    <div className="flex items-center gap-4">
+                      <h4 className="min-w-[10px] text-lg font-semibold text-gray-700">
+                        {index + 1}
+                      </h4>
+                      <h4>{item.candidate.name_en}</h4>
+                    </div>
+                    <h4
+                      className={cn(
+                        "text-[21px] font-bold text-gray-700",
+                        index > 0 && "text-gray-400",
+                      )}
+                    >
+                      {formatNumberWithCommas(item.vote_count)}
+                    </h4>
+                  </div>
+                ))}
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
       </div>
     </div>
   );

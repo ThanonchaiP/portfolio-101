@@ -15,6 +15,8 @@ const getVotes = async (regionId: string) => {
       return import("@/data/votes/region-3.json").then((data) => data.default);
     case "5":
       return import("@/data/votes/region-5.json").then((data) => data.default);
+    case "6":
+      return import("@/data/votes/region-6.json").then((data) => data.default);
     case "7":
       return import("@/data/votes/region-7.json").then((data) => data.default);
     default:

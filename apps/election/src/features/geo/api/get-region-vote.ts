@@ -4,8 +4,8 @@ import axios from "axios";
 import { API_URL } from "@/config";
 import { queryKeys } from "@/lib/query-keys";
 
-import { RegionVoteResponse } from "../types";
 import { RegionVoteResponseSchema } from "../schemas";
+import { RegionVoteResponse } from "../types";
 
 type GetRegionVote = {
   regionId: string;
@@ -24,7 +24,7 @@ export const useGetRegionVote = (params: GetRegionVote) => {
   const query = useQuery({
     queryFn: () => getRegionVote(params),
     placeholderData: keepPreviousData,
-    queryKey: [queryKeys.region.detail(params.regionId)],
+    queryKey: [queryKeys.region.detail(params.regionId).queryKey, params],
   });
 
   return query;
