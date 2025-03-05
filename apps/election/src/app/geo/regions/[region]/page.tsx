@@ -21,7 +21,7 @@ export default function RegionPage({ params }: RegionPageProps) {
   return (
     <>
       <div className="relative flex-1">
-        <GeoRegionMap region={region} />
+        <GeoRegionMap region={region} data={data?.data} />
         <GeoSwitchData />
       </div>
       <div className="h-full w-[360px]">
