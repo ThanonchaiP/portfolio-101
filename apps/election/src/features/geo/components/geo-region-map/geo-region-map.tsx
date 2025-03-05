@@ -12,9 +12,9 @@ import {
   Northeastern,
   Southern,
 } from "@/data/region";
-import { formatNumberWithCommas } from "@/utils";
 
 import { RegionVote } from "../../types";
+import { GeoRegionMapTooltip } from "../geo-region-map-tooltip";
 
 type GeoRegionMapProps = {
   region: string;
@@ -98,27 +98,7 @@ export const GeoRegionMap = ({ region, data }: GeoRegionMapProps) => {
     >
       {regionComponents[region] ?? <Fallback />}
 
-      {true && (
-        <div
-          className="fixed z-10 min-w-[280px] rounded-[4px] bg-white shadow-md"
-          style={{ top: tootltip.y, left: tootltip.x }}
-        >
-          <div className="bg-orange-50 px-2 py-1">
-            <p className="text-sm font-bold text-[var(--primary)]">
-              {data?.votes?.[tootltip.areaId]?.[0].district.name_th}
-            </p>
-          </div>
-
-          <div className="flex items-center justify-between px-3 py-2">
-            <div>ad</div>
-            <h4 className={"text-[21px] font-bold text-gray-400"}>
-              {formatNumberWithCommas(
-                data?.votes?.[tootltip.areaId]?.[0].vote_count ?? 0,
-              )}
-            </h4>
-          </div>
-        </div>
-      )}
+      {tootltip.show && <GeoRegionMapTooltip data={data} {...tootltip} />}
     </div>
   );
 };
