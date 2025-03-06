@@ -66,16 +66,21 @@ export const GeoRegionMap = ({ region, data }: GeoRegionMapProps) => {
     const regionElement = document.getElementById("region-wrapper");
 
     regionElement?.querySelectorAll("svg g g").forEach((e) => {
+      //set color for each area
+      const areaId = e.id.split("-")[1];
+      const areaColor = data?.votes?.[areaId]?.[0].candidate.party.color;
+      e.querySelector("rect")?.setAttribute("fill", areaColor ?? "#D9D9D9");
+
       e.addEventListener("mouseenter", () => {
         e.setAttribute("cursor", "pointer");
         if (e.id.includes("name")) return;
 
         const { x, y } = e.getBoundingClientRect();
         setTooltip({
-          show: true,
-          x: x + 30,
           y,
-          areaId: e.id.split("-")[1],
+          areaId,
+          x: x + 40,
+          show: true,
         });
       });
       e.addEventListener("click", () => onClick(e.id));

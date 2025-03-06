@@ -14,8 +14,10 @@ export const GeoRegionMapTooltip = (props: GeoRegionMapTooltipProps) => {
 
   const voteWinner = data?.votes?.[areaId]?.[0];
 
-  const candidate = voteWinner?.candidate;
-  const districtName = voteWinner?.district.name_th;
+  if (!voteWinner) return null;
+
+  const candidate = voteWinner.candidate;
+  const districtName = voteWinner.district.name_th;
 
   return (
     <div
@@ -28,10 +30,10 @@ export const GeoRegionMapTooltip = (props: GeoRegionMapTooltipProps) => {
         </p>
       </div>
 
-      <div className="flex items-center justify-between px-3 py-2">
+      <div className="flex items-center justify-between px-3 py-1">
         <div>{candidate?.name_en}</div>
         <h4 className={"text-[20px] font-bold text-gray-400"}>
-          {formatNumberWithCommas(data?.votes?.[areaId]?.[0].vote_count ?? 0)}
+          {formatNumberWithCommas(voteWinner.vote_count)}
         </h4>
       </div>
     </div>
