@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 import { cn } from "@/lib/utils";
 import { formatNumberWithCommas } from "@/utils";
 
@@ -64,6 +66,12 @@ export const GeoVoteList = ({ data }: GeoVoteListProps) => {
                       <h4 className="min-w-[10px] text-lg font-semibold text-gray-700">
                         {index + 1}
                       </h4>
+                      <Image
+                        alt="party-image"
+                        src="/gaara-sm.png"
+                        width={28}
+                        height={28}
+                      />
                       <h4>{item.candidate.name_en}</h4>
                     </div>
                     <h4
