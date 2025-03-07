@@ -46,7 +46,7 @@ export const GeoRegionMapTooltip = (props: GeoRegionMapTooltipProps) => {
           >
             <Image
               alt="candidate-image"
-              src="/gaara-sm.png"
+              src={candidate.image}
               width={28}
               height={28}
             />

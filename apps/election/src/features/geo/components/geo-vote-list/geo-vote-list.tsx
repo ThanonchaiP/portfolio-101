@@ -71,6 +71,7 @@ export const GeoVoteList = ({ data }: GeoVoteListProps) => {
                         src={item.candidate.party.image}
                         width={60}
                         height={28}
+                        className="size-auto"
                       />
                       <h4>{item.candidate.name_en}</h4>
                     </div>
