@@ -795,11 +795,12 @@
   },
   {
     "id": "114",
-    "name_th": "แทรคเกอร์",
-    "name_en": "Tracker",
+    "name_th": "Yhwach",
+    "name_en": "Yhwach",
     "partyId": "8",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/tracker-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/yhwach-sm.png"
   },
+
   {
     "id": "115",
     "name_th": "ชินอิจิ คุโด",
@@ -830,17 +831,17 @@
   },
   {
     "id": "119",
-    "name_th": "มิยูกิ โยโกยามะ",
-    "name_en": "Miyuki Yokoyama",
+    "name_th": "Conan Edogawa",
+    "name_en": "Conan Edogawa",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/miyuki-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/conan-sm.png"
   },
   {
     "id": "120",
-    "name_th": "เจย์ เจย์ ฮารุโนะ",
-    "name_en": "JJ Haruno",
+    "name_th": "Hiroshi Agasa",
+    "name_en": "Hiroshi Agasa",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/jj-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/hiroshi-sm.png"
   },
   {
     "id": "121",
@@ -851,46 +852,47 @@
   },
   {
     "id": "122",
-    "name_th": "มิซูกิ ฮายาชิ",
-    "name_en": "Mizuki Hayashi",
+    "name_th": "Genta Kojima",
+    "name_en": "Genta Kojima",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/mizuki-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/genta-sm.png"
   },
   {
     "id": "123",
-    "name_th": "ชิซุกะ โคโดมะ",
-    "name_en": "Shizuka Kodama",
+    "name_th": "Ayumi Yoshida",
+    "name_en": "Ayumi Yoshida",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/shizuka-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/ayumi-sm.png"
   },
   {
     "id": "124",
-    "name_th": "โฮคุโร่ ยามาโมโตะ",
-    "name_en": "Hokuro Yamamoto",
+    "name_th": "Gin",
+    "name_en": "Gin",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/hokuro-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/gin-sm.png"
   },
   {
     "id": "125",
-    "name_th": "คันไค ซะมาระ",
-    "name_en": "Kankai Samara",
+    "name_th": "Rei Furuya",
+    "name_en": "Rei Furuya",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/kankai-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/rei-sm.png"
   },
   {
     "id": "126",
-    "name_th": "อายะ โชโจ",
-    "name_en": "Aya Shojo",
+    "name_th": "Kaitou Kid",
+    "name_en": "Kaitou Kid",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/aya-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/kaitou-sm.png"
   },
   {
     "id": "127",
-    "name_th": "โทชิโอะ โยชิมูระ",
-    "name_en": "Toshio Yoshimura",
+    "name_th": "Heiji Hattori",
+    "name_en": "Heiji Hattori",
     "partyId": "9",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/toshio-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/heiji-sm.png"
   },
+
   {
     "id": "128",
     "name_th": "ซาวาดะ สึนะโยชิ",
@@ -907,10 +909,10 @@
   },
   {
     "id": "130",
-    "name_th": "คูซามิ โทชิ",
-    "name_en": "Kusami Toshio",
+    "name_th": "Fabio",
+    "name_en": "Fabio",
     "partyId": "10",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/kusami-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/fabio-sm.png"
   },
   {
     "id": "131",
@@ -942,10 +944,10 @@
   },
   {
     "id": "135",
-    "name_th": "จิซึยะ",
-    "name_en": "Jizura",
+    "name_th": "Daniela",
+    "name_en": "Daniela",
     "partyId": "10",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/jizura-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/daniela-sm.png"
   },
   {
     "id": "136",
@@ -956,32 +958,33 @@
   },
   {
     "id": "137",
-    "name_th": "วาดิ",
-    "name_en": "Vadi",
+    "name_th": "Verde",
+    "name_en": "Verde",
     "partyId": "10",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/vadi-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/verde-sm.png"
   },
   {
     "id": "138",
-    "name_th": "ร็อคกี้",
-    "name_en": "Rocky",
+    "name_th": "Colonnello",
+    "name_en": "Colonnello",
     "partyId": "10",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/rocky-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/colonnello-sm.png"
   },
   {
     "id": "139",
-    "name_th": "ลุฟฟี่",
-    "name_en": "Luffy",
+    "name_th": "Viper",
+    "name_en": "Viper",
     "partyId": "10",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/luffy-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/viper-sm.png"
   },
   {
     "id": "140",
-    "name_th": "มุกุโร่",
-    "name_en": "Mukuro",
+    "name_th": "Chrome Dokuro",
+    "name_en": "Chrome Dokuro",
     "partyId": "10",
-    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/mukuro2-sm.png"
+    "image": "https://election-66.s3.ap-southeast-7.amazonaws.com/chrome-sm.png"
   },
+
   {
     "id": "141",
     "name_th": "ชิโระ",
