@@ -29,3 +29,9 @@ export type Party = {
   image: string;
   color: string;
 };
+
+export type PartyCount = {
+  name: string;
+  count: number;
+  image: string;
+};

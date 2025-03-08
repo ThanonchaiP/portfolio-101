@@ -40,3 +40,11 @@ export const RegionVoteSchema = z.object({
 export const RegionVoteResponseSchema = z.object({
   data: RegionVoteSchema,
 });
+
+export const PartyCountResponseSchema = z.any(
+  z.object({
+    name: z.string(),
+    count: z.number(),
+    image: z.string(),
+  }),
+);

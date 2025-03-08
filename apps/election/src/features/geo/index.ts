@@ -1,5 +1,6 @@
 //apis:
 export * from "./api/get-region-vote";
+export * from "./api/get-party-count";
 
 //components:
 export * from "./components/geo-region-map";
