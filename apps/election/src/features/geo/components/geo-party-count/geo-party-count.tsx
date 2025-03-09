@@ -53,7 +53,7 @@ export const GeoPartyCount = () => {
         open={open}
         onClose={toggle}
         title={
-          <h2 className="text-xl text-[var(--primary)]">
+          <h2 className="text-lg text-[var(--primary)]">
             พรรคอื่น ๆ ({otherPartiesSeatsCount} ที่นั่ง)
           </h2>
         }
