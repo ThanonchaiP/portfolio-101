@@ -49,15 +49,18 @@ export const GeoPartyCount = () => {
         )}
       </div>
 
-      <Modal open={open} onClose={toggle}>
-        <div className="flex flex-col gap-2">
-          <h2 className="mb-1 text-xl text-[var(--primary)]">
+      <Modal
+        open={open}
+        onClose={toggle}
+        title={
+          <h2 className="text-xl text-[var(--primary)]">
             พรรคอื่น ๆ ({otherPartiesSeatsCount} ที่นั่ง)
           </h2>
-          {otherParties.map((party) => (
-            <GeoPartyCountItem key={party.name} {...party} />
-          ))}
-        </div>
+        }
+      >
+        {otherParties.map((party) => (
+          <GeoPartyCountItem key={party.name} {...party} />
+        ))}
       </Modal>
     </div>
   );
