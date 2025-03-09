@@ -1,68 +1,65 @@
 import axios from "axios";
 
 import regions from "@/data/regions.json";
+import region1 from "@/data/votes/region-1.json";
+import region2 from "@/data/votes/region-2.json";
+import region3 from "@/data/votes/region-3.json";
+import region5 from "@/data/votes/region-5.json";
+import region6 from "@/data/votes/region-6.json";
+import region7 from "@/data/votes/region-7.json";
 import { Vote } from "@/types";
 
 export const dynamic = "force-static";
 
-const getVotes = async (regionId: string) => {
-  switch (regionId) {
-    case "1":
-      return import("@/data/votes/region-1.json").then((data) => data.default);
-    case "2":
-      return import("@/data/votes/region-2.json").then((data) => data.default);
-    case "3":
-      return import("@/data/votes/region-3.json").then((data) => data.default);
-    case "5":
-      return import("@/data/votes/region-5.json").then((data) => data.default);
-    case "6":
-      return import("@/data/votes/region-6.json").then((data) => data.default);
-    case "7":
-      return import("@/data/votes/region-7.json").then((data) => data.default);
-    default:
-      return [];
-  }
+const REGION_FILES: Record<string, Vote[]> = {
+  "1": region1,
+  "2": region2,
+  "3": region3,
+  "5": region5,
+  "6": region6,
+  "7": region7,
 };
 
-function groupById(data: Vote[]) {
-  return data.reduce((result: Record<string, Vote[]>, item: Vote) => {
-    // Get the ID to use as key
-    const id = item.district_id;
+const getVotes = (regionId: string): Vote[] => {
+  return REGION_FILES[regionId] ?? [];
+};
 
-    // If this ID doesn't exist in our result yet, create an empty array for it
-    if (!result[id]) result[id] = [];
-
-    // Add the current item to the array for this ID
-    result[id].push(item);
-
-    return result;
-  }, {});
-}
+const groupById = (data: Vote[]): Record<string, Vote[]> => {
+  return data.reduce(
+    (acc, vote) => {
+      acc[vote.district_id] = acc[vote.district_id] || [];
+      acc[vote.district_id].push(vote);
+      return acc;
+    },
+    {} as Record<string, Vote[]>,
+  );
+};
 
 export async function GET(
   request: Request,
   { params }: { params: Promise<{ regionId: string }> },
 ) {
   const regionId = (await params).regionId;
-
-  const host = request.url.replace(/\/api\/regions\/.*/, "");
+  const host = new URL(request.url).origin;
 
   const region = regions.find((region) => region.id === regionId) ?? [];
 
   const votes = await getVotes(regionId);
   const votesObj = groupById(votes);
 
-  const districts = (await axios.get(`${host}/api/districts`)).data;
-  const candidates = (await axios.get(`${host}/api/candidates`)).data;
+  const [{ data: districts }, { data: candidates }] = await Promise.all([
+    axios.get(`${host}/api/districts`),
+    axios.get(`${host}/api/candidates`),
+  ]);
 
   //sort votes by vote_count
   Object.values(votesObj).forEach((voteGroup) => {
     voteGroup.sort((a, b) => b.vote_count - a.vote_count);
     voteGroup.length = Math.min(voteGroup.length, 2); // Keep only top 2 items
-    voteGroup.map((vote) => {
+
+    voteGroup.forEach((vote) => {
       vote.district = districts.data[vote.district_id];
       vote.candidate = candidates.data[vote.candidate_id];
-      return vote;
     });
   });
 

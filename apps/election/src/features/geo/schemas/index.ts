@@ -11,6 +11,8 @@ export const RegionVoteSchema = z.object({
     z.array(
       z.object({
         id: z.string(),
+        candidate_id: z.string().optional(),
+        district_id: z.string().optional(),
         vote_count: z.number(),
         district: z.object({
           id: z.string(),

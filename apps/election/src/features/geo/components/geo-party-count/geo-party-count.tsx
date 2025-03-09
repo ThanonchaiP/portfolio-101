@@ -2,16 +2,16 @@
 
 import { Icon } from "@iconify/react";
 import { useParams } from "next/navigation";
-import { useState } from "react";
 
 import { Modal } from "@/components/modal";
+import { useToggle } from "@/hooks/use-toggle";
 
 import { useGetPartyCount } from "../../api/get-party-count";
 
 import { GeoPartyCountItem } from "./geo-party-count-item";
 
 export const GeoPartyCount = () => {
-  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [open, toggle] = useToggle();
 
   const regionId = (useParams().region ?? "geo") as string;
   const parties = useGetPartyCount({ regionId }).data ?? [];
@@ -22,9 +22,6 @@ export const GeoPartyCount = () => {
     (acc, party) => acc + party.count,
     0,
   );
-
-  const handleOpenModal = () => setIsModalOpen(true);
-  const handleCloseModal = () => setIsModalOpen(false);
 
   return (
     <div className="mt-2">
@@ -38,7 +35,7 @@ export const GeoPartyCount = () => {
         {otherParties.length > 0 && (
           <div
             className="flex cursor-pointer items-center gap-2"
-            onClick={handleOpenModal}
+            onClick={toggle}
           >
             <div className="mx-2 inline-block size-4 bg-slate-400" />
             <h3>
@@ -52,7 +49,7 @@ export const GeoPartyCount = () => {
         )}
       </div>
 
-      <Modal open={isModalOpen} onClose={handleCloseModal}>
+      <Modal open={open} onClose={toggle}>
         <div className="flex flex-col gap-2">
           <h2 className="mb-1 text-xl text-[var(--primary)]">
             พรรคอื่น ๆ ({otherPartiesSeatsCount} ที่นั่ง)
