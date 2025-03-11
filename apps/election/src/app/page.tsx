@@ -75,13 +75,19 @@ const Home: NextPage = () => {
                                 "linear-gradient(rgb(201, 189, 182) 0%, rgb(255, 245, 240) 100%)",
                             }}
                           >
-                            <div className="flex size-full items-center justify-center">
+                            <div className="relative flex size-full items-center justify-center">
                               <div
                                 className="absolute inset-0 bg-cover bg-center"
                                 style={{
                                   backgroundImage: "url(/img/goku-lg.webp)",
                                 }}
                               ></div>
+                              <div className="absolute bottom-7 left-0 flex size-[64px] flex-col justify-center bg-slate-50 text-center">
+                                <h3 className="h-[30px] text-3xl font-bold text-[var(--primary)]">
+                                  71
+                                </h3>
+                                <p className="text-[var(--primary)]">ที่นั่ง</p>
+                              </div>
                             </div>
                           </div>
                         </div>
@@ -93,13 +99,19 @@ const Home: NextPage = () => {
                                 "linear-gradient(rgb(201, 189, 182) 0%, rgb(255, 245, 240) 100%)",
                             }}
                           >
-                            <div className="flex size-full items-center justify-center">
+                            <div className="relative flex size-full items-center justify-center">
                               <div
                                 className="absolute inset-0 bg-cover bg-center"
                                 style={{
                                   backgroundImage: "url(/img/test.png)",
                                 }}
                               ></div>
+                              <div className="absolute bottom-9 left-6 flex size-[74px] flex-col justify-center bg-slate-50 text-center">
+                                <h3 className="h-[36px] text-4xl font-bold text-[var(--primary)]">
+                                  71
+                                </h3>
+                                <p className="text-[var(--primary)]">ที่นั่ง</p>
+                              </div>
                             </div>
                           </div>
                         </div>
@@ -111,13 +123,19 @@ const Home: NextPage = () => {
                                 "linear-gradient(rgb(201, 189, 182) 0%, rgb(255, 245, 240) 100%)",
                             }}
                           >
-                            <div className="flex size-full items-center justify-center">
+                            <div className="relative flex size-full items-center justify-center">
                               <div
                                 className="absolute inset-0 bg-cover bg-center"
                                 style={{
                                   backgroundImage: "url(/img/conan-lg.webp)",
                                 }}
                               ></div>
+                              <div className="absolute bottom-7 right-0 flex size-[64px] flex-col justify-center bg-slate-50 text-center">
+                                <h3 className="h-[30px] text-3xl font-bold text-[var(--primary)]">
+                                  71
+                                </h3>
+                                <p className="text-[var(--primary)]">ที่นั่ง</p>
+                              </div>
                             </div>
                           </div>
                         </div>
