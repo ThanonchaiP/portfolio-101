@@ -30,8 +30,6 @@ export type Party = {
   color: string;
 };
 
-export type PartyCount = {
-  name: string;
+export type PartyCount = Party & {
   count: number;
-  image: string;
 };

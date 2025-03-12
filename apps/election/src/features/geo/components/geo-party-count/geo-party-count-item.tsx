@@ -8,7 +8,7 @@ interface GeoPartyCountItemProps extends PartyCount {
 }
 
 export const GeoPartyCountItem = ({
-  name,
+  name_en,
   count,
   image,
   eclipse,
@@ -17,13 +17,13 @@ export const GeoPartyCountItem = ({
     <div className="flex items-center justify-between">
       <div className="flex items-center gap-2">
         <Image
-          alt={`${name} party logo`}
+          alt={`${name_en} party logo`}
           src={image}
           width={30}
           height={18}
           className="size-auto"
         />
-        <h3 className={cn(eclipse && "max-w-[120px] truncate")}>{name}</h3>
+        <h3 className={cn(eclipse && "max-w-[120px] truncate")}>{name_en}</h3>
       </div>
       <h3 className="pt-px text-sm text-[var(--primary)]">
         <span className="text-[21px] font-bold">{count}</span> ที่นั่ง

@@ -6,4 +6,8 @@ export const queryKeys = createQueryKeyStore({
     detail: (id: string) => [id],
     partyCount: (id: string) => ["party-count", id],
   },
+  formation: {
+    all: null,
+    detail: (id: string) => [id],
+  },
 });

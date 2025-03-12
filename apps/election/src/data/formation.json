@@ -1,0 +1,139 @@
+[
+  {
+    "id": "formation-18",
+    "label": "สูตรแถลง 9 ส.ค.",
+    "name": "สูตรแถลง 9 ส.ค.",
+    "description": "สูตรแถลง 9 ส.ค.",
+    "governmentPartyRefCodes": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "oppositionPartyRefCodes": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "translations": {
+      "th": {
+        "name": "สูตรแถลง 9 ส.ค."
+      },
+      "en": {
+        "name": "9th August"
+      }
+    }
+  },
+  {
+    "id": "formation-19",
+    "label": "สูตรประชาช็อก",
+    "name": "สูตรประชาช็อก",
+    "description": "สูตรประชาช็อก",
+    "governmentPartyRefCodes": [
+      "1",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "19",
+      "20"
+    ],
+    "oppositionPartyRefCodes": ["3", "16", "17", "18"],
+    "translations": {
+      "th": {
+        "name": "สูตรประชาช็อก"
+      },
+      "en": {
+        "name": "Pracha-Choc"
+      }
+    }
+  },
+  {
+    "id": "formation-15",
+    "label": "ใครจะสู้ววว",
+    "name": "ใครจะสู้ววว",
+    "description": "ใครจะสู้ววว",
+    "governmentPartyRefCodes": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "oppositionPartyRefCodes": ["18", "19", "20"],
+    "translations": {
+      "th": {
+        "name": "ใครจะสู้ววว"
+      },
+      "en": {
+        "name": "Who Will Fight"
+      }
+    }
+  },
+  {
+    "id": "formation-16",
+    "label": "เพื่อไทย แต่มีน้องลุง",
+    "name": "เพื่อไทย แต่มีน้องลุง",
+    "description": "เพื่อไทย แต่มีน้องลุง",
+    "governmentPartyRefCodes": ["1", "2", "4", "5", "6", "7", "11", "14", "18"],
+    "oppositionPartyRefCodes": ["3", "8", "9", "10"],
+    "translations": {
+      "th": {
+        "name": "เพื่อไทย แต่มีน้องลุง"
+      },
+      "en": {
+        "name": "With Uncle's Brother"
+      }
+    }
+  },
+  {
+    "id": "formation-17",
+    "label": "\"เพื่อไทย\"",
+    "name": "\"เพื่อไทย\"",
+    "description": "\"เพื่อไทย\"",
+    "governmentPartyRefCodes": ["1", "2", "4", "5", "6", "7", "11", "14", "18"],
+    "oppositionPartyRefCodes": ["3", "19", "13"],
+    "translations": {
+      "th": {
+        "name": "\"เพื่อไทย\""
+      },
+      "en": {
+        "name": "For Thai"
+      }
+    }
+  }
+]

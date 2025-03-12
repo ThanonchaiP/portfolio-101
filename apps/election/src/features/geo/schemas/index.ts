@@ -42,8 +42,11 @@ export const RegionVoteResponseSchema = z.object({
 
 export const PartyCountResponseSchema = z.any(
   z.object({
-    name: z.string(),
-    count: z.number(),
+    id: z.string(),
+    name_th: z.string(),
+    name_en: z.string(),
     image: z.string(),
+    color: z.string(),
+    count: z.number(),
   }),
 );

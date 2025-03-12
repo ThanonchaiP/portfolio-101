@@ -39,7 +39,7 @@ const getPartyCount = (
   partyCount: Record<string, PartyCount>,
 ): PartyCount[] => {
   return Object.values(partyCount).sort(
-    (a, b) => b.count - a.count || a.name.localeCompare(b.name),
+    (a, b) => b.count - a.count || a.name_en.localeCompare(b.name_en),
   );
 };
 
@@ -54,9 +54,8 @@ export async function GET(
     for (const voteGroup of Object.values(regions.votes)) {
       const party = voteGroup[0].candidate.party;
       partyCount[party.id] = {
-        name: party.name_en,
+        ...party,
         count: (partyCount[party.id]?.count || 0) + 1,
-        image: party.image,
       };
     }
     return Response.json({ data: getPartyCount(partyCount) });
@@ -76,9 +75,8 @@ export async function GET(
     const candidate = candidates.data[topVote.candidate_id];
     const party = candidate.party;
     partyCount[party.id] = {
-      name: party.name_en,
+      ...party,
       count: (partyCount?.[party.id]?.count ?? 0) + 1,
-      image: party.image,
     };
   });
 

@@ -29,7 +29,7 @@ export const GeoPartyCount = () => {
 
       <div className="mt-4 flex flex-col gap-2">
         {topParties.map((party) => (
-          <GeoPartyCountItem key={party.name} {...party} eclipse />
+          <GeoPartyCountItem key={party.name_en} {...party} eclipse />
         ))}
 
         {otherParties.length > 0 && (
@@ -59,7 +59,7 @@ export const GeoPartyCount = () => {
         }
       >
         {otherParties.map((party) => (
-          <GeoPartyCountItem key={party.name} {...party} />
+          <GeoPartyCountItem key={party.id} {...party} />
         ))}
       </Modal>
     </div>
