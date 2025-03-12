@@ -6,25 +6,20 @@ import type { Swiper as SwiperType } from "swiper";
 import { Autoplay } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
+import formation from "@/data/formation.json";
 import parties from "@/data/parties.json";
 import { cn } from "@/lib/utils";
 import { Party } from "@/types";
-
-import { useListFormation } from "../../api/list-formation";
 
 import "swiper/css";
 
 export const ResultCarousel = () => {
   const swiperRef = useRef<SwiperType | null>(null);
 
-  const { data } = useListFormation();
-
   const partiesObj = parties.reduce((acc: Record<string, Party>, party) => {
     acc[party.id] = party;
     return acc;
   }, {});
-
-  console.log("partiesObj", partiesObj);
 
   const [activeIndex, setActiveIndex] = useState(0);
 
@@ -35,7 +30,7 @@ export const ResultCarousel = () => {
           <div className="flex items-center gap-2 rounded bg-white px-3 py-2">
             <p className="mb-0 text-[var(--primary)]">ดูสูตรจับขั้วรัฐบาล</p>
             <div className="flex gap-[2px]">
-              {data?.data.map((_, i) => (
+              {formation.map((_, i) => (
                 <button
                   key={i}
                   className={cn(
@@ -71,7 +66,7 @@ export const ResultCarousel = () => {
               onSwiper={(swiper) => (swiperRef.current = swiper)}
               onSlideChange={(swiper) => setActiveIndex(swiper.realIndex + 1)}
             >
-              {data?.data.map((_, i) => (
+              {formation.map((_, i) => (
                 <SwiperSlide className="!w-full" key={i}>
                   <div className="relative z-0 w-full pt-[85%]">
                     <div className="absolute inset-0 grid grid-cols-[1fr,1.25fr,1fr] items-center">

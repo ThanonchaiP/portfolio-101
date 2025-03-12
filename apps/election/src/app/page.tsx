@@ -8,7 +8,7 @@ import "swiper/css";
 
 const Home: NextPage = () => {
   return (
-    <div className="flex h-full flex-1 gap-10 overflow-hidden pl-10">
+    <div className="flex h-full flex-1 gap-10 pl-10">
       <ResultCarousel />
       <ResultList />
     </div>
