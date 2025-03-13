@@ -1,4 +1,4 @@
-import formation from "@/data/formation.json";
+import formation from "@/data/formations.json";
 
 export const dynamic = "force-static";
 

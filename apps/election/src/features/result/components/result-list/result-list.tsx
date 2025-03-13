@@ -48,7 +48,7 @@ export const ResultList = () => {
                     height={28}
                     className="size-auto"
                   />
-                  <span className="absolute bottom-[-9px] left-[-9px] flex size-[20px] items-center justify-center rounded-sm bg-white shadow-md">
+                  <span className="absolute bottom-[-9px] left-[-9px] flex size-[20px] items-center justify-center rounded-sm bg-white font-bold shadow-md">
                     {index + 1}
                   </span>
                 </div>
