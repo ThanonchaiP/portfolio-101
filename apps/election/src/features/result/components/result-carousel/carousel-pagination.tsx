@@ -23,7 +23,7 @@ export const CarouselPagination = ({
               key={index}
               className={cn(
                 "size-8 rounded bg-[var(--background)] text-xl font-bold",
-                activeIndex === index + 1 && "bg-[var(--primary)] text-white",
+                activeIndex === index && "bg-[var(--primary)] text-white",
               )}
               onClick={() => onSlideTo(index)}
             >

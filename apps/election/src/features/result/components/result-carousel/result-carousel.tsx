@@ -29,7 +29,11 @@ export const ResultCarousel = () => {
     }, {}) ?? {};
 
   const onSlideTo = (index: number) => {
-    swiperRef?.current?.slideTo(index);
+    swiperRef?.current?.slideToLoop(index);
+  };
+
+  const onSlideChange = (index: number) => {
+    setActiveIndex(index);
   };
 
   return (
@@ -56,10 +60,10 @@ export const ResultCarousel = () => {
             <Swiper
               loop
               modules={[Autoplay]}
-              autoplay={{ delay: 5000 }}
+              autoplay={{ delay: 10000 }}
               className="h-auto w-full"
               onSwiper={(swiper) => (swiperRef.current = swiper)}
-              onSlideChange={(swiper) => setActiveIndex(swiper.realIndex + 1)}
+              onSlideChange={(swiper) => onSlideChange(swiper.realIndex)}
             >
               {formations.map((formation, i) => {
                 const [first, second, third] =
@@ -103,7 +107,10 @@ export const ResultCarousel = () => {
           </button>
         </div>
 
-        <CarouselSeatBar />
+        <CarouselSeatBar
+          partyCount={partyCountObj}
+          formation={formations[activeIndex]}
+        />
       </div>
     </div>
   );
