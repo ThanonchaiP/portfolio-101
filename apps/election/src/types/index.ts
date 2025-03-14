@@ -27,6 +27,7 @@ export type Party = {
   name_th: string;
   name_en: string;
   image: string;
+  candidate_img: string;
   color: string;
 };
 

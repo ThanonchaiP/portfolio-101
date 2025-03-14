@@ -24,7 +24,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -57,7 +59,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -81,6 +85,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -114,6 +120,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -137,6 +145,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -170,6 +180,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -193,6 +205,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -226,6 +240,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -249,6 +265,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -282,6 +300,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -305,6 +325,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -338,6 +360,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -360,7 +384,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -394,6 +420,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -417,6 +445,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -450,6 +480,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -472,7 +504,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -505,7 +539,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -529,6 +565,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -562,6 +600,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -585,6 +625,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -618,6 +660,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -641,6 +685,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -674,6 +720,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -697,6 +745,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -730,6 +780,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -753,6 +805,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -786,6 +840,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -809,6 +865,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -842,6 +900,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -865,6 +925,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -898,6 +960,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -921,6 +985,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -954,6 +1020,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -977,6 +1045,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -1010,6 +1080,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -1033,6 +1105,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -1066,6 +1140,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -1089,6 +1165,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -1122,6 +1200,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -1145,6 +1225,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -1177,7 +1259,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -1201,6 +1285,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -1234,6 +1320,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -1257,6 +1345,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -1290,6 +1380,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -1312,7 +1404,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -1346,6 +1440,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -1369,6 +1465,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -1402,6 +1500,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -1425,6 +1525,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -1458,6 +1560,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -1481,6 +1585,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -1514,6 +1620,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -1537,6 +1645,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -1570,6 +1680,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -1593,6 +1705,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -1626,6 +1740,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -1649,6 +1765,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -1682,6 +1800,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -1705,6 +1825,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -1738,6 +1860,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -1761,6 +1885,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -1794,6 +1920,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -1817,6 +1945,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -1850,6 +1980,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -1874,6 +2006,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -1907,6 +2041,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -1930,6 +2066,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -1963,6 +2101,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -1986,6 +2126,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -2019,6 +2161,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -2042,6 +2186,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -2075,6 +2221,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -2098,6 +2246,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -2131,6 +2281,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -2154,6 +2306,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -2187,6 +2341,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -2210,6 +2366,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -2243,6 +2401,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -2266,6 +2426,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -2299,6 +2461,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -2322,6 +2486,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -2355,6 +2521,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -2378,6 +2546,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -2410,7 +2580,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -2434,6 +2606,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -2467,6 +2641,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -2490,6 +2666,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -2522,6 +2700,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -2545,6 +2725,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -2578,6 +2760,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -2601,6 +2785,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -2634,6 +2820,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -2657,6 +2845,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -2690,6 +2880,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -2713,6 +2905,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -2746,6 +2940,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -2769,6 +2965,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -2802,6 +3000,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -2824,7 +3024,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -2858,6 +3060,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -2881,6 +3085,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -2914,6 +3120,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -2937,6 +3145,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -2970,6 +3180,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -2993,6 +3205,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -3026,6 +3240,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -3049,6 +3265,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -3082,6 +3300,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -3105,6 +3325,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -3138,6 +3360,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -3161,6 +3385,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -3194,6 +3420,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -3217,6 +3445,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -3250,6 +3480,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -3273,6 +3505,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -3306,6 +3540,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -3329,6 +3565,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -3362,6 +3600,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -3385,6 +3625,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -3418,6 +3660,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -3441,6 +3685,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -3474,6 +3720,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -3497,6 +3745,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -3529,7 +3779,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -3553,6 +3805,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -3586,6 +3840,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -3609,6 +3865,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -3642,6 +3900,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -3665,6 +3925,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -3697,6 +3959,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -3720,6 +3984,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -3753,6 +4019,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -3776,6 +4044,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -3809,6 +4079,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -3832,6 +4104,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -3865,6 +4139,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -3887,7 +4163,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -3921,6 +4199,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -3944,6 +4224,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -3977,6 +4259,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -3999,7 +4283,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -4033,6 +4319,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -4056,6 +4344,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -4089,6 +4379,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -4112,6 +4404,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -4145,6 +4439,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -4168,6 +4464,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -4201,6 +4499,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -4224,6 +4524,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -4257,6 +4559,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -4280,6 +4584,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -4313,6 +4619,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -4336,6 +4644,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -4368,7 +4678,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -4392,6 +4704,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -4425,6 +4739,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -4448,6 +4764,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -4481,6 +4799,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -4504,6 +4824,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -4537,6 +4859,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -4560,6 +4884,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -4593,6 +4919,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -4616,6 +4944,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -4649,6 +4979,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -4672,6 +5004,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -4705,6 +5039,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -4728,6 +5064,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -4761,6 +5099,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -4784,6 +5124,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -4817,6 +5159,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -4840,6 +5184,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -4873,6 +5219,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -4896,6 +5244,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -4929,6 +5279,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -4952,6 +5304,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -4985,6 +5339,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -5008,6 +5364,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -5041,6 +5399,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -5064,6 +5424,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -5097,6 +5459,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -5120,6 +5484,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -5153,6 +5519,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -5176,6 +5544,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -5209,6 +5579,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -5232,6 +5604,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -5265,6 +5639,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -5288,6 +5664,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -5321,6 +5699,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -5344,6 +5724,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -5377,6 +5759,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -5400,6 +5784,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -5433,6 +5819,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -5456,6 +5844,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -5489,6 +5879,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -5512,6 +5904,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -5545,6 +5939,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -5568,6 +5964,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -5601,6 +5999,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -5624,6 +6024,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -5657,6 +6059,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -5680,6 +6084,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -5713,6 +6119,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -5736,6 +6144,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -5769,6 +6179,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -5791,7 +6203,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -5825,6 +6239,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -5848,6 +6264,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -5881,6 +6299,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -5904,6 +6324,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -5937,6 +6359,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -5960,6 +6384,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -5993,6 +6419,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -6016,6 +6444,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -6049,6 +6479,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -6073,6 +6505,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -6106,6 +6540,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -6129,6 +6565,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -6162,6 +6600,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -6185,6 +6625,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -6218,6 +6660,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -6241,6 +6685,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -6274,6 +6720,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -6297,6 +6745,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -6330,6 +6780,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -6352,7 +6804,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -6386,6 +6840,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -6409,6 +6865,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -6442,6 +6900,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -6465,6 +6925,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -6498,6 +6960,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -6521,6 +6985,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -6554,6 +7020,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -6577,6 +7045,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -6610,6 +7080,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -6633,6 +7105,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -6666,6 +7140,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -6689,6 +7165,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -6722,6 +7200,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -6745,6 +7225,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -6778,6 +7260,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -6801,6 +7285,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -6834,6 +7320,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -6857,6 +7345,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -6890,6 +7380,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -6913,6 +7405,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -6946,6 +7440,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -6969,6 +7465,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -7001,7 +7499,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -7025,6 +7525,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -7058,6 +7560,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -7081,6 +7585,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -7114,6 +7620,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -7137,6 +7645,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -7170,6 +7680,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -7193,6 +7705,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -7226,6 +7740,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -7249,6 +7765,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -7282,6 +7800,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -7305,6 +7825,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -7338,6 +7860,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -7361,6 +7885,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -7394,6 +7920,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -7417,6 +7945,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -7450,6 +7980,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -7473,6 +8005,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -7506,6 +8040,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -7529,6 +8065,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -7562,6 +8100,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -7585,6 +8125,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -7618,6 +8160,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -7641,6 +8185,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -7674,6 +8220,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -7698,6 +8246,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -7731,6 +8281,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -7754,6 +8306,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -7787,6 +8341,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -7810,6 +8366,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -7843,6 +8401,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -7866,6 +8426,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -7899,6 +8461,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -7922,6 +8486,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -7955,6 +8521,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -7978,6 +8546,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -8011,6 +8581,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -8034,6 +8606,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -8067,6 +8641,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -8090,6 +8666,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -8122,7 +8700,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -8146,6 +8726,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -8179,6 +8761,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -8202,6 +8786,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -8235,6 +8821,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -8258,6 +8846,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -8291,6 +8881,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -8314,6 +8906,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -8347,6 +8941,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -8370,6 +8966,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -8403,6 +9001,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -8426,6 +9026,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -8459,6 +9061,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -8482,6 +9086,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -8515,6 +9121,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -8537,7 +9145,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -8571,6 +9181,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -8594,6 +9206,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -8627,6 +9241,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -8650,6 +9266,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -8683,6 +9301,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -8706,6 +9326,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -8739,6 +9361,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -8762,6 +9386,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -8795,6 +9421,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -8818,6 +9446,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -8851,6 +9481,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -8874,6 +9506,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -8907,6 +9541,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -8930,6 +9566,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -8962,7 +9600,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -8986,6 +9626,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -9019,6 +9661,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -9042,6 +9686,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -9075,6 +9721,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -9098,6 +9746,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -9130,7 +9780,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -9154,6 +9806,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -9187,6 +9841,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -9210,6 +9866,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -9243,6 +9901,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -9266,6 +9926,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -9299,6 +9961,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -9322,6 +9986,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -9355,6 +10021,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -9378,6 +10046,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -9411,6 +10081,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -9434,6 +10106,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -9467,6 +10141,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -9490,6 +10166,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -9523,6 +10201,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -9545,6 +10225,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -9578,6 +10260,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -9601,6 +10285,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -9634,6 +10320,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -9657,6 +10345,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -9690,6 +10380,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -9713,6 +10405,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -9746,6 +10440,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -9769,6 +10465,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -9802,6 +10500,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -9825,6 +10525,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -9858,6 +10560,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -9881,6 +10585,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -9914,6 +10620,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -9937,6 +10645,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -9970,6 +10680,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -9993,6 +10705,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -10026,6 +10740,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -10049,6 +10765,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -10081,7 +10799,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -10105,6 +10825,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -10137,6 +10859,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -10160,6 +10884,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -10193,6 +10919,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -10216,6 +10944,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -10249,6 +10979,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -10272,6 +11004,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -10304,7 +11038,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -10327,7 +11063,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -10361,6 +11099,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -10384,6 +11124,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -10417,6 +11159,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -10440,6 +11184,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -10473,6 +11219,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -10496,6 +11244,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -10528,7 +11278,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -10552,6 +11304,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -10585,6 +11339,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -10608,6 +11364,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -10641,6 +11399,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -10664,6 +11424,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -10696,7 +11458,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -10720,6 +11484,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -10753,6 +11519,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -10776,6 +11544,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -10809,6 +11579,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -10832,6 +11604,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -10865,6 +11639,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -10888,6 +11664,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -10921,6 +11699,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -10944,6 +11724,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -10977,6 +11759,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -11000,6 +11784,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -11033,6 +11819,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -11056,6 +11844,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -11089,6 +11879,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -11112,6 +11904,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -11145,6 +11939,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -11168,6 +11964,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -11201,6 +11999,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -11224,6 +12024,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -11257,6 +12059,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -11280,6 +12084,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -11313,6 +12119,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -11336,6 +12144,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -11369,6 +12179,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -11391,7 +12203,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -11425,6 +12239,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -11448,6 +12264,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -11481,6 +12299,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -11504,6 +12324,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -11537,6 +12359,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -11560,6 +12384,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -11593,6 +12419,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -11616,6 +12444,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -11649,6 +12479,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -11672,6 +12504,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -11705,6 +12539,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -11728,6 +12564,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -11761,6 +12599,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -11783,7 +12623,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -11817,6 +12659,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -11840,6 +12684,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -11873,6 +12719,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -11896,6 +12744,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -11929,6 +12779,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -11952,6 +12804,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -11985,6 +12839,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -12008,6 +12864,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -12041,6 +12899,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -12064,6 +12924,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -12097,6 +12959,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -12120,6 +12984,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -12153,6 +13019,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -12176,6 +13044,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -12209,6 +13079,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -12232,6 +13104,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -12265,6 +13139,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -12288,6 +13164,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -12321,6 +13199,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -12344,6 +13224,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -12377,6 +13259,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -12400,6 +13284,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -12433,6 +13319,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -12456,6 +13344,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -12489,6 +13379,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -12512,6 +13404,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -12544,7 +13438,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -12568,6 +13464,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -12601,6 +13499,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -12624,6 +13524,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -12656,7 +13558,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -12680,6 +13584,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -12713,6 +13619,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -12736,6 +13644,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -12769,6 +13679,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -12792,6 +13704,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -12825,6 +13739,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -12848,6 +13764,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -12881,6 +13799,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -12904,6 +13824,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -12937,6 +13859,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -12960,6 +13884,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -12993,6 +13919,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -13016,6 +13944,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -13049,6 +13979,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -13072,6 +14004,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -13105,6 +14039,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -13128,6 +14064,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -13161,6 +14099,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -13184,6 +14124,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -13217,6 +14159,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -13239,7 +14183,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -13273,6 +14219,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -13296,6 +14244,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -13329,6 +14279,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -13352,6 +14304,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -13385,6 +14339,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -13408,6 +14364,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -13441,6 +14399,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -13464,6 +14424,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -13497,6 +14459,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -13520,6 +14484,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -13553,6 +14519,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -13576,6 +14544,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -13609,6 +14579,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -13632,6 +14604,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -13665,6 +14639,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -13688,6 +14664,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -13721,6 +14699,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -13744,6 +14724,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -13777,6 +14759,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -13800,6 +14784,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -13833,6 +14819,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -13856,6 +14844,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -13888,7 +14878,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -13912,6 +14904,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -13945,6 +14939,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -13968,6 +14964,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -14001,6 +14999,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -14024,6 +15024,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -14057,6 +15059,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -14080,6 +15084,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -14113,6 +15119,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -14136,6 +15144,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -14169,6 +15179,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -14191,7 +15203,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -14225,6 +15239,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -14248,6 +15264,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -14281,6 +15299,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -14304,6 +15324,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -14336,7 +15358,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -14360,6 +15384,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -14393,6 +15419,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -14416,6 +15444,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -14449,6 +15479,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -14472,6 +15504,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -14505,6 +15539,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -14527,7 +15563,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -14561,6 +15599,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -14584,6 +15624,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -14617,6 +15659,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -14640,6 +15684,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -14672,7 +15718,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -14696,6 +15744,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -14729,6 +15779,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -14752,6 +15804,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -14785,6 +15839,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -14808,6 +15864,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -14841,6 +15899,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -14864,6 +15924,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -14897,6 +15959,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -14920,6 +15984,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -14953,6 +16019,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -14976,6 +16044,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -15009,6 +16079,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -15032,6 +16104,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -15065,6 +16139,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -15088,6 +16164,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -15121,6 +16199,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -15145,6 +16225,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -15178,6 +16260,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -15201,6 +16285,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -15234,6 +16320,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -15257,6 +16345,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -15290,6 +16380,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -15313,6 +16405,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -15346,6 +16440,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -15369,6 +16465,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -15402,6 +16500,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -15425,6 +16525,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -15458,6 +16560,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -15480,7 +16584,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -15514,6 +16620,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -15537,6 +16645,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -15570,6 +16680,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -15593,6 +16705,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -15626,6 +16740,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -15649,6 +16765,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -15682,6 +16800,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -15705,6 +16825,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -15738,6 +16860,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -15761,6 +16885,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -15794,6 +16920,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -15817,6 +16945,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -15850,6 +16980,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -15873,6 +17005,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -15906,6 +17040,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -15928,7 +17064,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -15962,6 +17100,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -15985,6 +17125,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -16018,6 +17160,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -16041,6 +17185,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -16074,6 +17220,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -16097,6 +17245,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -16130,6 +17280,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -16153,6 +17305,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -16186,6 +17340,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -16209,6 +17365,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -16242,6 +17400,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -16265,6 +17425,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -16298,6 +17460,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -16321,6 +17485,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -16354,6 +17520,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -16377,6 +17545,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -16410,6 +17580,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -16433,6 +17605,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -16466,6 +17640,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -16489,6 +17665,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -16522,6 +17700,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -16545,6 +17725,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -16578,6 +17760,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -16601,6 +17785,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -16633,7 +17819,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -16657,6 +17845,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -16690,6 +17880,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -16713,6 +17905,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -16746,6 +17940,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -16769,6 +17965,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -16802,6 +18000,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -16825,6 +18025,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -16858,6 +18060,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -16881,6 +18085,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -16913,7 +18119,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -16937,6 +18145,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -16970,6 +18180,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -16993,6 +18205,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -17026,6 +18240,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -17049,6 +18265,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -17082,6 +18300,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -17105,6 +18325,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -17138,6 +18360,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -17161,6 +18385,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -17194,6 +18420,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -17217,6 +18445,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -17250,6 +18480,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -17273,6 +18505,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -17306,6 +18540,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -17329,6 +18565,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -17362,6 +18600,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -17385,6 +18625,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -17418,6 +18660,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -17441,6 +18685,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -17474,6 +18720,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -17497,6 +18745,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -17530,6 +18780,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -17553,6 +18805,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -17586,6 +18840,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -17609,6 +18865,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -17642,6 +18900,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -17665,6 +18925,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -17698,6 +18960,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -17721,6 +18985,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -17754,6 +19020,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -17777,6 +19045,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -17810,6 +19080,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -17833,6 +19105,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -17866,6 +19140,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -17889,6 +19165,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -17922,6 +19200,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -17945,6 +19225,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -17977,6 +19259,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -18000,6 +19284,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -18033,6 +19319,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -18056,6 +19344,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -18089,6 +19379,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -18112,6 +19404,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -18145,6 +19439,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -18168,6 +19464,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -18201,6 +19499,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -18224,6 +19524,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -18257,6 +19559,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -18280,6 +19584,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -18313,6 +19619,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -18336,6 +19644,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -18369,6 +19679,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -18392,6 +19704,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -18425,6 +19739,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -18448,6 +19764,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -18481,6 +19799,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -18504,6 +19824,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -18537,6 +19859,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -18560,6 +19884,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -18593,6 +19919,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -18616,6 +19944,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -18649,6 +19979,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -18672,6 +20004,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -18705,6 +20039,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -18728,6 +20064,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -18761,6 +20099,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -18784,6 +20124,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -18817,6 +20159,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -18840,6 +20184,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -18873,6 +20219,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -18896,6 +20244,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -18929,6 +20279,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -18952,6 +20304,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -18985,6 +20339,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -19008,6 +20364,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -19041,6 +20399,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -19065,6 +20425,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -19098,6 +20460,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -19121,6 +20485,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -19154,6 +20520,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -19177,6 +20545,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -19210,6 +20580,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -19233,6 +20605,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -19266,6 +20640,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -19289,6 +20665,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -19322,6 +20700,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -19345,6 +20725,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -19378,6 +20760,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -19401,6 +20785,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -19434,6 +20820,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -19456,7 +20844,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -19490,6 +20880,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -19513,6 +20905,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -19546,6 +20940,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -19569,6 +20965,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -19602,6 +21000,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -19625,6 +21025,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -19658,6 +21060,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -19681,6 +21085,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -19714,6 +21120,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -19737,6 +21145,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -19769,6 +21179,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -19792,6 +21204,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -19825,6 +21239,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -19848,6 +21264,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -19881,6 +21299,8 @@ export const regions: RegionVote = {
             name_th: "ม็อบไซโค 100",
             name_en: "Mob Psycho 100",
             image: "/img/party/mobpsycho100.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
         },
@@ -19904,6 +21324,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -19937,6 +21359,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -19960,6 +21384,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -19993,6 +21419,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -20016,6 +21444,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -20049,6 +21479,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -20072,6 +21504,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -20104,7 +21538,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -20128,6 +21564,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -20161,6 +21599,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -20184,6 +21624,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -20217,6 +21659,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -20240,6 +21684,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -20273,6 +21719,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -20296,6 +21744,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -20329,6 +21779,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -20352,6 +21804,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -20385,6 +21839,8 @@ export const regions: RegionVote = {
             name_th: "โซลอีทเตอร์",
             name_en: "Soul Eater",
             image: "/img/party/souleater.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
         },
@@ -20408,6 +21864,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -20441,6 +21899,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -20464,6 +21924,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -20497,6 +21959,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -20520,6 +21984,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -20553,6 +22019,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -20576,6 +22044,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -20609,6 +22079,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -20632,6 +22104,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -20665,6 +22139,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -20688,6 +22164,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -20721,6 +22199,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -20744,6 +22224,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -20777,6 +22259,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -20800,6 +22284,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -20833,6 +22319,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -20856,6 +22344,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -20889,6 +22379,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -20912,6 +22404,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -20945,6 +22439,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -20968,6 +22464,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -21001,6 +22499,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -21024,6 +22524,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -21057,6 +22559,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -21079,7 +22583,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -21113,6 +22619,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -21136,6 +22644,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -21169,6 +22679,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -21192,6 +22704,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -21225,6 +22739,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -21248,6 +22764,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -21281,6 +22799,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -21304,6 +22824,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -21337,6 +22859,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -21360,6 +22884,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -21393,6 +22919,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -21416,6 +22944,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -21449,6 +22979,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -21472,6 +23004,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -21505,6 +23039,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -21528,6 +23064,8 @@ export const regions: RegionVote = {
             name_th: "โตเกียวกูล",
             name_en: "Tokyo Ghoul",
             image: "/img/party/tokyoghoul.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
         },
@@ -21561,6 +23099,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -21584,6 +23124,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -21617,6 +23159,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -21640,6 +23184,8 @@ export const regions: RegionVote = {
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
             name_en: "JoJo's Bizarre Adventure",
             image: "/img/party/jojo.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
         },
@@ -21673,6 +23219,8 @@ export const regions: RegionVote = {
             name_th: "บลีช เทพมรณะ",
             name_en: "Bleach",
             image: "/img/party/bleach.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
         },
@@ -21696,6 +23244,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -21729,6 +23279,8 @@ export const regions: RegionVote = {
             name_th: "ฮันเตอร์ x ฮันเตอร์",
             name_en: "Hunter x Hunter",
             image: "/img/party/hunterxhunter.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
         },
@@ -21752,6 +23304,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -21784,7 +23338,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -21808,6 +23364,8 @@ export const regions: RegionVote = {
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
             name_en: "Haikyuu!!",
             image: "/img/party/haikyuu.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
         },
@@ -21841,6 +23399,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -21864,6 +23424,8 @@ export const regions: RegionVote = {
             name_th: "โคนัน เจ้าหนูยอดนักสืบ",
             name_en: "Detective Conan",
             image: "/img/party/detectiveconan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
         },
@@ -21897,6 +23459,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -21920,6 +23484,8 @@ export const regions: RegionVote = {
             name_th: "วันพันช์แมน",
             name_en: "One Punch Man",
             image: "/img/party/onepunchman.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
         },
@@ -21953,6 +23519,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -21976,6 +23544,8 @@ export const regions: RegionVote = {
             name_th: "มหาศึกคนชนเทพ",
             name_en: "Attack on Titan",
             image: "/img/party/attackontitan.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
         },
@@ -22009,6 +23579,8 @@ export const regions: RegionVote = {
             name_th: "มายฮีโร่ อคาเดเมีย",
             name_en: "My Hero Academia",
             image: "/img/party/myheroacademia.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
         },
@@ -22032,6 +23604,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -22065,6 +23639,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -22087,7 +23663,9 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer.png",
+            image: "/img/party/demonslayer\.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
         },
@@ -22121,6 +23699,8 @@ export const regions: RegionVote = {
             name_th: "ดิจิมอน แอดเวนเจอร์",
             name_en: "Digimon Adventure",
             image: "/img/party/digimon.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
         },
@@ -22144,6 +23724,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },
@@ -22177,6 +23759,8 @@ export const regions: RegionVote = {
             name_th: "วันพีซ",
             name_en: "One Piece",
             image: "/img/party/one-piece.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
         },
@@ -22200,6 +23784,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -22233,6 +23819,8 @@ export const regions: RegionVote = {
             name_th: "แขนกลคนแปรธาตุ",
             name_en: "Fullmetal Alchemist",
             image: "/img/party/fullmetalalchemist.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
         },
@@ -22256,6 +23844,8 @@ export const regions: RegionVote = {
             name_th: "โนเกม โนไลฟ์",
             name_en: "No Game No Life",
             image: "/img/party/nogamenolife.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
         },
@@ -22289,6 +23879,8 @@ export const regions: RegionVote = {
             name_th: "นินจาคาถาโอ้โฮเฮะ",
             name_en: "Naruto",
             image: "/img/party/naruto.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
         },
@@ -22312,6 +23904,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -22345,6 +23939,8 @@ export const regions: RegionVote = {
             name_th: "รีบอร์น ครูพิเศษจอมป่วน",
             name_en: "Katekyo Hitman Reborn!",
             image: "/img/party/reborn.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
         },
@@ -22368,6 +23964,8 @@ export const regions: RegionVote = {
             name_th: "เดธโน้ต",
             name_en: "Death Note",
             image: "/img/party/deathnote.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
         },
@@ -22401,6 +23999,8 @@ export const regions: RegionVote = {
             name_th: "ดราก้อนบอล",
             name_en: "Dragon Ball",
             image: "/img/party/dragonball.png",
+            candidate_img:
+              "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
         },

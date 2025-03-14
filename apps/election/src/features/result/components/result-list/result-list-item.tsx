@@ -16,7 +16,7 @@ export const ResultListItem = ({
 }: ResultListItemProps) => {
   return (
     <div
-      className="flex cursor-pointer items-center bg-white py-4 pl-6 pr-3 transition-colors hover:bg-gray-100"
+      className="flex cursor-pointer items-center border-b border-gray-200 bg-white py-4 pl-6 pr-3 transition-colors hover:bg-gray-100"
       style={{ backgroundColor: isWinner ? party.color : "" }}
     >
       <div className="flex max-w-full flex-1 items-center gap-4 text-lg">
@@ -34,7 +34,7 @@ export const ResultListItem = ({
         </div>
         <h3
           className={cn(
-            "text-gray-700",
+            "font-medium text-gray-600",
             isWinner && "text-2xl font-bold text-white",
           )}
         >

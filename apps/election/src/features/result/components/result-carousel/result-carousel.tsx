@@ -48,7 +48,7 @@ export const ResultCarousel = () => {
 
         <CarouselBanner />
 
-        <div className="m-auto grid grid-cols-[48px,1fr,48px] items-center">
+        <div className="relative z-10 m-auto grid grid-cols-[48px,1fr,48px] items-center">
           <button
             aria-label="Previous slide"
             onClick={() => swiperRef?.current?.slidePrev()}
@@ -79,17 +79,17 @@ export const ResultCarousel = () => {
                         <CarouselCharacterCard
                           position="left"
                           seatCount={partyCountObj[second]?.count}
-                          image="/img/goku-lg.webp"
+                          image={partyCountObj[second]?.candidate_img}
                         />
                         <CarouselCharacterCard
                           position="center"
                           seatCount={partyCountObj[first]?.count}
-                          image="/img/test.png"
+                          image={partyCountObj[first]?.candidate_img}
                         />
                         <CarouselCharacterCard
                           position="right"
                           seatCount={partyCountObj[third]?.count}
-                          image="/img/conan-lg.webp"
+                          image={partyCountObj[third]?.candidate_img}
                         />
                       </div>
                     </div>

@@ -5,7 +5,7 @@ type CarouselCharacterCardProps = {
 };
 
 export const CarouselCharacterCard = ({
-  image,
+  image = "",
   seatCount = 0,
   position = "left",
 }: CarouselCharacterCardProps) => {

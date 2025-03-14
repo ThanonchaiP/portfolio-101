@@ -22,6 +22,7 @@ export const RegionVoteValueSchema = z.object({
       name_th: z.string(),
       name_en: z.string(),
       image: z.string(),
+      candidate_img: z.string(),
       color: z.string(),
     }),
   }),
