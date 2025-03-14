@@ -42,8 +42,8 @@ export const Menu = () => {
         {subNavItems.map((item) => (
           <Link
             key={item.href}
-            href={item.href}
-            className="flex items-center gap-1 text-sm hover:text-[var(--primary)] hover:underline"
+            href="/"
+            className="flex w-fit items-center gap-1 text-sm hover:text-[var(--primary)] hover:underline"
           >
             <Icon icon={item.icon} className="text-lg" />
             {item.title}

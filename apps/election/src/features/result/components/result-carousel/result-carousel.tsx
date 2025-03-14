@@ -10,6 +10,7 @@ import formations from "@/data/formations.json";
 import { useGetPartyCount } from "@/features/geo";
 import { PartyCount } from "@/types";
 
+import { CarouselBanner } from "./carousel-banner";
 import { CarouselCharacterCard } from "./carousel-character-card";
 import { CarouselPagination } from "./carousel-pagination";
 import { CarouselSeatBar } from "./carousel-seat-bar";
@@ -38,12 +39,14 @@ export const ResultCarousel = () => {
 
   return (
     <div className="flex h-full max-w-[800px] flex-1 items-center justify-center">
-      <div className="relative m-auto h-fit w-full pb-[70px]">
+      <div className="relative m-auto h-fit w-full pb-[60px]">
         <CarouselPagination
           activeIndex={activeIndex}
           formations={formations}
           onSlideTo={onSlideTo}
         />
+
+        <CarouselBanner />
 
         <div className="m-auto grid grid-cols-[48px,1fr,48px] items-center">
           <button

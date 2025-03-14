@@ -1,10 +1,10 @@
-import Image from "next/image";
-
+import { Loading } from "@/components/loading";
 import { useGetPartyCount } from "@/features/geo";
-import { cn } from "@/lib/utils";
+
+import { ResultListItem } from "./result-list-item";
 
 export const ResultList = () => {
-  const { data } = useGetPartyCount({ regionId: "geo" });
+  const { data, isPending } = useGetPartyCount({ regionId: "geo" });
 
   return (
     <div className="flex h-full flex-1 overflow-hidden">
@@ -32,57 +32,19 @@ export const ResultList = () => {
           </div>
         </div>
 
-        <div className="custom-scrollbar flex-1 overflow-auto">
-          {data?.map((party, index) => (
-            <div
-              key={party.id}
-              className="flex cursor-pointer items-center bg-white py-4 pl-6 pr-3 transition-colors hover:bg-gray-100"
-              style={{ backgroundColor: index === 0 ? party.color : "" }}
-            >
-              <div className="flex max-w-full flex-1 items-center gap-4 text-lg">
-                <div className="relative h-[27px] min-w-[64px]">
-                  <Image
-                    alt="party-image"
-                    src={party.image}
-                    width={60}
-                    height={28}
-                    className="size-auto"
-                  />
-                  <span className="absolute bottom-[-9px] left-[-9px] flex size-[20px] items-center justify-center rounded-sm bg-white font-bold shadow-md">
-                    {index + 1}
-                  </span>
-                </div>
-                <h3
-                  className={cn(
-                    "text-gray-700",
-                    index === 0 && "text-2xl font-bold text-white",
-                  )}
-                >
-                  {party.name_en}
-                </h3>
-              </div>
-              <div className="ml-3 w-[120px] text-right">
-                <h3
-                  className={cn(
-                    "text-[26px] font-bold text-gray-400",
-                    index === 0 && "text-white",
-                  )}
-                >
-                  {Math.floor(party.count / 2)} / {Math.ceil(party.count / 2)}
-                </h3>
-              </div>
-              <div className="ml-3 flex w-[120px] justify-end">
-                <h3
-                  className={cn(
-                    "w-fit rounded px-2 py-[6px] text-[26px] font-bold text-gray-700",
-                    index === 0 && "bg-white",
-                  )}
-                >
-                  {party.count}
-                </h3>
-              </div>
-            </div>
-          ))}
+        <div className="custom-scrollbar relative flex-1 overflow-auto bg-white">
+          {isPending ? (
+            <Loading />
+          ) : (
+            data?.map((party, index) => (
+              <ResultListItem
+                key={party.id}
+                party={party}
+                number={index + 1}
+                isWinner={index === 0}
+              />
+            ))
+          )}
         </div>
       </div>
     </div>

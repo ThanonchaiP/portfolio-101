@@ -42,11 +42,9 @@ export const GeoVoteList = ({ data, isLoading }: GeoVoteListProps) => {
         {isLoading ? (
           <GeoVoteSkeleton />
         ) : (
-          <>
-            {Object.values(data?.votes ?? []).map((vote, index) => (
-              <GeoVoteItem key={index} vote={vote} />
-            ))}
-          </>
+          Object.values(data?.votes ?? []).map((vote, index) => (
+            <GeoVoteItem key={index} vote={vote} />
+          ))
         )}
       </div>
     </div>
