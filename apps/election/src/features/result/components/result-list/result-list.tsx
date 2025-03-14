@@ -36,7 +36,7 @@ export const ResultList = () => {
           {data?.map((party, index) => (
             <div
               key={party.id}
-              className="flex items-center bg-white py-4 pl-6 pr-3"
+              className="flex cursor-pointer items-center bg-white py-4 pl-6 pr-3 transition-colors hover:bg-gray-100"
               style={{ backgroundColor: index === 0 ? party.color : "" }}
             >
               <div className="flex max-w-full flex-1 items-center gap-4 text-lg">

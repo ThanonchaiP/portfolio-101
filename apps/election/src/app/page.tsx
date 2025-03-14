@@ -10,10 +10,7 @@ const Home: NextPage = () => {
   return (
     <div
       className="grid h-full flex-1 gap-10 pl-10"
-      style={{
-        gap: "4%",
-        gridTemplateColumns: " 1fr clamp(450px, 32vw, 38%)",
-      }}
+      style={{ gap: "4%", gridTemplateColumns: " 1fr clamp(450px, 32vw, 38%)" }}
     >
       <ResultCarousel />
       <ResultList />
