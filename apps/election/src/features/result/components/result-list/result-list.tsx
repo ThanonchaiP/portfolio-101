@@ -7,7 +7,7 @@ export const ResultList = () => {
   const { data } = useGetPartyCount({ regionId: "geo" });
 
   return (
-    <div className="flex h-full flex-1">
+    <div className="flex h-full flex-1 overflow-hidden">
       <div className="flex w-full flex-col">
         <div
           style={{
