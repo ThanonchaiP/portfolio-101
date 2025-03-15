@@ -23,8 +23,8 @@ export const GeoRegionMapTooltip = (props: GeoRegionMapTooltipProps) => {
 
   return (
     <div
-      className="fixed z-10 min-w-[350px] rounded-[4px] bg-white shadow-md"
       style={{ top: y, left: x }}
+      className="fixed z-10 min-w-[350px] rounded-[4px] bg-white shadow-md"
     >
       <div className="bg-orange-50 px-2 py-1">
         <p className="text-sm font-bold text-[var(--primary)]">
@@ -41,8 +41,8 @@ export const GeoRegionMapTooltip = (props: GeoRegionMapTooltipProps) => {
             height={28}
           />
           <div
+            className="ml-1 w-[28px]"
             style={{ backgroundColor: candidate.party.color }}
-            className="ml-1 w-[30px]"
           >
             <Image
               alt="candidate-image"

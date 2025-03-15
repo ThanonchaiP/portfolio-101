@@ -8,7 +8,7 @@ export const CarouselBanner = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsVisible(false);
-    }, 2000);
+    }, 3000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -20,7 +20,7 @@ export const CarouselBanner = () => {
           exit={{ opacity: 0 }}
           initial={{ top: "-44px", opacity: 0 }}
           animate={{ top: "54px", opacity: 1 }}
-          transition={{ duration: 1, ease: "easeOut" }}
+          transition={{ duration: 1.3, ease: "easeOut" }}
           className="absolute inset-x-0 bottom-0 text-center"
         >
           <Image
