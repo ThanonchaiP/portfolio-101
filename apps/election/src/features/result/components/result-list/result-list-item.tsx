@@ -20,14 +20,16 @@ export const ResultListItem = ({
       style={{ backgroundColor: isWinner ? party.color : "" }}
     >
       <div className="flex max-w-full flex-1 items-center gap-4 text-lg">
-        <div className="relative h-[27px] min-w-[64px]">
-          <Image
-            alt="party-image"
-            src={party.image}
-            width={60}
-            height={28}
-            className="size-auto"
-          />
+        <div className="relative min-w-[74px]">
+          <div className={cn("rounded p-[6px]", isWinner && "bg-white")}>
+            <Image
+              alt="party-image"
+              src={party.image}
+              width={60}
+              height={28}
+              className="size-auto"
+            />
+          </div>
           <span className="absolute bottom-[-9px] left-[-9px] flex size-[20px] items-center justify-center rounded-sm bg-white font-bold shadow-md">
             {number}
           </span>

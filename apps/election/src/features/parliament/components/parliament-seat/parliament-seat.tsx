@@ -94,7 +94,7 @@ export const ParliamentSeat = () => {
         </div>
 
         <div className="relative flex size-full max-h-full items-center justify-center">
-          <PartySeat />
+          <PartySeat className="h-auto max-h-[50vh]" />
         </div>
       </div>
 

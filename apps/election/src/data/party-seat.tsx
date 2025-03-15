@@ -5,7 +5,7 @@ export const PartySeat = (props: SVGProps<SVGSVGElement>) => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       width="100%"
-      height="auto"
+      height={319}
       viewBox="0 0 561 319"
       fill="none"
       {...props}
