@@ -63,7 +63,7 @@ export const ResultCarousel = () => {
             <Swiper
               loop
               modules={[Autoplay]}
-              autoplay={{ delay: 10000 }}
+              autoplay={{ delay: 5000 }}
               className="h-auto w-full"
               onSwiper={(swiper) => (swiperRef.current = swiper)}
               onSlideChange={(swiper) => onSlideChange(swiper.realIndex)}
