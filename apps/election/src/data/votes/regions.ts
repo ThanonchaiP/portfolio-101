@@ -13,6 +13,12 @@ export const regions: RegionVote = {
         candidate_id: "54",
         district_id: "1001",
         vote_count: 37031,
+        district: {
+          id: "1001",
+          name_th: "กรุงเทพมหานคร เขต 1",
+          name_en: "Bangkok Constituency 1",
+          province_id: "10",
+        },
         candidate: {
           id: "54",
           name_th: "ชิโนบุ",
@@ -24,17 +30,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "1001",
-          name_th: "กรุงเทพมหานคร เขต 1",
-          name_en: "Bangkok Constituency 1",
-          province_id: "10",
         },
       },
       {
@@ -59,7 +59,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -73,6 +73,12 @@ export const regions: RegionVote = {
         candidate_id: "101",
         district_id: "1002",
         vote_count: 37895,
+        district: {
+          id: "1002",
+          name_th: "กรุงเทพมหานคร เขต 2",
+          name_en: "Bangkok Constituency 2",
+          province_id: "10",
+        },
         candidate: {
           id: "101",
           name_th: "อิจิโกะ คุโรซากิ",
@@ -89,12 +95,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "1002",
-          name_th: "กรุงเทพมหานคร เขต 2",
-          name_en: "Bangkok Constituency 2",
-          province_id: "10",
         },
       },
       {
@@ -133,6 +133,12 @@ export const regions: RegionVote = {
         candidate_id: "92",
         district_id: "1003",
         vote_count: 38774,
+        district: {
+          id: "1003",
+          name_th: "กรุงเทพมหานคร เขต 3",
+          name_en: "Bangkok Constituency 3",
+          province_id: "10",
+        },
         candidate: {
           id: "92",
           name_th: "ฮานจี โซอิ",
@@ -149,12 +155,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "1003",
-          name_th: "กรุงเทพมหานคร เขต 3",
-          name_en: "Bangkok Constituency 3",
-          province_id: "10",
         },
       },
       {
@@ -174,7 +174,7 @@ export const regions: RegionVote = {
           name_en: "Hikari Yagami",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hikari-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -193,13 +193,19 @@ export const regions: RegionVote = {
         candidate_id: "221",
         district_id: "1004",
         vote_count: 37360,
+        district: {
+          id: "1004",
+          name_th: "กรุงเทพมหานคร เขต 4",
+          name_en: "Bangkok Constituency 4",
+          province_id: "10",
+        },
         candidate: {
           id: "221",
           name_th: "เทรุ",
           name_en: "Teru Kageyama",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/teru-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -209,12 +215,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "1004",
-          name_th: "กรุงเทพมหานคร เขต 4",
-          name_en: "Bangkok Constituency 4",
-          province_id: "10",
         },
       },
       {
@@ -253,6 +253,12 @@ export const regions: RegionVote = {
         candidate_id: "70",
         district_id: "1005",
         vote_count: 38486,
+        district: {
+          id: "1005",
+          name_th: "กรุงเทพมหานคร เขต 5",
+          name_en: "Bangkok Constituency 5",
+          province_id: "10",
+        },
         candidate: {
           id: "70",
           name_th: "Alluka Zoldyck",
@@ -269,12 +275,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "1005",
-          name_th: "กรุงเทพมหานคร เขต 5",
-          name_en: "Bangkok Constituency 5",
-          province_id: "10",
         },
       },
       {
@@ -313,6 +313,12 @@ export const regions: RegionVote = {
         candidate_id: "116",
         district_id: "1006",
         vote_count: 37621,
+        district: {
+          id: "1006",
+          name_th: "กรุงเทพมหานคร เขต 6",
+          name_en: "Bangkok Constituency 6",
+          province_id: "10",
+        },
         candidate: {
           id: "116",
           name_th: "รัน โมริ",
@@ -329,12 +335,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "1006",
-          name_th: "กรุงเทพมหานคร เขต 6",
-          name_en: "Bangkok Constituency 6",
-          province_id: "10",
         },
       },
       {
@@ -373,6 +373,12 @@ export const regions: RegionVote = {
         candidate_id: "45",
         district_id: "1007",
         vote_count: 39898,
+        district: {
+          id: "1007",
+          name_th: "กรุงเทพมหานคร เขต 7",
+          name_en: "Bangkok Constituency 7",
+          province_id: "10",
+        },
         candidate: {
           id: "45",
           name_th: "ทามาโยะ",
@@ -384,17 +390,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "1007",
-          name_th: "กรุงเทพมหานคร เขต 7",
-          name_en: "Bangkok Constituency 7",
-          province_id: "10",
         },
       },
       {
@@ -410,11 +410,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "143",
-          name_th: "เฟียร์",
-          name_en: "Phyrne",
+          name_th: "Tet",
+          name_en: "Tet",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/phyrne-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/tet-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -433,13 +433,19 @@ export const regions: RegionVote = {
         candidate_id: "256",
         district_id: "1008",
         vote_count: 35990,
+        district: {
+          id: "1008",
+          name_th: "กรุงเทพมหานคร เขต 8",
+          name_en: "Bangkok Constituency 8",
+          province_id: "10",
+        },
         candidate: {
           id: "256",
           name_th: "โทมะ",
           name_en: "Toma",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/toma-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -449,12 +455,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "1008",
-          name_th: "กรุงเทพมหานคร เขต 8",
-          name_en: "Bangkok Constituency 8",
-          province_id: "10",
         },
       },
       {
@@ -493,6 +493,12 @@ export const regions: RegionVote = {
         candidate_id: "47",
         district_id: "1009",
         vote_count: 39294,
+        district: {
+          id: "1009",
+          name_th: "กรุงเทพมหานคร เขต 9",
+          name_en: "Bangkok Constituency 9",
+          province_id: "10",
+        },
         candidate: {
           id: "47",
           name_th: "ซาโต้",
@@ -504,17 +510,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "1009",
-          name_th: "กรุงเทพมหานคร เขต 9",
-          name_en: "Bangkok Constituency 9",
-          province_id: "10",
         },
       },
       {
@@ -539,7 +539,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -553,13 +553,19 @@ export const regions: RegionVote = {
         candidate_id: "146",
         district_id: "1010",
         vote_count: 36276,
+        district: {
+          id: "1010",
+          name_th: "กรุงเทพมหานคร เขต 10",
+          name_en: "Bangkok Constituency 10",
+          province_id: "10",
+        },
         candidate: {
           id: "146",
-          name_th: "ซูรู",
-          name_en: "Suzu",
+          name_th: "Fiel Nirvalen",
+          name_en: "Fiel Nirvalen",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/suzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/fiel-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -569,12 +575,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "1010",
-          name_th: "กรุงเทพมหานคร เขต 10",
-          name_en: "Bangkok Constituency 10",
-          province_id: "10",
         },
       },
       {
@@ -590,11 +590,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "184",
-          name_th: "มิกะ",
-          name_en: "Misa Amane",
+          name_th: "Mello",
+          name_en: "Mello",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/misa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mello-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -613,6 +613,12 @@ export const regions: RegionVote = {
         candidate_id: "97",
         district_id: "1011",
         vote_count: 35067,
+        district: {
+          id: "1011",
+          name_th: "กรุงเทพมหานคร เขต 11",
+          name_en: "Bangkok Constituency 11",
+          province_id: "10",
+        },
         candidate: {
           id: "97",
           name_th: "เบอร์ทโฮลด์",
@@ -629,12 +635,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "1011",
-          name_th: "กรุงเทพมหานคร เขต 11",
-          name_en: "Bangkok Constituency 11",
-          province_id: "10",
         },
       },
       {
@@ -654,7 +654,7 @@ export const regions: RegionVote = {
           name_en: "Rika",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rika-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -673,13 +673,19 @@ export const regions: RegionVote = {
         candidate_id: "189",
         district_id: "1012",
         vote_count: 38676,
+        district: {
+          id: "1012",
+          name_th: "กรุงเทพมหานคร เขต 12",
+          name_en: "Bangkok Constituency 12",
+          province_id: "10",
+        },
         candidate: {
           id: "189",
-          name_th: "ทามูระ",
-          name_en: "Tamura",
+          name_th: "Hideki Ide",
+          name_en: "Hideki Ide",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tamura-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -689,12 +695,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "1012",
-          name_th: "กรุงเทพมหานคร เขต 12",
-          name_en: "Bangkok Constituency 12",
-          province_id: "10",
         },
       },
       {
@@ -714,7 +714,7 @@ export const regions: RegionVote = {
           name_en: "Shoto Todoroki",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/todoroki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -733,6 +733,12 @@ export const regions: RegionVote = {
         candidate_id: "11",
         district_id: "1013",
         vote_count: 39344,
+        district: {
+          id: "1013",
+          name_th: "กรุงเทพมหานคร เขต 13",
+          name_en: "Bangkok Constituency 13",
+          province_id: "10",
+        },
         candidate: {
           id: "11",
           name_th: "เนจิ",
@@ -749,12 +755,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "1013",
-          name_th: "กรุงเทพมหานคร เขต 13",
-          name_en: "Bangkok Constituency 13",
-          province_id: "10",
         },
       },
       {
@@ -793,13 +793,19 @@ export const regions: RegionVote = {
         candidate_id: "172",
         district_id: "1014",
         vote_count: 35783,
+        district: {
+          id: "1014",
+          name_th: "กรุงเทพมหานคร เขต 14",
+          name_en: "Bangkok Constituency 14",
+          province_id: "10",
+        },
         candidate: {
           id: "172",
-          name_th: "เดวิด",
-          name_en: "David",
+          name_th: "Asura",
+          name_en: "Asura",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/david-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -809,12 +815,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1014",
-          name_th: "กรุงเทพมหานคร เขต 14",
-          name_en: "Bangkok Constituency 14",
-          province_id: "10",
         },
       },
       {
@@ -834,7 +834,7 @@ export const regions: RegionVote = {
           name_en: "Sora Takenouchi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sora-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -853,13 +853,19 @@ export const regions: RegionVote = {
         candidate_id: "230",
         district_id: "1015",
         vote_count: 38826,
+        district: {
+          id: "1015",
+          name_th: "กรุงเทพมหานคร เขต 15",
+          name_en: "Bangkok Constituency 15",
+          province_id: "10",
+        },
         candidate: {
           id: "230",
           name_th: "มาริ",
           name_en: "Mari",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mari-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -869,12 +875,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "1015",
-          name_th: "กรุงเทพมหานคร เขต 15",
-          name_en: "Bangkok Constituency 15",
-          province_id: "10",
         },
       },
       {
@@ -913,6 +913,12 @@ export const regions: RegionVote = {
         candidate_id: "105",
         district_id: "1016",
         vote_count: 33154,
+        district: {
+          id: "1016",
+          name_th: "กรุงเทพมหานคร เขต 16",
+          name_en: "Bangkok Constituency 16",
+          province_id: "10",
+        },
         candidate: {
           id: "105",
           name_th: "โอริฮิเมะ อิชิดะ",
@@ -929,12 +935,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "1016",
-          name_th: "กรุงเทพมหานคร เขต 16",
-          name_en: "Bangkok Constituency 16",
-          province_id: "10",
         },
       },
       {
@@ -954,7 +954,7 @@ export const regions: RegionVote = {
           name_en: "Maya",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/maya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -973,13 +973,19 @@ export const regions: RegionVote = {
         candidate_id: "175",
         district_id: "1017",
         vote_count: 39993,
+        district: {
+          id: "1017",
+          name_th: "กรุงเทพมหานคร เขต 17",
+          name_en: "Bangkok Constituency 17",
+          province_id: "10",
+        },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -989,12 +995,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1017",
-          name_th: "กรุงเทพมหานคร เขต 17",
-          name_en: "Bangkok Constituency 17",
-          province_id: "10",
         },
       },
       {
@@ -1033,13 +1033,19 @@ export const regions: RegionVote = {
         candidate_id: "154",
         district_id: "1018",
         vote_count: 37773,
+        district: {
+          id: "1018",
+          name_th: "กรุงเทพมหานคร เขต 18",
+          name_en: "Bangkok Constituency 18",
+          province_id: "10",
+        },
         candidate: {
           id: "154",
           name_th: "คันกะ คิมิชิมะ",
           name_en: "Ken Kaneki",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaneki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ken-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -1049,12 +1055,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "1018",
-          name_th: "กรุงเทพมหานคร เขต 18",
-          name_en: "Bangkok Constituency 18",
-          province_id: "10",
         },
       },
       {
@@ -1074,7 +1074,7 @@ export const regions: RegionVote = {
           name_en: "Taichi Kamiya",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/taichi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -1093,13 +1093,19 @@ export const regions: RegionVote = {
         candidate_id: "172",
         district_id: "1019",
         vote_count: 39548,
+        district: {
+          id: "1019",
+          name_th: "กรุงเทพมหานคร เขต 19",
+          name_en: "Bangkok Constituency 19",
+          province_id: "10",
+        },
         candidate: {
           id: "172",
-          name_th: "เดวิด",
-          name_en: "David",
+          name_th: "Asura",
+          name_en: "Asura",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/david-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -1109,12 +1115,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1019",
-          name_th: "กรุงเทพมหานคร เขต 19",
-          name_en: "Bangkok Constituency 19",
-          province_id: "10",
         },
       },
       {
@@ -1153,6 +1153,12 @@ export const regions: RegionVote = {
         candidate_id: "89",
         district_id: "1020",
         vote_count: 38939,
+        district: {
+          id: "1020",
+          name_th: "กรุงเทพมหานคร เขต 20",
+          name_en: "Bangkok Constituency 20",
+          province_id: "10",
+        },
         candidate: {
           id: "89",
           name_th: "อาร์มิน อาร์เลิร์ต",
@@ -1169,12 +1175,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "1020",
-          name_th: "กรุงเทพมหานคร เขต 20",
-          name_en: "Bangkok Constituency 20",
-          province_id: "10",
         },
       },
       {
@@ -1213,13 +1213,19 @@ export const regions: RegionVote = {
         candidate_id: "194",
         district_id: "1021",
         vote_count: 36285,
+        district: {
+          id: "1021",
+          name_th: "กรุงเทพมหานคร เขต 21",
+          name_en: "Bangkok Constituency 21",
+          province_id: "10",
+        },
         candidate: {
           id: "194",
           name_th: "โจเซฟ โจสตาร์",
           name_en: "Joseph Joestar",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/joseph-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -1229,12 +1235,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "1021",
-          name_th: "กรุงเทพมหานคร เขต 21",
-          name_en: "Bangkok Constituency 21",
-          province_id: "10",
         },
       },
       {
@@ -1259,7 +1259,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -1273,6 +1273,12 @@ export const regions: RegionVote = {
         candidate_id: "115",
         district_id: "1022",
         vote_count: 38641,
+        district: {
+          id: "1022",
+          name_th: "กรุงเทพมหานคร เขต 22",
+          name_en: "Bangkok Constituency 22",
+          province_id: "10",
+        },
         candidate: {
           id: "115",
           name_th: "ชินอิจิ คุโด",
@@ -1289,12 +1295,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "1022",
-          name_th: "กรุงเทพมหานคร เขต 22",
-          name_en: "Bangkok Constituency 22",
-          province_id: "10",
         },
       },
       {
@@ -1314,7 +1314,7 @@ export const regions: RegionVote = {
           name_en: "Omegamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/omegamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -1333,13 +1333,19 @@ export const regions: RegionVote = {
         candidate_id: "194",
         district_id: "1023",
         vote_count: 39706,
+        district: {
+          id: "1023",
+          name_th: "กรุงเทพมหานคร เขต 23",
+          name_en: "Bangkok Constituency 23",
+          province_id: "10",
+        },
         candidate: {
           id: "194",
           name_th: "โจเซฟ โจสตาร์",
           name_en: "Joseph Joestar",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/joseph-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -1349,12 +1355,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "1023",
-          name_th: "กรุงเทพมหานคร เขต 23",
-          name_en: "Bangkok Constituency 23",
-          province_id: "10",
         },
       },
       {
@@ -1393,6 +1393,12 @@ export const regions: RegionVote = {
         candidate_id: "56",
         district_id: "1024",
         vote_count: 39038,
+        district: {
+          id: "1024",
+          name_th: "กรุงเทพมหานคร เขต 24",
+          name_en: "Bangkok Constituency 24",
+          province_id: "10",
+        },
         candidate: {
           id: "56",
           name_th: "Sanemi Shinazugawa",
@@ -1404,17 +1410,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "1024",
-          name_th: "กรุงเทพมหานคร เขต 24",
-          name_en: "Bangkok Constituency 24",
-          province_id: "10",
         },
       },
       {
@@ -1434,7 +1434,7 @@ export const regions: RegionVote = {
           name_en: "Speed-o'-Sound Sonic",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sonic-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -1453,13 +1453,19 @@ export const regions: RegionVote = {
         candidate_id: "251",
         district_id: "1025",
         vote_count: 37330,
+        district: {
+          id: "1025",
+          name_th: "กรุงเทพมหานคร เขต 25",
+          name_en: "Bangkok Constituency 25",
+          province_id: "10",
+        },
         candidate: {
           id: "251",
           name_th: "มายา",
           name_en: "Maya",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/maya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -1469,12 +1475,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "1025",
-          name_th: "กรุงเทพมหานคร เขต 25",
-          name_en: "Bangkok Constituency 25",
-          province_id: "10",
         },
       },
       {
@@ -1494,7 +1494,7 @@ export const regions: RegionVote = {
           name_en: "Dio Brando",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dio-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -1513,6 +1513,12 @@ export const regions: RegionVote = {
         candidate_id: "43",
         district_id: "1026",
         vote_count: 37623,
+        district: {
+          id: "1026",
+          name_th: "กรุงเทพมหานคร เขต 26",
+          name_en: "Bangkok Constituency 26",
+          province_id: "10",
+        },
         candidate: {
           id: "43",
           name_th: "ชุน",
@@ -1529,12 +1535,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "1026",
-          name_th: "กรุงเทพมหานคร เขต 26",
-          name_en: "Bangkok Constituency 26",
-          province_id: "10",
         },
       },
       {
@@ -1573,13 +1573,19 @@ export const regions: RegionVote = {
         candidate_id: "199",
         district_id: "1027",
         vote_count: 38774,
+        district: {
+          id: "1027",
+          name_th: "กรุงเทพมหานคร เขต 27",
+          name_en: "Bangkok Constituency 27",
+          province_id: "10",
+        },
         candidate: {
           id: "199",
           name_th: "คิระ",
           name_en: "Kira Yoshikage",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -1589,12 +1595,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "1027",
-          name_th: "กรุงเทพมหานคร เขต 27",
-          name_en: "Bangkok Constituency 27",
-          province_id: "10",
         },
       },
       {
@@ -1633,13 +1633,19 @@ export const regions: RegionVote = {
         candidate_id: "198",
         district_id: "1028",
         vote_count: 39121,
+        district: {
+          id: "1028",
+          name_th: "กรุงเทพมหานคร เขต 28",
+          name_en: "Bangkok Constituency 28",
+          province_id: "10",
+        },
         candidate: {
           id: "198",
           name_th: "โพลาโร่",
           name_en: "Polnareff",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/polnareff-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -1649,12 +1655,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "1028",
-          name_th: "กรุงเทพมหานคร เขต 28",
-          name_en: "Bangkok Constituency 28",
-          province_id: "10",
         },
       },
       {
@@ -1674,7 +1674,7 @@ export const regions: RegionVote = {
           name_en: "Tatsumaki",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsumaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -1693,6 +1693,12 @@ export const regions: RegionVote = {
         candidate_id: "81",
         district_id: "1029",
         vote_count: 25867,
+        district: {
+          id: "1029",
+          name_th: "กรุงเทพมหานคร เขต 29",
+          name_en: "Bangkok Constituency 29",
+          province_id: "10",
+        },
         candidate: {
           id: "81",
           name_th: "กลัท",
@@ -1709,12 +1715,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "1029",
-          name_th: "กรุงเทพมหานคร เขต 29",
-          name_en: "Bangkok Constituency 29",
-          province_id: "10",
         },
       },
       {
@@ -1734,7 +1734,7 @@ export const regions: RegionVote = {
           name_en: "Kawasaki",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kawasaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -1753,6 +1753,12 @@ export const regions: RegionVote = {
         candidate_id: "110",
         district_id: "1030",
         vote_count: 36259,
+        district: {
+          id: "1030",
+          name_th: "กรุงเทพมหานคร เขต 30",
+          name_en: "Bangkok Constituency 30",
+          province_id: "10",
+        },
         candidate: {
           id: "110",
           name_th: "ไอเซ็น",
@@ -1769,12 +1775,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "1030",
-          name_th: "กรุงเทพมหานคร เขต 30",
-          name_en: "Bangkok Constituency 30",
-          province_id: "10",
         },
       },
       {
@@ -1794,7 +1794,7 @@ export const regions: RegionVote = {
           name_en: "Crocodile",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/crocodile-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -1813,6 +1813,12 @@ export const regions: RegionVote = {
         candidate_id: "98",
         district_id: "1031",
         vote_count: 33079,
+        district: {
+          id: "1031",
+          name_th: "กรุงเทพมหานคร เขต 31",
+          name_en: "Bangkok Constituency 31",
+          province_id: "10",
+        },
         candidate: {
           id: "98",
           name_th: "อันนี่ เลออนฮาร์ท",
@@ -1829,12 +1835,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "1031",
-          name_th: "กรุงเทพมหานคร เขต 31",
-          name_en: "Bangkok Constituency 31",
-          province_id: "10",
         },
       },
       {
@@ -1854,7 +1854,7 @@ export const regions: RegionVote = {
           name_en: "Kuji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -1873,6 +1873,12 @@ export const regions: RegionVote = {
         candidate_id: "155",
         district_id: "1032",
         vote_count: 32705,
+        district: {
+          id: "1032",
+          name_th: "กรุงเทพมหานคร เขต 32",
+          name_en: "Bangkok Constituency 32",
+          province_id: "10",
+        },
         candidate: {
           id: "155",
           name_th: "ริสุะ",
@@ -1889,12 +1895,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "1032",
-          name_th: "กรุงเทพมหานคร เขต 32",
-          name_en: "Bangkok Constituency 32",
-          province_id: "10",
         },
       },
       {
@@ -1914,7 +1914,7 @@ export const regions: RegionVote = {
           name_en: "Teru Kageyama",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/teru-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -1933,13 +1933,19 @@ export const regions: RegionVote = {
         candidate_id: "211",
         district_id: "1033",
         vote_count: 39594,
+        district: {
+          id: "1033",
+          name_th: "กรุงเทพมหานคร เขต 33",
+          name_en: "Bangkok Constituency 33",
+          province_id: "10",
+        },
         candidate: {
           id: "211",
           name_th: "ฟูจิวาระ โคซึคิ",
           name_en: "Kozuki Fujihara",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/fujihara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -1949,12 +1955,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "1033",
-          name_th: "กรุงเทพมหานคร เขต 33",
-          name_en: "Bangkok Constituency 33",
-          province_id: "10",
         },
       },
       {
@@ -1974,7 +1974,7 @@ export const regions: RegionVote = {
           name_en: "Toma",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/toma-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -1994,6 +1994,12 @@ export const regions: RegionVote = {
         candidate_id: "4",
         district_id: "1101",
         vote_count: 39629,
+        district: {
+          id: "1101",
+          name_th: "สมุทรปราการ เขต 1",
+          name_en: "Samut Prakan Constituency 1",
+          province_id: "11",
+        },
         candidate: {
           id: "4",
           name_th: "คาคาชิ",
@@ -2010,12 +2016,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "1101",
-          name_th: "สมุทรปราการ เขต 1",
-          name_en: "Samut Prakan Constituency 1",
-          province_id: "11",
         },
       },
       {
@@ -2054,6 +2054,12 @@ export const regions: RegionVote = {
         candidate_id: "117",
         district_id: "1102",
         vote_count: 31591,
+        district: {
+          id: "1102",
+          name_th: "สมุทรปราการ เขต 2",
+          name_en: "Samut Prakan Constituency 2",
+          province_id: "11",
+        },
         candidate: {
           id: "117",
           name_th: "โคโกโร่ โมริ",
@@ -2070,12 +2076,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "1102",
-          name_th: "สมุทรปราการ เขต 2",
-          name_en: "Samut Prakan Constituency 2",
-          province_id: "11",
         },
       },
       {
@@ -2114,13 +2114,19 @@ export const regions: RegionVote = {
         candidate_id: "187",
         district_id: "1103",
         vote_count: 38276,
+        district: {
+          id: "1103",
+          name_th: "สมุทรปราการ เขต 3",
+          name_en: "Samut Prakan Constituency 3",
+          province_id: "11",
+        },
         candidate: {
           id: "187",
-          name_th: "โซจิ",
-          name_en: "Soji",
+          name_th: "Naomi Misora",
+          name_en: "Naomi Misora",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/soji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -2130,12 +2136,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "1103",
-          name_th: "สมุทรปราการ เขต 3",
-          name_en: "Samut Prakan Constituency 3",
-          province_id: "11",
         },
       },
       {
@@ -2151,11 +2151,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "178",
-          name_th: "ฮาโกะ",
-          name_en: "Hako",
+          name_th: "Shinigami",
+          name_en: "Shinigami",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hako-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -2174,6 +2174,12 @@ export const regions: RegionVote = {
         candidate_id: "19",
         district_id: "1104",
         vote_count: 29114,
+        district: {
+          id: "1104",
+          name_th: "สมุทรปราการ เขต 4",
+          name_en: "Samut Prakan Constituency 4",
+          province_id: "11",
+        },
         candidate: {
           id: "19",
           name_th: "นามิ",
@@ -2190,12 +2196,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1104",
-          name_th: "สมุทรปราการ เขต 4",
-          name_en: "Samut Prakan Constituency 4",
-          province_id: "11",
         },
       },
       {
@@ -2215,7 +2215,7 @@ export const regions: RegionVote = {
           name_en: "Tobio Kageyama",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kageyama-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -2234,6 +2234,12 @@ export const regions: RegionVote = {
         candidate_id: "10",
         district_id: "1105",
         vote_count: 39883,
+        district: {
+          id: "1105",
+          name_th: "สมุทรปราการ เขต 5",
+          name_en: "Samut Prakan Constituency 5",
+          province_id: "11",
+        },
         candidate: {
           id: "10",
           name_th: "ชิกามารุ",
@@ -2250,12 +2256,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "1105",
-          name_th: "สมุทรปราการ เขต 5",
-          name_en: "Samut Prakan Constituency 5",
-          province_id: "11",
         },
       },
       {
@@ -2294,6 +2294,12 @@ export const regions: RegionVote = {
         candidate_id: "83",
         district_id: "1106",
         vote_count: 38843,
+        district: {
+          id: "1106",
+          name_th: "สมุทรปราการ เขต 6",
+          name_en: "Samut Prakan Constituency 6",
+          province_id: "11",
+        },
         candidate: {
           id: "83",
           name_th: "Ling Yao",
@@ -2310,12 +2316,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "1106",
-          name_th: "สมุทรปราการ เขต 6",
-          name_en: "Samut Prakan Constituency 6",
-          province_id: "11",
         },
       },
       {
@@ -2354,13 +2354,19 @@ export const regions: RegionVote = {
         candidate_id: "247",
         district_id: "1107",
         vote_count: 36687,
+        district: {
+          id: "1107",
+          name_th: "สมุทรปราการ เขต 7",
+          name_en: "Samut Prakan Constituency 7",
+          province_id: "11",
+        },
         candidate: {
           id: "247",
           name_th: "คาเชมะ เคนโกะ",
           name_en: "Katsuki Bakugo",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bakugo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -2370,12 +2376,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "1107",
-          name_th: "สมุทรปราการ เขต 7",
-          name_en: "Samut Prakan Constituency 7",
-          province_id: "11",
         },
       },
       {
@@ -2395,7 +2395,7 @@ export const regions: RegionVote = {
           name_en: "Asuka Yukimura",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/asuka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -2414,6 +2414,12 @@ export const regions: RegionVote = {
         candidate_id: "166",
         district_id: "1108",
         vote_count: 39661,
+        district: {
+          id: "1108",
+          name_th: "สมุทรปราการ เขต 8",
+          name_en: "Samut Prakan Constituency 8",
+          province_id: "11",
+        },
         candidate: {
           id: "166",
           name_th: "ฮารุกะ",
@@ -2430,12 +2436,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "1108",
-          name_th: "สมุทรปราการ เขต 8",
-          name_en: "Samut Prakan Constituency 8",
-          province_id: "11",
         },
       },
       {
@@ -2455,7 +2455,7 @@ export const regions: RegionVote = {
           name_en: "Joseph Joestar",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/joseph-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -2474,13 +2474,19 @@ export const regions: RegionVote = {
         candidate_id: "227",
         district_id: "1201",
         vote_count: 38672,
+        district: {
+          id: "1201",
+          name_th: "นนทบุรี เขต 1",
+          name_en: "Nonthaburi Constituency 1",
+          province_id: "12",
+        },
         candidate: {
           id: "227",
           name_th: "ยูกิ",
           name_en: "Yuki",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/yuki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -2490,12 +2496,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "1201",
-          name_th: "นนทบุรี เขต 1",
-          name_en: "Nonthaburi Constituency 1",
-          province_id: "12",
         },
       },
       {
@@ -2534,6 +2534,12 @@ export const regions: RegionVote = {
         candidate_id: "84",
         district_id: "1202",
         vote_count: 33448,
+        district: {
+          id: "1202",
+          name_th: "นนทบุรี เขต 2",
+          name_en: "Nonthaburi Constituency 2",
+          province_id: "12",
+        },
         candidate: {
           id: "84",
           name_th: "ตองโก",
@@ -2550,12 +2556,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "1202",
-          name_th: "นนทบุรี เขต 2",
-          name_en: "Nonthaburi Constituency 2",
-          province_id: "12",
         },
       },
       {
@@ -2580,7 +2580,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -2594,6 +2594,12 @@ export const regions: RegionVote = {
         candidate_id: "27",
         district_id: "1203",
         vote_count: 39727,
+        district: {
+          id: "1203",
+          name_th: "นนทบุรี เขต 3",
+          name_en: "Nonthaburi Constituency 3",
+          province_id: "12",
+        },
         candidate: {
           id: "27",
           name_th: "มาร์โก้",
@@ -2610,12 +2616,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1203",
-          name_th: "นนทบุรี เขต 3",
-          name_en: "Nonthaburi Constituency 3",
-          province_id: "12",
         },
       },
       {
@@ -2654,13 +2654,19 @@ export const regions: RegionVote = {
         candidate_id: "206",
         district_id: "1204",
         vote_count: 35782,
+        district: {
+          id: "1204",
+          name_th: "นนทบุรี เขต 4",
+          name_en: "Nonthaburi Constituency 4",
+          province_id: "12",
+        },
         candidate: {
           id: "206",
           name_th: "ฮินาตะ ชินโบ",
           name_en: "Shoyo Hinata",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hinata-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -2670,12 +2676,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "1204",
-          name_th: "นนทบุรี เขต 4",
-          name_en: "Nonthaburi Constituency 4",
-          province_id: "12",
         },
       },
       {
@@ -2713,13 +2713,19 @@ export const regions: RegionVote = {
         candidate_id: "212",
         district_id: "1205",
         vote_count: 36357,
+        district: {
+          id: "1205",
+          name_th: "นนทบุรี เขต 5",
+          name_en: "Nonthaburi Constituency 5",
+          province_id: "12",
+        },
         candidate: {
           id: "212",
           name_th: "คิริฮาระ ยูกะ",
           name_en: "Yuka Kirihara",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kirihara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -2729,12 +2735,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "1205",
-          name_th: "นนทบุรี เขต 5",
-          name_en: "Nonthaburi Constituency 5",
-          province_id: "12",
         },
       },
       {
@@ -2773,6 +2773,12 @@ export const regions: RegionVote = {
         candidate_id: "109",
         district_id: "1206",
         vote_count: 38140,
+        district: {
+          id: "1206",
+          name_th: "นนทบุรี เขต 6",
+          name_en: "Nonthaburi Constituency 6",
+          province_id: "12",
+        },
         candidate: {
           id: "109",
           name_th: "ยามาดะ",
@@ -2789,12 +2795,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "1206",
-          name_th: "นนทบุรี เขต 6",
-          name_en: "Nonthaburi Constituency 6",
-          province_id: "12",
         },
       },
       {
@@ -2833,13 +2833,19 @@ export const regions: RegionVote = {
         candidate_id: "264",
         district_id: "1207",
         vote_count: 37342,
+        district: {
+          id: "1207",
+          name_th: "นนทบุรี เขต 7",
+          name_en: "Nonthaburi Constituency 7",
+          province_id: "12",
+        },
         candidate: {
           id: "264",
           name_th: "ทาจิ",
           name_en: "Takeru Takaishi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/takeru-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -2849,12 +2855,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1207",
-          name_th: "นนทบุรี เขต 7",
-          name_en: "Nonthaburi Constituency 7",
-          province_id: "12",
         },
       },
       {
@@ -2893,13 +2893,19 @@ export const regions: RegionVote = {
         candidate_id: "176",
         district_id: "1208",
         vote_count: 39021,
+        district: {
+          id: "1208",
+          name_th: "นนทบุรี เขต 8",
+          name_en: "Nonthaburi Constituency 8",
+          province_id: "12",
+        },
         candidate: {
           id: "176",
-          name_th: "ลูดวิก",
-          name_en: "Ludwig",
+          name_th: "Arakune Gōgon",
+          name_en: "Arakune Gōgon",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ludwig-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -2909,12 +2915,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1208",
-          name_th: "นนทบุรี เขต 8",
-          name_en: "Nonthaburi Constituency 8",
-          province_id: "12",
         },
       },
       {
@@ -2934,7 +2934,7 @@ export const regions: RegionVote = {
           name_en: "Fubuki",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/fubuki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -2953,6 +2953,12 @@ export const regions: RegionVote = {
         candidate_id: "74",
         district_id: "1301",
         vote_count: 37127,
+        district: {
+          id: "1301",
+          name_th: "ปทุมธานี เขต 1",
+          name_en: "Pathum Thani Constituency 1",
+          province_id: "13",
+        },
         candidate: {
           id: "74",
           name_th: "อัลฟอนซ์",
@@ -2969,12 +2975,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "1301",
-          name_th: "ปทุมธานี เขต 1",
-          name_en: "Pathum Thani Constituency 1",
-          province_id: "13",
         },
       },
       {
@@ -3013,6 +3013,12 @@ export const regions: RegionVote = {
         candidate_id: "48",
         district_id: "1302",
         vote_count: 39597,
+        district: {
+          id: "1302",
+          name_th: "ปทุมธานี เขต 2",
+          name_en: "Pathum Thani Constituency 2",
+          province_id: "13",
+        },
         candidate: {
           id: "48",
           name_th: "อิโนะซึเกะ",
@@ -3024,17 +3030,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "1302",
-          name_th: "ปทุมธานี เขต 2",
-          name_en: "Pathum Thani Constituency 2",
-          province_id: "13",
         },
       },
       {
@@ -3073,6 +3073,12 @@ export const regions: RegionVote = {
         candidate_id: "30",
         district_id: "1303",
         vote_count: 38809,
+        district: {
+          id: "1303",
+          name_th: "ปทุมธานี เขต 3",
+          name_en: "Pathum Thani Constituency 3",
+          province_id: "13",
+        },
         candidate: {
           id: "30",
           name_th: "โดฟลามิงโก้",
@@ -3089,12 +3095,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1303",
-          name_th: "ปทุมธานี เขต 3",
-          name_en: "Pathum Thani Constituency 3",
-          province_id: "13",
         },
       },
       {
@@ -3133,6 +3133,12 @@ export const regions: RegionVote = {
         candidate_id: "109",
         district_id: "1304",
         vote_count: 36735,
+        district: {
+          id: "1304",
+          name_th: "ปทุมธานี เขต 4",
+          name_en: "Pathum Thani Constituency 4",
+          province_id: "13",
+        },
         candidate: {
           id: "109",
           name_th: "ยามาดะ",
@@ -3149,12 +3155,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "1304",
-          name_th: "ปทุมธานี เขต 4",
-          name_en: "Pathum Thani Constituency 4",
-          province_id: "13",
         },
       },
       {
@@ -3174,7 +3174,7 @@ export const regions: RegionVote = {
           name_en: "Mari",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mari-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -3193,13 +3193,19 @@ export const regions: RegionVote = {
         candidate_id: "202",
         district_id: "1305",
         vote_count: 37952,
+        district: {
+          id: "1305",
+          name_th: "ปทุมธานี เขต 5",
+          name_en: "Pathum Thani Constituency 5",
+          province_id: "13",
+        },
         candidate: {
           id: "202",
           name_th: "ไฮโรอุคิ",
           name_en: "Hiroshi",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hiroshi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -3209,12 +3215,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "1305",
-          name_th: "ปทุมธานี เขต 5",
-          name_en: "Pathum Thani Constituency 5",
-          province_id: "13",
         },
       },
       {
@@ -3234,7 +3234,7 @@ export const regions: RegionVote = {
           name_en: "Ino",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ino-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -3253,13 +3253,19 @@ export const regions: RegionVote = {
         candidate_id: "209",
         district_id: "1306",
         vote_count: 39562,
+        district: {
+          id: "1306",
+          name_th: "ปทุมธานี เขต 6",
+          name_en: "Pathum Thani Constituency 6",
+          province_id: "13",
+        },
         candidate: {
           id: "209",
           name_th: "อาสึกะ ยูคิมูระ",
           name_en: "Asuka Yukimura",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/asuka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -3269,12 +3275,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "1306",
-          name_th: "ปทุมธานี เขต 6",
-          name_en: "Pathum Thani Constituency 6",
-          province_id: "13",
         },
       },
       {
@@ -3294,7 +3294,7 @@ export const regions: RegionVote = {
           name_en: "Kuroko",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuroko-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -3313,6 +3313,12 @@ export const regions: RegionVote = {
         candidate_id: "180",
         district_id: "1307",
         vote_count: 39376,
+        district: {
+          id: "1307",
+          name_th: "ปทุมธานี เขต 7",
+          name_en: "Pathum Thani Constituency 7",
+          province_id: "13",
+        },
         candidate: {
           id: "180",
           name_th: "ไลท์ ยากามิ",
@@ -3329,12 +3335,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "1307",
-          name_th: "ปทุมธานี เขต 7",
-          name_en: "Pathum Thani Constituency 7",
-          province_id: "13",
         },
       },
       {
@@ -3373,13 +3373,19 @@ export const regions: RegionVote = {
         candidate_id: "230",
         district_id: "1401",
         vote_count: 37535,
+        district: {
+          id: "1401",
+          name_th: "พระนครศรีอยุธยา เขต 1",
+          name_en: "Phra Nakhon Si Ayutthaya Constituency 1",
+          province_id: "14",
+        },
         candidate: {
           id: "230",
           name_th: "มาริ",
           name_en: "Mari",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mari-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -3389,12 +3395,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "1401",
-          name_th: "พระนครศรีอยุธยา เขต 1",
-          name_en: "Phra Nakhon Si Ayutthaya Constituency 1",
-          province_id: "14",
         },
       },
       {
@@ -3414,7 +3414,7 @@ export const regions: RegionVote = {
           name_en: "Teru Kageyama",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/teru-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -3433,6 +3433,12 @@ export const regions: RegionVote = {
         candidate_id: "101",
         district_id: "1402",
         vote_count: 39899,
+        district: {
+          id: "1402",
+          name_th: "พระนครศรีอยุธยา เขต 2",
+          name_en: "Phra Nakhon Si Ayutthaya Constituency 2",
+          province_id: "14",
+        },
         candidate: {
           id: "101",
           name_th: "อิจิโกะ คุโรซากิ",
@@ -3449,12 +3455,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "1402",
-          name_th: "พระนครศรีอยุธยา เขต 2",
-          name_en: "Phra Nakhon Si Ayutthaya Constituency 2",
-          province_id: "14",
         },
       },
       {
@@ -3474,7 +3474,7 @@ export const regions: RegionVote = {
           name_en: "Rui",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rui-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -3493,6 +3493,12 @@ export const regions: RegionVote = {
         candidate_id: "116",
         district_id: "1403",
         vote_count: 38225,
+        district: {
+          id: "1403",
+          name_th: "พระนครศรีอยุธยา เขต 3",
+          name_en: "Phra Nakhon Si Ayutthaya Constituency 3",
+          province_id: "14",
+        },
         candidate: {
           id: "116",
           name_th: "รัน โมริ",
@@ -3510,12 +3516,6 @@ export const regions: RegionVote = {
             color: "#0000FF",
           },
         },
-        district: {
-          id: "1403",
-          name_th: "พระนครศรีอยุธยา เขต 3",
-          name_en: "Phra Nakhon Si Ayutthaya Constituency 3",
-          province_id: "14",
-        },
       },
       {
         id: "457",
@@ -3530,11 +3530,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "179",
-          name_th: "โทนี่",
-          name_en: "Tony",
+          name_th: "Fire and Thunder",
+          name_en: "Fire and Thunder",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tony-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -3553,13 +3553,19 @@ export const regions: RegionVote = {
         candidate_id: "171",
         district_id: "1404",
         vote_count: 36733,
+        district: {
+          id: "1404",
+          name_th: "พระนครศรีอยุธยา เขต 4",
+          name_en: "Phra Nakhon Si Ayutthaya Constituency 4",
+          province_id: "14",
+        },
         candidate: {
           id: "171",
-          name_th: "สเปียร์",
-          name_en: "Spear",
+          name_th: "Patorishia Tonpuson",
+          name_en: "Patorishia Tonpuson",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/spear-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -3569,12 +3575,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1404",
-          name_th: "พระนครศรีอยุธยา เขต 4",
-          name_en: "Phra Nakhon Si Ayutthaya Constituency 4",
-          province_id: "14",
         },
       },
       {
@@ -3594,7 +3594,7 @@ export const regions: RegionVote = {
           name_en: "Dio Brando",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dio-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -3613,6 +3613,12 @@ export const regions: RegionVote = {
         candidate_id: "76",
         district_id: "1405",
         vote_count: 38355,
+        district: {
+          id: "1405",
+          name_th: "พระนครศรีอยุธยา เขต 5",
+          name_en: "Phra Nakhon Si Ayutthaya Constituency 5",
+          province_id: "14",
+        },
         candidate: {
           id: "76",
           name_th: "ริซา ฮอว์คอาย",
@@ -3629,12 +3635,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "1405",
-          name_th: "พระนครศรีอยุธยา เขต 5",
-          name_en: "Phra Nakhon Si Ayutthaya Constituency 5",
-          province_id: "14",
         },
       },
       {
@@ -3673,6 +3673,12 @@ export const regions: RegionVote = {
         candidate_id: "30",
         district_id: "1501",
         vote_count: 39057,
+        district: {
+          id: "1501",
+          name_th: "อ่างทอง เขต 1",
+          name_en: "Ang Thong Constituency 1",
+          province_id: "15",
+        },
         candidate: {
           id: "30",
           name_th: "โดฟลามิงโก้",
@@ -3689,12 +3695,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1501",
-          name_th: "อ่างทอง เขต 1",
-          name_en: "Ang Thong Constituency 1",
-          province_id: "15",
         },
       },
       {
@@ -3733,13 +3733,19 @@ export const regions: RegionVote = {
         candidate_id: "242",
         district_id: "1502",
         vote_count: 39973,
+        district: {
+          id: "1502",
+          name_th: "อ่างทอง เขต 2",
+          name_en: "Ang Thong Constituency 2",
+          province_id: "15",
+        },
         candidate: {
           id: "242",
           name_th: "เมตัลไนท์",
           name_en: "Metal Knight",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/metalknight-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -3749,12 +3755,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "1502",
-          name_th: "อ่างทอง เขต 2",
-          name_en: "Ang Thong Constituency 2",
-          province_id: "15",
         },
       },
       {
@@ -3779,7 +3779,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -3793,6 +3793,12 @@ export const regions: RegionVote = {
         candidate_id: "27",
         district_id: "1601",
         vote_count: 39647,
+        district: {
+          id: "1601",
+          name_th: "ลพบุรี เขต 1",
+          name_en: "Lopburi Constituency 1",
+          province_id: "16",
+        },
         candidate: {
           id: "27",
           name_th: "มาร์โก้",
@@ -3809,12 +3815,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "1601",
-          name_th: "ลพบุรี เขต 1",
-          name_en: "Lopburi Constituency 1",
-          province_id: "16",
         },
       },
       {
@@ -3853,6 +3853,12 @@ export const regions: RegionVote = {
         candidate_id: "61",
         district_id: "1602",
         vote_count: 38167,
+        district: {
+          id: "1602",
+          name_th: "ลพบุรี เขต 2",
+          name_en: "Lopburi Constituency 2",
+          province_id: "16",
+        },
         candidate: {
           id: "61",
           name_th: "เลียวริ",
@@ -3869,12 +3875,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "1602",
-          name_th: "ลพบุรี เขต 2",
-          name_en: "Lopburi Constituency 2",
-          province_id: "16",
         },
       },
       {
@@ -3913,13 +3913,19 @@ export const regions: RegionVote = {
         candidate_id: "216",
         district_id: "1603",
         vote_count: 39178,
+        district: {
+          id: "1603",
+          name_th: "ลพบุรี เขต 3",
+          name_en: "Lopburi Constituency 3",
+          province_id: "16",
+        },
         candidate: {
           id: "216",
           name_th: "คูจิ",
           name_en: "Kuji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -3929,12 +3935,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "1603",
-          name_th: "ลพบุรี เขต 3",
-          name_en: "Lopburi Constituency 3",
-          province_id: "16",
         },
       },
       {
@@ -3972,6 +3972,12 @@ export const regions: RegionVote = {
         candidate_id: "106",
         district_id: "1604",
         vote_count: 35225,
+        district: {
+          id: "1604",
+          name_th: "ลพบุรี เขต 4",
+          name_en: "Lopburi Constituency 4",
+          province_id: "16",
+        },
         candidate: {
           id: "106",
           name_th: "อิชิดะ อุคิโยะ",
@@ -3988,12 +3994,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "1604",
-          name_th: "ลพบุรี เขต 4",
-          name_en: "Lopburi Constituency 4",
-          province_id: "16",
         },
       },
       {
@@ -4032,6 +4032,12 @@ export const regions: RegionVote = {
         candidate_id: "65",
         district_id: "1605",
         vote_count: 38194,
+        district: {
+          id: "1605",
+          name_th: "ลพบุรี เขต 5",
+          name_en: "Lopburi Constituency 5",
+          province_id: "16",
+        },
         candidate: {
           id: "65",
           name_th: "บิส",
@@ -4048,12 +4054,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "1605",
-          name_th: "ลพบุรี เขต 5",
-          name_en: "Lopburi Constituency 5",
-          province_id: "16",
         },
       },
       {
@@ -4092,13 +4092,19 @@ export const regions: RegionVote = {
         candidate_id: "254",
         district_id: "1701",
         vote_count: 39987,
+        district: {
+          id: "1701",
+          name_th: "สิงห์บุรี เขต 1",
+          name_en: "Sing Buri Constituency 1",
+          province_id: "17",
+        },
         candidate: {
           id: "254",
           name_th: "มิโคซะ",
           name_en: "Mikosa",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mikosa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -4108,12 +4114,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "1701",
-          name_th: "สิงห์บุรี เขต 1",
-          name_en: "Sing Buri Constituency 1",
-          province_id: "17",
         },
       },
       {
@@ -4152,6 +4152,12 @@ export const regions: RegionVote = {
         candidate_id: "51",
         district_id: "1801",
         vote_count: 36322,
+        district: {
+          id: "1801",
+          name_th: "ชัยนาท เขต 1",
+          name_en: "Chainat Constituency 1",
+          province_id: "18",
+        },
         candidate: {
           id: "51",
           name_th: "มิตสึริ",
@@ -4163,17 +4169,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "1801",
-          name_th: "ชัยนาท เขต 1",
-          name_en: "Chainat Constituency 1",
-          province_id: "18",
         },
       },
       {
@@ -4212,13 +4212,19 @@ export const regions: RegionVote = {
         candidate_id: "191",
         district_id: "1802",
         vote_count: 38100,
+        district: {
+          id: "1802",
+          name_th: "ชัยนาท เขต 2",
+          name_en: "Chainat Constituency 2",
+          province_id: "18",
+        },
         candidate: {
           id: "191",
-          name_th: "อิซึมิ",
-          name_en: "Izumi",
+          name_th: "Shuichi Aizawa",
+          name_en: "Shuichi Aizawa",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/izumi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/shuichi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -4228,12 +4234,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "1802",
-          name_th: "ชัยนาท เขต 2",
-          name_en: "Chainat Constituency 2",
-          province_id: "18",
         },
       },
       {
@@ -4272,6 +4272,12 @@ export const regions: RegionVote = {
         candidate_id: "47",
         district_id: "1901",
         vote_count: 39571,
+        district: {
+          id: "1901",
+          name_th: "สระบุรี เขต 1",
+          name_en: "Saraburi Constituency 1",
+          province_id: "19",
+        },
         candidate: {
           id: "47",
           name_th: "ซาโต้",
@@ -4283,17 +4289,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "1901",
-          name_th: "สระบุรี เขต 1",
-          name_en: "Saraburi Constituency 1",
-          province_id: "19",
         },
       },
       {
@@ -4332,6 +4332,12 @@ export const regions: RegionVote = {
         candidate_id: "131",
         district_id: "1902",
         vote_count: 37471,
+        district: {
+          id: "1902",
+          name_th: "สระบุรี เขต 2",
+          name_en: "Saraburi Constituency 2",
+          province_id: "19",
+        },
         candidate: {
           id: "131",
           name_th: "ยามาโมโตะ ทาคาชิ",
@@ -4348,12 +4354,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "1902",
-          name_th: "สระบุรี เขต 2",
-          name_en: "Saraburi Constituency 2",
-          province_id: "19",
         },
       },
       {
@@ -4373,7 +4373,7 @@ export const regions: RegionVote = {
           name_en: "Hiroshi",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hiroshi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -4392,6 +4392,12 @@ export const regions: RegionVote = {
         candidate_id: "24",
         district_id: "1903",
         vote_count: 39690,
+        district: {
+          id: "1903",
+          name_th: "สระบุรี เขต 3",
+          name_en: "Saraburi Constituency 3",
+          province_id: "19",
+        },
         candidate: {
           id: "24",
           name_th: "บรู๊ค",
@@ -4409,12 +4415,6 @@ export const regions: RegionVote = {
             color: "#FFD700",
           },
         },
-        district: {
-          id: "1903",
-          name_th: "สระบุรี เขต 3",
-          name_en: "Saraburi Constituency 3",
-          province_id: "19",
-        },
       },
       {
         id: "634",
@@ -4429,11 +4429,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "168",
-          name_th: "ดีสต้า",
-          name_en: "Dante",
+          name_th: "Death the Kid",
+          name_en: "Death the Kid",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dante-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/death-the-kid-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -4452,13 +4452,19 @@ export const regions: RegionVote = {
         candidate_id: "223",
         district_id: "1904",
         vote_count: 36824,
+        district: {
+          id: "1904",
+          name_th: "สระบุรี เขต 4",
+          name_en: "Saraburi Constituency 4",
+          province_id: "19",
+        },
         candidate: {
           id: "223",
           name_th: "คิริยามะ",
           name_en: "Kiryama",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kiryama-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -4468,12 +4474,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "1904",
-          name_th: "สระบุรี เขต 4",
-          name_en: "Saraburi Constituency 4",
-          province_id: "19",
         },
       },
       {
@@ -4512,6 +4512,12 @@ export const regions: RegionVote = {
         candidate_id: "25",
         district_id: "2601",
         vote_count: 32508,
+        district: {
+          id: "2601",
+          name_th: "นครนายก เขต 1",
+          name_en: "Nakhon Nayok Constituency 1",
+          province_id: "26",
+        },
         candidate: {
           id: "25",
           name_th: "จินเบ",
@@ -4529,12 +4535,6 @@ export const regions: RegionVote = {
             color: "#FFD700",
           },
         },
-        district: {
-          id: "2601",
-          name_th: "นครนายก เขต 1",
-          name_en: "Nakhon Nayok Constituency 1",
-          province_id: "26",
-        },
       },
       {
         id: "662",
@@ -4549,11 +4549,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "185",
-          name_th: "บาโร่",
-          name_en: "Baro",
+          name_th: "Teru Mikami",
+          name_en: "Teru Mikami",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/baro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/teru-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -4572,6 +4572,12 @@ export const regions: RegionVote = {
         candidate_id: "106",
         district_id: "2602",
         vote_count: 35278,
+        district: {
+          id: "2602",
+          name_th: "นครนายก เขต 2",
+          name_en: "Nakhon Nayok Constituency 2",
+          province_id: "26",
+        },
         candidate: {
           id: "106",
           name_th: "อิชิดะ อุคิโยะ",
@@ -4588,12 +4594,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "2602",
-          name_th: "นครนายก เขต 2",
-          name_en: "Nakhon Nayok Constituency 2",
-          province_id: "26",
         },
       },
       {
@@ -4613,7 +4613,7 @@ export const regions: RegionVote = {
           name_en: "Asuka Yukimura",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/asuka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -4632,13 +4632,19 @@ export const regions: RegionVote = {
         candidate_id: "253",
         district_id: "7001",
         vote_count: 39349,
+        district: {
+          id: "7001",
+          name_th: "ราชบุรี เขต 1",
+          name_en: "Ratchaburi Constituency 1",
+          province_id: "70",
+        },
         candidate: {
           id: "253",
           name_th: "บาคุ",
           name_en: "Baku",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/baku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -4648,12 +4654,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "7001",
-          name_th: "ราชบุรี เขต 1",
-          name_en: "Ratchaburi Constituency 1",
-          province_id: "70",
         },
       },
       {
@@ -4678,7 +4678,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -4692,13 +4692,19 @@ export const regions: RegionVote = {
         candidate_id: "239",
         district_id: "7002",
         vote_count: 38120,
+        district: {
+          id: "7002",
+          name_th: "ราชบุรี เขต 2",
+          name_en: "Ratchaburi Constituency 2",
+          province_id: "70",
+        },
         candidate: {
           id: "239",
           name_th: "ซิลเวอร์ฟังค์",
           name_en: "Silverfang",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/silverfang-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -4708,12 +4714,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "7002",
-          name_th: "ราชบุรี เขต 2",
-          name_en: "Ratchaburi Constituency 2",
-          province_id: "70",
         },
       },
       {
@@ -4752,13 +4752,19 @@ export const regions: RegionVote = {
         candidate_id: "271",
         district_id: "7003",
         vote_count: 39873,
+        district: {
+          id: "7003",
+          name_th: "ราชบุรี เขต 3",
+          name_en: "Ratchaburi Constituency 3",
+          province_id: "70",
+        },
         candidate: {
           id: "271",
           name_th: "กาลา",
           name_en: "Gomamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gomamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -4768,12 +4774,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "7003",
-          name_th: "ราชบุรี เขต 3",
-          name_en: "Ratchaburi Constituency 3",
-          province_id: "70",
         },
       },
       {
@@ -4793,7 +4793,7 @@ export const regions: RegionVote = {
           name_en: "Shinso Hitoshi",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/shinso-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -4812,6 +4812,12 @@ export const regions: RegionVote = {
         candidate_id: "2",
         district_id: "7004",
         vote_count: 30734,
+        district: {
+          id: "7004",
+          name_th: "ราชบุรี เขต 4",
+          name_en: "Ratchaburi Constituency 4",
+          province_id: "70",
+        },
         candidate: {
           id: "2",
           name_th: "ซาสึเกะ",
@@ -4828,12 +4834,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "7004",
-          name_th: "ราชบุรี เขต 4",
-          name_en: "Ratchaburi Constituency 4",
-          province_id: "70",
         },
       },
       {
@@ -4872,13 +4872,19 @@ export const regions: RegionVote = {
         candidate_id: "254",
         district_id: "7005",
         vote_count: 39923,
+        district: {
+          id: "7005",
+          name_th: "ราชบุรี เขต 5",
+          name_en: "Ratchaburi Constituency 5",
+          province_id: "70",
+        },
         candidate: {
           id: "254",
           name_th: "มิโคซะ",
           name_en: "Mikosa",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mikosa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -4888,12 +4894,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "7005",
-          name_th: "ราชบุรี เขต 5",
-          name_en: "Ratchaburi Constituency 5",
-          province_id: "70",
         },
       },
       {
@@ -4932,13 +4932,19 @@ export const regions: RegionVote = {
         candidate_id: "184",
         district_id: "7101",
         vote_count: 38908,
+        district: {
+          id: "7101",
+          name_th: "กาญจนบุรี เขต 1",
+          name_en: "Kanchanaburi Constituency 1",
+          province_id: "71",
+        },
         candidate: {
           id: "184",
-          name_th: "มิกะ",
-          name_en: "Misa Amane",
+          name_th: "Mello",
+          name_en: "Mello",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/misa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mello-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -4948,12 +4954,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "7101",
-          name_th: "กาญจนบุรี เขต 1",
-          name_en: "Kanchanaburi Constituency 1",
-          province_id: "71",
         },
       },
       {
@@ -4973,7 +4973,7 @@ export const regions: RegionVote = {
           name_en: "Dr. Kuseno",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/drkuseno-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -4992,13 +4992,19 @@ export const regions: RegionVote = {
         candidate_id: "243",
         district_id: "7102",
         vote_count: 39433,
+        district: {
+          id: "7102",
+          name_th: "กาญจนบุรี เขต 2",
+          name_en: "Kanchanaburi Constituency 2",
+          province_id: "71",
+        },
         candidate: {
           id: "243",
           name_th: "ด็อกเตอร์คอมโป",
           name_en: "Dr. Kuseno",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/drkuseno-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -5008,12 +5014,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "7102",
-          name_th: "กาญจนบุรี เขต 2",
-          name_en: "Kanchanaburi Constituency 2",
-          province_id: "71",
         },
       },
       {
@@ -5029,11 +5029,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "178",
-          name_th: "ฮาโกะ",
-          name_en: "Hako",
+          name_th: "Shinigami",
+          name_en: "Shinigami",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hako-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -5052,13 +5052,19 @@ export const regions: RegionVote = {
         candidate_id: "206",
         district_id: "7103",
         vote_count: 37132,
+        district: {
+          id: "7103",
+          name_th: "กาญจนบุรี เขต 3",
+          name_en: "Kanchanaburi Constituency 3",
+          province_id: "71",
+        },
         candidate: {
           id: "206",
           name_th: "ฮินาตะ ชินโบ",
           name_en: "Shoyo Hinata",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hinata-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -5068,12 +5074,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "7103",
-          name_th: "กาญจนบุรี เขต 3",
-          name_en: "Kanchanaburi Constituency 3",
-          province_id: "71",
         },
       },
       {
@@ -5093,7 +5093,7 @@ export const regions: RegionVote = {
           name_en: "Miyo",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/miyo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -5112,6 +5112,12 @@ export const regions: RegionVote = {
         candidate_id: "67",
         district_id: "7104",
         vote_count: 39104,
+        district: {
+          id: "7104",
+          name_th: "กาญจนบุรี เขต 4",
+          name_en: "Kanchanaburi Constituency 4",
+          province_id: "71",
+        },
         candidate: {
           id: "67",
           name_th: "Ging Freecss",
@@ -5128,12 +5134,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "7104",
-          name_th: "กาญจนบุรี เขต 4",
-          name_en: "Kanchanaburi Constituency 4",
-          province_id: "71",
         },
       },
       {
@@ -5172,6 +5172,12 @@ export const regions: RegionVote = {
         candidate_id: "75",
         district_id: "7105",
         vote_count: 38101,
+        district: {
+          id: "7105",
+          name_th: "กาญจนบุรี เขต 5",
+          name_en: "Kanchanaburi Constituency 5",
+          province_id: "71",
+        },
         candidate: {
           id: "75",
           name_th: "รอย มัสแตง",
@@ -5188,12 +5194,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "7105",
-          name_th: "กาญจนบุรี เขต 5",
-          name_en: "Kanchanaburi Constituency 5",
-          province_id: "71",
         },
       },
       {
@@ -5213,7 +5213,7 @@ export const regions: RegionVote = {
           name_en: "Baku",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/baku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -5232,6 +5232,12 @@ export const regions: RegionVote = {
         candidate_id: "155",
         district_id: "7201",
         vote_count: 35979,
+        district: {
+          id: "7201",
+          name_th: "สุพรรณบุรี เขต 1",
+          name_en: "Suphanburi Constituency 1",
+          province_id: "72",
+        },
         candidate: {
           id: "155",
           name_th: "ริสุะ",
@@ -5248,12 +5254,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "7201",
-          name_th: "สุพรรณบุรี เขต 1",
-          name_en: "Suphanburi Constituency 1",
-          province_id: "72",
         },
       },
       {
@@ -5273,7 +5273,7 @@ export const regions: RegionVote = {
           name_en: "Palmon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/palmon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -5292,13 +5292,19 @@ export const regions: RegionVote = {
         candidate_id: "255",
         district_id: "7202",
         vote_count: 38513,
+        district: {
+          id: "7202",
+          name_th: "สุพรรณบุรี เขต 2",
+          name_en: "Suphanburi Constituency 2",
+          province_id: "72",
+        },
         candidate: {
           id: "255",
           name_th: "ฮารุกะ",
           name_en: "Haruka",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/haruka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -5308,12 +5314,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "7202",
-          name_th: "สุพรรณบุรี เขต 2",
-          name_en: "Suphanburi Constituency 2",
-          province_id: "72",
         },
       },
       {
@@ -5329,11 +5329,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "150",
-          name_th: "เมย์",
-          name_en: "Mey",
+          name_th: "Riku Dola",
+          name_en: "Riku Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mey-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/riku-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -5352,6 +5352,12 @@ export const regions: RegionVote = {
         candidate_id: "89",
         district_id: "7203",
         vote_count: 35954,
+        district: {
+          id: "7203",
+          name_th: "สุพรรณบุรี เขต 3",
+          name_en: "Suphanburi Constituency 3",
+          province_id: "72",
+        },
         candidate: {
           id: "89",
           name_th: "อาร์มิน อาร์เลิร์ต",
@@ -5368,12 +5374,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "7203",
-          name_th: "สุพรรณบุรี เขต 3",
-          name_en: "Suphanburi Constituency 3",
-          province_id: "72",
         },
       },
       {
@@ -5393,7 +5393,7 @@ export const regions: RegionVote = {
           name_en: "Speed-o'-Sound Sonic",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sonic-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -5412,13 +5412,19 @@ export const regions: RegionVote = {
         candidate_id: "179",
         district_id: "7204",
         vote_count: 36798,
+        district: {
+          id: "7204",
+          name_th: "สุพรรณบุรี เขต 4",
+          name_en: "Suphanburi Constituency 4",
+          province_id: "72",
+        },
         candidate: {
           id: "179",
-          name_th: "โทนี่",
-          name_en: "Tony",
+          name_th: "Fire and Thunder",
+          name_en: "Fire and Thunder",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tony-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -5428,12 +5434,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "7204",
-          name_th: "สุพรรณบุรี เขต 4",
-          name_en: "Suphanburi Constituency 4",
-          province_id: "72",
         },
       },
       {
@@ -5472,6 +5472,12 @@ export const regions: RegionVote = {
         candidate_id: "98",
         district_id: "7205",
         vote_count: 36274,
+        district: {
+          id: "7205",
+          name_th: "สุพรรณบุรี เขต 5",
+          name_en: "Suphanburi Constituency 5",
+          province_id: "72",
+        },
         candidate: {
           id: "98",
           name_th: "อันนี่ เลออนฮาร์ท",
@@ -5488,12 +5494,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "7205",
-          name_th: "สุพรรณบุรี เขต 5",
-          name_en: "Suphanburi Constituency 5",
-          province_id: "72",
         },
       },
       {
@@ -5532,6 +5532,12 @@ export const regions: RegionVote = {
         candidate_id: "15",
         district_id: "7301",
         vote_count: 36958,
+        district: {
+          id: "7301",
+          name_th: "นครปฐม เขต 1",
+          name_en: "Nakhon Pathom Constituency 1",
+          province_id: "73",
+        },
         candidate: {
           id: "15",
           name_th: "โอบิโตะ",
@@ -5548,12 +5554,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "7301",
-          name_th: "นครปฐม เขต 1",
-          name_en: "Nakhon Pathom Constituency 1",
-          province_id: "73",
         },
       },
       {
@@ -5573,7 +5573,7 @@ export const regions: RegionVote = {
           name_en: "Bruno Bucciarati",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bruno-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -5592,13 +5592,19 @@ export const regions: RegionVote = {
         candidate_id: "171",
         district_id: "7302",
         vote_count: 39488,
+        district: {
+          id: "7302",
+          name_th: "นครปฐม เขต 2",
+          name_en: "Nakhon Pathom Constituency 2",
+          province_id: "73",
+        },
         candidate: {
           id: "171",
-          name_th: "สเปียร์",
-          name_en: "Spear",
+          name_th: "Patorishia Tonpuson",
+          name_en: "Patorishia Tonpuson",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/spear-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -5608,12 +5614,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "7302",
-          name_th: "นครปฐม เขต 2",
-          name_en: "Nakhon Pathom Constituency 2",
-          province_id: "73",
         },
       },
       {
@@ -5652,13 +5652,19 @@ export const regions: RegionVote = {
         candidate_id: "188",
         district_id: "7303",
         vote_count: 37108,
+        district: {
+          id: "7303",
+          name_th: "นครปฐม เขต 3",
+          name_en: "Nakhon Pathom Constituency 3",
+          province_id: "73",
+        },
         candidate: {
           id: "188",
-          name_th: "ทัตซึยะ",
-          name_en: "Tatsuya",
+          name_th: "Soichiro Yagami",
+          name_en: "Soichiro Yagami",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -5668,12 +5674,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "7303",
-          name_th: "นครปฐม เขต 3",
-          name_en: "Nakhon Pathom Constituency 3",
-          province_id: "73",
         },
       },
       {
@@ -5712,13 +5712,19 @@ export const regions: RegionVote = {
         candidate_id: "173",
         district_id: "7304",
         vote_count: 38070,
+        district: {
+          id: "7304",
+          name_th: "นครปฐม เขต 4",
+          name_en: "Nakhon Pathom Constituency 4",
+          province_id: "73",
+        },
         candidate: {
           id: "173",
-          name_th: "บาร์บี้",
-          name_en: "Barbie",
+          name_th: "Medyūsa Gōgon",
+          name_en: "Medyūsa Gōgon",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/barbie-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/medyūsa-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -5728,12 +5734,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "7304",
-          name_th: "นครปฐม เขต 4",
-          name_en: "Nakhon Pathom Constituency 4",
-          province_id: "73",
         },
       },
       {
@@ -5772,6 +5772,12 @@ export const regions: RegionVote = {
         candidate_id: "97",
         district_id: "7305",
         vote_count: 39629,
+        district: {
+          id: "7305",
+          name_th: "นครปฐม เขต 5",
+          name_en: "Nakhon Pathom Constituency 5",
+          province_id: "73",
+        },
         candidate: {
           id: "97",
           name_th: "เบอร์ทโฮลด์",
@@ -5788,12 +5794,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "7305",
-          name_th: "นครปฐม เขต 5",
-          name_en: "Nakhon Pathom Constituency 5",
-          province_id: "73",
         },
       },
       {
@@ -5832,13 +5832,19 @@ export const regions: RegionVote = {
         candidate_id: "261",
         district_id: "7306",
         vote_count: 35768,
+        district: {
+          id: "7306",
+          name_th: "นครปฐม เขต 6",
+          name_en: "Nakhon Pathom Constituency 6",
+          province_id: "73",
+        },
         candidate: {
           id: "261",
           name_th: "คิอิ",
           name_en: "Koushiro Izumi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koushiro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -5848,12 +5854,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "7306",
-          name_th: "นครปฐม เขต 6",
-          name_en: "Nakhon Pathom Constituency 6",
-          province_id: "73",
         },
       },
       {
@@ -5892,6 +5892,12 @@ export const regions: RegionVote = {
         candidate_id: "23",
         district_id: "7401",
         vote_count: 35903,
+        district: {
+          id: "7401",
+          name_th: "สมุทรสาคร เขต 1",
+          name_en: "Samut Sakhon Constituency 1",
+          province_id: "74",
+        },
         candidate: {
           id: "23",
           name_th: "แฟรงกี้",
@@ -5908,12 +5914,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "7401",
-          name_th: "สมุทรสาคร เขต 1",
-          name_en: "Samut Sakhon Constituency 1",
-          province_id: "74",
         },
       },
       {
@@ -5933,7 +5933,7 @@ export const regions: RegionVote = {
           name_en: "Shigeo Kageyama (Mob)",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mob-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -5952,13 +5952,19 @@ export const regions: RegionVote = {
         candidate_id: "164",
         district_id: "7402",
         vote_count: 32445,
+        district: {
+          id: "7402",
+          name_th: "สมุทรสาคร เขต 2",
+          name_en: "Samut Sakhon Constituency 2",
+          province_id: "74",
+        },
         candidate: {
           id: "164",
           name_th: "โอริฮาระ",
           name_en: "Orihara",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ori-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/hanzo-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -5968,12 +5974,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "7402",
-          name_th: "สมุทรสาคร เขต 2",
-          name_en: "Samut Sakhon Constituency 2",
-          province_id: "74",
         },
       },
       {
@@ -5993,7 +5993,7 @@ export const regions: RegionVote = {
           name_en: "Hikari Yagami",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hikari-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -6012,6 +6012,12 @@ export const regions: RegionVote = {
         candidate_id: "10",
         district_id: "7403",
         vote_count: 36418,
+        district: {
+          id: "7403",
+          name_th: "สมุทรสาคร เขต 3",
+          name_en: "Samut Sakhon Constituency 3",
+          province_id: "74",
+        },
         candidate: {
           id: "10",
           name_th: "ชิกามารุ",
@@ -6028,12 +6034,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "7403",
-          name_th: "สมุทรสาคร เขต 3",
-          name_en: "Samut Sakhon Constituency 3",
-          province_id: "74",
         },
       },
       {
@@ -6053,7 +6053,7 @@ export const regions: RegionVote = {
           name_en: "Zombie Man",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/zombieman-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -6072,6 +6072,12 @@ export const regions: RegionVote = {
         candidate_id: "142",
         district_id: "7501",
         vote_count: 38581,
+        district: {
+          id: "7501",
+          name_th: "สมุทรสงคราม เขต 1",
+          name_en: "Samut Songkhram Constituency 1",
+          province_id: "75",
+        },
         candidate: {
           id: "142",
           name_th: "โซลี่",
@@ -6088,12 +6094,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "7501",
-          name_th: "สมุทรสงคราม เขต 1",
-          name_en: "Samut Songkhram Constituency 1",
-          province_id: "75",
         },
       },
       {
@@ -6132,6 +6132,12 @@ export const regions: RegionVote = {
         candidate_id: "75",
         district_id: "7601",
         vote_count: 34225,
+        district: {
+          id: "7601",
+          name_th: "เพชรบุรี เขต 1",
+          name_en: "Phetchaburi Constituency 1",
+          province_id: "76",
+        },
         candidate: {
           id: "75",
           name_th: "รอย มัสแตง",
@@ -6148,12 +6154,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "7601",
-          name_th: "เพชรบุรี เขต 1",
-          name_en: "Phetchaburi Constituency 1",
-          province_id: "76",
         },
       },
       {
@@ -6192,6 +6192,12 @@ export const regions: RegionVote = {
         candidate_id: "54",
         district_id: "7602",
         vote_count: 36495,
+        district: {
+          id: "7602",
+          name_th: "เพชรบุรี เขต 2",
+          name_en: "Phetchaburi Constituency 2",
+          province_id: "76",
+        },
         candidate: {
           id: "54",
           name_th: "ชิโนบุ",
@@ -6203,17 +6209,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "7602",
-          name_th: "เพชรบุรี เขต 2",
-          name_en: "Phetchaburi Constituency 2",
-          province_id: "76",
         },
       },
       {
@@ -6229,11 +6229,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "152",
-          name_th: "ฟลาม",
-          name_en: "Flam",
+          name_th: "Couronne Dola",
+          name_en: "Couronne Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/flam-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/couronne-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -6252,6 +6252,12 @@ export const regions: RegionVote = {
         candidate_id: "101",
         district_id: "7603",
         vote_count: 39098,
+        district: {
+          id: "7603",
+          name_th: "เพชรบุรี เขต 3",
+          name_en: "Phetchaburi Constituency 3",
+          province_id: "76",
+        },
         candidate: {
           id: "101",
           name_th: "อิจิโกะ คุโรซากิ",
@@ -6268,12 +6274,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "7603",
-          name_th: "เพชรบุรี เขต 3",
-          name_en: "Phetchaburi Constituency 3",
-          province_id: "76",
         },
       },
       {
@@ -6312,6 +6312,12 @@ export const regions: RegionVote = {
         candidate_id: "81",
         district_id: "7701",
         vote_count: 38793,
+        district: {
+          id: "7701",
+          name_th: "ประจวบคีรีขันธ์ เขต 1",
+          name_en: "Prachuap Khiri Khan Constituency 1",
+          province_id: "77",
+        },
         candidate: {
           id: "81",
           name_th: "กลัท",
@@ -6328,12 +6334,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "7701",
-          name_th: "ประจวบคีรีขันธ์ เขต 1",
-          name_en: "Prachuap Khiri Khan Constituency 1",
-          province_id: "77",
         },
       },
       {
@@ -6372,13 +6372,19 @@ export const regions: RegionVote = {
         candidate_id: "253",
         district_id: "7702",
         vote_count: 34116,
+        district: {
+          id: "7702",
+          name_th: "ประจวบคีรีขันธ์ เขต 2",
+          name_en: "Prachuap Khiri Khan Constituency 2",
+          province_id: "77",
+        },
         candidate: {
           id: "253",
           name_th: "บาคุ",
           name_en: "Baku",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/baku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -6388,12 +6394,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "7702",
-          name_th: "ประจวบคีรีขันธ์ เขต 2",
-          name_en: "Prachuap Khiri Khan Constituency 2",
-          province_id: "77",
         },
       },
       {
@@ -6432,6 +6432,12 @@ export const regions: RegionVote = {
         candidate_id: "100",
         district_id: "7703",
         vote_count: 39264,
+        district: {
+          id: "7703",
+          name_th: "ประจวบคีรีขันธ์ เขต 3",
+          name_en: "Prachuap Khiri Khan Constituency 3",
+          province_id: "77",
+        },
         candidate: {
           id: "100",
           name_th: "Zeke Jaeger",
@@ -6448,12 +6454,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "7703",
-          name_th: "ประจวบคีรีขันธ์ เขต 3",
-          name_en: "Prachuap Khiri Khan Constituency 3",
-          province_id: "77",
         },
       },
       {
@@ -6493,6 +6493,12 @@ export const regions: RegionVote = {
         candidate_id: "12",
         district_id: "2001",
         vote_count: 36327,
+        district: {
+          id: "2001",
+          name_th: "ชลบุรี เขต 1",
+          name_en: "Chonburi Constituency 1",
+          province_id: "20",
+        },
         candidate: {
           id: "12",
           name_th: "ร็อค ลี",
@@ -6509,12 +6515,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "2001",
-          name_th: "ชลบุรี เขต 1",
-          name_en: "Chonburi Constituency 1",
-          province_id: "20",
         },
       },
       {
@@ -6553,6 +6553,12 @@ export const regions: RegionVote = {
         candidate_id: "140",
         district_id: "2002",
         vote_count: 37090,
+        district: {
+          id: "2002",
+          name_th: "ชลบุรี เขต 2",
+          name_en: "Chonburi Constituency 2",
+          province_id: "20",
+        },
         candidate: {
           id: "140",
           name_th: "Chrome Dokuro",
@@ -6569,12 +6575,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "2002",
-          name_th: "ชลบุรี เขต 2",
-          name_en: "Chonburi Constituency 2",
-          province_id: "20",
         },
       },
       {
@@ -6613,6 +6613,12 @@ export const regions: RegionVote = {
         candidate_id: "17",
         district_id: "2003",
         vote_count: 36937,
+        district: {
+          id: "2003",
+          name_th: "ชลบุรี เขต 3",
+          name_en: "Chonburi Constituency 3",
+          province_id: "20",
+        },
         candidate: {
           id: "17",
           name_th: "โซโร",
@@ -6629,12 +6635,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "2003",
-          name_th: "ชลบุรี เขต 3",
-          name_en: "Chonburi Constituency 3",
-          province_id: "20",
         },
       },
       {
@@ -6673,13 +6673,19 @@ export const regions: RegionVote = {
         candidate_id: "172",
         district_id: "2004",
         vote_count: 39799,
+        district: {
+          id: "2004",
+          name_th: "ชลบุรี เขต 4",
+          name_en: "Chonburi Constituency 4",
+          province_id: "20",
+        },
         candidate: {
           id: "172",
-          name_th: "เดวิด",
-          name_en: "David",
+          name_th: "Asura",
+          name_en: "Asura",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/david-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -6689,12 +6695,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "2004",
-          name_th: "ชลบุรี เขต 4",
-          name_en: "Chonburi Constituency 4",
-          province_id: "20",
         },
       },
       {
@@ -6714,7 +6714,7 @@ export const regions: RegionVote = {
           name_en: "Sasori",
           partyId: "8",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sasori-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/sashanzo-sm.png",
           party: {
             id: "8",
             name_th: "บลีช เทพมรณะ",
@@ -6733,6 +6733,12 @@ export const regions: RegionVote = {
         candidate_id: "157",
         district_id: "2005",
         vote_count: 39386,
+        district: {
+          id: "2005",
+          name_th: "ชลบุรี เขต 5",
+          name_en: "Chonburi Constituency 5",
+          province_id: "20",
+        },
         candidate: {
           id: "157",
           name_th: "อายาเมะ",
@@ -6749,12 +6755,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "2005",
-          name_th: "ชลบุรี เขต 5",
-          name_en: "Chonburi Constituency 5",
-          province_id: "20",
         },
       },
       {
@@ -6793,6 +6793,12 @@ export const regions: RegionVote = {
         candidate_id: "47",
         district_id: "2006",
         vote_count: 37815,
+        district: {
+          id: "2006",
+          name_th: "ชลบุรี เขต 6",
+          name_en: "Chonburi Constituency 6",
+          province_id: "20",
+        },
         candidate: {
           id: "47",
           name_th: "ซาโต้",
@@ -6804,17 +6810,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "2006",
-          name_th: "ชลบุรี เขต 6",
-          name_en: "Chonburi Constituency 6",
-          province_id: "20",
         },
       },
       {
@@ -6834,7 +6834,7 @@ export const regions: RegionVote = {
           name_en: "Kiryama",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kiryama-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -6853,6 +6853,12 @@ export const regions: RegionVote = {
         candidate_id: "103",
         district_id: "2007",
         vote_count: 35089,
+        district: {
+          id: "2007",
+          name_th: "ชลบุรี เขต 7",
+          name_en: "Chonburi Constituency 7",
+          province_id: "20",
+        },
         candidate: {
           id: "103",
           name_th: "อุคิโยะ รุกุ",
@@ -6869,12 +6875,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "2007",
-          name_th: "ชลบุรี เขต 7",
-          name_en: "Chonburi Constituency 7",
-          province_id: "20",
         },
       },
       {
@@ -6913,6 +6913,12 @@ export const regions: RegionVote = {
         candidate_id: "62",
         district_id: "2008",
         vote_count: 35271,
+        district: {
+          id: "2008",
+          name_th: "ชลบุรี เขต 8",
+          name_en: "Chonburi Constituency 8",
+          province_id: "20",
+        },
         candidate: {
           id: "62",
           name_th: "ครอฟต์",
@@ -6929,12 +6935,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "2008",
-          name_th: "ชลบุรี เขต 8",
-          name_en: "Chonburi Constituency 8",
-          province_id: "20",
         },
       },
       {
@@ -6973,13 +6973,19 @@ export const regions: RegionVote = {
         candidate_id: "254",
         district_id: "2009",
         vote_count: 39075,
+        district: {
+          id: "2009",
+          name_th: "ชลบุรี เขต 9",
+          name_en: "Chonburi Constituency 9",
+          province_id: "20",
+        },
         candidate: {
           id: "254",
           name_th: "มิโคซะ",
           name_en: "Mikosa",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mikosa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -6989,12 +6995,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "2009",
-          name_th: "ชลบุรี เขต 9",
-          name_en: "Chonburi Constituency 9",
-          province_id: "20",
         },
       },
       {
@@ -7033,13 +7033,19 @@ export const regions: RegionVote = {
         candidate_id: "183",
         district_id: "2010",
         vote_count: 34292,
+        district: {
+          id: "2010",
+          name_th: "ชลบุรี เขต 10",
+          name_en: "Chonburi Constituency 10",
+          province_id: "20",
+        },
         candidate: {
           id: "183",
-          name_th: "ริคุ",
-          name_en: "Riku",
+          name_th: "Near",
+          name_en: "Near",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/riku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/near-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -7049,12 +7055,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "2010",
-          name_th: "ชลบุรี เขต 10",
-          name_en: "Chonburi Constituency 10",
-          province_id: "20",
         },
       },
       {
@@ -7093,6 +7093,12 @@ export const regions: RegionVote = {
         candidate_id: "128",
         district_id: "2101",
         vote_count: 38189,
+        district: {
+          id: "2101",
+          name_th: "ระยอง เขต 1",
+          name_en: "Rayong Constituency 1",
+          province_id: "21",
+        },
         candidate: {
           id: "128",
           name_th: "ซาวาดะ สึนะโยชิ",
@@ -7109,12 +7115,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "2101",
-          name_th: "ระยอง เขต 1",
-          name_en: "Rayong Constituency 1",
-          province_id: "21",
         },
       },
       {
@@ -7153,13 +7153,19 @@ export const regions: RegionVote = {
         candidate_id: "227",
         district_id: "2102",
         vote_count: 39631,
+        district: {
+          id: "2102",
+          name_th: "ระยอง เขต 2",
+          name_en: "Rayong Constituency 2",
+          province_id: "21",
+        },
         candidate: {
           id: "227",
           name_th: "ยูกิ",
           name_en: "Yuki",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/yuki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -7169,12 +7175,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "2102",
-          name_th: "ระยอง เขต 2",
-          name_en: "Rayong Constituency 2",
-          province_id: "21",
         },
       },
       {
@@ -7213,6 +7213,12 @@ export const regions: RegionVote = {
         candidate_id: "14",
         district_id: "2103",
         vote_count: 39661,
+        district: {
+          id: "2103",
+          name_th: "ระยอง เขต 3",
+          name_en: "Rayong Constituency 3",
+          province_id: "21",
+        },
         candidate: {
           id: "14",
           name_th: "ฮินาตะ",
@@ -7229,12 +7235,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "2103",
-          name_th: "ระยอง เขต 3",
-          name_en: "Rayong Constituency 3",
-          province_id: "21",
         },
       },
       {
@@ -7273,13 +7273,19 @@ export const regions: RegionVote = {
         candidate_id: "269",
         district_id: "2104",
         vote_count: 38960,
+        district: {
+          id: "2104",
+          name_th: "ระยอง เขต 4",
+          name_en: "Rayong Constituency 4",
+          province_id: "21",
+        },
         candidate: {
           id: "269",
           name_th: "พัลดามอน",
           name_en: "Tentomon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tentomon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -7289,12 +7295,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "2104",
-          name_th: "ระยอง เขต 4",
-          name_en: "Rayong Constituency 4",
-          province_id: "21",
         },
       },
       {
@@ -7333,6 +7333,12 @@ export const regions: RegionVote = {
         candidate_id: "30",
         district_id: "2105",
         vote_count: 35430,
+        district: {
+          id: "2105",
+          name_th: "ระยอง เขต 5",
+          name_en: "Rayong Constituency 5",
+          province_id: "21",
+        },
         candidate: {
           id: "30",
           name_th: "โดฟลามิงโก้",
@@ -7350,12 +7356,6 @@ export const regions: RegionVote = {
             color: "#FFD700",
           },
         },
-        district: {
-          id: "2105",
-          name_th: "ระยอง เขต 5",
-          name_en: "Rayong Constituency 5",
-          province_id: "21",
-        },
       },
       {
         id: "2036",
@@ -7370,11 +7370,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "149",
-          name_th: "เพเนโลพี",
-          name_en: "Penelope",
+          name_th: "Nýi Tilvilg",
+          name_en: "Nýi Tilvilg",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/penelope-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/tilvilg-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -7393,13 +7393,19 @@ export const regions: RegionVote = {
         candidate_id: "256",
         district_id: "2201",
         vote_count: 39090,
+        district: {
+          id: "2201",
+          name_th: "จันทบุรี เขต 1",
+          name_en: "Chanthaburi Constituency 1",
+          province_id: "22",
+        },
         candidate: {
           id: "256",
           name_th: "โทมะ",
           name_en: "Toma",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/toma-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -7409,12 +7415,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "2201",
-          name_th: "จันทบุรี เขต 1",
-          name_en: "Chanthaburi Constituency 1",
-          province_id: "22",
         },
       },
       {
@@ -7453,13 +7453,19 @@ export const regions: RegionVote = {
         candidate_id: "211",
         district_id: "2202",
         vote_count: 38595,
+        district: {
+          id: "2202",
+          name_th: "จันทบุรี เขต 2",
+          name_en: "Chanthaburi Constituency 2",
+          province_id: "22",
+        },
         candidate: {
           id: "211",
           name_th: "ฟูจิวาระ โคซึคิ",
           name_en: "Kozuki Fujihara",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/fujihara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -7469,12 +7475,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "2202",
-          name_th: "จันทบุรี เขต 2",
-          name_en: "Chanthaburi Constituency 2",
-          province_id: "22",
         },
       },
       {
@@ -7499,7 +7499,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -7513,6 +7513,12 @@ export const regions: RegionVote = {
         candidate_id: "125",
         district_id: "2203",
         vote_count: 36006,
+        district: {
+          id: "2203",
+          name_th: "จันทบุรี เขต 3",
+          name_en: "Chanthaburi Constituency 3",
+          province_id: "22",
+        },
         candidate: {
           id: "125",
           name_th: "Rei Furuya",
@@ -7529,12 +7535,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "2203",
-          name_th: "จันทบุรี เขต 3",
-          name_en: "Chanthaburi Constituency 3",
-          province_id: "22",
         },
       },
       {
@@ -7573,13 +7573,19 @@ export const regions: RegionVote = {
         candidate_id: "175",
         district_id: "2301",
         vote_count: 39702,
+        district: {
+          id: "2301",
+          name_th: "ตราด เขต 1",
+          name_en: "Trat Constituency 1",
+          province_id: "23",
+        },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -7589,12 +7595,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "2301",
-          name_th: "ตราด เขต 1",
-          name_en: "Trat Constituency 1",
-          province_id: "23",
         },
       },
       {
@@ -7633,13 +7633,19 @@ export const regions: RegionVote = {
         candidate_id: "147",
         district_id: "2401",
         vote_count: 38647,
+        district: {
+          id: "2401",
+          name_th: "ฉะเชิงเทรา เขต 1",
+          name_en: "Chachoengsao Constituency 1",
+          province_id: "24",
+        },
         candidate: {
           id: "147",
-          name_th: "วู้ดเลย์",
-          name_en: "Woodley",
+          name_th: "Jibril",
+          name_en: "Jibril",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/woodley-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/jibril-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -7649,12 +7655,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "2401",
-          name_th: "ฉะเชิงเทรา เขต 1",
-          name_en: "Chachoengsao Constituency 1",
-          province_id: "24",
         },
       },
       {
@@ -7693,13 +7693,19 @@ export const regions: RegionVote = {
         candidate_id: "151",
         district_id: "2402",
         vote_count: 37486,
+        district: {
+          id: "2402",
+          name_th: "ฉะเชิงเทรา เขต 2",
+          name_en: "Chachoengsao Constituency 2",
+          province_id: "24",
+        },
         candidate: {
           id: "151",
-          name_th: "อาซู",
-          name_en: "Azusa",
+          name_th: "Schwi Dola",
+          name_en: "Schwi Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/azusa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/schwi-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -7709,12 +7715,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "2402",
-          name_th: "ฉะเชิงเทรา เขต 2",
-          name_en: "Chachoengsao Constituency 2",
-          province_id: "24",
         },
       },
       {
@@ -7753,6 +7753,12 @@ export const regions: RegionVote = {
         candidate_id: "28",
         district_id: "2403",
         vote_count: 31584,
+        district: {
+          id: "2403",
+          name_th: "ฉะเชิงเทรา เขต 3",
+          name_en: "Chachoengsao Constituency 3",
+          province_id: "24",
+        },
         candidate: {
           id: "28",
           name_th: "บากี้",
@@ -7769,12 +7775,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "2403",
-          name_th: "ฉะเชิงเทรา เขต 3",
-          name_en: "Chachoengsao Constituency 3",
-          province_id: "24",
         },
       },
       {
@@ -7813,6 +7813,12 @@ export const regions: RegionVote = {
         candidate_id: "86",
         district_id: "2404",
         vote_count: 38301,
+        district: {
+          id: "2404",
+          name_th: "ฉะเชิงเทรา เขต 4",
+          name_en: "Chachoengsao Constituency 4",
+          province_id: "24",
+        },
         candidate: {
           id: "86",
           name_th: "Fu",
@@ -7829,12 +7835,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "2404",
-          name_th: "ฉะเชิงเทรา เขต 4",
-          name_en: "Chachoengsao Constituency 4",
-          province_id: "24",
         },
       },
       {
@@ -7854,7 +7854,7 @@ export const regions: RegionVote = {
           name_en: "Ino",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ino-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -7873,6 +7873,12 @@ export const regions: RegionVote = {
         candidate_id: "21",
         district_id: "2501",
         vote_count: 38398,
+        district: {
+          id: "2501",
+          name_th: "ปราจีนบุรี เขต 1",
+          name_en: "Prachin Buri Constituency 1",
+          province_id: "25",
+        },
         candidate: {
           id: "21",
           name_th: "ช็อปเปอร์",
@@ -7889,12 +7895,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "2501",
-          name_th: "ปราจีนบุรี เขต 1",
-          name_en: "Prachin Buri Constituency 1",
-          province_id: "25",
         },
       },
       {
@@ -7933,13 +7933,19 @@ export const regions: RegionVote = {
         candidate_id: "249",
         district_id: "2502",
         vote_count: 37395,
+        district: {
+          id: "2502",
+          name_th: "ปราจีนบุรี เขต 2",
+          name_en: "Prachin Buri Constituency 2",
+          province_id: "25",
+        },
         candidate: {
           id: "249",
           name_th: "ไอโซกะ ริคิ",
           name_en: "Rikiya Ibara",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rikiya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -7949,12 +7955,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "2502",
-          name_th: "ปราจีนบุรี เขต 2",
-          name_en: "Prachin Buri Constituency 2",
-          province_id: "25",
         },
       },
       {
@@ -7993,6 +7993,12 @@ export const regions: RegionVote = {
         candidate_id: "135",
         district_id: "2503",
         vote_count: 39022,
+        district: {
+          id: "2503",
+          name_th: "ปราจีนบุรี เขต 3",
+          name_en: "Prachin Buri Constituency 3",
+          province_id: "25",
+        },
         candidate: {
           id: "135",
           name_th: "Daniela",
@@ -8010,12 +8016,6 @@ export const regions: RegionVote = {
             color: "#FFA500",
           },
         },
-        district: {
-          id: "2503",
-          name_th: "ปราจีนบุรี เขต 3",
-          name_en: "Prachin Buri Constituency 3",
-          province_id: "25",
-        },
       },
       {
         id: "1657",
@@ -8030,11 +8030,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "178",
-          name_th: "ฮาโกะ",
-          name_en: "Hako",
+          name_th: "Shinigami",
+          name_en: "Shinigami",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hako-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -8053,6 +8053,12 @@ export const regions: RegionVote = {
         candidate_id: "121",
         district_id: "2701",
         vote_count: 38460,
+        district: {
+          id: "2701",
+          name_th: "สระแก้ว เขต 1",
+          name_en: "Sa Kaeo Constituency 1",
+          province_id: "27",
+        },
         candidate: {
           id: "121",
           name_th: "คาซึฮะ ทากายามะ",
@@ -8069,12 +8075,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "2701",
-          name_th: "สระแก้ว เขต 1",
-          name_en: "Sa Kaeo Constituency 1",
-          province_id: "27",
         },
       },
       {
@@ -8113,6 +8113,12 @@ export const regions: RegionVote = {
         candidate_id: "155",
         district_id: "2702",
         vote_count: 39556,
+        district: {
+          id: "2702",
+          name_th: "สระแก้ว เขต 2",
+          name_en: "Sa Kaeo Constituency 2",
+          province_id: "27",
+        },
         candidate: {
           id: "155",
           name_th: "ริสุะ",
@@ -8130,12 +8136,6 @@ export const regions: RegionVote = {
             color: "#8B0000",
           },
         },
-        district: {
-          id: "2702",
-          name_th: "สระแก้ว เขต 2",
-          name_en: "Sa Kaeo Constituency 2",
-          province_id: "27",
-        },
       },
       {
         id: "1690",
@@ -8150,11 +8150,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -8173,6 +8173,12 @@ export const regions: RegionVote = {
         candidate_id: "135",
         district_id: "2703",
         vote_count: 38840,
+        district: {
+          id: "2703",
+          name_th: "สระแก้ว เขต 3",
+          name_en: "Sa Kaeo Constituency 3",
+          province_id: "27",
+        },
         candidate: {
           id: "135",
           name_th: "Daniela",
@@ -8189,12 +8195,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "2703",
-          name_th: "สระแก้ว เขต 3",
-          name_en: "Sa Kaeo Constituency 3",
-          province_id: "27",
         },
       },
       {
@@ -8214,7 +8214,7 @@ export const regions: RegionVote = {
           name_en: "Kuji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -8234,6 +8234,12 @@ export const regions: RegionVote = {
         candidate_id: "167",
         district_id: "3001",
         vote_count: 37490,
+        district: {
+          id: "3001",
+          name_th: "นครราชสีมา เขต 1",
+          name_en: "Nakhon Ratchasima Constituency 1",
+          province_id: "30",
+        },
         candidate: {
           id: "167",
           name_th: "มาค่า อัลบาร์น",
@@ -8250,12 +8256,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3001",
-          name_th: "นครราชสีมา เขต 1",
-          name_en: "Nakhon Ratchasima Constituency 1",
-          province_id: "30",
         },
       },
       {
@@ -8294,13 +8294,19 @@ export const regions: RegionVote = {
         candidate_id: "214",
         district_id: "3002",
         vote_count: 39831,
+        district: {
+          id: "3002",
+          name_th: "นครราชสีมา เขต 2",
+          name_en: "Nakhon Ratchasima Constituency 2",
+          province_id: "30",
+        },
         candidate: {
           id: "214",
           name_th: "โนโบรุ โคจิ",
           name_en: "Noboru Koji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -8310,12 +8316,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3002",
-          name_th: "นครราชสีมา เขต 2",
-          name_en: "Nakhon Ratchasima Constituency 2",
-          province_id: "30",
         },
       },
       {
@@ -8335,7 +8335,7 @@ export const regions: RegionVote = {
           name_en: "Zombie Man",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/zombieman-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -8354,13 +8354,19 @@ export const regions: RegionVote = {
         candidate_id: "154",
         district_id: "3003",
         vote_count: 38434,
+        district: {
+          id: "3003",
+          name_th: "นครราชสีมา เขต 3",
+          name_en: "Nakhon Ratchasima Constituency 3",
+          province_id: "30",
+        },
         candidate: {
           id: "154",
           name_th: "คันกะ คิมิชิมะ",
           name_en: "Ken Kaneki",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaneki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ken-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -8370,12 +8376,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "3003",
-          name_th: "นครราชสีมา เขต 3",
-          name_en: "Nakhon Ratchasima Constituency 3",
-          province_id: "30",
         },
       },
       {
@@ -8395,7 +8395,7 @@ export const regions: RegionVote = {
           name_en: "Shinso Hitoshi",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/shinso-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -8414,13 +8414,19 @@ export const regions: RegionVote = {
         candidate_id: "153",
         district_id: "3004",
         vote_count: 39839,
+        district: {
+          id: "3004",
+          name_th: "นครราชสีมา เขต 4",
+          name_en: "Nakhon Ratchasima Constituency 4",
+          province_id: "30",
+        },
         candidate: {
           id: "153",
-          name_th: "ทิลา",
-          name_en: "Tyla",
+          name_th: "Think Nirvalen",
+          name_en: "Think Nirvalen",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tyla-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/think-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -8430,12 +8436,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "3004",
-          name_th: "นครราชสีมา เขต 4",
-          name_en: "Nakhon Ratchasima Constituency 4",
-          province_id: "30",
         },
       },
       {
@@ -8474,13 +8474,19 @@ export const regions: RegionVote = {
         candidate_id: "149",
         district_id: "3005",
         vote_count: 36564,
+        district: {
+          id: "3005",
+          name_th: "นครราชสีมา เขต 5",
+          name_en: "Nakhon Ratchasima Constituency 5",
+          province_id: "30",
+        },
         candidate: {
           id: "149",
-          name_th: "เพเนโลพี",
-          name_en: "Penelope",
+          name_th: "Nýi Tilvilg",
+          name_en: "Nýi Tilvilg",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/penelope-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/tilvilg-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -8490,12 +8496,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "3005",
-          name_th: "นครราชสีมา เขต 5",
-          name_en: "Nakhon Ratchasima Constituency 5",
-          province_id: "30",
         },
       },
       {
@@ -8534,6 +8534,12 @@ export const regions: RegionVote = {
         candidate_id: "138",
         district_id: "3006",
         vote_count: 39082,
+        district: {
+          id: "3006",
+          name_th: "นครราชสีมา เขต 6",
+          name_en: "Nakhon Ratchasima Constituency 6",
+          province_id: "30",
+        },
         candidate: {
           id: "138",
           name_th: "Colonnello",
@@ -8550,12 +8556,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3006",
-          name_th: "นครราชสีมา เขต 6",
-          name_en: "Nakhon Ratchasima Constituency 6",
-          province_id: "30",
         },
       },
       {
@@ -8594,6 +8594,12 @@ export const regions: RegionVote = {
         candidate_id: "117",
         district_id: "3007",
         vote_count: 38982,
+        district: {
+          id: "3007",
+          name_th: "นครราชสีมา เขต 7",
+          name_en: "Nakhon Ratchasima Constituency 7",
+          province_id: "30",
+        },
         candidate: {
           id: "117",
           name_th: "โคโกโร่ โมริ",
@@ -8610,12 +8616,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "3007",
-          name_th: "นครราชสีมา เขต 7",
-          name_en: "Nakhon Ratchasima Constituency 7",
-          province_id: "30",
         },
       },
       {
@@ -8654,13 +8654,19 @@ export const regions: RegionVote = {
         candidate_id: "229",
         district_id: "3008",
         vote_count: 33493,
+        district: {
+          id: "3008",
+          name_th: "นครราชสีมา เขต 8",
+          name_en: "Nakhon Ratchasima Constituency 8",
+          province_id: "30",
+        },
         candidate: {
           id: "229",
           name_th: "คาซึยะ",
           name_en: "Kazuya",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kazuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -8670,12 +8676,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "3008",
-          name_th: "นครราชสีมา เขต 8",
-          name_en: "Nakhon Ratchasima Constituency 8",
-          province_id: "30",
         },
       },
       {
@@ -8700,7 +8700,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -8714,13 +8714,19 @@ export const regions: RegionVote = {
         candidate_id: "190",
         district_id: "3009",
         vote_count: 38326,
+        district: {
+          id: "3009",
+          name_th: "นครราชสีมา เขต 9",
+          name_en: "Nakhon Ratchasima Constituency 9",
+          province_id: "30",
+        },
         candidate: {
           id: "190",
-          name_th: "โคจิ",
-          name_en: "Koji",
+          name_th: "Touta Matsuda",
+          name_en: "Touta Matsuda",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/touta-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -8730,12 +8736,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "3009",
-          name_th: "นครราชสีมา เขต 9",
-          name_en: "Nakhon Ratchasima Constituency 9",
-          province_id: "30",
         },
       },
       {
@@ -8774,13 +8774,19 @@ export const regions: RegionVote = {
         candidate_id: "143",
         district_id: "3010",
         vote_count: 36212,
+        district: {
+          id: "3010",
+          name_th: "นครราชสีมา เขต 10",
+          name_en: "Nakhon Ratchasima Constituency 10",
+          province_id: "30",
+        },
         candidate: {
           id: "143",
-          name_th: "เฟียร์",
-          name_en: "Phyrne",
+          name_th: "Tet",
+          name_en: "Tet",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/phyrne-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/tet-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -8790,12 +8796,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "3010",
-          name_th: "นครราชสีมา เขต 10",
-          name_en: "Nakhon Ratchasima Constituency 10",
-          province_id: "30",
         },
       },
       {
@@ -8834,6 +8834,12 @@ export const regions: RegionVote = {
         candidate_id: "91",
         district_id: "3011",
         vote_count: 39856,
+        district: {
+          id: "3011",
+          name_th: "นครราชสีมา เขต 11",
+          name_en: "Nakhon Ratchasima Constituency 11",
+          province_id: "30",
+        },
         candidate: {
           id: "91",
           name_th: "เอริวิน สมิธ",
@@ -8850,12 +8856,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "3011",
-          name_th: "นครราชสีมา เขต 11",
-          name_en: "Nakhon Ratchasima Constituency 11",
-          province_id: "30",
         },
       },
       {
@@ -8894,13 +8894,19 @@ export const regions: RegionVote = {
         candidate_id: "199",
         district_id: "3012",
         vote_count: 38218,
+        district: {
+          id: "3012",
+          name_th: "นครราชสีมา เขต 12",
+          name_en: "Nakhon Ratchasima Constituency 12",
+          province_id: "30",
+        },
         candidate: {
           id: "199",
           name_th: "คิระ",
           name_en: "Kira Yoshikage",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -8910,12 +8916,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "3012",
-          name_th: "นครราชสีมา เขต 12",
-          name_en: "Nakhon Ratchasima Constituency 12",
-          province_id: "30",
         },
       },
       {
@@ -8954,6 +8954,12 @@ export const regions: RegionVote = {
         candidate_id: "117",
         district_id: "3013",
         vote_count: 34908,
+        district: {
+          id: "3013",
+          name_th: "นครราชสีมา เขต 13",
+          name_en: "Nakhon Ratchasima Constituency 13",
+          province_id: "30",
+        },
         candidate: {
           id: "117",
           name_th: "โคโกโร่ โมริ",
@@ -8970,12 +8976,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "3013",
-          name_th: "นครราชสีมา เขต 13",
-          name_en: "Nakhon Ratchasima Constituency 13",
-          province_id: "30",
         },
       },
       {
@@ -8995,7 +8995,7 @@ export const regions: RegionVote = {
           name_en: "Ochaco Uraraka",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/uraraka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -9014,13 +9014,19 @@ export const regions: RegionVote = {
         candidate_id: "216",
         district_id: "3014",
         vote_count: 32754,
+        district: {
+          id: "3014",
+          name_th: "นครราชสีมา เขต 14",
+          name_en: "Nakhon Ratchasima Constituency 14",
+          province_id: "30",
+        },
         candidate: {
           id: "216",
           name_th: "คูจิ",
           name_en: "Kuji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -9030,12 +9036,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3014",
-          name_th: "นครราชสีมา เขต 14",
-          name_en: "Nakhon Ratchasima Constituency 14",
-          province_id: "30",
         },
       },
       {
@@ -9074,6 +9074,12 @@ export const regions: RegionVote = {
         candidate_id: "82",
         district_id: "3015",
         vote_count: 39966,
+        district: {
+          id: "3015",
+          name_th: "นครราชสีมา เขต 15",
+          name_en: "Nakhon Ratchasima Constituency 15",
+          province_id: "30",
+        },
         candidate: {
           id: "82",
           name_th: "สการ์",
@@ -9091,12 +9097,6 @@ export const regions: RegionVote = {
             color: "#B22222",
           },
         },
-        district: {
-          id: "3015",
-          name_th: "นครราชสีมา เขต 15",
-          name_en: "Nakhon Ratchasima Constituency 15",
-          province_id: "30",
-        },
       },
       {
         id: "3462",
@@ -9111,11 +9111,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "146",
-          name_th: "ซูรู",
-          name_en: "Suzu",
+          name_th: "Fiel Nirvalen",
+          name_en: "Fiel Nirvalen",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/suzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/fiel-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -9134,6 +9134,12 @@ export const regions: RegionVote = {
         candidate_id: "55",
         district_id: "3016",
         vote_count: 39592,
+        district: {
+          id: "3016",
+          name_th: "นครราชสีมา เขต 16",
+          name_en: "Nakhon Ratchasima Constituency 16",
+          province_id: "30",
+        },
         candidate: {
           id: "55",
           name_th: "Muichiro Tokito",
@@ -9145,17 +9151,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "3016",
-          name_th: "นครราชสีมา เขต 16",
-          name_en: "Nakhon Ratchasima Constituency 16",
-          province_id: "30",
         },
       },
       {
@@ -9194,6 +9194,12 @@ export const regions: RegionVote = {
         candidate_id: "127",
         district_id: "3101",
         vote_count: 38588,
+        district: {
+          id: "3101",
+          name_th: "บุรีรัมย์ เขต 1",
+          name_en: "Buriram Constituency 1",
+          province_id: "31",
+        },
         candidate: {
           id: "127",
           name_th: "Heiji Hattori",
@@ -9210,12 +9216,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "3101",
-          name_th: "บุรีรัมย์ เขต 1",
-          name_en: "Buriram Constituency 1",
-          province_id: "31",
         },
       },
       {
@@ -9254,13 +9254,19 @@ export const regions: RegionVote = {
         candidate_id: "176",
         district_id: "3102",
         vote_count: 39339,
+        district: {
+          id: "3102",
+          name_th: "บุรีรัมย์ เขต 2",
+          name_en: "Buriram Constituency 2",
+          province_id: "31",
+        },
         candidate: {
           id: "176",
-          name_th: "ลูดวิก",
-          name_en: "Ludwig",
+          name_th: "Arakune Gōgon",
+          name_en: "Arakune Gōgon",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ludwig-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -9270,12 +9276,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3102",
-          name_th: "บุรีรัมย์ เขต 2",
-          name_en: "Buriram Constituency 2",
-          province_id: "31",
         },
       },
       {
@@ -9314,13 +9314,19 @@ export const regions: RegionVote = {
         candidate_id: "224",
         district_id: "3103",
         vote_count: 37119,
+        district: {
+          id: "3103",
+          name_th: "บุรีรัมย์ เขต 3",
+          name_en: "Buriram Constituency 3",
+          province_id: "31",
+        },
         candidate: {
           id: "224",
           name_th: "อิโนะ",
           name_en: "Ino",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ino-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -9330,12 +9336,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "3103",
-          name_th: "บุรีรัมย์ เขต 3",
-          name_en: "Buriram Constituency 3",
-          province_id: "31",
         },
       },
       {
@@ -9374,6 +9374,12 @@ export const regions: RegionVote = {
         candidate_id: "157",
         district_id: "3104",
         vote_count: 39561,
+        district: {
+          id: "3104",
+          name_th: "บุรีรัมย์ เขต 4",
+          name_en: "Buriram Constituency 4",
+          province_id: "31",
+        },
         candidate: {
           id: "157",
           name_th: "อายาเมะ",
@@ -9390,12 +9396,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "3104",
-          name_th: "บุรีรัมย์ เขต 4",
-          name_en: "Buriram Constituency 4",
-          province_id: "31",
         },
       },
       {
@@ -9434,6 +9434,12 @@ export const regions: RegionVote = {
         candidate_id: "79",
         district_id: "3105",
         vote_count: 38779,
+        district: {
+          id: "3105",
+          name_th: "บุรีรัมย์ เขต 5",
+          name_en: "Buriram Constituency 5",
+          province_id: "31",
+        },
         candidate: {
           id: "79",
           name_th: "ลูซี่",
@@ -9450,12 +9456,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "3105",
-          name_th: "บุรีรัมย์ เขต 5",
-          name_en: "Buriram Constituency 5",
-          province_id: "31",
         },
       },
       {
@@ -9494,13 +9494,19 @@ export const regions: RegionVote = {
         candidate_id: "252",
         district_id: "3106",
         vote_count: 23732,
+        district: {
+          id: "3106",
+          name_th: "บุรีรัมย์ เขต 6",
+          name_en: "Buriram Constituency 6",
+          province_id: "31",
+        },
         candidate: {
           id: "252",
           name_th: "คิระ",
           name_en: "Kira",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -9510,12 +9516,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "3106",
-          name_th: "บุรีรัมย์ เขต 6",
-          name_en: "Buriram Constituency 6",
-          province_id: "31",
         },
       },
       {
@@ -9554,6 +9554,12 @@ export const regions: RegionVote = {
         candidate_id: "140",
         district_id: "3107",
         vote_count: 32707,
+        district: {
+          id: "3107",
+          name_th: "บุรีรัมย์ เขต 7",
+          name_en: "Buriram Constituency 7",
+          province_id: "31",
+        },
         candidate: {
           id: "140",
           name_th: "Chrome Dokuro",
@@ -9570,12 +9576,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3107",
-          name_th: "บุรีรัมย์ เขต 7",
-          name_en: "Buriram Constituency 7",
-          province_id: "31",
         },
       },
       {
@@ -9600,7 +9600,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -9614,13 +9614,19 @@ export const regions: RegionVote = {
         candidate_id: "206",
         district_id: "3108",
         vote_count: 38417,
+        district: {
+          id: "3108",
+          name_th: "บุรีรัมย์ เขต 8",
+          name_en: "Buriram Constituency 8",
+          province_id: "31",
+        },
         candidate: {
           id: "206",
           name_th: "ฮินาตะ ชินโบ",
           name_en: "Shoyo Hinata",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hinata-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -9630,12 +9636,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3108",
-          name_th: "บุรีรัมย์ เขต 8",
-          name_en: "Buriram Constituency 8",
-          province_id: "31",
         },
       },
       {
@@ -9674,13 +9674,19 @@ export const regions: RegionVote = {
         candidate_id: "259",
         district_id: "3109",
         vote_count: 37065,
+        district: {
+          id: "3109",
+          name_th: "บุรีรัมย์ เขต 9",
+          name_en: "Buriram Constituency 9",
+          province_id: "31",
+        },
         candidate: {
           id: "259",
           name_th: "ยูคิโอะ",
           name_en: "Yamato Ishida",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/yamato-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -9690,12 +9696,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3109",
-          name_th: "บุรีรัมย์ เขต 9",
-          name_en: "Buriram Constituency 9",
-          province_id: "31",
         },
       },
       {
@@ -9734,6 +9734,12 @@ export const regions: RegionVote = {
         candidate_id: "113",
         district_id: "3110",
         vote_count: 38005,
+        district: {
+          id: "3110",
+          name_th: "บุรีรัมย์ เขต 10",
+          name_en: "Buriram Constituency 10",
+          province_id: "31",
+        },
         candidate: {
           id: "113",
           name_th: "เฮียวกะ",
@@ -9750,12 +9756,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "3110",
-          name_th: "บุรีรัมย์ เขต 10",
-          name_en: "Buriram Constituency 10",
-          province_id: "31",
         },
       },
       {
@@ -9780,7 +9780,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -9794,13 +9794,19 @@ export const regions: RegionVote = {
         candidate_id: "216",
         district_id: "3201",
         vote_count: 37002,
+        district: {
+          id: "3201",
+          name_th: "สุรินทร์ เขต 1",
+          name_en: "Surin Constituency 1",
+          province_id: "32",
+        },
         candidate: {
           id: "216",
           name_th: "คูจิ",
           name_en: "Kuji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -9810,12 +9816,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3201",
-          name_th: "สุรินทร์ เขต 1",
-          name_en: "Surin Constituency 1",
-          province_id: "32",
         },
       },
       {
@@ -9854,13 +9854,19 @@ export const regions: RegionVote = {
         candidate_id: "235",
         district_id: "3202",
         vote_count: 39066,
+        district: {
+          id: "3202",
+          name_th: "สุรินทร์ เขต 2",
+          name_en: "Surin Constituency 2",
+          province_id: "32",
+        },
         candidate: {
           id: "235",
           name_th: "ฟูดามิ",
           name_en: "Fubuki",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/fubuki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -9870,12 +9876,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "3202",
-          name_th: "สุรินทร์ เขต 2",
-          name_en: "Surin Constituency 2",
-          province_id: "32",
         },
       },
       {
@@ -9895,7 +9895,7 @@ export const regions: RegionVote = {
           name_en: "Maya",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/maya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -9914,13 +9914,19 @@ export const regions: RegionVote = {
         candidate_id: "219",
         district_id: "3203",
         vote_count: 39336,
+        district: {
+          id: "3203",
+          name_th: "สุรินทร์ เขต 3",
+          name_en: "Surin Constituency 3",
+          province_id: "32",
+        },
         candidate: {
           id: "219",
           name_th: "โมบะ",
           name_en: "Shigeo Kageyama (Mob)",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mob-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -9930,12 +9936,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "3203",
-          name_th: "สุรินทร์ เขต 3",
-          name_en: "Surin Constituency 3",
-          province_id: "32",
         },
       },
       {
@@ -9951,11 +9951,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "170",
-          name_th: "ซอว์",
-          name_en: "Saw",
+          name_th: "Erizabesu Tonpuson",
+          name_en: "Erizabesu Tonpuson",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/saw-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -9974,6 +9974,12 @@ export const regions: RegionVote = {
         candidate_id: "130",
         district_id: "3204",
         vote_count: 39852,
+        district: {
+          id: "3204",
+          name_th: "สุรินทร์ เขต 4",
+          name_en: "Surin Constituency 4",
+          province_id: "32",
+        },
         candidate: {
           id: "130",
           name_th: "Fabio",
@@ -9990,12 +9996,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3204",
-          name_th: "สุรินทร์ เขต 4",
-          name_en: "Surin Constituency 4",
-          province_id: "32",
         },
       },
       {
@@ -10015,7 +10015,7 @@ export const regions: RegionVote = {
           name_en: "Zombie Man",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/zombieman-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -10034,6 +10034,12 @@ export const regions: RegionVote = {
         candidate_id: "74",
         district_id: "3205",
         vote_count: 39054,
+        district: {
+          id: "3205",
+          name_th: "สุรินทร์ เขต 5",
+          name_en: "Surin Constituency 5",
+          province_id: "32",
+        },
         candidate: {
           id: "74",
           name_th: "อัลฟอนซ์",
@@ -10050,12 +10056,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "3205",
-          name_th: "สุรินทร์ เขต 5",
-          name_en: "Surin Constituency 5",
-          province_id: "32",
         },
       },
       {
@@ -10075,7 +10075,7 @@ export const regions: RegionVote = {
           name_en: "Miyo",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/miyo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -10094,13 +10094,19 @@ export const regions: RegionVote = {
         candidate_id: "261",
         district_id: "3206",
         vote_count: 36171,
+        district: {
+          id: "3206",
+          name_th: "สุรินทร์ เขต 6",
+          name_en: "Surin Constituency 6",
+          province_id: "32",
+        },
         candidate: {
           id: "261",
           name_th: "คิอิ",
           name_en: "Koushiro Izumi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koushiro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -10110,12 +10116,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3206",
-          name_th: "สุรินทร์ เขต 6",
-          name_en: "Surin Constituency 6",
-          province_id: "32",
         },
       },
       {
@@ -10154,6 +10154,12 @@ export const regions: RegionVote = {
         candidate_id: "6",
         district_id: "3207",
         vote_count: 36739,
+        district: {
+          id: "3207",
+          name_th: "สุรินทร์ เขต 7",
+          name_en: "Surin Constituency 7",
+          province_id: "32",
+        },
         candidate: {
           id: "6",
           name_th: "โอโรจิมารุ",
@@ -10170,12 +10176,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "3207",
-          name_th: "สุรินทร์ เขต 7",
-          name_en: "Surin Constituency 7",
-          province_id: "32",
         },
       },
       {
@@ -10214,6 +10214,12 @@ export const regions: RegionVote = {
         candidate_id: "181",
         district_id: "3208",
         vote_count: 37809,
+        district: {
+          id: "3208",
+          name_th: "สุรินทร์ เขต 8",
+          name_en: "Surin Constituency 8",
+          province_id: "32",
+        },
         candidate: {
           id: "181",
           name_th: "แอล",
@@ -10229,12 +10235,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "3208",
-          name_th: "สุรินทร์ เขต 8",
-          name_en: "Surin Constituency 8",
-          province_id: "32",
         },
       },
       {
@@ -10254,7 +10254,7 @@ export const regions: RegionVote = {
           name_en: "Sora Takenouchi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sora-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -10273,13 +10273,19 @@ export const regions: RegionVote = {
         candidate_id: "174",
         district_id: "3301",
         vote_count: 38315,
+        district: {
+          id: "3301",
+          name_th: "ศรีสะเกษ เขต 1",
+          name_en: "Si Sa Ket Constituency 1",
+          province_id: "33",
+        },
         candidate: {
           id: "174",
-          name_th: "ไอริ",
-          name_en: "Iri",
+          name_th: "Harvar D. Éclair",
+          name_en: "Harvar D. Éclair",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/iri-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/medyūsa-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -10289,12 +10295,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3301",
-          name_th: "ศรีสะเกษ เขต 1",
-          name_en: "Si Sa Ket Constituency 1",
-          province_id: "33",
         },
       },
       {
@@ -10314,7 +10314,7 @@ export const regions: RegionVote = {
           name_en: "Sao",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sao-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -10333,13 +10333,19 @@ export const regions: RegionVote = {
         candidate_id: "272",
         district_id: "3302",
         vote_count: 39913,
+        district: {
+          id: "3302",
+          name_th: "ศรีสะเกษ เขต 2",
+          name_en: "Si Sa Ket Constituency 2",
+          province_id: "33",
+        },
         candidate: {
           id: "272",
           name_th: "โอเมกามอน",
           name_en: "Omegamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/omegamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -10349,12 +10355,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3302",
-          name_th: "ศรีสะเกษ เขต 2",
-          name_en: "Si Sa Ket Constituency 2",
-          province_id: "33",
         },
       },
       {
@@ -10393,6 +10393,12 @@ export const regions: RegionVote = {
         candidate_id: "108",
         district_id: "3303",
         vote_count: 39330,
+        district: {
+          id: "3303",
+          name_th: "ศรีสะเกษ เขต 3",
+          name_en: "Si Sa Ket Constituency 3",
+          province_id: "33",
+        },
         candidate: {
           id: "108",
           name_th: "ยะมะโมโตะ",
@@ -10410,12 +10416,6 @@ export const regions: RegionVote = {
             color: "#FF4500",
           },
         },
-        district: {
-          id: "3303",
-          name_th: "ศรีสะเกษ เขต 3",
-          name_en: "Si Sa Ket Constituency 3",
-          province_id: "33",
-        },
       },
       {
         id: "3960",
@@ -10430,11 +10430,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "188",
-          name_th: "ทัตซึยะ",
-          name_en: "Tatsuya",
+          name_th: "Soichiro Yagami",
+          name_en: "Soichiro Yagami",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -10453,6 +10453,12 @@ export const regions: RegionVote = {
         candidate_id: "78",
         district_id: "3304",
         vote_count: 39443,
+        district: {
+          id: "3304",
+          name_th: "ศรีสะเกษ เขต 4",
+          name_en: "Si Sa Ket Constituency 4",
+          province_id: "33",
+        },
         candidate: {
           id: "78",
           name_th: "Lan Fan",
@@ -10470,12 +10476,6 @@ export const regions: RegionVote = {
             color: "#B22222",
           },
         },
-        district: {
-          id: "3304",
-          name_th: "ศรีสะเกษ เขต 4",
-          name_en: "Si Sa Ket Constituency 4",
-          province_id: "33",
-        },
       },
       {
         id: "3974",
@@ -10490,11 +10490,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -10513,13 +10513,19 @@ export const regions: RegionVote = {
         candidate_id: "183",
         district_id: "3305",
         vote_count: 38670,
+        district: {
+          id: "3305",
+          name_th: "ศรีสะเกษ เขต 5",
+          name_en: "Si Sa Ket Constituency 5",
+          province_id: "33",
+        },
         candidate: {
           id: "183",
-          name_th: "ริคุ",
-          name_en: "Riku",
+          name_th: "Near",
+          name_en: "Near",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/riku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/near-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -10529,12 +10535,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "3305",
-          name_th: "ศรีสะเกษ เขต 5",
-          name_en: "Si Sa Ket Constituency 5",
-          province_id: "33",
         },
       },
       {
@@ -10554,7 +10554,7 @@ export const regions: RegionVote = {
           name_en: "Agumon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/agumon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -10573,13 +10573,19 @@ export const regions: RegionVote = {
         candidate_id: "186",
         district_id: "3306",
         vote_count: 37981,
+        district: {
+          id: "3306",
+          name_th: "ศรีสะเกษ เขต 6",
+          name_en: "Si Sa Ket Constituency 6",
+          province_id: "33",
+        },
         candidate: {
           id: "186",
-          name_th: "นามิ",
-          name_en: "Nami",
+          name_th: "Ryuk",
+          name_en: "Ryuk",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/nami-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ryuk-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -10589,12 +10595,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "3306",
-          name_th: "ศรีสะเกษ เขต 6",
-          name_en: "Si Sa Ket Constituency 6",
-          province_id: "33",
         },
       },
       {
@@ -10633,6 +10633,12 @@ export const regions: RegionVote = {
         candidate_id: "64",
         district_id: "3307",
         vote_count: 39970,
+        district: {
+          id: "3307",
+          name_th: "ศรีสะเกษ เขต 7",
+          name_en: "Si Sa Ket Constituency 7",
+          province_id: "33",
+        },
         candidate: {
           id: "64",
           name_th: "ปีเตอร์",
@@ -10649,12 +10655,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "3307",
-          name_th: "ศรีสะเกษ เขต 7",
-          name_en: "Si Sa Ket Constituency 7",
-          province_id: "33",
         },
       },
       {
@@ -10674,7 +10674,7 @@ export const regions: RegionVote = {
           name_en: "Kuroko",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuroko-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -10693,6 +10693,12 @@ export const regions: RegionVote = {
         candidate_id: "32",
         district_id: "3308",
         vote_count: 36426,
+        district: {
+          id: "3308",
+          name_th: "ศรีสะเกษ เขต 8",
+          name_en: "Si Sa Ket Constituency 8",
+          province_id: "33",
+        },
         candidate: {
           id: "32",
           name_th: "เบจิต้า",
@@ -10709,12 +10715,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "3308",
-          name_th: "ศรีสะเกษ เขต 8",
-          name_en: "Si Sa Ket Constituency 8",
-          province_id: "33",
         },
       },
       {
@@ -10734,7 +10734,7 @@ export const regions: RegionVote = {
           name_en: "Noboru Koji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -10753,6 +10753,12 @@ export const regions: RegionVote = {
         candidate_id: "103",
         district_id: "3309",
         vote_count: 39310,
+        district: {
+          id: "3309",
+          name_th: "ศรีสะเกษ เขต 9",
+          name_en: "Si Sa Ket Constituency 9",
+          province_id: "33",
+        },
         candidate: {
           id: "103",
           name_th: "อุคิโยะ รุกุ",
@@ -10769,12 +10775,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "3309",
-          name_th: "ศรีสะเกษ เขต 9",
-          name_en: "Si Sa Ket Constituency 9",
-          province_id: "33",
         },
       },
       {
@@ -10799,7 +10799,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -10813,6 +10813,12 @@ export const regions: RegionVote = {
         candidate_id: "90",
         district_id: "3401",
         vote_count: 33762,
+        district: {
+          id: "3401",
+          name_th: "อุบลราชธานี เขต 1",
+          name_en: "Ubon Ratchathani Constituency 1",
+          province_id: "34",
+        },
         candidate: {
           id: "90",
           name_th: "ริไว เอ็คเคอร์แมน",
@@ -10829,12 +10835,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "3401",
-          name_th: "อุบลราชธานี เขต 1",
-          name_en: "Ubon Ratchathani Constituency 1",
-          province_id: "34",
         },
       },
       {
@@ -10872,13 +10872,19 @@ export const regions: RegionVote = {
         candidate_id: "213",
         district_id: "3402",
         vote_count: 38053,
+        district: {
+          id: "3402",
+          name_th: "อุบลราชธานี เขต 2",
+          name_en: "Ubon Ratchathani Constituency 2",
+          province_id: "34",
+        },
         candidate: {
           id: "213",
           name_th: "เซนโกะ",
           name_en: "Senko",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/senko-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -10888,12 +10894,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3402",
-          name_th: "อุบลราชธานี เขต 2",
-          name_en: "Ubon Ratchathani Constituency 2",
-          province_id: "34",
         },
       },
       {
@@ -10932,13 +10932,19 @@ export const regions: RegionVote = {
         candidate_id: "160",
         district_id: "3403",
         vote_count: 35934,
+        district: {
+          id: "3403",
+          name_th: "อุบลราชธานี เขต 3",
+          name_en: "Ubon Ratchathani Constituency 3",
+          province_id: "34",
+        },
         candidate: {
           id: "160",
-          name_th: "ไคริ",
-          name_en: "Karry",
+          name_th: "Kaya Irimi",
+          name_en: "Kaya Irimi",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/karry-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaya-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -10948,12 +10954,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "3403",
-          name_th: "อุบลราชธานี เขต 3",
-          name_en: "Ubon Ratchathani Constituency 3",
-          province_id: "34",
         },
       },
       {
@@ -10973,7 +10973,7 @@ export const regions: RegionVote = {
           name_en: "Dio Brando",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dio-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -10992,13 +10992,19 @@ export const regions: RegionVote = {
         candidate_id: "234",
         district_id: "3404",
         vote_count: 39653,
+        district: {
+          id: "3404",
+          name_th: "อุบลราชธานี เขต 4",
+          name_en: "Ubon Ratchathani Constituency 4",
+          province_id: "34",
+        },
         candidate: {
           id: "234",
           name_th: "มูซึ",
           name_en: "Mumen Rider",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mumen-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -11008,12 +11014,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "3404",
-          name_th: "อุบลราชธานี เขต 4",
-          name_en: "Ubon Ratchathani Constituency 4",
-          province_id: "34",
         },
       },
       {
@@ -11038,7 +11038,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -11052,6 +11052,12 @@ export const regions: RegionVote = {
         candidate_id: "51",
         district_id: "3405",
         vote_count: 37491,
+        district: {
+          id: "3405",
+          name_th: "อุบลราชธานี เขต 5",
+          name_en: "Ubon Ratchathani Constituency 5",
+          province_id: "34",
+        },
         candidate: {
           id: "51",
           name_th: "มิตสึริ",
@@ -11063,17 +11069,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "3405",
-          name_th: "อุบลราชธานี เขต 5",
-          name_en: "Ubon Ratchathani Constituency 5",
-          province_id: "34",
         },
       },
       {
@@ -11089,11 +11089,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "144",
-          name_th: "จิยู",
-          name_en: "Jibril",
+          name_th: "Stephanie Dola",
+          name_en: "Stephanie Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/jibril-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/stephanie-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -11112,13 +11112,19 @@ export const regions: RegionVote = {
         candidate_id: "187",
         district_id: "3406",
         vote_count: 35572,
+        district: {
+          id: "3406",
+          name_th: "อุบลราชธานี เขต 6",
+          name_en: "Ubon Ratchathani Constituency 6",
+          province_id: "34",
+        },
         candidate: {
           id: "187",
-          name_th: "โซจิ",
-          name_en: "Soji",
+          name_th: "Naomi Misora",
+          name_en: "Naomi Misora",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/soji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -11128,12 +11134,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "3406",
-          name_th: "อุบลราชธานี เขต 6",
-          name_en: "Ubon Ratchathani Constituency 6",
-          province_id: "34",
         },
       },
       {
@@ -11153,7 +11153,7 @@ export const regions: RegionVote = {
           name_en: "Senko",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/senko-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -11172,13 +11172,19 @@ export const regions: RegionVote = {
         candidate_id: "271",
         district_id: "3407",
         vote_count: 34126,
+        district: {
+          id: "3407",
+          name_th: "อุบลราชธานี เขต 7",
+          name_en: "Ubon Ratchathani Constituency 7",
+          province_id: "34",
+        },
         candidate: {
           id: "271",
           name_th: "กาลา",
           name_en: "Gomamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gomamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -11188,12 +11194,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3407",
-          name_th: "อุบลราชธานี เขต 7",
-          name_en: "Ubon Ratchathani Constituency 7",
-          province_id: "34",
         },
       },
       {
@@ -11232,13 +11232,19 @@ export const regions: RegionVote = {
         candidate_id: "242",
         district_id: "3408",
         vote_count: 37151,
+        district: {
+          id: "3408",
+          name_th: "อุบลราชธานี เขต 8",
+          name_en: "Ubon Ratchathani Constituency 8",
+          province_id: "34",
+        },
         candidate: {
           id: "242",
           name_th: "เมตัลไนท์",
           name_en: "Metal Knight",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/metalknight-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -11248,12 +11254,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "3408",
-          name_th: "อุบลราชธานี เขต 8",
-          name_en: "Ubon Ratchathani Constituency 8",
-          province_id: "34",
         },
       },
       {
@@ -11278,7 +11278,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -11292,6 +11292,12 @@ export const regions: RegionVote = {
         candidate_id: "62",
         district_id: "3409",
         vote_count: 39596,
+        district: {
+          id: "3409",
+          name_th: "อุบลราชธานี เขต 9",
+          name_en: "Ubon Ratchathani Constituency 9",
+          province_id: "34",
+        },
         candidate: {
           id: "62",
           name_th: "ครอฟต์",
@@ -11309,12 +11315,6 @@ export const regions: RegionVote = {
             color: "#3AAA35",
           },
         },
-        district: {
-          id: "3409",
-          name_th: "อุบลราชธานี เขต 9",
-          name_en: "Ubon Ratchathani Constituency 9",
-          province_id: "34",
-        },
       },
       {
         id: "3754",
@@ -11329,11 +11329,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "165",
-          name_th: "จูซู",
-          name_en: "Juzu",
+          name_th: "Yoriko Kosaka",
+          name_en: "Yoriko Kosaka",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/juzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mitsuki-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -11352,6 +11352,12 @@ export const regions: RegionVote = {
         candidate_id: "80",
         district_id: "3410",
         vote_count: 37602,
+        district: {
+          id: "3410",
+          name_th: "อุบลราชธานี เขต 10",
+          name_en: "Ubon Ratchathani Constituency 10",
+          province_id: "34",
+        },
         candidate: {
           id: "80",
           name_th: "เอนวี",
@@ -11368,12 +11374,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "3410",
-          name_th: "อุบลราชธานี เขต 10",
-          name_en: "Ubon Ratchathani Constituency 10",
-          province_id: "34",
         },
       },
       {
@@ -11412,6 +11412,12 @@ export const regions: RegionVote = {
         candidate_id: "121",
         district_id: "3411",
         vote_count: 39187,
+        district: {
+          id: "3411",
+          name_th: "อุบลราชธานี เขต 11",
+          name_en: "Ubon Ratchathani Constituency 11",
+          province_id: "34",
+        },
         candidate: {
           id: "121",
           name_th: "คาซึฮะ ทากายามะ",
@@ -11428,12 +11434,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "3411",
-          name_th: "อุบลราชธานี เขต 11",
-          name_en: "Ubon Ratchathani Constituency 11",
-          province_id: "34",
         },
       },
       {
@@ -11458,7 +11458,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -11472,13 +11472,19 @@ export const regions: RegionVote = {
         candidate_id: "239",
         district_id: "3501",
         vote_count: 37796,
+        district: {
+          id: "3501",
+          name_th: "ยโสธร เขต 1",
+          name_en: "Yasothon Constituency 1",
+          province_id: "35",
+        },
         candidate: {
           id: "239",
           name_th: "ซิลเวอร์ฟังค์",
           name_en: "Silverfang",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/silverfang-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -11488,12 +11494,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "3501",
-          name_th: "ยโสธร เขต 1",
-          name_en: "Yasothon Constituency 1",
-          province_id: "35",
         },
       },
       {
@@ -11532,13 +11532,19 @@ export const regions: RegionVote = {
         candidate_id: "184",
         district_id: "3502",
         vote_count: 39474,
+        district: {
+          id: "3502",
+          name_th: "ยโสธร เขต 2",
+          name_en: "Yasothon Constituency 2",
+          province_id: "35",
+        },
         candidate: {
           id: "184",
-          name_th: "มิกะ",
-          name_en: "Misa Amane",
+          name_th: "Mello",
+          name_en: "Mello",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/misa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mello-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -11548,12 +11554,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "3502",
-          name_th: "ยโสธร เขต 2",
-          name_en: "Yasothon Constituency 2",
-          province_id: "35",
         },
       },
       {
@@ -11573,7 +11573,7 @@ export const regions: RegionVote = {
           name_en: "Joe Kido",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/joe-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -11592,6 +11592,12 @@ export const regions: RegionVote = {
         candidate_id: "123",
         district_id: "3503",
         vote_count: 38109,
+        district: {
+          id: "3503",
+          name_th: "ยโสธร เขต 3",
+          name_en: "Yasothon Constituency 3",
+          province_id: "35",
+        },
         candidate: {
           id: "123",
           name_th: "Ayumi Yoshida",
@@ -11608,12 +11614,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "3503",
-          name_th: "ยโสธร เขต 3",
-          name_en: "Yasothon Constituency 3",
-          province_id: "35",
         },
       },
       {
@@ -11652,6 +11652,12 @@ export const regions: RegionVote = {
         candidate_id: "76",
         district_id: "3601",
         vote_count: 39585,
+        district: {
+          id: "3601",
+          name_th: "ชัยภูมิ เขต 1",
+          name_en: "Chaiyaphum Constituency 1",
+          province_id: "36",
+        },
         candidate: {
           id: "76",
           name_th: "ริซา ฮอว์คอาย",
@@ -11668,12 +11674,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "3601",
-          name_th: "ชัยภูมิ เขต 1",
-          name_en: "Chaiyaphum Constituency 1",
-          province_id: "36",
         },
       },
       {
@@ -11712,13 +11712,19 @@ export const regions: RegionVote = {
         candidate_id: "270",
         district_id: "3602",
         vote_count: 35989,
+        district: {
+          id: "3602",
+          name_th: "ชัยภูมิ เขต 2",
+          name_en: "Chaiyaphum Constituency 2",
+          province_id: "36",
+        },
         candidate: {
           id: "270",
           name_th: "ปาปา",
           name_en: "Palmon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/palmon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -11728,12 +11734,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3602",
-          name_th: "ชัยภูมิ เขต 2",
-          name_en: "Chaiyaphum Constituency 2",
-          province_id: "36",
         },
       },
       {
@@ -11753,7 +11753,7 @@ export const regions: RegionVote = {
           name_en: "Ochaco Uraraka",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/uraraka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -11772,6 +11772,12 @@ export const regions: RegionVote = {
         candidate_id: "38",
         district_id: "3603",
         vote_count: 39954,
+        district: {
+          id: "3603",
+          name_th: "ชัยภูมิ เขต 3",
+          name_en: "Chaiyaphum Constituency 3",
+          province_id: "36",
+        },
         candidate: {
           id: "38",
           name_th: "เบรลีย์",
@@ -11788,12 +11794,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "3603",
-          name_th: "ชัยภูมิ เขต 3",
-          name_en: "Chaiyaphum Constituency 3",
-          province_id: "36",
         },
       },
       {
@@ -11813,7 +11813,7 @@ export const regions: RegionVote = {
           name_en: "Tatsuya",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -11832,13 +11832,19 @@ export const regions: RegionVote = {
         candidate_id: "222",
         district_id: "3604",
         vote_count: 38351,
+        district: {
+          id: "3604",
+          name_th: "ชัยภูมิ เขต 4",
+          name_en: "Chaiyaphum Constituency 4",
+          province_id: "36",
+        },
         candidate: {
           id: "222",
           name_th: "มิโอะ",
           name_en: "Miyo",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/miyo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -11848,12 +11854,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "3604",
-          name_th: "ชัยภูมิ เขต 4",
-          name_en: "Chaiyaphum Constituency 4",
-          province_id: "36",
         },
       },
       {
@@ -11892,6 +11892,12 @@ export const regions: RegionVote = {
         candidate_id: "126",
         district_id: "3605",
         vote_count: 39052,
+        district: {
+          id: "3605",
+          name_th: "ชัยภูมิ เขต 5",
+          name_en: "Chaiyaphum Constituency 5",
+          province_id: "36",
+        },
         candidate: {
           id: "126",
           name_th: "Kaitou Kid",
@@ -11908,12 +11914,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "3605",
-          name_th: "ชัยภูมิ เขต 5",
-          name_en: "Chaiyaphum Constituency 5",
-          province_id: "36",
         },
       },
       {
@@ -11952,6 +11952,12 @@ export const regions: RegionVote = {
         candidate_id: "32",
         district_id: "3606",
         vote_count: 36996,
+        district: {
+          id: "3606",
+          name_th: "ชัยภูมิ เขต 6",
+          name_en: "Chaiyaphum Constituency 6",
+          province_id: "36",
+        },
         candidate: {
           id: "32",
           name_th: "เบจิต้า",
@@ -11968,12 +11974,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "3606",
-          name_th: "ชัยภูมิ เขต 6",
-          name_en: "Chaiyaphum Constituency 6",
-          province_id: "36",
         },
       },
       {
@@ -11993,7 +11993,7 @@ export const regions: RegionVote = {
           name_en: "Shoto Todoroki",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/todoroki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -12012,13 +12012,19 @@ export const regions: RegionVote = {
         candidate_id: "269",
         district_id: "3607",
         vote_count: 37876,
+        district: {
+          id: "3607",
+          name_th: "ชัยภูมิ เขต 7",
+          name_en: "Chaiyaphum Constituency 7",
+          province_id: "36",
+        },
         candidate: {
           id: "269",
           name_th: "พัลดามอน",
           name_en: "Tentomon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tentomon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -12028,12 +12034,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3607",
-          name_th: "ชัยภูมิ เขต 7",
-          name_en: "Chaiyaphum Constituency 7",
-          province_id: "36",
         },
       },
       {
@@ -12072,6 +12072,12 @@ export const regions: RegionVote = {
         candidate_id: "89",
         district_id: "3701",
         vote_count: 36887,
+        district: {
+          id: "3701",
+          name_th: "อำนาจเจริญ เขต 1",
+          name_en: "Amnat Charoen Constituency 1",
+          province_id: "37",
+        },
         candidate: {
           id: "89",
           name_th: "อาร์มิน อาร์เลิร์ต",
@@ -12088,12 +12094,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "3701",
-          name_th: "อำนาจเจริญ เขต 1",
-          name_en: "Amnat Charoen Constituency 1",
-          province_id: "37",
         },
       },
       {
@@ -12132,6 +12132,12 @@ export const regions: RegionVote = {
         candidate_id: "99",
         district_id: "3702",
         vote_count: 34387,
+        district: {
+          id: "3702",
+          name_th: "อำนาจเจริญ เขต 2",
+          name_en: "Amnat Charoen Constituency 2",
+          province_id: "37",
+        },
         candidate: {
           id: "99",
           name_th: "พิคซิส",
@@ -12148,12 +12154,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "3702",
-          name_th: "อำนาจเจริญ เขต 2",
-          name_en: "Amnat Charoen Constituency 2",
-          province_id: "37",
         },
       },
       {
@@ -12192,6 +12192,12 @@ export const regions: RegionVote = {
         candidate_id: "55",
         district_id: "3801",
         vote_count: 37618,
+        district: {
+          id: "3801",
+          name_th: "บึงกาฬ เขต 1",
+          name_en: "Bueng Kan Constituency 1",
+          province_id: "38",
+        },
         candidate: {
           id: "55",
           name_th: "Muichiro Tokito",
@@ -12203,17 +12209,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "3801",
-          name_th: "บึงกาฬ เขต 1",
-          name_en: "Bueng Kan Constituency 1",
-          province_id: "38",
         },
       },
       {
@@ -12252,6 +12252,12 @@ export const regions: RegionVote = {
         candidate_id: "136",
         district_id: "3802",
         vote_count: 35289,
+        district: {
+          id: "3802",
+          name_th: "บึงกาฬ เขต 2",
+          name_en: "Bueng Kan Constituency 2",
+          province_id: "38",
+        },
         candidate: {
           id: "136",
           name_th: "ลุค",
@@ -12268,12 +12274,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3802",
-          name_th: "บึงกาฬ เขต 2",
-          name_en: "Bueng Kan Constituency 2",
-          province_id: "38",
         },
       },
       {
@@ -12312,6 +12312,12 @@ export const regions: RegionVote = {
         candidate_id: "89",
         district_id: "3803",
         vote_count: 36140,
+        district: {
+          id: "3803",
+          name_th: "บึงกาฬ เขต 3",
+          name_en: "Bueng Kan Constituency 3",
+          province_id: "38",
+        },
         candidate: {
           id: "89",
           name_th: "อาร์มิน อาร์เลิร์ต",
@@ -12328,12 +12334,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "3803",
-          name_th: "บึงกาฬ เขต 3",
-          name_en: "Bueng Kan Constituency 3",
-          province_id: "38",
         },
       },
       {
@@ -12372,13 +12372,19 @@ export const regions: RegionVote = {
         candidate_id: "168",
         district_id: "3901",
         vote_count: 35256,
+        district: {
+          id: "3901",
+          name_th: "หนองบัวลำภู เขต 1",
+          name_en: "Nong Bua Lamphu Constituency 1",
+          province_id: "39",
+        },
         candidate: {
           id: "168",
-          name_th: "ดีสต้า",
-          name_en: "Dante",
+          name_th: "Death the Kid",
+          name_en: "Death the Kid",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dante-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/death-the-kid-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -12388,12 +12394,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "3901",
-          name_th: "หนองบัวลำภู เขต 1",
-          name_en: "Nong Bua Lamphu Constituency 1",
-          province_id: "39",
         },
       },
       {
@@ -12432,13 +12432,19 @@ export const regions: RegionVote = {
         candidate_id: "225",
         district_id: "3902",
         vote_count: 38945,
+        district: {
+          id: "3902",
+          name_th: "หนองบัวลำภู เขต 2",
+          name_en: "Nong Bua Lamphu Constituency 2",
+          province_id: "39",
+        },
         candidate: {
           id: "225",
           name_th: "รุย",
           name_en: "Rui",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rui-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -12448,12 +12454,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "3902",
-          name_th: "หนองบัวลำภู เขต 2",
-          name_en: "Nong Bua Lamphu Constituency 2",
-          province_id: "39",
         },
       },
       {
@@ -12469,11 +12469,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "168",
-          name_th: "ดีสต้า",
-          name_en: "Dante",
+          name_th: "Death the Kid",
+          name_en: "Death the Kid",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dante-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/death-the-kid-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -12492,6 +12492,12 @@ export const regions: RegionVote = {
         candidate_id: "131",
         district_id: "3903",
         vote_count: 39657,
+        district: {
+          id: "3903",
+          name_th: "หนองบัวลำภู เขต 3",
+          name_en: "Nong Bua Lamphu Constituency 3",
+          province_id: "39",
+        },
         candidate: {
           id: "131",
           name_th: "ยามาโมโตะ ทาคาชิ",
@@ -12508,12 +12514,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "3903",
-          name_th: "หนองบัวลำภู เขต 3",
-          name_en: "Nong Bua Lamphu Constituency 3",
-          province_id: "39",
         },
       },
       {
@@ -12552,13 +12552,19 @@ export const regions: RegionVote = {
         candidate_id: "193",
         district_id: "4001",
         vote_count: 37370,
+        district: {
+          id: "4001",
+          name_th: "ขอนแก่น เขต 1",
+          name_en: "Khon Kaen Constituency 1",
+          province_id: "40",
+        },
         candidate: {
           id: "193",
           name_th: "โจโจ้",
           name_en: "Jotaro Kujo",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/jotaro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -12568,12 +12574,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "4001",
-          name_th: "ขอนแก่น เขต 1",
-          name_en: "Khon Kaen Constituency 1",
-          province_id: "40",
         },
       },
       {
@@ -12612,6 +12612,12 @@ export const regions: RegionVote = {
         candidate_id: "46",
         district_id: "4002",
         vote_count: 39255,
+        district: {
+          id: "4002",
+          name_th: "ขอนแก่น เขต 2",
+          name_en: "Khon Kaen Constituency 2",
+          province_id: "40",
+        },
         candidate: {
           id: "46",
           name_th: "เนซึโกะ",
@@ -12623,17 +12629,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "4002",
-          name_th: "ขอนแก่น เขต 2",
-          name_en: "Khon Kaen Constituency 2",
-          province_id: "40",
         },
       },
       {
@@ -12672,13 +12672,19 @@ export const regions: RegionVote = {
         candidate_id: "231",
         district_id: "4003",
         vote_count: 39775,
+        district: {
+          id: "4003",
+          name_th: "ขอนแก่น เขต 3",
+          name_en: "Khon Kaen Constituency 3",
+          province_id: "40",
+        },
         candidate: {
           id: "231",
           name_th: "ซาโอะ",
           name_en: "Sao",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sao-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -12688,12 +12694,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "4003",
-          name_th: "ขอนแก่น เขต 3",
-          name_en: "Khon Kaen Constituency 3",
-          province_id: "40",
         },
       },
       {
@@ -12713,7 +12713,7 @@ export const regions: RegionVote = {
           name_en: "Kira Yoshikage",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -12732,13 +12732,19 @@ export const regions: RegionVote = {
         candidate_id: "268",
         district_id: "4004",
         vote_count: 39682,
+        district: {
+          id: "4004",
+          name_th: "ขอนแก่น เขต 4",
+          name_en: "Khon Kaen Constituency 4",
+          province_id: "40",
+        },
         candidate: {
           id: "268",
           name_th: "ปัตเตอร์ฟลาย",
           name_en: "Biyomon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/biyomon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -12748,12 +12754,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4004",
-          name_th: "ขอนแก่น เขต 4",
-          name_en: "Khon Kaen Constituency 4",
-          province_id: "40",
         },
       },
       {
@@ -12792,6 +12792,12 @@ export const regions: RegionVote = {
         candidate_id: "155",
         district_id: "4005",
         vote_count: 35987,
+        district: {
+          id: "4005",
+          name_th: "ขอนแก่น เขต 5",
+          name_en: "Khon Kaen Constituency 5",
+          province_id: "40",
+        },
         candidate: {
           id: "155",
           name_th: "ริสุะ",
@@ -12808,12 +12814,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "4005",
-          name_th: "ขอนแก่น เขต 5",
-          name_en: "Khon Kaen Constituency 5",
-          province_id: "40",
         },
       },
       {
@@ -12852,13 +12852,19 @@ export const regions: RegionVote = {
         candidate_id: "248",
         district_id: "4006",
         vote_count: 39832,
+        district: {
+          id: "4006",
+          name_th: "ขอนแก่น เขต 6",
+          name_en: "Khon Kaen Constituency 6",
+          province_id: "40",
+        },
         candidate: {
           id: "248",
           name_th: "อุรารากะ โอโชคะ",
           name_en: "Ochaco Uraraka",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/uraraka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -12868,12 +12874,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "4006",
-          name_th: "ขอนแก่น เขต 6",
-          name_en: "Khon Kaen Constituency 6",
-          province_id: "40",
         },
       },
       {
@@ -12893,7 +12893,7 @@ export const regions: RegionVote = {
           name_en: "Rika",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rika-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -12912,6 +12912,12 @@ export const regions: RegionVote = {
         candidate_id: "101",
         district_id: "4007",
         vote_count: 37821,
+        district: {
+          id: "4007",
+          name_th: "ขอนแก่น เขต 7",
+          name_en: "Khon Kaen Constituency 7",
+          province_id: "40",
+        },
         candidate: {
           id: "101",
           name_th: "อิจิโกะ คุโรซากิ",
@@ -12928,12 +12934,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "4007",
-          name_th: "ขอนแก่น เขต 7",
-          name_en: "Khon Kaen Constituency 7",
-          province_id: "40",
         },
       },
       {
@@ -12972,6 +12972,12 @@ export const regions: RegionVote = {
         candidate_id: "14",
         district_id: "4008",
         vote_count: 34600,
+        district: {
+          id: "4008",
+          name_th: "ขอนแก่น เขต 8",
+          name_en: "Khon Kaen Constituency 8",
+          province_id: "40",
+        },
         candidate: {
           id: "14",
           name_th: "ฮินาตะ",
@@ -12988,12 +12994,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4008",
-          name_th: "ขอนแก่น เขต 8",
-          name_en: "Khon Kaen Constituency 8",
-          province_id: "40",
         },
       },
       {
@@ -13032,13 +13032,19 @@ export const regions: RegionVote = {
         candidate_id: "255",
         district_id: "4009",
         vote_count: 35015,
+        district: {
+          id: "4009",
+          name_th: "ขอนแก่น เขต 9",
+          name_en: "Khon Kaen Constituency 9",
+          province_id: "40",
+        },
         candidate: {
           id: "255",
           name_th: "ฮารุกะ",
           name_en: "Haruka",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/haruka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -13048,12 +13054,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "4009",
-          name_th: "ขอนแก่น เขต 9",
-          name_en: "Khon Kaen Constituency 9",
-          province_id: "40",
         },
       },
       {
@@ -13069,11 +13069,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "158",
-          name_th: "ฮิโรกิ",
-          name_en: "Hiroki",
+          name_th: "Kishou Arima",
+          name_en: "Kishou Arima",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hiroki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/kishou-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -13092,6 +13092,12 @@ export const regions: RegionVote = {
         candidate_id: "137",
         district_id: "4010",
         vote_count: 38369,
+        district: {
+          id: "4010",
+          name_th: "ขอนแก่น เขต 10",
+          name_en: "Khon Kaen Constituency 10",
+          province_id: "40",
+        },
         candidate: {
           id: "137",
           name_th: "Verde",
@@ -13108,12 +13114,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "4010",
-          name_th: "ขอนแก่น เขต 10",
-          name_en: "Khon Kaen Constituency 10",
-          province_id: "40",
         },
       },
       {
@@ -13152,6 +13152,12 @@ export const regions: RegionVote = {
         candidate_id: "73",
         district_id: "4011",
         vote_count: 38879,
+        district: {
+          id: "4011",
+          name_th: "ขอนแก่น เขต 11",
+          name_en: "Khon Kaen Constituency 11",
+          province_id: "40",
+        },
         candidate: {
           id: "73",
           name_th: "เอ็ดเวิร์ด",
@@ -13168,12 +13174,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "4011",
-          name_th: "ขอนแก่น เขต 11",
-          name_en: "Khon Kaen Constituency 11",
-          province_id: "40",
         },
       },
       {
@@ -13193,7 +13193,7 @@ export const regions: RegionVote = {
           name_en: "Gabumon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gabumon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -13212,13 +13212,19 @@ export const regions: RegionVote = {
         candidate_id: "168",
         district_id: "4101",
         vote_count: 37416,
+        district: {
+          id: "4101",
+          name_th: "อุดรธานี เขต 1",
+          name_en: "Udon Thani Constituency 1",
+          province_id: "41",
+        },
         candidate: {
           id: "168",
-          name_th: "ดีสต้า",
-          name_en: "Dante",
+          name_th: "Death the Kid",
+          name_en: "Death the Kid",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dante-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/death-the-kid-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -13228,12 +13234,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4101",
-          name_th: "อุดรธานี เขต 1",
-          name_en: "Udon Thani Constituency 1",
-          province_id: "41",
         },
       },
       {
@@ -13253,7 +13253,7 @@ export const regions: RegionVote = {
           name_en: "Polnareff",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/polnareff-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -13272,13 +13272,19 @@ export const regions: RegionVote = {
         candidate_id: "234",
         district_id: "4102",
         vote_count: 37309,
+        district: {
+          id: "4102",
+          name_th: "อุดรธานี เขต 2",
+          name_en: "Udon Thani Constituency 2",
+          province_id: "41",
+        },
         candidate: {
           id: "234",
           name_th: "มูซึ",
           name_en: "Mumen Rider",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mumen-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -13288,12 +13294,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "4102",
-          name_th: "อุดรธานี เขต 2",
-          name_en: "Udon Thani Constituency 2",
-          province_id: "41",
         },
       },
       {
@@ -13313,7 +13313,7 @@ export const regions: RegionVote = {
           name_en: "Yuki",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/yuki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -13332,6 +13332,12 @@ export const regions: RegionVote = {
         candidate_id: "20",
         district_id: "4103",
         vote_count: 36086,
+        district: {
+          id: "4103",
+          name_th: "อุดรธานี เขต 3",
+          name_en: "Udon Thani Constituency 3",
+          province_id: "41",
+        },
         candidate: {
           id: "20",
           name_th: "อุซป",
@@ -13348,12 +13354,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4103",
-          name_th: "อุดรธานี เขต 3",
-          name_en: "Udon Thani Constituency 3",
-          province_id: "41",
         },
       },
       {
@@ -13392,13 +13392,19 @@ export const regions: RegionVote = {
         candidate_id: "182",
         district_id: "4104",
         vote_count: 35755,
+        district: {
+          id: "4104",
+          name_th: "อุดรธานี เขต 4",
+          name_en: "Udon Thani Constituency 4",
+          province_id: "41",
+        },
         candidate: {
           id: "182",
-          name_th: "เรม",
-          name_en: "Rem",
+          name_th: "Misa Amane",
+          name_en: "Misa Amane",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rem-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/misa-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -13408,12 +13414,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "4104",
-          name_th: "อุดรธานี เขต 4",
-          name_en: "Udon Thani Constituency 4",
-          province_id: "41",
         },
       },
       {
@@ -13438,7 +13438,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -13452,13 +13452,19 @@ export const regions: RegionVote = {
         candidate_id: "231",
         district_id: "4105",
         vote_count: 35759,
+        district: {
+          id: "4105",
+          name_th: "อุดรธานี เขต 5",
+          name_en: "Udon Thani Constituency 5",
+          province_id: "41",
+        },
         candidate: {
           id: "231",
           name_th: "ซาโอะ",
           name_en: "Sao",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sao-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -13468,12 +13474,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "4105",
-          name_th: "อุดรธานี เขต 5",
-          name_en: "Udon Thani Constituency 5",
-          province_id: "41",
         },
       },
       {
@@ -13493,7 +13493,7 @@ export const regions: RegionVote = {
           name_en: "Kawasaki",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kawasaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -13512,6 +13512,12 @@ export const regions: RegionVote = {
         candidate_id: "114",
         district_id: "4106",
         vote_count: 38326,
+        district: {
+          id: "4106",
+          name_th: "อุดรธานี เขต 6",
+          name_en: "Udon Thani Constituency 6",
+          province_id: "41",
+        },
         candidate: {
           id: "114",
           name_th: "Yhwach",
@@ -13528,12 +13534,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "4106",
-          name_th: "อุดรธานี เขต 6",
-          name_en: "Udon Thani Constituency 6",
-          province_id: "41",
         },
       },
       {
@@ -13558,7 +13558,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -13572,6 +13572,12 @@ export const regions: RegionVote = {
         candidate_id: "82",
         district_id: "4107",
         vote_count: 39459,
+        district: {
+          id: "4107",
+          name_th: "อุดรธานี เขต 7",
+          name_en: "Udon Thani Constituency 7",
+          province_id: "41",
+        },
         candidate: {
           id: "82",
           name_th: "สการ์",
@@ -13589,12 +13595,6 @@ export const regions: RegionVote = {
             color: "#B22222",
           },
         },
-        district: {
-          id: "4107",
-          name_th: "อุดรธานี เขต 7",
-          name_en: "Udon Thani Constituency 7",
-          province_id: "41",
-        },
       },
       {
         id: "2360",
@@ -13609,11 +13609,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "145",
-          name_th: "เอซ่า",
-          name_en: "Aiza",
+          name_th: "Chlammy Zell",
+          name_en: "Chlammy Zell",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/aiza-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/chlammy-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -13632,6 +13632,12 @@ export const regions: RegionVote = {
         candidate_id: "3",
         district_id: "4108",
         vote_count: 38954,
+        district: {
+          id: "4108",
+          name_th: "อุดรธานี เขต 8",
+          name_en: "Udon Thani Constituency 8",
+          province_id: "41",
+        },
         candidate: {
           id: "3",
           name_th: "ซากุระ",
@@ -13648,12 +13654,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4108",
-          name_th: "อุดรธานี เขต 8",
-          name_en: "Udon Thani Constituency 8",
-          province_id: "41",
         },
       },
       {
@@ -13673,7 +13673,7 @@ export const regions: RegionVote = {
           name_en: "Bruno Bucciarati",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bruno-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -13692,6 +13692,12 @@ export const regions: RegionVote = {
         candidate_id: "155",
         district_id: "4109",
         vote_count: 39971,
+        district: {
+          id: "4109",
+          name_th: "อุดรธานี เขต 9",
+          name_en: "Udon Thani Constituency 9",
+          province_id: "41",
+        },
         candidate: {
           id: "155",
           name_th: "ริสุะ",
@@ -13708,12 +13714,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "4109",
-          name_th: "อุดรธานี เขต 9",
-          name_en: "Udon Thani Constituency 9",
-          province_id: "41",
         },
       },
       {
@@ -13752,13 +13752,19 @@ export const regions: RegionVote = {
         candidate_id: "186",
         district_id: "4110",
         vote_count: 37290,
+        district: {
+          id: "4110",
+          name_th: "อุดรธานี เขต 10",
+          name_en: "Udon Thani Constituency 10",
+          province_id: "41",
+        },
         candidate: {
           id: "186",
-          name_th: "นามิ",
-          name_en: "Nami",
+          name_th: "Ryuk",
+          name_en: "Ryuk",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/nami-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ryuk-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -13768,12 +13774,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "4110",
-          name_th: "อุดรธานี เขต 10",
-          name_en: "Udon Thani Constituency 10",
-          province_id: "41",
         },
       },
       {
@@ -13812,13 +13812,19 @@ export const regions: RegionVote = {
         candidate_id: "182",
         district_id: "4201",
         vote_count: 36826,
+        district: {
+          id: "4201",
+          name_th: "เลย เขต 1",
+          name_en: "Loei Constituency 1",
+          province_id: "42",
+        },
         candidate: {
           id: "182",
-          name_th: "เรม",
-          name_en: "Rem",
+          name_th: "Misa Amane",
+          name_en: "Misa Amane",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rem-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/misa-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -13828,12 +13834,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "4201",
-          name_th: "เลย เขต 1",
-          name_en: "Loei Constituency 1",
-          province_id: "42",
         },
       },
       {
@@ -13853,7 +13853,7 @@ export const regions: RegionVote = {
           name_en: "Kazuya",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kazuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -13872,6 +13872,12 @@ export const regions: RegionVote = {
         candidate_id: "131",
         district_id: "4202",
         vote_count: 36027,
+        district: {
+          id: "4202",
+          name_th: "เลย เขต 2",
+          name_en: "Loei Constituency 2",
+          province_id: "42",
+        },
         candidate: {
           id: "131",
           name_th: "ยามาโมโตะ ทาคาชิ",
@@ -13888,12 +13894,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "4202",
-          name_th: "เลย เขต 2",
-          name_en: "Loei Constituency 2",
-          province_id: "42",
         },
       },
       {
@@ -13932,13 +13932,19 @@ export const regions: RegionVote = {
         candidate_id: "197",
         district_id: "4203",
         vote_count: 29917,
+        district: {
+          id: "4203",
+          name_th: "เลย เขต 3",
+          name_en: "Loei Constituency 3",
+          province_id: "42",
+        },
         candidate: {
           id: "197",
           name_th: "เดย์",
           name_en: "Dio Brando",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dio-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -13948,12 +13954,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "4203",
-          name_th: "เลย เขต 3",
-          name_en: "Loei Constituency 3",
-          province_id: "42",
         },
       },
       {
@@ -13992,6 +13992,12 @@ export const regions: RegionVote = {
         candidate_id: "113",
         district_id: "4204",
         vote_count: 38342,
+        district: {
+          id: "4204",
+          name_th: "เลย เขต 4",
+          name_en: "Loei Constituency 4",
+          province_id: "42",
+        },
         candidate: {
           id: "113",
           name_th: "เฮียวกะ",
@@ -14008,12 +14014,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "4204",
-          name_th: "เลย เขต 4",
-          name_en: "Loei Constituency 4",
-          province_id: "42",
         },
       },
       {
@@ -14052,6 +14052,12 @@ export const regions: RegionVote = {
         candidate_id: "7",
         district_id: "4301",
         vote_count: 38636,
+        district: {
+          id: "4301",
+          name_th: "หนองคาย เขต 1",
+          name_en: "Nong Khai Constituency 1",
+          province_id: "43",
+        },
         candidate: {
           id: "7",
           name_th: "ซึนาเดะ",
@@ -14068,12 +14074,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4301",
-          name_th: "หนองคาย เขต 1",
-          name_en: "Nong Khai Constituency 1",
-          province_id: "43",
         },
       },
       {
@@ -14112,6 +14112,12 @@ export const regions: RegionVote = {
         candidate_id: "38",
         district_id: "4302",
         vote_count: 38978,
+        district: {
+          id: "4302",
+          name_th: "หนองคาย เขต 2",
+          name_en: "Nong Khai Constituency 2",
+          province_id: "43",
+        },
         candidate: {
           id: "38",
           name_th: "เบรลีย์",
@@ -14128,12 +14134,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "4302",
-          name_th: "หนองคาย เขต 2",
-          name_en: "Nong Khai Constituency 2",
-          province_id: "43",
         },
       },
       {
@@ -14153,7 +14153,7 @@ export const regions: RegionVote = {
           name_en: "Koushiro Izumi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koushiro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -14172,6 +14172,12 @@ export const regions: RegionVote = {
         candidate_id: "45",
         district_id: "4303",
         vote_count: 34801,
+        district: {
+          id: "4303",
+          name_th: "หนองคาย เขต 3",
+          name_en: "Nong Khai Constituency 3",
+          province_id: "43",
+        },
         candidate: {
           id: "45",
           name_th: "ทามาโยะ",
@@ -14183,17 +14189,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "4303",
-          name_th: "หนองคาย เขต 3",
-          name_en: "Nong Khai Constituency 3",
-          province_id: "43",
         },
       },
       {
@@ -14213,7 +14213,7 @@ export const regions: RegionVote = {
           name_en: "Kiryama",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kiryama-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -14232,6 +14232,12 @@ export const regions: RegionVote = {
         candidate_id: "9",
         district_id: "4401",
         vote_count: 33660,
+        district: {
+          id: "4401",
+          name_th: "มหาสารคาม เขต 1",
+          name_en: "Maha Sarakham Constituency 1",
+          province_id: "44",
+        },
         candidate: {
           id: "9",
           name_th: "การะ",
@@ -14248,12 +14254,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4401",
-          name_th: "มหาสารคาม เขต 1",
-          name_en: "Maha Sarakham Constituency 1",
-          province_id: "44",
         },
       },
       {
@@ -14292,13 +14292,19 @@ export const regions: RegionVote = {
         candidate_id: "259",
         district_id: "4402",
         vote_count: 33749,
+        district: {
+          id: "4402",
+          name_th: "มหาสารคาม เขต 2",
+          name_en: "Maha Sarakham Constituency 2",
+          province_id: "44",
+        },
         candidate: {
           id: "259",
           name_th: "ยูคิโอะ",
           name_en: "Yamato Ishida",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/yamato-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -14308,12 +14314,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4402",
-          name_th: "มหาสารคาม เขต 2",
-          name_en: "Maha Sarakham Constituency 2",
-          province_id: "44",
         },
       },
       {
@@ -14352,6 +14352,12 @@ export const regions: RegionVote = {
         candidate_id: "6",
         district_id: "4403",
         vote_count: 38980,
+        district: {
+          id: "4403",
+          name_th: "มหาสารคาม เขต 3",
+          name_en: "Maha Sarakham Constituency 3",
+          province_id: "44",
+        },
         candidate: {
           id: "6",
           name_th: "โอโรจิมารุ",
@@ -14368,12 +14374,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4403",
-          name_th: "มหาสารคาม เขต 3",
-          name_en: "Maha Sarakham Constituency 3",
-          province_id: "44",
         },
       },
       {
@@ -14412,6 +14412,12 @@ export const regions: RegionVote = {
         candidate_id: "157",
         district_id: "4404",
         vote_count: 33388,
+        district: {
+          id: "4404",
+          name_th: "มหาสารคาม เขต 4",
+          name_en: "Maha Sarakham Constituency 4",
+          province_id: "44",
+        },
         candidate: {
           id: "157",
           name_th: "อายาเมะ",
@@ -14428,12 +14434,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "4404",
-          name_th: "มหาสารคาม เขต 4",
-          name_en: "Maha Sarakham Constituency 4",
-          province_id: "44",
         },
       },
       {
@@ -14472,6 +14472,12 @@ export const regions: RegionVote = {
         candidate_id: "142",
         district_id: "4405",
         vote_count: 37854,
+        district: {
+          id: "4405",
+          name_th: "มหาสารคาม เขต 5",
+          name_en: "Maha Sarakham Constituency 5",
+          province_id: "44",
+        },
         candidate: {
           id: "142",
           name_th: "โซลี่",
@@ -14488,12 +14494,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "4405",
-          name_th: "มหาสารคาม เขต 5",
-          name_en: "Maha Sarakham Constituency 5",
-          province_id: "44",
         },
       },
       {
@@ -14532,6 +14532,12 @@ export const regions: RegionVote = {
         candidate_id: "1",
         district_id: "4406",
         vote_count: 38713,
+        district: {
+          id: "4406",
+          name_th: "มหาสารคาม เขต 6",
+          name_en: "Maha Sarakham Constituency 6",
+          province_id: "44",
+        },
         candidate: {
           id: "1",
           name_th: "นารูโตะ",
@@ -14548,12 +14554,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4406",
-          name_th: "มหาสารคาม เขต 6",
-          name_en: "Maha Sarakham Constituency 6",
-          province_id: "44",
         },
       },
       {
@@ -14573,7 +14573,7 @@ export const regions: RegionVote = {
           name_en: "Tatsumaki",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsumaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -14592,6 +14592,12 @@ export const regions: RegionVote = {
         candidate_id: "8",
         district_id: "4501",
         vote_count: 39824,
+        district: {
+          id: "4501",
+          name_th: "ร้อยเอ็ด เขต 1",
+          name_en: "Roi Et Constituency 1",
+          province_id: "45",
+        },
         candidate: {
           id: "8",
           name_th: "จิไรยะ",
@@ -14608,12 +14614,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4501",
-          name_th: "ร้อยเอ็ด เขต 1",
-          name_en: "Roi Et Constituency 1",
-          province_id: "45",
         },
       },
       {
@@ -14652,13 +14652,19 @@ export const regions: RegionVote = {
         candidate_id: "164",
         district_id: "4502",
         vote_count: 29632,
+        district: {
+          id: "4502",
+          name_th: "ร้อยเอ็ด เขต 2",
+          name_en: "Roi Et Constituency 2",
+          province_id: "45",
+        },
         candidate: {
           id: "164",
           name_th: "โอริฮาระ",
           name_en: "Orihara",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ori-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/hanzo-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -14668,12 +14674,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "4502",
-          name_th: "ร้อยเอ็ด เขต 2",
-          name_en: "Roi Et Constituency 2",
-          province_id: "45",
         },
       },
       {
@@ -14693,7 +14693,7 @@ export const regions: RegionVote = {
           name_en: "Taichi Kamiya",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/taichi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -14712,6 +14712,12 @@ export const regions: RegionVote = {
         candidate_id: "66",
         district_id: "4503",
         vote_count: 40000,
+        district: {
+          id: "4503",
+          name_th: "ร้อยเอ็ด เขต 3",
+          name_en: "Roi Et Constituency 3",
+          province_id: "45",
+        },
         candidate: {
           id: "66",
           name_th: "กอร์กอน",
@@ -14728,12 +14734,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "4503",
-          name_th: "ร้อยเอ็ด เขต 3",
-          name_en: "Roi Et Constituency 3",
-          province_id: "45",
         },
       },
       {
@@ -14753,7 +14753,7 @@ export const regions: RegionVote = {
           name_en: "Agumon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/agumon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -14772,13 +14772,19 @@ export const regions: RegionVote = {
         candidate_id: "239",
         district_id: "4504",
         vote_count: 37235,
+        district: {
+          id: "4504",
+          name_th: "ร้อยเอ็ด เขต 4",
+          name_en: "Roi Et Constituency 4",
+          province_id: "45",
+        },
         candidate: {
           id: "239",
           name_th: "ซิลเวอร์ฟังค์",
           name_en: "Silverfang",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/silverfang-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -14788,12 +14794,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "4504",
-          name_th: "ร้อยเอ็ด เขต 4",
-          name_en: "Roi Et Constituency 4",
-          province_id: "45",
         },
       },
       {
@@ -14813,7 +14813,7 @@ export const regions: RegionVote = {
           name_en: "Genos",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/genos-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -14832,6 +14832,12 @@ export const regions: RegionVote = {
         candidate_id: "162",
         district_id: "4505",
         vote_count: 39137,
+        district: {
+          id: "4505",
+          name_th: "ร้อยเอ็ด เขต 5",
+          name_en: "Roi Et Constituency 5",
+          province_id: "45",
+        },
         candidate: {
           id: "162",
           name_th: "โยชิมุระ",
@@ -14848,12 +14854,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "4505",
-          name_th: "ร้อยเอ็ด เขต 5",
-          name_en: "Roi Et Constituency 5",
-          province_id: "45",
         },
       },
       {
@@ -14878,7 +14878,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -14892,13 +14892,19 @@ export const regions: RegionVote = {
         candidate_id: "234",
         district_id: "4506",
         vote_count: 37837,
+        district: {
+          id: "4506",
+          name_th: "ร้อยเอ็ด เขต 6",
+          name_en: "Roi Et Constituency 6",
+          province_id: "45",
+        },
         candidate: {
           id: "234",
           name_th: "มูซึ",
           name_en: "Mumen Rider",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mumen-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -14908,12 +14914,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "4506",
-          name_th: "ร้อยเอ็ด เขต 6",
-          name_en: "Roi Et Constituency 6",
-          province_id: "45",
         },
       },
       {
@@ -14929,11 +14929,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "143",
-          name_th: "เฟียร์",
-          name_en: "Phyrne",
+          name_th: "Tet",
+          name_en: "Tet",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/phyrne-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/tet-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -14952,13 +14952,19 @@ export const regions: RegionVote = {
         candidate_id: "158",
         district_id: "4507",
         vote_count: 38818,
+        district: {
+          id: "4507",
+          name_th: "ร้อยเอ็ด เขต 7",
+          name_en: "Roi Et Constituency 7",
+          province_id: "45",
+        },
         candidate: {
           id: "158",
-          name_th: "ฮิโรกิ",
-          name_en: "Hiroki",
+          name_th: "Kishou Arima",
+          name_en: "Kishou Arima",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hiroki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/kishou-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -14968,12 +14974,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "4507",
-          name_th: "ร้อยเอ็ด เขต 7",
-          name_en: "Roi Et Constituency 7",
-          province_id: "45",
         },
       },
       {
@@ -15012,6 +15012,12 @@ export const regions: RegionVote = {
         candidate_id: "86",
         district_id: "4508",
         vote_count: 37634,
+        district: {
+          id: "4508",
+          name_th: "ร้อยเอ็ด เขต 8",
+          name_en: "Roi Et Constituency 8",
+          province_id: "45",
+        },
         candidate: {
           id: "86",
           name_th: "Fu",
@@ -15028,12 +15034,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "4508",
-          name_th: "ร้อยเอ็ด เขต 8",
-          name_en: "Roi Et Constituency 8",
-          province_id: "45",
         },
       },
       {
@@ -15053,7 +15053,7 @@ export const regions: RegionVote = {
           name_en: "Gabumon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gabumon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -15072,6 +15072,12 @@ export const regions: RegionVote = {
         candidate_id: "25",
         district_id: "4601",
         vote_count: 39356,
+        district: {
+          id: "4601",
+          name_th: "กาฬสินธุ์ เขต 1",
+          name_en: "Kalasin Constituency 1",
+          province_id: "46",
+        },
         candidate: {
           id: "25",
           name_th: "จินเบ",
@@ -15088,12 +15094,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4601",
-          name_th: "กาฬสินธุ์ เขต 1",
-          name_en: "Kalasin Constituency 1",
-          province_id: "46",
         },
       },
       {
@@ -15132,6 +15132,12 @@ export const regions: RegionVote = {
         candidate_id: "72",
         district_id: "4602",
         vote_count: 39190,
+        district: {
+          id: "4602",
+          name_th: "กาฬสินธุ์ เขต 2",
+          name_en: "Kalasin Constituency 2",
+          province_id: "46",
+        },
         candidate: {
           id: "72",
           name_th: "แฮงค์",
@@ -15148,12 +15154,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "4602",
-          name_th: "กาฬสินธุ์ เขต 2",
-          name_en: "Kalasin Constituency 2",
-          province_id: "46",
         },
       },
       {
@@ -15192,6 +15192,12 @@ export const regions: RegionVote = {
         candidate_id: "45",
         district_id: "4603",
         vote_count: 37432,
+        district: {
+          id: "4603",
+          name_th: "กาฬสินธุ์ เขต 3",
+          name_en: "Kalasin Constituency 3",
+          province_id: "46",
+        },
         candidate: {
           id: "45",
           name_th: "ทามาโยะ",
@@ -15203,17 +15209,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "4603",
-          name_th: "กาฬสินธุ์ เขต 3",
-          name_en: "Kalasin Constituency 3",
-          province_id: "46",
         },
       },
       {
@@ -15252,13 +15252,19 @@ export const regions: RegionVote = {
         candidate_id: "269",
         district_id: "4604",
         vote_count: 35824,
+        district: {
+          id: "4604",
+          name_th: "กาฬสินธุ์ เขต 4",
+          name_en: "Kalasin Constituency 4",
+          province_id: "46",
+        },
         candidate: {
           id: "269",
           name_th: "พัลดามอน",
           name_en: "Tentomon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tentomon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -15268,12 +15274,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4604",
-          name_th: "กาฬสินธุ์ เขต 4",
-          name_en: "Kalasin Constituency 4",
-          province_id: "46",
         },
       },
       {
@@ -15293,7 +15293,7 @@ export const regions: RegionVote = {
           name_en: "Omegamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/omegamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -15312,13 +15312,19 @@ export const regions: RegionVote = {
         candidate_id: "211",
         district_id: "4605",
         vote_count: 35703,
+        district: {
+          id: "4605",
+          name_th: "กาฬสินธุ์ เขต 5",
+          name_en: "Kalasin Constituency 5",
+          province_id: "46",
+        },
         candidate: {
           id: "211",
           name_th: "ฟูจิวาระ โคซึคิ",
           name_en: "Kozuki Fujihara",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/fujihara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -15328,12 +15334,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "4605",
-          name_th: "กาฬสินธุ์ เขต 5",
-          name_en: "Kalasin Constituency 5",
-          province_id: "46",
         },
       },
       {
@@ -15358,7 +15358,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -15372,13 +15372,19 @@ export const regions: RegionVote = {
         candidate_id: "189",
         district_id: "4606",
         vote_count: 37859,
+        district: {
+          id: "4606",
+          name_th: "กาฬสินธุ์ เขต 6",
+          name_en: "Kalasin Constituency 6",
+          province_id: "46",
+        },
         candidate: {
           id: "189",
-          name_th: "ทามูระ",
-          name_en: "Tamura",
+          name_th: "Hideki Ide",
+          name_en: "Hideki Ide",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tamura-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -15388,12 +15394,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "4606",
-          name_th: "กาฬสินธุ์ เขต 6",
-          name_en: "Kalasin Constituency 6",
-          province_id: "46",
         },
       },
       {
@@ -15413,7 +15413,7 @@ export const regions: RegionVote = {
           name_en: "Maya",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/maya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -15432,13 +15432,19 @@ export const regions: RegionVote = {
         candidate_id: "250",
         district_id: "4701",
         vote_count: 38309,
+        district: {
+          id: "4701",
+          name_th: "สกลนคร เขต 1",
+          name_en: "Sakon Nakhon Constituency 1",
+          province_id: "47",
+        },
         candidate: {
           id: "250",
           name_th: "ชินโบะ",
           name_en: "Shinso Hitoshi",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/shinso-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -15448,12 +15454,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "4701",
-          name_th: "สกลนคร เขต 1",
-          name_en: "Sakon Nakhon Constituency 1",
-          province_id: "47",
         },
       },
       {
@@ -15469,11 +15469,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "144",
-          name_th: "จิยู",
-          name_en: "Jibril",
+          name_th: "Stephanie Dola",
+          name_en: "Stephanie Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/jibril-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/stephanie-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -15492,13 +15492,19 @@ export const regions: RegionVote = {
         candidate_id: "240",
         district_id: "4702",
         vote_count: 37639,
+        district: {
+          id: "4702",
+          name_th: "สกลนคร เขต 2",
+          name_en: "Sakon Nakhon Constituency 2",
+          province_id: "47",
+        },
         candidate: {
           id: "240",
           name_th: "แบล็คสปาร์ค",
           name_en: "Black Sperm",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/blacksperm-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -15508,12 +15514,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "4702",
-          name_th: "สกลนคร เขต 2",
-          name_en: "Sakon Nakhon Constituency 2",
-          province_id: "47",
         },
       },
       {
@@ -15552,6 +15552,12 @@ export const regions: RegionVote = {
         candidate_id: "52",
         district_id: "4703",
         vote_count: 39405,
+        district: {
+          id: "4703",
+          name_th: "สกลนคร เขต 3",
+          name_en: "Sakon Nakhon Constituency 3",
+          province_id: "47",
+        },
         candidate: {
           id: "52",
           name_th: "Tengen Uzui",
@@ -15563,17 +15569,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "4703",
-          name_th: "สกลนคร เขต 3",
-          name_en: "Sakon Nakhon Constituency 3",
-          province_id: "47",
         },
       },
       {
@@ -15593,7 +15593,7 @@ export const regions: RegionVote = {
           name_en: "Polnareff",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/polnareff-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -15612,6 +15612,12 @@ export const regions: RegionVote = {
         candidate_id: "26",
         district_id: "4704",
         vote_count: 34820,
+        district: {
+          id: "4704",
+          name_th: "สกลนคร เขต 4",
+          name_en: "Sakon Nakhon Constituency 4",
+          province_id: "47",
+        },
         candidate: {
           id: "26",
           name_th: "แชงคูส",
@@ -15628,12 +15634,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4704",
-          name_th: "สกลนคร เขต 4",
-          name_en: "Sakon Nakhon Constituency 4",
-          province_id: "47",
         },
       },
       {
@@ -15653,7 +15653,7 @@ export const regions: RegionVote = {
           name_en: "Omegamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/omegamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -15672,6 +15672,12 @@ export const regions: RegionVote = {
         candidate_id: "28",
         district_id: "4705",
         vote_count: 39993,
+        district: {
+          id: "4705",
+          name_th: "สกลนคร เขต 5",
+          name_en: "Sakon Nakhon Constituency 5",
+          province_id: "47",
+        },
         candidate: {
           id: "28",
           name_th: "บากี้",
@@ -15688,12 +15694,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "4705",
-          name_th: "สกลนคร เขต 5",
-          name_en: "Sakon Nakhon Constituency 5",
-          province_id: "47",
         },
       },
       {
@@ -15718,7 +15718,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -15732,6 +15732,12 @@ export const regions: RegionVote = {
         candidate_id: "14",
         district_id: "4706",
         vote_count: 39064,
+        district: {
+          id: "4706",
+          name_th: "สกลนคร เขต 6",
+          name_en: "Sakon Nakhon Constituency 6",
+          province_id: "47",
+        },
         candidate: {
           id: "14",
           name_th: "ฮินาตะ",
@@ -15748,12 +15754,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4706",
-          name_th: "สกลนคร เขต 6",
-          name_en: "Sakon Nakhon Constituency 6",
-          province_id: "47",
         },
       },
       {
@@ -15792,13 +15792,19 @@ export const regions: RegionVote = {
         candidate_id: "234",
         district_id: "4707",
         vote_count: 39498,
+        district: {
+          id: "4707",
+          name_th: "สกลนคร เขต 7",
+          name_en: "Sakon Nakhon Constituency 7",
+          province_id: "47",
+        },
         candidate: {
           id: "234",
           name_th: "มูซึ",
           name_en: "Mumen Rider",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mumen-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -15808,12 +15814,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "4707",
-          name_th: "สกลนคร เขต 7",
-          name_en: "Sakon Nakhon Constituency 7",
-          province_id: "47",
         },
       },
       {
@@ -15829,11 +15829,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "185",
-          name_th: "บาโร่",
-          name_en: "Baro",
+          name_th: "Teru Mikami",
+          name_en: "Teru Mikami",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/baro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/teru-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -15852,6 +15852,12 @@ export const regions: RegionVote = {
         candidate_id: "9",
         district_id: "4801",
         vote_count: 39992,
+        district: {
+          id: "4801",
+          name_th: "นครพนม เขต 1",
+          name_en: "Nakhon Phanom Constituency 1",
+          province_id: "48",
+        },
         candidate: {
           id: "9",
           name_th: "การะ",
@@ -15868,12 +15874,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "4801",
-          name_th: "นครพนม เขต 1",
-          name_en: "Nakhon Phanom Constituency 1",
-          province_id: "48",
         },
       },
       {
@@ -15912,13 +15912,19 @@ export const regions: RegionVote = {
         candidate_id: "211",
         district_id: "4802",
         vote_count: 29160,
+        district: {
+          id: "4802",
+          name_th: "นครพนม เขต 2",
+          name_en: "Nakhon Phanom Constituency 2",
+          province_id: "48",
+        },
         candidate: {
           id: "211",
           name_th: "ฟูจิวาระ โคซึคิ",
           name_en: "Kozuki Fujihara",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/fujihara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -15928,12 +15934,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "4802",
-          name_th: "นครพนม เขต 2",
-          name_en: "Nakhon Phanom Constituency 2",
-          province_id: "48",
         },
       },
       {
@@ -15953,7 +15953,7 @@ export const regions: RegionVote = {
           name_en: "Yamato Ishida",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/yamato-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -15972,6 +15972,12 @@ export const regions: RegionVote = {
         candidate_id: "137",
         district_id: "4803",
         vote_count: 39428,
+        district: {
+          id: "4803",
+          name_th: "นครพนม เขต 3",
+          name_en: "Nakhon Phanom Constituency 3",
+          province_id: "48",
+        },
         candidate: {
           id: "137",
           name_th: "Verde",
@@ -15988,12 +15994,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "4803",
-          name_th: "นครพนม เขต 3",
-          name_en: "Nakhon Phanom Constituency 3",
-          province_id: "48",
         },
       },
       {
@@ -16032,13 +16032,19 @@ export const regions: RegionVote = {
         candidate_id: "219",
         district_id: "4804",
         vote_count: 35866,
+        district: {
+          id: "4804",
+          name_th: "นครพนม เขต 4",
+          name_en: "Nakhon Phanom Constituency 4",
+          province_id: "48",
+        },
         candidate: {
           id: "219",
           name_th: "โมบะ",
           name_en: "Shigeo Kageyama (Mob)",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mob-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -16048,12 +16054,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "4804",
-          name_th: "นครพนม เขต 4",
-          name_en: "Nakhon Phanom Constituency 4",
-          province_id: "48",
         },
       },
       {
@@ -16092,13 +16092,19 @@ export const regions: RegionVote = {
         candidate_id: "152",
         district_id: "4901",
         vote_count: 37748,
+        district: {
+          id: "4901",
+          name_th: "มุกดาหาร เขต 1",
+          name_en: "Mukdahan Constituency 1",
+          province_id: "49",
+        },
         candidate: {
           id: "152",
-          name_th: "ฟลาม",
-          name_en: "Flam",
+          name_th: "Couronne Dola",
+          name_en: "Couronne Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/flam-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/couronne-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -16108,12 +16114,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "4901",
-          name_th: "มุกดาหาร เขต 1",
-          name_en: "Mukdahan Constituency 1",
-          province_id: "49",
         },
       },
       {
@@ -16152,6 +16152,12 @@ export const regions: RegionVote = {
         candidate_id: "77",
         district_id: "4902",
         vote_count: 37161,
+        district: {
+          id: "4902",
+          name_th: "มุกดาหาร เขต 2",
+          name_en: "Mukdahan Constituency 2",
+          province_id: "49",
+        },
         candidate: {
           id: "77",
           name_th: "ฮิวอี้",
@@ -16168,12 +16174,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "4902",
-          name_th: "มุกดาหาร เขต 2",
-          name_en: "Mukdahan Constituency 2",
-          province_id: "49",
         },
       },
       {
@@ -16193,7 +16193,7 @@ export const regions: RegionVote = {
           name_en: "Shoyo Hinata",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hinata-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -16213,6 +16213,12 @@ export const regions: RegionVote = {
         candidate_id: "33",
         district_id: "5001",
         vote_count: 29152,
+        district: {
+          id: "5001",
+          name_th: "เชียงใหม่ เขต 1",
+          name_en: "Chiang Mai Constituency 1",
+          province_id: "50",
+        },
         candidate: {
           id: "33",
           name_th: "ปิกโกโร่",
@@ -16229,12 +16235,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "5001",
-          name_th: "เชียงใหม่ เขต 1",
-          name_en: "Chiang Mai Constituency 1",
-          province_id: "50",
         },
       },
       {
@@ -16254,7 +16254,7 @@ export const regions: RegionVote = {
           name_en: "Metal Knight",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/metalknight-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -16273,6 +16273,12 @@ export const regions: RegionVote = {
         candidate_id: "34",
         district_id: "5002",
         vote_count: 36457,
+        district: {
+          id: "5002",
+          name_th: "เชียงใหม่ เขต 2",
+          name_en: "Chiang Mai Constituency 2",
+          province_id: "50",
+        },
         candidate: {
           id: "34",
           name_th: "โกฮัง",
@@ -16289,12 +16295,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "5002",
-          name_th: "เชียงใหม่ เขต 2",
-          name_en: "Chiang Mai Constituency 2",
-          province_id: "50",
         },
       },
       {
@@ -16333,13 +16333,19 @@ export const regions: RegionVote = {
         candidate_id: "145",
         district_id: "5003",
         vote_count: 39523,
+        district: {
+          id: "5003",
+          name_th: "เชียงใหม่ เขต 3",
+          name_en: "Chiang Mai Constituency 3",
+          province_id: "50",
+        },
         candidate: {
           id: "145",
-          name_th: "เอซ่า",
-          name_en: "Aiza",
+          name_th: "Chlammy Zell",
+          name_en: "Chlammy Zell",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/aiza-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/chlammy-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -16349,12 +16355,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "5003",
-          name_th: "เชียงใหม่ เขต 3",
-          name_en: "Chiang Mai Constituency 3",
-          province_id: "50",
         },
       },
       {
@@ -16393,6 +16393,12 @@ export const regions: RegionVote = {
         candidate_id: "113",
         district_id: "5004",
         vote_count: 33789,
+        district: {
+          id: "5004",
+          name_th: "เชียงใหม่ เขต 4",
+          name_en: "Chiang Mai Constituency 4",
+          province_id: "50",
+        },
         candidate: {
           id: "113",
           name_th: "เฮียวกะ",
@@ -16409,12 +16415,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "5004",
-          name_th: "เชียงใหม่ เขต 4",
-          name_en: "Chiang Mai Constituency 4",
-          province_id: "50",
         },
       },
       {
@@ -16453,6 +16453,12 @@ export const regions: RegionVote = {
         candidate_id: "86",
         district_id: "5005",
         vote_count: 39745,
+        district: {
+          id: "5005",
+          name_th: "เชียงใหม่ เขต 5",
+          name_en: "Chiang Mai Constituency 5",
+          province_id: "50",
+        },
         candidate: {
           id: "86",
           name_th: "Fu",
@@ -16469,12 +16475,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "5005",
-          name_th: "เชียงใหม่ เขต 5",
-          name_en: "Chiang Mai Constituency 5",
-          province_id: "50",
         },
       },
       {
@@ -16513,6 +16513,12 @@ export const regions: RegionVote = {
         candidate_id: "90",
         district_id: "5006",
         vote_count: 38912,
+        district: {
+          id: "5006",
+          name_th: "เชียงใหม่ เขต 6",
+          name_en: "Chiang Mai Constituency 6",
+          province_id: "50",
+        },
         candidate: {
           id: "90",
           name_th: "ริไว เอ็คเคอร์แมน",
@@ -16529,12 +16535,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "5006",
-          name_th: "เชียงใหม่ เขต 6",
-          name_en: "Chiang Mai Constituency 6",
-          province_id: "50",
         },
       },
       {
@@ -16573,6 +16573,12 @@ export const regions: RegionVote = {
         candidate_id: "45",
         district_id: "5007",
         vote_count: 37325,
+        district: {
+          id: "5007",
+          name_th: "เชียงใหม่ เขต 7",
+          name_en: "Chiang Mai Constituency 7",
+          province_id: "50",
+        },
         candidate: {
           id: "45",
           name_th: "ทามาโยะ",
@@ -16584,17 +16590,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "5007",
-          name_th: "เชียงใหม่ เขต 7",
-          name_en: "Chiang Mai Constituency 7",
-          province_id: "50",
         },
       },
       {
@@ -16633,6 +16633,12 @@ export const regions: RegionVote = {
         candidate_id: "44",
         district_id: "5008",
         vote_count: 38656,
+        district: {
+          id: "5008",
+          name_th: "เชียงใหม่ เขต 8",
+          name_en: "Chiang Mai Constituency 8",
+          province_id: "50",
+        },
         candidate: {
           id: "44",
           name_th: "อูซู",
@@ -16649,12 +16655,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "5008",
-          name_th: "เชียงใหม่ เขต 8",
-          name_en: "Chiang Mai Constituency 8",
-          province_id: "50",
         },
       },
       {
@@ -16693,6 +16693,12 @@ export const regions: RegionVote = {
         candidate_id: "97",
         district_id: "5009",
         vote_count: 39866,
+        district: {
+          id: "5009",
+          name_th: "เชียงใหม่ เขต 9",
+          name_en: "Chiang Mai Constituency 9",
+          province_id: "50",
+        },
         candidate: {
           id: "97",
           name_th: "เบอร์ทโฮลด์",
@@ -16710,12 +16716,6 @@ export const regions: RegionVote = {
             color: "#6B4226",
           },
         },
-        district: {
-          id: "5009",
-          name_th: "เชียงใหม่ เขต 9",
-          name_en: "Chiang Mai Constituency 9",
-          province_id: "50",
-        },
       },
       {
         id: "4211",
@@ -16730,11 +16730,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "165",
-          name_th: "จูซู",
-          name_en: "Juzu",
+          name_th: "Yoriko Kosaka",
+          name_en: "Yoriko Kosaka",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/juzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mitsuki-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -16753,6 +16753,12 @@ export const regions: RegionVote = {
         candidate_id: "180",
         district_id: "5010",
         vote_count: 39653,
+        district: {
+          id: "5010",
+          name_th: "เชียงใหม่ เขต 10",
+          name_en: "Chiang Mai Constituency 10",
+          province_id: "50",
+        },
         candidate: {
           id: "180",
           name_th: "ไลท์ ยากามิ",
@@ -16769,12 +16775,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "5010",
-          name_th: "เชียงใหม่ เขต 10",
-          name_en: "Chiang Mai Constituency 10",
-          province_id: "50",
         },
       },
       {
@@ -16813,6 +16813,12 @@ export const regions: RegionVote = {
         candidate_id: "72",
         district_id: "5101",
         vote_count: 35723,
+        district: {
+          id: "5101",
+          name_th: "ลำพูน เขต 1",
+          name_en: "Lamphun Constituency 1",
+          province_id: "51",
+        },
         candidate: {
           id: "72",
           name_th: "แฮงค์",
@@ -16829,12 +16835,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "5101",
-          name_th: "ลำพูน เขต 1",
-          name_en: "Lamphun Constituency 1",
-          province_id: "51",
         },
       },
       {
@@ -16873,6 +16873,12 @@ export const regions: RegionVote = {
         candidate_id: "27",
         district_id: "5102",
         vote_count: 39736,
+        district: {
+          id: "5102",
+          name_th: "ลำพูน เขต 2",
+          name_en: "Lamphun Constituency 2",
+          province_id: "51",
+        },
         candidate: {
           id: "27",
           name_th: "มาร์โก้",
@@ -16889,12 +16895,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "5102",
-          name_th: "ลำพูน เขต 2",
-          name_en: "Lamphun Constituency 2",
-          province_id: "51",
         },
       },
       {
@@ -16933,6 +16933,12 @@ export const regions: RegionVote = {
         candidate_id: "76",
         district_id: "5201",
         vote_count: 37719,
+        district: {
+          id: "5201",
+          name_th: "ลำปาง เขต 1",
+          name_en: "Lampang Constituency 1",
+          province_id: "52",
+        },
         candidate: {
           id: "76",
           name_th: "ริซา ฮอว์คอาย",
@@ -16949,12 +16955,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "5201",
-          name_th: "ลำปาง เขต 1",
-          name_en: "Lampang Constituency 1",
-          province_id: "52",
         },
       },
       {
@@ -16974,7 +16974,7 @@ export const regions: RegionVote = {
           name_en: "Taichi Kamiya",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/taichi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -16993,13 +16993,19 @@ export const regions: RegionVote = {
         candidate_id: "192",
         district_id: "5202",
         vote_count: 33648,
+        district: {
+          id: "5202",
+          name_th: "ลำปาง เขต 2",
+          name_en: "Lampang Constituency 2",
+          province_id: "52",
+        },
         candidate: {
           id: "192",
-          name_th: "โซฟี",
-          name_en: "Sophie",
+          name_th: "Kanzo Mogi",
+          name_en: "Kanzo Mogi",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sophie-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/shuichi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -17009,12 +17015,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "5202",
-          name_th: "ลำปาง เขต 2",
-          name_en: "Lampang Constituency 2",
-          province_id: "52",
         },
       },
       {
@@ -17053,6 +17053,12 @@ export const regions: RegionVote = {
         candidate_id: "51",
         district_id: "5203",
         vote_count: 36362,
+        district: {
+          id: "5203",
+          name_th: "ลำปาง เขต 3",
+          name_en: "Lampang Constituency 3",
+          province_id: "52",
+        },
         candidate: {
           id: "51",
           name_th: "มิตสึริ",
@@ -17064,17 +17070,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "5203",
-          name_th: "ลำปาง เขต 3",
-          name_en: "Lampang Constituency 3",
-          province_id: "52",
         },
       },
       {
@@ -17094,7 +17094,7 @@ export const regions: RegionVote = {
           name_en: "Hiroshi",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hiroshi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -17113,6 +17113,12 @@ export const regions: RegionVote = {
         candidate_id: "16",
         district_id: "5204",
         vote_count: 39146,
+        district: {
+          id: "5204",
+          name_th: "ลำปาง เขต 4",
+          name_en: "Lampang Constituency 4",
+          province_id: "52",
+        },
         candidate: {
           id: "16",
           name_th: "ลูฟี่",
@@ -17129,12 +17135,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "5204",
-          name_th: "ลำปาง เขต 4",
-          name_en: "Lampang Constituency 4",
-          province_id: "52",
         },
       },
       {
@@ -17154,7 +17154,7 @@ export const regions: RegionVote = {
           name_en: "Takeru Takaishi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/takeru-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -17173,6 +17173,12 @@ export const regions: RegionVote = {
         candidate_id: "2",
         district_id: "5301",
         vote_count: 39807,
+        district: {
+          id: "5301",
+          name_th: "อุตรดิตถ์ เขต 1",
+          name_en: "Uttaradit Constituency 1",
+          province_id: "53",
+        },
         candidate: {
           id: "2",
           name_th: "ซาสึเกะ",
@@ -17189,12 +17195,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "5301",
-          name_th: "อุตรดิตถ์ เขต 1",
-          name_en: "Uttaradit Constituency 1",
-          province_id: "53",
         },
       },
       {
@@ -17233,13 +17233,19 @@ export const regions: RegionVote = {
         candidate_id: "146",
         district_id: "5302",
         vote_count: 39170,
+        district: {
+          id: "5302",
+          name_th: "อุตรดิตถ์ เขต 2",
+          name_en: "Uttaradit Constituency 2",
+          province_id: "53",
+        },
         candidate: {
           id: "146",
-          name_th: "ซูรู",
-          name_en: "Suzu",
+          name_th: "Fiel Nirvalen",
+          name_en: "Fiel Nirvalen",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/suzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/fiel-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -17249,12 +17255,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "5302",
-          name_th: "อุตรดิตถ์ เขต 2",
-          name_en: "Uttaradit Constituency 2",
-          province_id: "53",
         },
       },
       {
@@ -17270,11 +17270,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -17293,13 +17293,19 @@ export const regions: RegionVote = {
         candidate_id: "204",
         district_id: "5303",
         vote_count: 36447,
+        district: {
+          id: "5303",
+          name_th: "อุตรดิตถ์ เขต 3",
+          name_en: "Uttaradit Constituency 3",
+          province_id: "53",
+        },
         candidate: {
           id: "204",
           name_th: "กิฮะโร",
           name_en: "Giharo",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/giharo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -17309,12 +17315,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "5303",
-          name_th: "อุตรดิตถ์ เขต 3",
-          name_en: "Uttaradit Constituency 3",
-          province_id: "53",
         },
       },
       {
@@ -17330,11 +17330,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "146",
-          name_th: "ซูรู",
-          name_en: "Suzu",
+          name_th: "Fiel Nirvalen",
+          name_en: "Fiel Nirvalen",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/suzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/fiel-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -17353,6 +17353,12 @@ export const regions: RegionVote = {
         candidate_id: "36",
         district_id: "5401",
         vote_count: 36237,
+        district: {
+          id: "5401",
+          name_th: "แพร่ เขต 1",
+          name_en: "Phrae Constituency 1",
+          province_id: "54",
+        },
         candidate: {
           id: "36",
           name_th: "โคล่าห์",
@@ -17369,12 +17375,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "5401",
-          name_th: "แพร่ เขต 1",
-          name_en: "Phrae Constituency 1",
-          province_id: "54",
         },
       },
       {
@@ -17413,6 +17413,12 @@ export const regions: RegionVote = {
         candidate_id: "24",
         district_id: "5402",
         vote_count: 39660,
+        district: {
+          id: "5402",
+          name_th: "แพร่ เขต 2",
+          name_en: "Phrae Constituency 2",
+          province_id: "54",
+        },
         candidate: {
           id: "24",
           name_th: "บรู๊ค",
@@ -17429,12 +17435,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "5402",
-          name_th: "แพร่ เขต 2",
-          name_en: "Phrae Constituency 2",
-          province_id: "54",
         },
       },
       {
@@ -17454,7 +17454,7 @@ export const regions: RegionVote = {
           name_en: "Reigen Arataka",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/reigen-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -17473,6 +17473,12 @@ export const regions: RegionVote = {
         candidate_id: "91",
         district_id: "5403",
         vote_count: 37656,
+        district: {
+          id: "5403",
+          name_th: "แพร่ เขต 3",
+          name_en: "Phrae Constituency 3",
+          province_id: "54",
+        },
         candidate: {
           id: "91",
           name_th: "เอริวิน สมิธ",
@@ -17489,12 +17495,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "5403",
-          name_th: "แพร่ เขต 3",
-          name_en: "Phrae Constituency 3",
-          province_id: "54",
         },
       },
       {
@@ -17533,13 +17533,19 @@ export const regions: RegionVote = {
         candidate_id: "238",
         district_id: "5501",
         vote_count: 39507,
+        district: {
+          id: "5501",
+          name_th: "น่าน เขต 1",
+          name_en: "Nan Constituency 1",
+          province_id: "55",
+        },
         candidate: {
           id: "238",
           name_th: "ทัตสึ",
           name_en: "Tatsumaki",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsumaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -17549,12 +17555,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "5501",
-          name_th: "น่าน เขต 1",
-          name_en: "Nan Constituency 1",
-          province_id: "55",
         },
       },
       {
@@ -17574,7 +17574,7 @@ export const regions: RegionVote = {
           name_en: "Bruno Bucciarati",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bruno-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -17593,13 +17593,19 @@ export const regions: RegionVote = {
         candidate_id: "173",
         district_id: "5502",
         vote_count: 38239,
+        district: {
+          id: "5502",
+          name_th: "น่าน เขต 2",
+          name_en: "Nan Constituency 2",
+          province_id: "55",
+        },
         candidate: {
           id: "173",
-          name_th: "บาร์บี้",
-          name_en: "Barbie",
+          name_th: "Medyūsa Gōgon",
+          name_en: "Medyūsa Gōgon",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/barbie-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/medyūsa-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -17609,12 +17615,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "5502",
-          name_th: "น่าน เขต 2",
-          name_en: "Nan Constituency 2",
-          province_id: "55",
         },
       },
       {
@@ -17653,6 +17653,12 @@ export const regions: RegionVote = {
         candidate_id: "136",
         district_id: "5503",
         vote_count: 37956,
+        district: {
+          id: "5503",
+          name_th: "น่าน เขต 3",
+          name_en: "Nan Constituency 3",
+          province_id: "55",
+        },
         candidate: {
           id: "136",
           name_th: "ลุค",
@@ -17669,12 +17675,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "5503",
-          name_th: "น่าน เขต 3",
-          name_en: "Nan Constituency 3",
-          province_id: "55",
         },
       },
       {
@@ -17713,6 +17713,12 @@ export const regions: RegionVote = {
         candidate_id: "71",
         district_id: "5601",
         vote_count: 37681,
+        district: {
+          id: "5601",
+          name_th: "พะเยา เขต 1",
+          name_en: "Phayao Constituency 1",
+          province_id: "56",
+        },
         candidate: {
           id: "71",
           name_th: "Meruem",
@@ -17729,12 +17735,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "5601",
-          name_th: "พะเยา เขต 1",
-          name_en: "Phayao Constituency 1",
-          province_id: "56",
         },
       },
       {
@@ -17773,13 +17773,19 @@ export const regions: RegionVote = {
         candidate_id: "196",
         district_id: "5602",
         vote_count: 37727,
+        district: {
+          id: "5602",
+          name_th: "พะเยา เขต 2",
+          name_en: "Phayao Constituency 2",
+          province_id: "56",
+        },
         candidate: {
           id: "196",
           name_th: "คาวาซากิ",
           name_en: "Kawasaki",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kawasaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -17789,12 +17795,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "5602",
-          name_th: "พะเยา เขต 2",
-          name_en: "Phayao Constituency 2",
-          province_id: "56",
         },
       },
       {
@@ -17819,7 +17819,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -17833,13 +17833,19 @@ export const regions: RegionVote = {
         candidate_id: "224",
         district_id: "5603",
         vote_count: 36051,
+        district: {
+          id: "5603",
+          name_th: "พะเยา เขต 3",
+          name_en: "Phayao Constituency 3",
+          province_id: "56",
+        },
         candidate: {
           id: "224",
           name_th: "อิโนะ",
           name_en: "Ino",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ino-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -17849,12 +17855,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/mobpsycho100.webp",
             color: "#00FF00",
           },
-        },
-        district: {
-          id: "5603",
-          name_th: "พะเยา เขต 3",
-          name_en: "Phayao Constituency 3",
-          province_id: "56",
         },
       },
       {
@@ -17870,11 +17870,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -17893,6 +17893,12 @@ export const regions: RegionVote = {
         candidate_id: "12",
         district_id: "5701",
         vote_count: 39277,
+        district: {
+          id: "5701",
+          name_th: "เชียงราย เขต 1",
+          name_en: "Chiang Rai Constituency 1",
+          province_id: "57",
+        },
         candidate: {
           id: "12",
           name_th: "ร็อค ลี",
@@ -17909,12 +17915,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "5701",
-          name_th: "เชียงราย เขต 1",
-          name_en: "Chiang Rai Constituency 1",
-          province_id: "57",
         },
       },
       {
@@ -17953,13 +17953,19 @@ export const regions: RegionVote = {
         candidate_id: "247",
         district_id: "5702",
         vote_count: 39527,
+        district: {
+          id: "5702",
+          name_th: "เชียงราย เขต 2",
+          name_en: "Chiang Rai Constituency 2",
+          province_id: "57",
+        },
         candidate: {
           id: "247",
           name_th: "คาเชมะ เคนโกะ",
           name_en: "Katsuki Bakugo",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bakugo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -17969,12 +17975,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "5702",
-          name_th: "เชียงราย เขต 2",
-          name_en: "Chiang Rai Constituency 2",
-          province_id: "57",
         },
       },
       {
@@ -18013,13 +18013,19 @@ export const regions: RegionVote = {
         candidate_id: "267",
         district_id: "5703",
         vote_count: 34995,
+        district: {
+          id: "5703",
+          name_th: "เชียงราย เขต 3",
+          name_en: "Chiang Rai Constituency 3",
+          province_id: "57",
+        },
         candidate: {
           id: "267",
           name_th: "เบอามอน",
           name_en: "Gabumon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gabumon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -18029,12 +18035,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "5703",
-          name_th: "เชียงราย เขต 3",
-          name_en: "Chiang Rai Constituency 3",
-          province_id: "57",
         },
       },
       {
@@ -18054,7 +18054,7 @@ export const regions: RegionVote = {
           name_en: "King",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/king-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -18073,6 +18073,12 @@ export const regions: RegionVote = {
         candidate_id: "162",
         district_id: "5704",
         vote_count: 36851,
+        district: {
+          id: "5704",
+          name_th: "เชียงราย เขต 4",
+          name_en: "Chiang Rai Constituency 4",
+          province_id: "57",
+        },
         candidate: {
           id: "162",
           name_th: "โยชิมุระ",
@@ -18089,12 +18095,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "5704",
-          name_th: "เชียงราย เขต 4",
-          name_en: "Chiang Rai Constituency 4",
-          province_id: "57",
         },
       },
       {
@@ -18119,7 +18119,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -18133,13 +18133,19 @@ export const regions: RegionVote = {
         candidate_id: "150",
         district_id: "5705",
         vote_count: 38071,
+        district: {
+          id: "5705",
+          name_th: "เชียงราย เขต 5",
+          name_en: "Chiang Rai Constituency 5",
+          province_id: "57",
+        },
         candidate: {
           id: "150",
-          name_th: "เมย์",
-          name_en: "Mey",
+          name_th: "Riku Dola",
+          name_en: "Riku Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mey-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/riku-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -18149,12 +18155,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "5705",
-          name_th: "เชียงราย เขต 5",
-          name_en: "Chiang Rai Constituency 5",
-          province_id: "57",
         },
       },
       {
@@ -18193,6 +18193,12 @@ export const regions: RegionVote = {
         candidate_id: "29",
         district_id: "5706",
         vote_count: 38953,
+        district: {
+          id: "5706",
+          name_th: "เชียงราย เขต 6",
+          name_en: "Chiang Rai Constituency 6",
+          province_id: "57",
+        },
         candidate: {
           id: "29",
           name_th: "โครคโคไดล์",
@@ -18209,12 +18215,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "5706",
-          name_th: "เชียงราย เขต 6",
-          name_en: "Chiang Rai Constituency 6",
-          province_id: "57",
         },
       },
       {
@@ -18234,7 +18234,7 @@ export const regions: RegionVote = {
           name_en: "Sao",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sao-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -18253,6 +18253,12 @@ export const regions: RegionVote = {
         candidate_id: "95",
         district_id: "5707",
         vote_count: 37388,
+        district: {
+          id: "5707",
+          name_th: "เชียงราย เขต 7",
+          name_en: "Chiang Rai Constituency 7",
+          province_id: "57",
+        },
         candidate: {
           id: "95",
           name_th: "ซาช่า บราวน์",
@@ -18269,12 +18275,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "5707",
-          name_th: "เชียงราย เขต 7",
-          name_en: "Chiang Rai Constituency 7",
-          province_id: "57",
         },
       },
       {
@@ -18294,7 +18294,7 @@ export const regions: RegionVote = {
           name_en: "Midoriya Izuku",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/midoriya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -18313,6 +18313,12 @@ export const regions: RegionVote = {
         candidate_id: "24",
         district_id: "5801",
         vote_count: 34844,
+        district: {
+          id: "5801",
+          name_th: "แม่ฮ่องสอน เขต 1",
+          name_en: "Mae Hong Son Constituency 1",
+          province_id: "58",
+        },
         candidate: {
           id: "24",
           name_th: "บรู๊ค",
@@ -18329,12 +18335,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "5801",
-          name_th: "แม่ฮ่องสอน เขต 1",
-          name_en: "Mae Hong Son Constituency 1",
-          province_id: "58",
         },
       },
       {
@@ -18354,7 +18354,7 @@ export const regions: RegionVote = {
           name_en: "Tsukasa",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tsukasa-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -18373,13 +18373,19 @@ export const regions: RegionVote = {
         candidate_id: "183",
         district_id: "5802",
         vote_count: 37506,
+        district: {
+          id: "5802",
+          name_th: "แม่ฮ่องสอน เขต 2",
+          name_en: "Mae Hong Son Constituency 2",
+          province_id: "58",
+        },
         candidate: {
           id: "183",
-          name_th: "ริคุ",
-          name_en: "Riku",
+          name_th: "Near",
+          name_en: "Near",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/riku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/near-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -18389,12 +18395,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "5802",
-          name_th: "แม่ฮ่องสอน เขต 2",
-          name_en: "Mae Hong Son Constituency 2",
-          province_id: "58",
         },
       },
       {
@@ -18414,7 +18414,7 @@ export const regions: RegionVote = {
           name_en: "Kira",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -18433,6 +18433,12 @@ export const regions: RegionVote = {
         candidate_id: "96",
         district_id: "6001",
         vote_count: 37367,
+        district: {
+          id: "6001",
+          name_th: "นครสวรรค์ เขต 1",
+          name_en: "Nakhon Sawan Constituency 1",
+          province_id: "60",
+        },
         candidate: {
           id: "96",
           name_th: "รีเวียร์ คาซู",
@@ -18449,12 +18455,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "6001",
-          name_th: "นครสวรรค์ เขต 1",
-          name_en: "Nakhon Sawan Constituency 1",
-          province_id: "60",
         },
       },
       {
@@ -18493,13 +18493,19 @@ export const regions: RegionVote = {
         candidate_id: "256",
         district_id: "6002",
         vote_count: 36849,
+        district: {
+          id: "6002",
+          name_th: "นครสวรรค์ เขต 2",
+          name_en: "Nakhon Sawan Constituency 2",
+          province_id: "60",
+        },
         candidate: {
           id: "256",
           name_th: "โทมะ",
           name_en: "Toma",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/toma-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -18509,12 +18515,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "6002",
-          name_th: "นครสวรรค์ เขต 2",
-          name_en: "Nakhon Sawan Constituency 2",
-          province_id: "60",
         },
       },
       {
@@ -18534,7 +18534,7 @@ export const regions: RegionVote = {
           name_en: "Joseph Joestar",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/joseph-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -18553,13 +18553,19 @@ export const regions: RegionVote = {
         candidate_id: "175",
         district_id: "6003",
         vote_count: 36086,
+        district: {
+          id: "6003",
+          name_th: "นครสวรรค์ เขต 3",
+          name_en: "Nakhon Sawan Constituency 3",
+          province_id: "60",
+        },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -18569,12 +18575,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6003",
-          name_th: "นครสวรรค์ เขต 3",
-          name_en: "Nakhon Sawan Constituency 3",
-          province_id: "60",
         },
       },
       {
@@ -18613,6 +18613,12 @@ export const regions: RegionVote = {
         candidate_id: "34",
         district_id: "6004",
         vote_count: 38770,
+        district: {
+          id: "6004",
+          name_th: "นครสวรรค์ เขต 4",
+          name_en: "Nakhon Sawan Constituency 4",
+          province_id: "60",
+        },
         candidate: {
           id: "34",
           name_th: "โกฮัง",
@@ -18629,12 +18635,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "6004",
-          name_th: "นครสวรรค์ เขต 4",
-          name_en: "Nakhon Sawan Constituency 4",
-          province_id: "60",
         },
       },
       {
@@ -18673,13 +18673,19 @@ export const regions: RegionVote = {
         candidate_id: "250",
         district_id: "6005",
         vote_count: 39416,
+        district: {
+          id: "6005",
+          name_th: "นครสวรรค์ เขต 5",
+          name_en: "Nakhon Sawan Constituency 5",
+          province_id: "60",
+        },
         candidate: {
           id: "250",
           name_th: "ชินโบะ",
           name_en: "Shinso Hitoshi",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/shinso-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -18689,12 +18695,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "6005",
-          name_th: "นครสวรรค์ เขต 5",
-          name_en: "Nakhon Sawan Constituency 5",
-          province_id: "60",
         },
       },
       {
@@ -18733,6 +18733,12 @@ export const regions: RegionVote = {
         candidate_id: "100",
         district_id: "6006",
         vote_count: 39217,
+        district: {
+          id: "6006",
+          name_th: "นครสวรรค์ เขต 6",
+          name_en: "Nakhon Sawan Constituency 6",
+          province_id: "60",
+        },
         candidate: {
           id: "100",
           name_th: "Zeke Jaeger",
@@ -18749,12 +18755,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "6006",
-          name_th: "นครสวรรค์ เขต 6",
-          name_en: "Nakhon Sawan Constituency 6",
-          province_id: "60",
         },
       },
       {
@@ -18793,13 +18793,19 @@ export const regions: RegionVote = {
         candidate_id: "175",
         district_id: "6101",
         vote_count: 36173,
+        district: {
+          id: "6101",
+          name_th: "อุทัยธานี เขต 1",
+          name_en: "Uthai Thani Constituency 1",
+          province_id: "61",
+        },
         candidate: {
           id: "175",
-          name_th: "เอสเตล่า",
-          name_en: "Estella",
+          name_th: "Giriko",
+          name_en: "Giriko",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/estella-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/giriko-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -18809,12 +18815,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6101",
-          name_th: "อุทัยธานี เขต 1",
-          name_en: "Uthai Thani Constituency 1",
-          province_id: "61",
         },
       },
       {
@@ -18834,7 +18834,7 @@ export const regions: RegionVote = {
           name_en: "Giharo",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/giharo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -18853,6 +18853,12 @@ export const regions: RegionVote = {
         candidate_id: "65",
         district_id: "6102",
         vote_count: 38067,
+        district: {
+          id: "6102",
+          name_th: "อุทัยธานี เขต 2",
+          name_en: "Uthai Thani Constituency 2",
+          province_id: "61",
+        },
         candidate: {
           id: "65",
           name_th: "บิส",
@@ -18870,12 +18876,6 @@ export const regions: RegionVote = {
             color: "#3AAA35",
           },
         },
-        district: {
-          id: "6102",
-          name_th: "อุทัยธานี เขต 2",
-          name_en: "Uthai Thani Constituency 2",
-          province_id: "61",
-        },
       },
       {
         id: "5092",
@@ -18890,11 +18890,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "170",
-          name_th: "ซอว์",
-          name_en: "Saw",
+          name_th: "Erizabesu Tonpuson",
+          name_en: "Erizabesu Tonpuson",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/saw-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -18913,13 +18913,19 @@ export const regions: RegionVote = {
         candidate_id: "188",
         district_id: "6201",
         vote_count: 39871,
+        district: {
+          id: "6201",
+          name_th: "กำแพงเพชร เขต 1",
+          name_en: "Kamphaeng Phet Constituency 1",
+          province_id: "62",
+        },
         candidate: {
           id: "188",
-          name_th: "ทัตซึยะ",
-          name_en: "Tatsuya",
+          name_th: "Soichiro Yagami",
+          name_en: "Soichiro Yagami",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -18929,12 +18935,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "6201",
-          name_th: "กำแพงเพชร เขต 1",
-          name_en: "Kamphaeng Phet Constituency 1",
-          province_id: "62",
         },
       },
       {
@@ -18954,7 +18954,7 @@ export const regions: RegionVote = {
           name_en: "Kozuki Fujihara",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/fujihara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -18973,6 +18973,12 @@ export const regions: RegionVote = {
         candidate_id: "71",
         district_id: "6202",
         vote_count: 36766,
+        district: {
+          id: "6202",
+          name_th: "กำแพงเพชร เขต 2",
+          name_en: "Kamphaeng Phet Constituency 2",
+          province_id: "62",
+        },
         candidate: {
           id: "71",
           name_th: "Meruem",
@@ -18990,12 +18996,6 @@ export const regions: RegionVote = {
             color: "#3AAA35",
           },
         },
-        district: {
-          id: "6202",
-          name_th: "กำแพงเพชร เขต 2",
-          name_en: "Kamphaeng Phet Constituency 2",
-          province_id: "62",
-        },
       },
       {
         id: "4814",
@@ -19010,11 +19010,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "168",
-          name_th: "ดีสต้า",
-          name_en: "Dante",
+          name_th: "Death the Kid",
+          name_en: "Death the Kid",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dante-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/death-the-kid-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -19033,6 +19033,12 @@ export const regions: RegionVote = {
         candidate_id: "136",
         district_id: "6203",
         vote_count: 39871,
+        district: {
+          id: "6203",
+          name_th: "กำแพงเพชร เขต 3",
+          name_en: "Kamphaeng Phet Constituency 3",
+          province_id: "62",
+        },
         candidate: {
           id: "136",
           name_th: "ลุค",
@@ -19049,12 +19055,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "6203",
-          name_th: "กำแพงเพชร เขต 3",
-          name_en: "Kamphaeng Phet Constituency 3",
-          province_id: "62",
         },
       },
       {
@@ -19093,13 +19093,19 @@ export const regions: RegionVote = {
         candidate_id: "251",
         district_id: "6204",
         vote_count: 34496,
+        district: {
+          id: "6204",
+          name_th: "กำแพงเพชร เขต 4",
+          name_en: "Kamphaeng Phet Constituency 4",
+          province_id: "62",
+        },
         candidate: {
           id: "251",
           name_th: "มายา",
           name_en: "Maya",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/maya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -19109,12 +19115,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "6204",
-          name_th: "กำแพงเพชร เขต 4",
-          name_en: "Kamphaeng Phet Constituency 4",
-          province_id: "62",
         },
       },
       {
@@ -19153,13 +19153,19 @@ export const regions: RegionVote = {
         candidate_id: "186",
         district_id: "6301",
         vote_count: 39483,
+        district: {
+          id: "6301",
+          name_th: "ตาก เขต 1",
+          name_en: "Tak Constituency 1",
+          province_id: "63",
+        },
         candidate: {
           id: "186",
-          name_th: "นามิ",
-          name_en: "Nami",
+          name_th: "Ryuk",
+          name_en: "Ryuk",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/nami-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ryuk-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -19169,12 +19175,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "6301",
-          name_th: "ตาก เขต 1",
-          name_en: "Tak Constituency 1",
-          province_id: "63",
         },
       },
       {
@@ -19194,7 +19194,7 @@ export const regions: RegionVote = {
           name_en: "Silverfang",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/silverfang-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -19213,13 +19213,19 @@ export const regions: RegionVote = {
         candidate_id: "206",
         district_id: "6302",
         vote_count: 35696,
+        district: {
+          id: "6302",
+          name_th: "ตาก เขต 2",
+          name_en: "Tak Constituency 2",
+          province_id: "63",
+        },
         candidate: {
           id: "206",
           name_th: "ฮินาตะ ชินโบ",
           name_en: "Shoyo Hinata",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hinata-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -19229,12 +19235,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "6302",
-          name_th: "ตาก เขต 2",
-          name_en: "Tak Constituency 2",
-          province_id: "63",
         },
       },
       {
@@ -19272,6 +19272,12 @@ export const regions: RegionVote = {
         candidate_id: "23",
         district_id: "6303",
         vote_count: 36379,
+        district: {
+          id: "6303",
+          name_th: "ตาก เขต 3",
+          name_en: "Tak Constituency 3",
+          province_id: "63",
+        },
         candidate: {
           id: "23",
           name_th: "แฟรงกี้",
@@ -19288,12 +19294,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6303",
-          name_th: "ตาก เขต 3",
-          name_en: "Tak Constituency 3",
-          province_id: "63",
         },
       },
       {
@@ -19332,6 +19332,12 @@ export const regions: RegionVote = {
         candidate_id: "40",
         district_id: "6401",
         vote_count: 38857,
+        district: {
+          id: "6401",
+          name_th: "สุโขทัย เขต 1",
+          name_en: "Sukhothai Constituency 1",
+          province_id: "64",
+        },
         candidate: {
           id: "40",
           name_th: "เมจินบู",
@@ -19348,12 +19354,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "6401",
-          name_th: "สุโขทัย เขต 1",
-          name_en: "Sukhothai Constituency 1",
-          province_id: "64",
         },
       },
       {
@@ -19373,7 +19373,7 @@ export const regions: RegionVote = {
           name_en: "Katsuki Bakugo",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bakugo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -19392,6 +19392,12 @@ export const regions: RegionVote = {
         candidate_id: "118",
         district_id: "6402",
         vote_count: 31528,
+        district: {
+          id: "6402",
+          name_th: "สุโขทัย เขต 2",
+          name_en: "Sukhothai Constituency 2",
+          province_id: "64",
+        },
         candidate: {
           id: "118",
           name_th: "ไฮบาระ อาโออิ",
@@ -19409,12 +19415,6 @@ export const regions: RegionVote = {
             color: "#0000FF",
           },
         },
-        district: {
-          id: "6402",
-          name_th: "สุโขทัย เขต 2",
-          name_en: "Sukhothai Constituency 2",
-          province_id: "64",
-        },
       },
       {
         id: "4631",
@@ -19429,11 +19429,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "190",
-          name_th: "โคจิ",
-          name_en: "Koji",
+          name_th: "Touta Matsuda",
+          name_en: "Touta Matsuda",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/touta-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -19452,13 +19452,19 @@ export const regions: RegionVote = {
         candidate_id: "202",
         district_id: "6403",
         vote_count: 38167,
+        district: {
+          id: "6403",
+          name_th: "สุโขทัย เขต 3",
+          name_en: "Sukhothai Constituency 3",
+          province_id: "64",
+        },
         candidate: {
           id: "202",
           name_th: "ไฮโรอุคิ",
           name_en: "Hiroshi",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hiroshi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -19468,12 +19474,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "6403",
-          name_th: "สุโขทัย เขต 3",
-          name_en: "Sukhothai Constituency 3",
-          province_id: "64",
         },
       },
       {
@@ -19512,6 +19512,12 @@ export const regions: RegionVote = {
         candidate_id: "85",
         district_id: "6404",
         vote_count: 39249,
+        district: {
+          id: "6404",
+          name_th: "สุโขทัย เขต 4",
+          name_en: "Sukhothai Constituency 4",
+          province_id: "64",
+        },
         candidate: {
           id: "85",
           name_th: "May Chang",
@@ -19528,12 +19534,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "6404",
-          name_th: "สุโขทัย เขต 4",
-          name_en: "Sukhothai Constituency 4",
-          province_id: "64",
         },
       },
       {
@@ -19572,13 +19572,19 @@ export const regions: RegionVote = {
         candidate_id: "247",
         district_id: "6501",
         vote_count: 39155,
+        district: {
+          id: "6501",
+          name_th: "พิษณุโลก เขต 1",
+          name_en: "Phitsanulok Constituency 1",
+          province_id: "65",
+        },
         candidate: {
           id: "247",
           name_th: "คาเชมะ เคนโกะ",
           name_en: "Katsuki Bakugo",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bakugo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -19588,12 +19594,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "6501",
-          name_th: "พิษณุโลก เขต 1",
-          name_en: "Phitsanulok Constituency 1",
-          province_id: "65",
         },
       },
       {
@@ -19632,13 +19632,19 @@ export const regions: RegionVote = {
         candidate_id: "168",
         district_id: "6502",
         vote_count: 39849,
+        district: {
+          id: "6502",
+          name_th: "พิษณุโลก เขต 2",
+          name_en: "Phitsanulok Constituency 2",
+          province_id: "65",
+        },
         candidate: {
           id: "168",
-          name_th: "ดีสต้า",
-          name_en: "Dante",
+          name_th: "Death the Kid",
+          name_en: "Death the Kid",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dante-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/death-the-kid-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -19648,12 +19654,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6502",
-          name_th: "พิษณุโลก เขต 2",
-          name_en: "Phitsanulok Constituency 2",
-          province_id: "65",
         },
       },
       {
@@ -19673,7 +19673,7 @@ export const regions: RegionVote = {
           name_en: "Ken Kaneki",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaneki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ken-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -19692,6 +19692,12 @@ export const regions: RegionVote = {
         candidate_id: "126",
         district_id: "6503",
         vote_count: 39414,
+        district: {
+          id: "6503",
+          name_th: "พิษณุโลก เขต 3",
+          name_en: "Phitsanulok Constituency 3",
+          province_id: "65",
+        },
         candidate: {
           id: "126",
           name_th: "Kaitou Kid",
@@ -19709,12 +19715,6 @@ export const regions: RegionVote = {
             color: "#0000FF",
           },
         },
-        district: {
-          id: "6503",
-          name_th: "พิษณุโลก เขต 3",
-          name_en: "Phitsanulok Constituency 3",
-          province_id: "65",
-        },
       },
       {
         id: "4702",
@@ -19729,11 +19729,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "183",
-          name_th: "ริคุ",
-          name_en: "Riku",
+          name_th: "Near",
+          name_en: "Near",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/riku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/near-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -19752,6 +19752,12 @@ export const regions: RegionVote = {
         candidate_id: "86",
         district_id: "6504",
         vote_count: 39032,
+        district: {
+          id: "6504",
+          name_th: "พิษณุโลก เขต 4",
+          name_en: "Phitsanulok Constituency 4",
+          province_id: "65",
+        },
         candidate: {
           id: "86",
           name_th: "Fu",
@@ -19768,12 +19774,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "6504",
-          name_th: "พิษณุโลก เขต 4",
-          name_en: "Phitsanulok Constituency 4",
-          province_id: "65",
         },
       },
       {
@@ -19793,7 +19793,7 @@ export const regions: RegionVote = {
           name_en: "Ino",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ino-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -19812,6 +19812,12 @@ export const regions: RegionVote = {
         candidate_id: "21",
         district_id: "6505",
         vote_count: 36608,
+        district: {
+          id: "6505",
+          name_th: "พิษณุโลก เขต 5",
+          name_en: "Phitsanulok Constituency 5",
+          province_id: "65",
+        },
         candidate: {
           id: "21",
           name_th: "ช็อปเปอร์",
@@ -19828,12 +19834,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6505",
-          name_th: "พิษณุโลก เขต 5",
-          name_en: "Phitsanulok Constituency 5",
-          province_id: "65",
         },
       },
       {
@@ -19853,7 +19853,7 @@ export const regions: RegionVote = {
           name_en: "Gabumon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gabumon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -19872,13 +19872,19 @@ export const regions: RegionVote = {
         candidate_id: "171",
         district_id: "6601",
         vote_count: 39964,
+        district: {
+          id: "6601",
+          name_th: "พิจิตร เขต 1",
+          name_en: "Phichit Constituency 1",
+          province_id: "66",
+        },
         candidate: {
           id: "171",
-          name_th: "สเปียร์",
-          name_en: "Spear",
+          name_th: "Patorishia Tonpuson",
+          name_en: "Patorishia Tonpuson",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/spear-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/erizabesu-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -19888,12 +19894,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6601",
-          name_th: "พิจิตร เขต 1",
-          name_en: "Phichit Constituency 1",
-          province_id: "66",
         },
       },
       {
@@ -19932,6 +19932,12 @@ export const regions: RegionVote = {
         candidate_id: "1",
         district_id: "6602",
         vote_count: 37505,
+        district: {
+          id: "6602",
+          name_th: "พิจิตร เขต 2",
+          name_en: "Phichit Constituency 2",
+          province_id: "66",
+        },
         candidate: {
           id: "1",
           name_th: "นารูโตะ",
@@ -19948,12 +19954,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "6602",
-          name_th: "พิจิตร เขต 2",
-          name_en: "Phichit Constituency 2",
-          province_id: "66",
         },
       },
       {
@@ -19992,6 +19992,12 @@ export const regions: RegionVote = {
         candidate_id: "132",
         district_id: "6603",
         vote_count: 39292,
+        district: {
+          id: "6603",
+          name_th: "พิจิตร เขต 3",
+          name_en: "Phichit Constituency 3",
+          province_id: "66",
+        },
         candidate: {
           id: "132",
           name_th: "ฮิบาริ เคียวยะ",
@@ -20009,12 +20015,6 @@ export const regions: RegionVote = {
             color: "#FFA500",
           },
         },
-        district: {
-          id: "6603",
-          name_th: "พิจิตร เขต 3",
-          name_en: "Phichit Constituency 3",
-          province_id: "66",
-        },
       },
       {
         id: "4889",
@@ -20029,11 +20029,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "174",
-          name_th: "ไอริ",
-          name_en: "Iri",
+          name_th: "Harvar D. Éclair",
+          name_en: "Harvar D. Éclair",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/iri-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/medyūsa-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -20052,6 +20052,12 @@ export const regions: RegionVote = {
         candidate_id: "25",
         district_id: "6701",
         vote_count: 37860,
+        district: {
+          id: "6701",
+          name_th: "เพชรบูรณ์ เขต 1",
+          name_en: "Phetchabun Constituency 1",
+          province_id: "67",
+        },
         candidate: {
           id: "25",
           name_th: "จินเบ",
@@ -20068,12 +20074,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6701",
-          name_th: "เพชรบูรณ์ เขต 1",
-          name_en: "Phetchabun Constituency 1",
-          province_id: "67",
         },
       },
       {
@@ -20112,6 +20112,12 @@ export const regions: RegionVote = {
         candidate_id: "4",
         district_id: "6702",
         vote_count: 39759,
+        district: {
+          id: "6702",
+          name_th: "เพชรบูรณ์ เขต 2",
+          name_en: "Phetchabun Constituency 2",
+          province_id: "67",
+        },
         candidate: {
           id: "4",
           name_th: "คาคาชิ",
@@ -20128,12 +20134,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "6702",
-          name_th: "เพชรบูรณ์ เขต 2",
-          name_en: "Phetchabun Constituency 2",
-          province_id: "67",
         },
       },
       {
@@ -20172,13 +20172,19 @@ export const regions: RegionVote = {
         candidate_id: "242",
         district_id: "6703",
         vote_count: 39901,
+        district: {
+          id: "6703",
+          name_th: "เพชรบูรณ์ เขต 3",
+          name_en: "Phetchabun Constituency 3",
+          province_id: "67",
+        },
         candidate: {
           id: "242",
           name_th: "เมตัลไนท์",
           name_en: "Metal Knight",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/metalknight-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -20188,12 +20194,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "6703",
-          name_th: "เพชรบูรณ์ เขต 3",
-          name_en: "Phetchabun Constituency 3",
-          province_id: "67",
         },
       },
       {
@@ -20213,7 +20213,7 @@ export const regions: RegionVote = {
           name_en: "Teru Kageyama",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/teru-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -20232,6 +20232,12 @@ export const regions: RegionVote = {
         candidate_id: "28",
         district_id: "6704",
         vote_count: 36285,
+        district: {
+          id: "6704",
+          name_th: "เพชรบูรณ์ เขต 4",
+          name_en: "Phetchabun Constituency 4",
+          province_id: "67",
+        },
         candidate: {
           id: "28",
           name_th: "บากี้",
@@ -20248,12 +20254,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "6704",
-          name_th: "เพชรบูรณ์ เขต 4",
-          name_en: "Phetchabun Constituency 4",
-          province_id: "67",
         },
       },
       {
@@ -20273,7 +20273,7 @@ export const regions: RegionVote = {
           name_en: "Crocodile",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/crocodile-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -20292,6 +20292,12 @@ export const regions: RegionVote = {
         candidate_id: "41",
         district_id: "6705",
         vote_count: 35251,
+        district: {
+          id: "6705",
+          name_th: "เพชรบูรณ์ เขต 5",
+          name_en: "Phetchabun Constituency 5",
+          province_id: "67",
+        },
         candidate: {
           id: "41",
           name_th: "ว่าน",
@@ -20309,12 +20315,6 @@ export const regions: RegionVote = {
             color: "#FF6600",
           },
         },
-        district: {
-          id: "6705",
-          name_th: "เพชรบูรณ์ เขต 5",
-          name_en: "Phetchabun Constituency 5",
-          province_id: "67",
-        },
       },
       {
         id: "4960",
@@ -20329,11 +20329,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "160",
-          name_th: "ไคริ",
-          name_en: "Karry",
+          name_th: "Kaya Irimi",
+          name_en: "Kaya Irimi",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/karry-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaya-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -20352,6 +20352,12 @@ export const regions: RegionVote = {
         candidate_id: "80",
         district_id: "6706",
         vote_count: 39389,
+        district: {
+          id: "6706",
+          name_th: "เพชรบูรณ์ เขต 6",
+          name_en: "Phetchabun Constituency 6",
+          province_id: "67",
+        },
         candidate: {
           id: "80",
           name_th: "เอนวี",
@@ -20368,12 +20374,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/fullmetalalchemist.webp",
             color: "#B22222",
           },
-        },
-        district: {
-          id: "6706",
-          name_th: "เพชรบูรณ์ เขต 6",
-          name_en: "Phetchabun Constituency 6",
-          province_id: "67",
         },
       },
       {
@@ -20413,6 +20413,12 @@ export const regions: RegionVote = {
         candidate_id: "140",
         district_id: "8001",
         vote_count: 38390,
+        district: {
+          id: "8001",
+          name_th: "นครศรีธรรมราช เขต 1",
+          name_en: "Nakhon Si Thammarat Constituency 1",
+          province_id: "80",
+        },
         candidate: {
           id: "140",
           name_th: "Chrome Dokuro",
@@ -20429,12 +20435,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "8001",
-          name_th: "นครศรีธรรมราช เขต 1",
-          name_en: "Nakhon Si Thammarat Constituency 1",
-          province_id: "80",
         },
       },
       {
@@ -20454,7 +20454,7 @@ export const regions: RegionVote = {
           name_en: "Joseph Joestar",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/joseph-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -20473,6 +20473,12 @@ export const regions: RegionVote = {
         candidate_id: "10",
         district_id: "8002",
         vote_count: 40000,
+        district: {
+          id: "8002",
+          name_th: "นครศรีธรรมราช เขต 2",
+          name_en: "Nakhon Si Thammarat Constituency 2",
+          province_id: "80",
+        },
         candidate: {
           id: "10",
           name_th: "ชิกามารุ",
@@ -20489,12 +20495,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "8002",
-          name_th: "นครศรีธรรมราช เขต 2",
-          name_en: "Nakhon Si Thammarat Constituency 2",
-          province_id: "80",
         },
       },
       {
@@ -20533,13 +20533,19 @@ export const regions: RegionVote = {
         candidate_id: "147",
         district_id: "8003",
         vote_count: 35388,
+        district: {
+          id: "8003",
+          name_th: "นครศรีธรรมราช เขต 3",
+          name_en: "Nakhon Si Thammarat Constituency 3",
+          province_id: "80",
+        },
         candidate: {
           id: "147",
-          name_th: "วู้ดเลย์",
-          name_en: "Woodley",
+          name_th: "Jibril",
+          name_en: "Jibril",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/woodley-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/jibril-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -20549,12 +20555,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "8003",
-          name_th: "นครศรีธรรมราช เขต 3",
-          name_en: "Nakhon Si Thammarat Constituency 3",
-          province_id: "80",
         },
       },
       {
@@ -20574,7 +20574,7 @@ export const regions: RegionVote = {
           name_en: "Rika",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rika-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -20593,13 +20593,19 @@ export const regions: RegionVote = {
         candidate_id: "210",
         district_id: "8004",
         vote_count: 36393,
+        district: {
+          id: "8004",
+          name_th: "นครศรีธรรมราช เขต 4",
+          name_en: "Nakhon Si Thammarat Constituency 4",
+          province_id: "80",
+        },
         candidate: {
           id: "210",
           name_th: "โยอิจิ",
           name_en: "Yoichi",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/yoichi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -20609,12 +20615,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "8004",
-          name_th: "นครศรีธรรมราช เขต 4",
-          name_en: "Nakhon Si Thammarat Constituency 4",
-          province_id: "80",
         },
       },
       {
@@ -20634,7 +20634,7 @@ export const regions: RegionVote = {
           name_en: "Tentomon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tentomon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -20653,13 +20653,19 @@ export const regions: RegionVote = {
         candidate_id: "258",
         district_id: "8005",
         vote_count: 39247,
+        district: {
+          id: "8005",
+          name_th: "นครศรีธรรมราช เขต 5",
+          name_en: "Nakhon Si Thammarat Constituency 5",
+          province_id: "80",
+        },
         candidate: {
           id: "258",
           name_th: "ไทจิ คิโยกะ",
           name_en: "Taichi Kamiya",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/taichi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -20669,12 +20675,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "8005",
-          name_th: "นครศรีธรรมราช เขต 5",
-          name_en: "Nakhon Si Thammarat Constituency 5",
-          province_id: "80",
         },
       },
       {
@@ -20713,13 +20713,19 @@ export const regions: RegionVote = {
         candidate_id: "238",
         district_id: "8006",
         vote_count: 33519,
+        district: {
+          id: "8006",
+          name_th: "นครศรีธรรมราช เขต 6",
+          name_en: "Nakhon Si Thammarat Constituency 6",
+          province_id: "80",
+        },
         candidate: {
           id: "238",
           name_th: "ทัตสึ",
           name_en: "Tatsumaki",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsumaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -20729,12 +20735,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "8006",
-          name_th: "นครศรีธรรมราช เขต 6",
-          name_en: "Nakhon Si Thammarat Constituency 6",
-          province_id: "80",
         },
       },
       {
@@ -20754,7 +20754,7 @@ export const regions: RegionVote = {
           name_en: "Tatsuya",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tatsuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -20773,13 +20773,19 @@ export const regions: RegionVote = {
         candidate_id: "179",
         district_id: "8007",
         vote_count: 37275,
+        district: {
+          id: "8007",
+          name_th: "นครศรีธรรมราช เขต 7",
+          name_en: "Nakhon Si Thammarat Constituency 7",
+          province_id: "80",
+        },
         candidate: {
           id: "179",
-          name_th: "โทนี่",
-          name_en: "Tony",
+          name_th: "Fire and Thunder",
+          name_en: "Fire and Thunder",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tony-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -20789,12 +20795,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "8007",
-          name_th: "นครศรีธรรมราช เขต 7",
-          name_en: "Nakhon Si Thammarat Constituency 7",
-          province_id: "80",
         },
       },
       {
@@ -20810,11 +20810,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "169",
-          name_th: "ซุปเปอร์",
-          name_en: "Super",
+          name_th: "Franken Stein",
+          name_en: "Franken Stein",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/super-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/franken-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -20833,6 +20833,12 @@ export const regions: RegionVote = {
         candidate_id: "57",
         district_id: "8008",
         vote_count: 38873,
+        district: {
+          id: "8008",
+          name_th: "นครศรีธรรมราช เขต 8",
+          name_en: "Nakhon Si Thammarat Constituency 8",
+          province_id: "80",
+        },
         candidate: {
           id: "57",
           name_th: "เซ็นโซ",
@@ -20844,17 +20850,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "8008",
-          name_th: "นครศรีธรรมราช เขต 8",
-          name_en: "Nakhon Si Thammarat Constituency 8",
-          province_id: "80",
         },
       },
       {
@@ -20874,7 +20874,7 @@ export const regions: RegionVote = {
           name_en: "Biyomon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/biyomon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -20893,6 +20893,12 @@ export const regions: RegionVote = {
         candidate_id: "1",
         district_id: "8009",
         vote_count: 38223,
+        district: {
+          id: "8009",
+          name_th: "นครศรีธรรมราช เขต 9",
+          name_en: "Nakhon Si Thammarat Constituency 9",
+          province_id: "80",
+        },
         candidate: {
           id: "1",
           name_th: "นารูโตะ",
@@ -20910,12 +20916,6 @@ export const regions: RegionVote = {
             color: "#FF9900",
           },
         },
-        district: {
-          id: "8009",
-          name_th: "นครศรีธรรมราช เขต 9",
-          name_en: "Nakhon Si Thammarat Constituency 9",
-          province_id: "80",
-        },
       },
       {
         id: "5464",
@@ -20930,11 +20930,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "178",
-          name_th: "ฮาโกะ",
-          name_en: "Hako",
+          name_th: "Shinigami",
+          name_en: "Shinigami",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hako-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -20953,13 +20953,19 @@ export const regions: RegionVote = {
         candidate_id: "213",
         district_id: "8010",
         vote_count: 36483,
+        district: {
+          id: "8010",
+          name_th: "นครศรีธรรมราช เขต 10",
+          name_en: "Nakhon Si Thammarat Constituency 10",
+          province_id: "80",
+        },
         candidate: {
           id: "213",
           name_th: "เซนโกะ",
           name_en: "Senko",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/senko-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -20969,12 +20975,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "8010",
-          name_th: "นครศรีธรรมราช เขต 10",
-          name_en: "Nakhon Si Thammarat Constituency 10",
-          province_id: "80",
         },
       },
       {
@@ -21013,13 +21013,19 @@ export const regions: RegionVote = {
         candidate_id: "183",
         district_id: "8101",
         vote_count: 38028,
+        district: {
+          id: "8101",
+          name_th: "กระบี่ เขต 1",
+          name_en: "Krabi Constituency 1",
+          province_id: "81",
+        },
         candidate: {
           id: "183",
-          name_th: "ริคุ",
-          name_en: "Riku",
+          name_th: "Near",
+          name_en: "Near",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/riku-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/near-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -21029,12 +21035,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "8101",
-          name_th: "กระบี่ เขต 1",
-          name_en: "Krabi Constituency 1",
-          province_id: "81",
         },
       },
       {
@@ -21054,7 +21054,7 @@ export const regions: RegionVote = {
           name_en: "Mari",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mari-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -21073,13 +21073,19 @@ export const regions: RegionVote = {
         candidate_id: "168",
         district_id: "8102",
         vote_count: 39885,
+        district: {
+          id: "8102",
+          name_th: "กระบี่ เขต 2",
+          name_en: "Krabi Constituency 2",
+          province_id: "81",
+        },
         candidate: {
           id: "168",
-          name_th: "ดีสต้า",
-          name_en: "Dante",
+          name_th: "Death the Kid",
+          name_en: "Death the Kid",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/dante-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/death-the-kid-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -21089,12 +21095,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/souleater.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "8102",
-          name_th: "กระบี่ เขต 2",
-          name_en: "Krabi Constituency 2",
-          province_id: "81",
         },
       },
       {
@@ -21114,7 +21114,7 @@ export const regions: RegionVote = {
           name_en: "Speed-o'-Sound Sonic",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sonic-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -21133,13 +21133,19 @@ export const regions: RegionVote = {
         candidate_id: "194",
         district_id: "8103",
         vote_count: 38839,
+        district: {
+          id: "8103",
+          name_th: "กระบี่ เขต 3",
+          name_en: "Krabi Constituency 3",
+          province_id: "81",
+        },
         candidate: {
           id: "194",
           name_th: "โจเซฟ โจสตาร์",
           name_en: "Joseph Joestar",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/joseph-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -21149,12 +21155,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "8103",
-          name_th: "กระบี่ เขต 3",
-          name_en: "Krabi Constituency 3",
-          province_id: "81",
         },
       },
       {
@@ -21192,13 +21192,19 @@ export const regions: RegionVote = {
         candidate_id: "154",
         district_id: "8201",
         vote_count: 39958,
+        district: {
+          id: "8201",
+          name_th: "พังงา เขต 1",
+          name_en: "Phang Nga Constituency 1",
+          province_id: "82",
+        },
         candidate: {
           id: "154",
           name_th: "คันกะ คิมิชิมะ",
           name_en: "Ken Kaneki",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaneki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ken-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -21208,12 +21214,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "8201",
-          name_th: "พังงา เขต 1",
-          name_en: "Phang Nga Constituency 1",
-          province_id: "82",
         },
       },
       {
@@ -21233,7 +21233,7 @@ export const regions: RegionVote = {
           name_en: "Haruka",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/haruka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -21252,13 +21252,19 @@ export const regions: RegionVote = {
         candidate_id: "164",
         district_id: "8202",
         vote_count: 37145,
+        district: {
+          id: "8202",
+          name_th: "พังงา เขต 2",
+          name_en: "Phang Nga Constituency 2",
+          province_id: "82",
+        },
         candidate: {
           id: "164",
           name_th: "โอริฮาระ",
           name_en: "Orihara",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/ori-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/hanzo-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -21268,12 +21274,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "8202",
-          name_th: "พังงา เขต 2",
-          name_en: "Phang Nga Constituency 2",
-          province_id: "82",
         },
       },
       {
@@ -21293,7 +21293,7 @@ export const regions: RegionVote = {
           name_en: "Kazuya",
           partyId: "17",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kazuya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "17",
             name_th: "ม็อบไซโค 100",
@@ -21312,6 +21312,12 @@ export const regions: RegionVote = {
         candidate_id: "127",
         district_id: "8301",
         vote_count: 36833,
+        district: {
+          id: "8301",
+          name_th: "ภูเก็ต เขต 1",
+          name_en: "Phuket Constituency 1",
+          province_id: "83",
+        },
         candidate: {
           id: "127",
           name_th: "Heiji Hattori",
@@ -21328,12 +21334,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "8301",
-          name_th: "ภูเก็ต เขต 1",
-          name_en: "Phuket Constituency 1",
-          province_id: "83",
         },
       },
       {
@@ -21353,7 +21353,7 @@ export const regions: RegionVote = {
           name_en: "Tobio Kageyama",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kageyama-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -21372,6 +21372,12 @@ export const regions: RegionVote = {
         candidate_id: "23",
         district_id: "8302",
         vote_count: 39052,
+        district: {
+          id: "8302",
+          name_th: "ภูเก็ต เขต 2",
+          name_en: "Phuket Constituency 2",
+          province_id: "83",
+        },
         candidate: {
           id: "23",
           name_th: "แฟรงกี้",
@@ -21388,12 +21394,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "8302",
-          name_th: "ภูเก็ต เขต 2",
-          name_en: "Phuket Constituency 2",
-          province_id: "83",
         },
       },
       {
@@ -21432,13 +21432,19 @@ export const regions: RegionVote = {
         candidate_id: "248",
         district_id: "8303",
         vote_count: 39413,
+        district: {
+          id: "8303",
+          name_th: "ภูเก็ต เขต 3",
+          name_en: "Phuket Constituency 3",
+          province_id: "83",
+        },
         candidate: {
           id: "248",
           name_th: "อุรารากะ โอโชคะ",
           name_en: "Ochaco Uraraka",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/uraraka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -21448,12 +21454,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "8303",
-          name_th: "ภูเก็ต เขต 3",
-          name_en: "Phuket Constituency 3",
-          province_id: "83",
         },
       },
       {
@@ -21492,13 +21492,19 @@ export const regions: RegionVote = {
         candidate_id: "154",
         district_id: "8401",
         vote_count: 39606,
+        district: {
+          id: "8401",
+          name_th: "สุราษฎร์ธานี เขต 1",
+          name_en: "Surat Thani Constituency 1",
+          province_id: "84",
+        },
         candidate: {
           id: "154",
           name_th: "คันกะ คิมิชิมะ",
           name_en: "Ken Kaneki",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaneki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/ken-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -21508,12 +21514,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "8401",
-          name_th: "สุราษฎร์ธานี เขต 1",
-          name_en: "Surat Thani Constituency 1",
-          province_id: "84",
         },
       },
       {
@@ -21538,7 +21538,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -21552,13 +21552,19 @@ export const regions: RegionVote = {
         candidate_id: "201",
         district_id: "8402",
         vote_count: 36040,
+        district: {
+          id: "8402",
+          name_th: "สุราษฎร์ธานี เขต 2",
+          name_en: "Surat Thani Constituency 2",
+          province_id: "84",
+        },
         candidate: {
           id: "201",
           name_th: "มิโดริยะ",
           name_en: "Midoriya Izuku",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/midoriya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -21568,12 +21574,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "8402",
-          name_th: "สุราษฎร์ธานี เขต 2",
-          name_en: "Surat Thani Constituency 2",
-          province_id: "84",
         },
       },
       {
@@ -21593,7 +21593,7 @@ export const regions: RegionVote = {
           name_en: "Omegamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/omegamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -21612,6 +21612,12 @@ export const regions: RegionVote = {
         candidate_id: "126",
         district_id: "8403",
         vote_count: 39750,
+        district: {
+          id: "8403",
+          name_th: "สุราษฎร์ธานี เขต 3",
+          name_en: "Surat Thani Constituency 3",
+          province_id: "84",
+        },
         candidate: {
           id: "126",
           name_th: "Kaitou Kid",
@@ -21628,12 +21634,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "8403",
-          name_th: "สุราษฎร์ธานี เขต 3",
-          name_en: "Surat Thani Constituency 3",
-          province_id: "84",
         },
       },
       {
@@ -21653,7 +21653,7 @@ export const regions: RegionVote = {
           name_en: "Bruno Bucciarati",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bruno-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -21672,6 +21672,12 @@ export const regions: RegionVote = {
         candidate_id: "141",
         district_id: "8404",
         vote_count: 39293,
+        district: {
+          id: "8404",
+          name_th: "สุราษฎร์ธานี เขต 4",
+          name_en: "Surat Thani Constituency 4",
+          province_id: "84",
+        },
         candidate: {
           id: "141",
           name_th: "ชิโระ",
@@ -21688,12 +21694,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "8404",
-          name_th: "สุราษฎร์ธานี เขต 4",
-          name_en: "Surat Thani Constituency 4",
-          province_id: "84",
         },
       },
       {
@@ -21732,13 +21732,19 @@ export const regions: RegionVote = {
         candidate_id: "218",
         district_id: "8405",
         vote_count: 35476,
+        district: {
+          id: "8405",
+          name_th: "สุราษฎร์ธานี เขต 5",
+          name_en: "Surat Thani Constituency 5",
+          province_id: "84",
+        },
         candidate: {
           id: "218",
           name_th: "คามิยะ ยูคิ",
           name_en: "Yuki Kamiya",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kamiya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -21748,12 +21754,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "8405",
-          name_th: "สุราษฎร์ธานี เขต 5",
-          name_en: "Surat Thani Constituency 5",
-          province_id: "84",
         },
       },
       {
@@ -21773,7 +21773,7 @@ export const regions: RegionVote = {
           name_en: "Omegamon",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/omegamon-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -21792,6 +21792,12 @@ export const regions: RegionVote = {
         candidate_id: "128",
         district_id: "8406",
         vote_count: 38587,
+        district: {
+          id: "8406",
+          name_th: "สุราษฎร์ธานี เขต 6",
+          name_en: "Surat Thani Constituency 6",
+          province_id: "84",
+        },
         candidate: {
           id: "128",
           name_th: "ซาวาดะ สึนะโยชิ",
@@ -21809,12 +21815,6 @@ export const regions: RegionVote = {
             color: "#FFA500",
           },
         },
-        district: {
-          id: "8406",
-          name_th: "สุราษฎร์ธานี เขต 6",
-          name_en: "Surat Thani Constituency 6",
-          province_id: "84",
-        },
       },
       {
         id: "5238",
@@ -21829,11 +21829,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "179",
-          name_th: "โทนี่",
-          name_en: "Tony",
+          name_th: "Fire and Thunder",
+          name_en: "Fire and Thunder",
           partyId: "13",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/tony-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mizune-sm.png",
           party: {
             id: "13",
             name_th: "โซลอีทเตอร์",
@@ -21852,13 +21852,19 @@ export const regions: RegionVote = {
         candidate_id: "185",
         district_id: "8407",
         vote_count: 39617,
+        district: {
+          id: "8407",
+          name_th: "สุราษฎร์ธานี เขต 7",
+          name_en: "Surat Thani Constituency 7",
+          province_id: "84",
+        },
         candidate: {
           id: "185",
-          name_th: "บาโร่",
-          name_en: "Baro",
+          name_th: "Teru Mikami",
+          name_en: "Teru Mikami",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/baro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/teru-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -21868,12 +21874,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "8407",
-          name_th: "สุราษฎร์ธานี เขต 7",
-          name_en: "Surat Thani Constituency 7",
-          province_id: "84",
         },
       },
       {
@@ -21893,7 +21893,7 @@ export const regions: RegionVote = {
           name_en: "Hikari Yagami",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hikari-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -21912,13 +21912,19 @@ export const regions: RegionVote = {
         candidate_id: "252",
         district_id: "8501",
         vote_count: 35761,
+        district: {
+          id: "8501",
+          name_th: "ระนอง เขต 1",
+          name_en: "Ranong Constituency 1",
+          province_id: "85",
+        },
         candidate: {
           id: "252",
           name_th: "คิระ",
           name_en: "Kira",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -21928,12 +21934,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "8501",
-          name_th: "ระนอง เขต 1",
-          name_en: "Ranong Constituency 1",
-          province_id: "85",
         },
       },
       {
@@ -21949,11 +21949,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "160",
-          name_th: "ไคริ",
-          name_en: "Karry",
+          name_th: "Kaya Irimi",
+          name_en: "Kaya Irimi",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/karry-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaya-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -21972,6 +21972,12 @@ export const regions: RegionVote = {
         candidate_id: "62",
         district_id: "8601",
         vote_count: 38641,
+        district: {
+          id: "8601",
+          name_th: "ชุมพร เขต 1",
+          name_en: "Chumphon Constituency 1",
+          province_id: "86",
+        },
         candidate: {
           id: "62",
           name_th: "ครอฟต์",
@@ -21988,12 +21994,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/hunterxhunter.webp",
             color: "#3AAA35",
           },
-        },
-        district: {
-          id: "8601",
-          name_th: "ชุมพร เขต 1",
-          name_en: "Chumphon Constituency 1",
-          province_id: "86",
         },
       },
       {
@@ -22032,6 +22032,12 @@ export const regions: RegionVote = {
         candidate_id: "105",
         district_id: "8602",
         vote_count: 37188,
+        district: {
+          id: "8602",
+          name_th: "ชุมพร เขต 2",
+          name_en: "Chumphon Constituency 2",
+          province_id: "86",
+        },
         candidate: {
           id: "105",
           name_th: "โอริฮิเมะ อิชิดะ",
@@ -22048,12 +22054,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/bleach.webp",
             color: "#FF4500",
           },
-        },
-        district: {
-          id: "8602",
-          name_th: "ชุมพร เขต 2",
-          name_en: "Chumphon Constituency 2",
-          province_id: "86",
         },
       },
       {
@@ -22092,13 +22092,19 @@ export const regions: RegionVote = {
         candidate_id: "165",
         district_id: "8603",
         vote_count: 34837,
+        district: {
+          id: "8603",
+          name_th: "ชุมพร เขต 3",
+          name_en: "Chumphon Constituency 3",
+          province_id: "86",
+        },
         candidate: {
           id: "165",
-          name_th: "จูซู",
-          name_en: "Juzu",
+          name_th: "Yoriko Kosaka",
+          name_en: "Yoriko Kosaka",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/juzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/mitsuki-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -22108,12 +22114,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "8603",
-          name_th: "ชุมพร เขต 3",
-          name_en: "Chumphon Constituency 3",
-          province_id: "86",
         },
       },
       {
@@ -22133,7 +22133,7 @@ export const regions: RegionVote = {
           name_en: "Senko",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/senko-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -22152,13 +22152,19 @@ export const regions: RegionVote = {
         candidate_id: "199",
         district_id: "9001",
         vote_count: 36548,
+        district: {
+          id: "9001",
+          name_th: "สงขลา เขต 1",
+          name_en: "Songkhla Constituency 1",
+          province_id: "90",
+        },
         candidate: {
           id: "199",
           name_th: "คิระ",
           name_en: "Kira Yoshikage",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -22168,12 +22174,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "9001",
-          name_th: "สงขลา เขต 1",
-          name_en: "Songkhla Constituency 1",
-          province_id: "90",
         },
       },
       {
@@ -22212,13 +22212,19 @@ export const regions: RegionVote = {
         candidate_id: "199",
         district_id: "9002",
         vote_count: 39325,
+        district: {
+          id: "9002",
+          name_th: "สงขลา เขต 2",
+          name_en: "Songkhla Constituency 2",
+          province_id: "90",
+        },
         candidate: {
           id: "199",
           name_th: "คิระ",
           name_en: "Kira Yoshikage",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kira-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -22228,12 +22234,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "9002",
-          name_th: "สงขลา เขต 2",
-          name_en: "Songkhla Constituency 2",
-          province_id: "90",
         },
       },
       {
@@ -22272,6 +22272,12 @@ export const regions: RegionVote = {
         candidate_id: "21",
         district_id: "9003",
         vote_count: 37399,
+        district: {
+          id: "9003",
+          name_th: "สงขลา เขต 3",
+          name_en: "Songkhla Constituency 3",
+          province_id: "90",
+        },
         candidate: {
           id: "21",
           name_th: "ช็อปเปอร์",
@@ -22288,12 +22294,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/one-piece.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "9003",
-          name_th: "สงขลา เขต 3",
-          name_en: "Songkhla Constituency 3",
-          province_id: "90",
         },
       },
       {
@@ -22332,6 +22332,12 @@ export const regions: RegionVote = {
         candidate_id: "37",
         district_id: "9004",
         vote_count: 39643,
+        district: {
+          id: "9004",
+          name_th: "สงขลา เขต 4",
+          name_en: "Songkhla Constituency 4",
+          province_id: "90",
+        },
         candidate: {
           id: "37",
           name_th: "ทรังค์",
@@ -22348,12 +22354,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "9004",
-          name_th: "สงขลา เขต 4",
-          name_en: "Songkhla Constituency 4",
-          province_id: "90",
         },
       },
       {
@@ -22392,6 +22392,12 @@ export const regions: RegionVote = {
         candidate_id: "93",
         district_id: "9005",
         vote_count: 39077,
+        district: {
+          id: "9005",
+          name_th: "สงขลา เขต 5",
+          name_en: "Songkhla Constituency 5",
+          province_id: "90",
+        },
         candidate: {
           id: "93",
           name_th: "เจนิส ฟรีซ",
@@ -22408,12 +22414,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "9005",
-          name_th: "สงขลา เขต 5",
-          name_en: "Songkhla Constituency 5",
-          province_id: "90",
         },
       },
       {
@@ -22433,7 +22433,7 @@ export const regions: RegionVote = {
           name_en: "Noboru Koji",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/koji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -22452,6 +22452,12 @@ export const regions: RegionVote = {
         candidate_id: "3",
         district_id: "9006",
         vote_count: 39575,
+        district: {
+          id: "9006",
+          name_th: "สงขลา เขต 6",
+          name_en: "Songkhla Constituency 6",
+          province_id: "90",
+        },
         candidate: {
           id: "3",
           name_th: "ซากุระ",
@@ -22468,12 +22474,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "9006",
-          name_th: "สงขลา เขต 6",
-          name_en: "Songkhla Constituency 6",
-          province_id: "90",
         },
       },
       {
@@ -22512,6 +22512,12 @@ export const regions: RegionVote = {
         candidate_id: "163",
         district_id: "9007",
         vote_count: 39958,
+        district: {
+          id: "9007",
+          name_th: "สงขลา เขต 7",
+          name_en: "Songkhla Constituency 7",
+          province_id: "90",
+        },
         candidate: {
           id: "163",
           name_th: "มิทสึกิ",
@@ -22528,12 +22534,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "9007",
-          name_th: "สงขลา เขต 7",
-          name_en: "Songkhla Constituency 7",
-          province_id: "90",
         },
       },
       {
@@ -22553,7 +22553,7 @@ export const regions: RegionVote = {
           name_en: "Jotaro Kujo",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/jotaro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -22572,6 +22572,12 @@ export const regions: RegionVote = {
         candidate_id: "54",
         district_id: "9008",
         vote_count: 38889,
+        district: {
+          id: "9008",
+          name_th: "สงขลา เขต 8",
+          name_en: "Songkhla Constituency 8",
+          province_id: "90",
+        },
         candidate: {
           id: "54",
           name_th: "ชิโนบุ",
@@ -22583,17 +22589,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "9008",
-          name_th: "สงขลา เขต 8",
-          name_en: "Songkhla Constituency 8",
-          province_id: "90",
         },
       },
       {
@@ -22613,7 +22613,7 @@ export const regions: RegionVote = {
           name_en: "Kuroko",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kuroko-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -22632,6 +22632,12 @@ export const regions: RegionVote = {
         candidate_id: "32",
         district_id: "9009",
         vote_count: 38411,
+        district: {
+          id: "9009",
+          name_th: "สงขลา เขต 9",
+          name_en: "Songkhla Constituency 9",
+          province_id: "90",
+        },
         candidate: {
           id: "32",
           name_th: "เบจิต้า",
@@ -22648,12 +22654,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "9009",
-          name_th: "สงขลา เขต 9",
-          name_en: "Songkhla Constituency 9",
-          province_id: "90",
         },
       },
       {
@@ -22673,7 +22673,7 @@ export const regions: RegionVote = {
           name_en: "Shoyo Hinata",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/hinata-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -22692,13 +22692,19 @@ export const regions: RegionVote = {
         candidate_id: "258",
         district_id: "9101",
         vote_count: 39932,
+        district: {
+          id: "9101",
+          name_th: "สตูล เขต 1",
+          name_en: "Satun Constituency 1",
+          province_id: "91",
+        },
         candidate: {
           id: "258",
           name_th: "ไทจิ คิโยกะ",
           name_en: "Taichi Kamiya",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/taichi-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -22708,12 +22714,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/digimon.webp",
             color: "#FFD700",
           },
-        },
-        district: {
-          id: "9101",
-          name_th: "สตูล เขต 1",
-          name_en: "Satun Constituency 1",
-          province_id: "91",
         },
       },
       {
@@ -22752,13 +22752,19 @@ export const regions: RegionVote = {
         candidate_id: "240",
         district_id: "9102",
         vote_count: 37806,
+        district: {
+          id: "9102",
+          name_th: "สตูล เขต 2",
+          name_en: "Satun Constituency 2",
+          province_id: "91",
+        },
         candidate: {
           id: "240",
           name_th: "แบล็คสปาร์ค",
           name_en: "Black Sperm",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/blacksperm-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -22768,12 +22774,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "9102",
-          name_th: "สตูล เขต 2",
-          name_en: "Satun Constituency 2",
-          province_id: "91",
         },
       },
       {
@@ -22793,7 +22793,7 @@ export const regions: RegionVote = {
           name_en: "Katsuki Bakugo",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/bakugo-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -22812,6 +22812,12 @@ export const regions: RegionVote = {
         candidate_id: "34",
         district_id: "9201",
         vote_count: 37559,
+        district: {
+          id: "9201",
+          name_th: "ตรัง เขต 1",
+          name_en: "Trang Constituency 1",
+          province_id: "92",
+        },
         candidate: {
           id: "34",
           name_th: "โกฮัง",
@@ -22828,12 +22834,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "9201",
-          name_th: "ตรัง เขต 1",
-          name_en: "Trang Constituency 1",
-          province_id: "92",
         },
       },
       {
@@ -22872,6 +22872,12 @@ export const regions: RegionVote = {
         candidate_id: "33",
         district_id: "9202",
         vote_count: 38458,
+        district: {
+          id: "9202",
+          name_th: "ตรัง เขต 2",
+          name_en: "Trang Constituency 2",
+          province_id: "92",
+        },
         candidate: {
           id: "33",
           name_th: "ปิกโกโร่",
@@ -22888,12 +22894,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "9202",
-          name_th: "ตรัง เขต 2",
-          name_en: "Trang Constituency 2",
-          province_id: "92",
         },
       },
       {
@@ -22913,7 +22913,7 @@ export const regions: RegionVote = {
           name_en: "Speed-o'-Sound Sonic",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/sonic-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -22932,6 +22932,12 @@ export const regions: RegionVote = {
         candidate_id: "134",
         district_id: "9203",
         vote_count: 37271,
+        district: {
+          id: "9203",
+          name_th: "ตรัง เขต 3",
+          name_en: "Trang Constituency 3",
+          province_id: "92",
+        },
         candidate: {
           id: "134",
           name_th: "มุคุโร่ โลคา",
@@ -22948,12 +22954,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/reborn.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "9203",
-          name_th: "ตรัง เขต 3",
-          name_en: "Trang Constituency 3",
-          province_id: "92",
         },
       },
       {
@@ -22973,7 +22973,7 @@ export const regions: RegionVote = {
           name_en: "Jotaro Kujo",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/jotaro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -22992,6 +22992,12 @@ export const regions: RegionVote = {
         candidate_id: "3",
         district_id: "9204",
         vote_count: 38410,
+        district: {
+          id: "9204",
+          name_th: "ตรัง เขต 4",
+          name_en: "Trang Constituency 4",
+          province_id: "92",
+        },
         candidate: {
           id: "3",
           name_th: "ซากุระ",
@@ -23009,12 +23015,6 @@ export const regions: RegionVote = {
             color: "#FF9900",
           },
         },
-        district: {
-          id: "9204",
-          name_th: "ตรัง เขต 4",
-          name_en: "Trang Constituency 4",
-          province_id: "92",
-        },
       },
       {
         id: "5583",
@@ -23029,11 +23029,11 @@ export const regions: RegionVote = {
         },
         candidate: {
           id: "146",
-          name_th: "ซูรู",
-          name_en: "Suzu",
+          name_th: "Fiel Nirvalen",
+          name_en: "Fiel Nirvalen",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/suzu-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/fiel-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -23052,13 +23052,19 @@ export const regions: RegionVote = {
         candidate_id: "160",
         district_id: "9301",
         vote_count: 39021,
+        district: {
+          id: "9301",
+          name_th: "พัทลุง เขต 1",
+          name_en: "Phatthalung Constituency 1",
+          province_id: "93",
+        },
         candidate: {
           id: "160",
-          name_th: "ไคริ",
-          name_en: "Karry",
+          name_th: "Kaya Irimi",
+          name_en: "Kaya Irimi",
           partyId: "12",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/karry-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/kaya-sm.png",
           party: {
             id: "12",
             name_th: "โตเกียวกูล",
@@ -23068,12 +23074,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/tokyoghoul.webp",
             color: "#8B0000",
           },
-        },
-        district: {
-          id: "9301",
-          name_th: "พัทลุง เขต 1",
-          name_en: "Phatthalung Constituency 1",
-          province_id: "93",
         },
       },
       {
@@ -23093,7 +23093,7 @@ export const regions: RegionVote = {
           name_en: "Kawasaki",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/kawasaki-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -23112,13 +23112,19 @@ export const regions: RegionVote = {
         candidate_id: "249",
         district_id: "9302",
         vote_count: 39249,
+        district: {
+          id: "9302",
+          name_th: "พัทลุง เขต 2",
+          name_en: "Phatthalung Constituency 2",
+          province_id: "93",
+        },
         candidate: {
           id: "249",
           name_th: "ไอโซกะ ริคิ",
           name_en: "Rikiya Ibara",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rikiya-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -23128,12 +23134,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/myheroacademia.webp",
             color: "#2E8B57",
           },
-        },
-        district: {
-          id: "9302",
-          name_th: "พัทลุง เขต 2",
-          name_en: "Phatthalung Constituency 2",
-          province_id: "93",
         },
       },
       {
@@ -23172,13 +23172,19 @@ export const regions: RegionVote = {
         candidate_id: "193",
         district_id: "9303",
         vote_count: 39120,
+        district: {
+          id: "9303",
+          name_th: "พัทลุง เขต 3",
+          name_en: "Phatthalung Constituency 3",
+          province_id: "93",
+        },
         candidate: {
           id: "193",
           name_th: "โจโจ้",
           name_en: "Jotaro Kujo",
           partyId: "15",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/jotaro-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "15",
             name_th: "โจโจ้ ล่าข้ามศตวรรษ",
@@ -23188,12 +23194,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/jojo.webp",
             color: "#800080",
           },
-        },
-        district: {
-          id: "9303",
-          name_th: "พัทลุง เขต 3",
-          name_en: "Phatthalung Constituency 3",
-          province_id: "93",
         },
       },
       {
@@ -23232,13 +23232,19 @@ export const regions: RegionVote = {
         candidate_id: "152",
         district_id: "9401",
         vote_count: 34124,
+        district: {
+          id: "9401",
+          name_th: "ปัตตานี เขต 1",
+          name_en: "Pattani Constituency 1",
+          province_id: "94",
+        },
         candidate: {
           id: "152",
-          name_th: "ฟลาม",
-          name_en: "Flam",
+          name_th: "Couronne Dola",
+          name_en: "Couronne Dola",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/flam-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/couronne-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -23248,12 +23254,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "9401",
-          name_th: "ปัตตานี เขต 1",
-          name_en: "Pattani Constituency 1",
-          province_id: "94",
         },
       },
       {
@@ -23292,6 +23292,12 @@ export const regions: RegionVote = {
         candidate_id: "118",
         district_id: "9402",
         vote_count: 37817,
+        district: {
+          id: "9402",
+          name_th: "ปัตตานี เขต 2",
+          name_en: "Pattani Constituency 2",
+          province_id: "94",
+        },
         candidate: {
           id: "118",
           name_th: "ไฮบาระ อาโออิ",
@@ -23308,12 +23314,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "9402",
-          name_th: "ปัตตานี เขต 2",
-          name_en: "Pattani Constituency 2",
-          province_id: "94",
         },
       },
       {
@@ -23338,7 +23338,7 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
@@ -23352,13 +23352,19 @@ export const regions: RegionVote = {
         candidate_id: "209",
         district_id: "9403",
         vote_count: 38466,
+        district: {
+          id: "9403",
+          name_th: "ปัตตานี เขต 3",
+          name_en: "Pattani Constituency 3",
+          province_id: "94",
+        },
         candidate: {
           id: "209",
           name_th: "อาสึกะ ยูคิมูระ",
           name_en: "Asuka Yukimura",
           partyId: "16",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/asuka-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "16",
             name_th: "ไฮคิว คู่ตบฟ้าประทาน",
@@ -23368,12 +23374,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/haikyuu.webp",
             color: "#FFA500",
           },
-        },
-        district: {
-          id: "9403",
-          name_th: "ปัตตานี เขต 3",
-          name_en: "Pattani Constituency 3",
-          province_id: "94",
         },
       },
       {
@@ -23412,6 +23412,12 @@ export const regions: RegionVote = {
         candidate_id: "123",
         district_id: "9404",
         vote_count: 39920,
+        district: {
+          id: "9404",
+          name_th: "ปัตตานี เขต 4",
+          name_en: "Pattani Constituency 4",
+          province_id: "94",
+        },
         candidate: {
           id: "123",
           name_th: "Ayumi Yoshida",
@@ -23428,12 +23434,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/detectiveconan.webp",
             color: "#0000FF",
           },
-        },
-        district: {
-          id: "9404",
-          name_th: "ปัตตานี เขต 4",
-          name_en: "Pattani Constituency 4",
-          province_id: "94",
         },
       },
       {
@@ -23472,13 +23472,19 @@ export const regions: RegionVote = {
         candidate_id: "234",
         district_id: "9405",
         vote_count: 25975,
+        district: {
+          id: "9405",
+          name_th: "ปัตตานี เขต 5",
+          name_en: "Pattani Constituency 5",
+          province_id: "94",
+        },
         candidate: {
           id: "234",
           name_th: "มูซึ",
           name_en: "Mumen Rider",
           partyId: "18",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/mumen-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "18",
             name_th: "วันพันช์แมน",
@@ -23488,12 +23494,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/onepunchman.webp",
             color: "#FF0000",
           },
-        },
-        district: {
-          id: "9405",
-          name_th: "ปัตตานี เขต 5",
-          name_en: "Pattani Constituency 5",
-          province_id: "94",
         },
       },
       {
@@ -23532,6 +23532,12 @@ export const regions: RegionVote = {
         candidate_id: "99",
         district_id: "9501",
         vote_count: 38230,
+        district: {
+          id: "9501",
+          name_th: "ยะลา เขต 1",
+          name_en: "Yala Constituency 1",
+          province_id: "95",
+        },
         candidate: {
           id: "99",
           name_th: "พิคซิส",
@@ -23548,12 +23554,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/attackontitan.webp",
             color: "#6B4226",
           },
-        },
-        district: {
-          id: "9501",
-          name_th: "ยะลา เขต 1",
-          name_en: "Yala Constituency 1",
-          province_id: "95",
         },
       },
       {
@@ -23573,7 +23573,7 @@ export const regions: RegionVote = {
           name_en: "Rika",
           partyId: "19",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/rika-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "19",
             name_th: "มายฮีโร่ อคาเดเมีย",
@@ -23592,6 +23592,12 @@ export const regions: RegionVote = {
         candidate_id: "14",
         district_id: "9502",
         vote_count: 36046,
+        district: {
+          id: "9502",
+          name_th: "ยะลา เขต 2",
+          name_en: "Yala Constituency 2",
+          province_id: "95",
+        },
         candidate: {
           id: "14",
           name_th: "ฮินาตะ",
@@ -23608,12 +23614,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "9502",
-          name_th: "ยะลา เขต 2",
-          name_en: "Yala Constituency 2",
-          province_id: "95",
         },
       },
       {
@@ -23652,6 +23652,12 @@ export const regions: RegionVote = {
         candidate_id: "45",
         district_id: "9503",
         vote_count: 36448,
+        district: {
+          id: "9503",
+          name_th: "ยะลา เขต 3",
+          name_en: "Yala Constituency 3",
+          province_id: "95",
+        },
         candidate: {
           id: "45",
           name_th: "ทามาโยะ",
@@ -23663,17 +23669,11 @@ export const regions: RegionVote = {
             id: "4",
             name_th: "ไยบะ ดาบพิฆาตอสูร",
             name_en: "Demon Slayer",
-            image: "/img/party/demonslayer\.png",
+            image: "/img/party/demonslayer.png",
             candidate_img:
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/demonslayer.webp",
             color: "#800000",
           },
-        },
-        district: {
-          id: "9503",
-          name_th: "ยะลา เขต 3",
-          name_en: "Yala Constituency 3",
-          province_id: "95",
         },
       },
       {
@@ -23693,7 +23693,7 @@ export const regions: RegionVote = {
           name_en: "Takeru Takaishi",
           partyId: "20",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/takeru-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/nopic.png",
           party: {
             id: "20",
             name_th: "ดิจิมอน แอดเวนเจอร์",
@@ -23712,6 +23712,12 @@ export const regions: RegionVote = {
         candidate_id: "33",
         district_id: "9601",
         vote_count: 36495,
+        district: {
+          id: "9601",
+          name_th: "นราธิวาส เขต 1",
+          name_en: "Narathiwat Constituency 1",
+          province_id: "96",
+        },
         candidate: {
           id: "33",
           name_th: "ปิกโกโร่",
@@ -23728,12 +23734,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/dragonball.webp",
             color: "#FF6600",
           },
-        },
-        district: {
-          id: "9601",
-          name_th: "นราธิวาส เขต 1",
-          name_en: "Narathiwat Constituency 1",
-          province_id: "96",
         },
       },
       {
@@ -23772,6 +23772,12 @@ export const regions: RegionVote = {
         candidate_id: "5",
         district_id: "9602",
         vote_count: 34593,
+        district: {
+          id: "9602",
+          name_th: "นราธิวาส เขต 2",
+          name_en: "Narathiwat Constituency 2",
+          province_id: "96",
+        },
         candidate: {
           id: "5",
           name_th: "อิทาจิ",
@@ -23788,12 +23794,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/naruto.webp",
             color: "#FF9900",
           },
-        },
-        district: {
-          id: "9602",
-          name_th: "นราธิวาส เขต 2",
-          name_en: "Narathiwat Constituency 2",
-          province_id: "96",
         },
       },
       {
@@ -23832,13 +23832,19 @@ export const regions: RegionVote = {
         candidate_id: "145",
         district_id: "9603",
         vote_count: 37553,
+        district: {
+          id: "9603",
+          name_th: "นราธิวาส เขต 3",
+          name_en: "Narathiwat Constituency 3",
+          province_id: "96",
+        },
         candidate: {
           id: "145",
-          name_th: "เอซ่า",
-          name_en: "Aiza",
+          name_th: "Chlammy Zell",
+          name_en: "Chlammy Zell",
           partyId: "11",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/aiza-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/chlammy-sm.png",
           party: {
             id: "11",
             name_th: "โนเกม โนไลฟ์",
@@ -23848,12 +23854,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/nogamenolife.webp",
             color: "#FF1493",
           },
-        },
-        district: {
-          id: "9603",
-          name_th: "นราธิวาส เขต 3",
-          name_en: "Narathiwat Constituency 3",
-          province_id: "96",
         },
       },
       {
@@ -23892,13 +23892,19 @@ export const regions: RegionVote = {
         candidate_id: "187",
         district_id: "9604",
         vote_count: 32526,
+        district: {
+          id: "9604",
+          name_th: "นราธิวาส เขต 4",
+          name_en: "Narathiwat Constituency 4",
+          province_id: "96",
+        },
         candidate: {
           id: "187",
-          name_th: "โซจิ",
-          name_en: "Soji",
+          name_th: "Naomi Misora",
+          name_en: "Naomi Misora",
           partyId: "14",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/soji-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/naomi-sm.png",
           party: {
             id: "14",
             name_th: "เดธโน้ต",
@@ -23908,12 +23914,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "9604",
-          name_th: "นราธิวาส เขต 4",
-          name_en: "Narathiwat Constituency 4",
-          province_id: "96",
         },
       },
       {
@@ -23952,6 +23952,12 @@ export const regions: RegionVote = {
         candidate_id: "180",
         district_id: "9605",
         vote_count: 38898,
+        district: {
+          id: "9605",
+          name_th: "นราธิวาส เขต 5",
+          name_en: "Narathiwat Constituency 5",
+          province_id: "96",
+        },
         candidate: {
           id: "180",
           name_th: "ไลท์ ยากามิ",
@@ -23968,12 +23974,6 @@ export const regions: RegionVote = {
               "https://election-66.s3.ap-southeast-7.amazonaws.com/leader/deathnote.webp",
             color: "#000000",
           },
-        },
-        district: {
-          id: "9605",
-          name_th: "นราธิวาส เขต 5",
-          name_en: "Narathiwat Constituency 5",
-          province_id: "96",
         },
       },
       {
