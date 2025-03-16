@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Kanit } from "next/font/google";
 
-import { Sidebar } from "@/components/sidebar";
 import AppProvider from "@/providers/app";
 
 import "./globals.css";
@@ -25,12 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} antialiased`}>
-        <AppProvider>
-          <main className="flex h-screen p-8">
-            <Sidebar />
-            <div className="flex-1 pl-6">{children}</div>
-          </main>
-        </AppProvider>
+        <AppProvider>{children}</AppProvider>
       </body>
     </html>
   );

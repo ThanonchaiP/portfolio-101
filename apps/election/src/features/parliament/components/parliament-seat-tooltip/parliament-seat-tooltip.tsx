@@ -18,6 +18,7 @@ export const ParliamentSeatTooltip = ({
   if (!show) return null;
 
   const { name_en, count, image } = partyCount;
+  const countHalf = Math.floor(count / 2);
 
   return (
     <div
@@ -31,7 +32,7 @@ export const ParliamentSeatTooltip = ({
       <Image alt="party-image" src={image} width={68} height={48} />
       <h3 className="text-lg font-medium">{name_en}</h3>
       <h3 className="ml-2 text-2xl font-medium text-gray-400">
-        {count - 3}/{3}
+        {countHalf}/{countHalf}
       </h3>
       <div className="ml-1 flex items-end gap-1">
         <h3 className="text-2xl font-medium">{count}</h3>
