@@ -7,6 +7,7 @@ export const FormationSchema = z.object({
   description: z.string(),
   governmentPartyRefCodes: z.array(z.string()),
   oppositionPartyRefCodes: z.array(z.string()),
+  otherPartyRefCodes: z.array(z.string()),
   translations: z.object({
     th: z.object({ name: z.string() }),
     en: z.object({ name: z.string() }),

@@ -28,6 +28,7 @@
       "15",
       "11"
     ],
+    "otherPartyRefCodes": [],
     "translations": {
       "th": {
         "name": "สูตรแถลง 9 ส.ค."
@@ -60,6 +61,7 @@
       "5"
     ],
     "oppositionPartyRefCodes": ["2", "16", "3", "18", "17"],
+    "otherPartyRefCodes": [],
     "translations": {
       "th": {
         "name": "สูตรประชาช็อก"
@@ -92,6 +94,7 @@
       "5"
     ],
     "oppositionPartyRefCodes": ["1", "2", "19", "18", "20"],
+    "otherPartyRefCodes": [],
     "translations": {
       "th": {
         "name": "ใครจะสู้ววว"
@@ -125,6 +128,7 @@
       "5"
     ],
     "oppositionPartyRefCodes": ["16", "3", "18", "17"],
+    "otherPartyRefCodes": [],
     "translations": {
       "th": {
         "name": "เพื่อไทย แต่มีน้องลุง"
@@ -155,6 +159,7 @@
       "5"
     ],
     "oppositionPartyRefCodes": ["1", "14", "6", "16", "3", "18", "17"],
+    "otherPartyRefCodes": [],
     "translations": {
       "th": {
         "name": "\"เพื่อไทย\""
