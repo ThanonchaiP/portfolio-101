@@ -10,5 +10,8 @@ export * from "./components/geo-vote-list";
 export * from "./components/geo-region-menu";
 export * from "./components/geo-party-count";
 
+//schemas:
+export * from "./schemas";
+
 //types:
 export * from "./types";
