@@ -9,10 +9,10 @@ export const dynamic = "force-static";
 
 export async function GET(
   request: Request,
-  { params }: { params: { formationId: string } },
+  { params }: { params: Promise<{ formationId: string }> },
 ) {
   try {
-    const { formationId } = params;
+    const formationId = (await params).formationId;
     const { data } = await axios.get(`${API_URL}/regions/geo/party-count`);
     const partyCountMap = Object.fromEntries(
       data.data.map((party: PartyCount) => [party.id, party]),
