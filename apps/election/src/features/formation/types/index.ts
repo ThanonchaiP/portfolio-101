@@ -7,7 +7,9 @@ import { FormationSchema } from "../schemas";
 export type Formation = z.infer<typeof FormationSchema>;
 
 export type FormationDataSource = {
-  governmentPartyRefCodes: PartyCount[];
-  oppositionPartyRefCodes: PartyCount[];
-  otherPartyRefCodes: PartyCount[];
+  government: PartyCount[];
+  opposition: PartyCount[];
+  other: PartyCount[];
 };
+
+export type Board = "government" | "opposition" | "other";

@@ -22,14 +22,14 @@ export const FormationItem = ({
       className="group flex cursor-pointer flex-col"
     >
       <div
-        className="child flex items-center justify-between bg-gray-800 px-4 py-3 text-white transition-colors group-hover:bg-[var(--primary)]"
+        className="flex items-center justify-between bg-gray-800 px-4 py-3 text-white transition-colors group-hover:bg-[var(--primary)]"
         style={{
           clipPath:
             "polygon(0% 0%, calc(100% - 12px) 0%, 100% 12px, 100% 100%, 0% 100%)",
         }}
       >
         <h3 className="text-xl font-medium">{label}</h3>
-        <div className="child shrink-0 rounded bg-gray-500 px-2 py-1 font-medium text-white transition-colors group-hover:bg-[var(--background)] group-hover:text-[var(--primary)]">
+        <div className="shrink-0 rounded bg-gray-500 px-2 py-1 font-medium text-white transition-colors group-hover:bg-[var(--background)] group-hover:text-[var(--primary)]">
           รวม {totalSeats} ที่นั่ง
         </div>
       </div>
