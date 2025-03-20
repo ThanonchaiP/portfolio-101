@@ -243,7 +243,7 @@ export const FormationBoard = ({
 
       <div
         id="other-board"
-        className="flex h-screen flex-col overflow-y-scroll bg-gray-200 pt-4"
+        className="flex h-screen flex-col overflow-y-auto bg-gray-200 pt-4"
         onMouseUp={(e) => handleBoardDrop(e, "other")}
         onMouseEnter={() => handleMouseEnterBoard("other")}
         onMouseLeave={handleMouseLeaveBoard}
