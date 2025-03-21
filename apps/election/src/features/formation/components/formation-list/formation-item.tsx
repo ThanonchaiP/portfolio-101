@@ -18,7 +18,7 @@ export const FormationItem = ({
 
   return (
     <Link
-      href={`/formation/${id}`}
+      href={`/formation/formula?id=${id}`}
       className="group flex cursor-pointer flex-col"
     >
       <div

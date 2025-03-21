@@ -6,6 +6,7 @@ export * from "./components/formation-list";
 export * from "./components/formation-wait-list";
 export * from "./components/formation-board";
 export * from "./components/formation-party-card";
+export * from "./components/formation-overview";
 
 //store:
 export * from "./store";

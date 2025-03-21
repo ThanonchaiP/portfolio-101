@@ -80,7 +80,7 @@ export const FormationBoard = ({
 
   return (
     <Fragment>
-      <div className="grid grid-rows-2 gap-4 p-6">
+      <div className="mx-6 my-4 grid grid-rows-2 gap-4">
         <div
           id="government-board"
           className="relative z-[1] flex size-full flex-col"

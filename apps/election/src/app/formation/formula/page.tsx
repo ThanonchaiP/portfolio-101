@@ -1,23 +1,21 @@
 "use client";
 
-import { Fragment, use, useEffect } from "react";
+import { useSearchParams } from "next/navigation";
+import { Fragment, useEffect } from "react";
 
 import {
   Board,
   FormationBoard,
+  FormationOverview,
   FormationPartyCard,
   useFormationStore,
   useGetFormation,
 } from "@/features/formation";
 
-type FormationFormulaPageProps = {
-  params: Promise<{ formationId: string }>;
-};
+export default function FormationFormulaPage() {
+  const searchParams = useSearchParams();
+  const formationId = searchParams.get("id") ?? "";
 
-export default function FormationFormulaPage({
-  params,
-}: FormationFormulaPageProps) {
-  const { formationId } = use(params);
   const {
     dragging,
     dragOffset,
@@ -34,7 +32,7 @@ export default function FormationFormulaPage({
     onSetShowClone,
   } = useFormationStore();
 
-  const { data, isPending } = useGetFormation({ formationId });
+  const { data } = useGetFormation({ formationId });
 
   const handleDragMove = (e: React.MouseEvent): void => {
     if (!dragging) return;
@@ -137,7 +135,7 @@ export default function FormationFormulaPage({
     });
   }, [data, onSetDataSource]);
 
-  if (isPending) return null;
+  // if (isPending) return null;
 
   return (
     <Fragment>
@@ -146,9 +144,7 @@ export default function FormationFormulaPage({
         onMouseMove={handleDragMove}
         onMouseUp={() => handleDragEnd(null)}
       >
-        <div className="flex items-center justify-between py-6">
-          <h1>test</h1>
-        </div>
+        <FormationOverview formation={data} />
         <div className="grid h-full grid-cols-[1fr,12%]">
           <FormationBoard
             handleBoardDrop={handleBoardDrop}
