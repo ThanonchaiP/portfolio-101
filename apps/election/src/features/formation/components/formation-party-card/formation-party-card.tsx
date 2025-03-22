@@ -17,33 +17,22 @@ type FormationPartyCardProps = {
   ) => void;
 };
 
-const FormationPartyCardElement = ({
-  party,
-  board,
-  isDragging,
-  handleDragStart,
-}: FormationPartyCardProps) => {
-  const handleMouseDown = (e: React.MouseEvent) => {
-    handleDragStart?.(e, party, board);
-  };
+const getBackgroundAndBorder = (board: Board) => {
+  const background =
+    board === "government"
+      ? "linear-gradient(169.31deg, rgb(213, 153, 47) 25.18%, rgb(225, 196, 128) 93.97%)"
+      : board === "opposition"
+        ? "linear-gradient(169.31deg, rgb(217, 217, 217) 25.18%, rgb(255, 255, 255) 93.97%)"
+        : "rgb(204, 202, 202)";
 
-  return (
-    <div
-      id={`party-${party.id}`}
-      className={cn("h-fit cursor-grab touch-none", isDragging && "opacity-60")}
-      onMouseDown={handleMouseDown}
-    >
-      <div className="pointer-events-none relative h-0 w-full select-none pt-[125%]">
-        <div className="absolute left-0 top-0 flex size-full flex-col items-center overflow-hidden rounded border border-[#919090] bg-[#CCCACA]">
-          <h3 className="mt-1 w-full truncate text-center">{party.name_en}</h3>
+  const borderColor =
+    board === "government"
+      ? "#C18821"
+      : board === "opposition"
+        ? "rgb(145, 144, 144)"
+        : "rgb(145, 144, 144)";
 
-          <PartyLogo image={party.image} />
-          <CandidateImage image={party.candidate_img} />
-          <SeatCounter count={party.count} />
-        </div>
-      </div>
-    </div>
-  );
+  return { background, borderColor };
 };
 
 const PartyLogo = ({ image }: { image: string }) => (
@@ -76,5 +65,45 @@ const SeatCounter = ({ count }: { count: number }) => (
     <p>ที่นั่ง</p>
   </div>
 );
+
+const FormationPartyCardElement = ({
+  party,
+  board,
+  isDragging,
+  handleDragStart,
+}: FormationPartyCardProps) => {
+  const handleMouseDown = (e: React.MouseEvent) => {
+    handleDragStart?.(e, party, board);
+  };
+
+  const { background, borderColor } = getBackgroundAndBorder(board);
+
+  return (
+    <div
+      id={`party-${party.id}`}
+      className={cn("h-fit cursor-grab touch-none", isDragging && "opacity-60")}
+      onMouseDown={handleMouseDown}
+    >
+      <div className="pointer-events-none relative h-0 w-full select-none pt-[125%]">
+        <div
+          style={{ background, borderColor }}
+          className="absolute left-0 top-0 flex size-full flex-col items-center overflow-hidden rounded border"
+        >
+          <h3
+            className={cn(
+              "mt-1 w-full truncate text-center",
+              board === "government" ? "text-white" : "text-gray-800",
+            )}
+          >
+            {party.name_en}
+          </h3>
+          <PartyLogo image={party.image} />
+          <CandidateImage image={party.candidate_img} />
+          <SeatCounter count={party.count} />
+        </div>
+      </div>
+    </div>
+  );
+};
 
 export const FormationPartyCard = memo(FormationPartyCardElement);

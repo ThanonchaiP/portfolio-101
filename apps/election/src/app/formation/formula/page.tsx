@@ -93,7 +93,9 @@ export default function FormationFormulaPage() {
         );
 
         // Add to target board
-        newColumns[targetBoard] = [...dataSource[targetBoard], card];
+        newColumns[targetBoard] = [...dataSource[targetBoard], card].sort(
+          (a, b) => b.count - a.count,
+        );
         onSetDataSource(newColumns);
       }
     }
@@ -154,7 +156,7 @@ export default function FormationFormulaPage() {
         </div>
 
         {/* Dragging Clone */}
-        {showClone && dragging && (
+        {showClone && dragging && sourceBoard && (
           <div
             className="fixed cursor-grab shadow-md"
             style={{
@@ -166,7 +168,7 @@ export default function FormationFormulaPage() {
               height: `${dragging?.height ?? 123}px`,
             }}
           >
-            <FormationPartyCard board="other" party={dragging} />
+            <FormationPartyCard board={sourceBoard} party={dragging} />
           </div>
         )}
       </div>

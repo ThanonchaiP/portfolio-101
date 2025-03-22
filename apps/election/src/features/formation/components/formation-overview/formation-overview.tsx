@@ -1,4 +1,7 @@
+"use client";
+
 import { Icon } from "@iconify/react";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { memo } from "react";
 
@@ -6,6 +9,7 @@ import { Select } from "@/components/select";
 import formations from "@/data/formations.json";
 
 import { Formation } from "../../types";
+import { FormationCandidateGroup } from "../formation-candidate-group";
 
 type FormationOverviewProps = {
   formation?: Formation;
@@ -22,10 +26,13 @@ const FormationOverviewElement = ({ formation }: FormationOverviewProps) => {
     <div className="flex flex-col justify-between py-6">
       <div className="flex flex-col gap-4">
         <div className="flex w-full items-center justify-between">
-          <button className="flex items-center gap-2 rounded-3xl bg-white px-6 py-2 text-[var(--primary)] shadow-md hover:text-orange-600">
+          <Link
+            href="/formation"
+            className="flex items-center gap-2 rounded-3xl bg-white px-6 py-2 text-[var(--primary)] shadow-md hover:text-orange-600"
+          >
             <Icon icon="material-symbols:arrow-left-alt-rounded" />
             กลับ
-          </button>
+          </Link>
         </div>
 
         <div className="flex flex-col items-center">
@@ -37,6 +44,7 @@ const FormationOverviewElement = ({ formation }: FormationOverviewProps) => {
               value: item.id,
             }))}
           />
+          <FormationCandidateGroup />
         </div>
       </div>
 

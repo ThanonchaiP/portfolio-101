@@ -34,6 +34,8 @@ export const FormationBoard = ({
     onSwapFormation,
   } = useFormationStore();
 
+  const { government, opposition } = dataSource;
+
   const govermentCount = dataSource.government.reduce(
     (acc, party) => acc + party.count,
     0,
@@ -105,7 +107,10 @@ export const FormationBoard = ({
             </span>
           </div>
           <div
-            className="grid h-full grid-cols-7 grid-rows-2 gap-2 rounded rounded-tl-none border border-[#C18821] bg-[#F2EADB] p-3 transition-colors"
+            className={cn(
+              "grid h-full grid-cols-7 grid-rows-2 gap-2 rounded rounded-tl-none border border-[#C18821] bg-[#F2EADB] p-3 transition-colors",
+              government.length > 14 && "grid-cols-8",
+            )}
             style={{
               ...(hoverBoard === "government" && {
                 backgroundColor: "#eee2ce",
@@ -189,7 +194,10 @@ export const FormationBoard = ({
           </div>
 
           <div
-            className="z-[1] grid h-full grid-cols-7 grid-rows-2 gap-2 rounded rounded-tl-none border border-[#919090] bg-[#f8f8f8] p-3 transition-colors"
+            className={cn(
+              "z-[1] grid h-full grid-cols-7 grid-rows-2 gap-2 rounded rounded-tl-none border border-[#919090] bg-[#f8f8f8] p-3 transition-colors",
+              opposition.length > 14 && "grid-cols-8",
+            )}
             style={{
               ...(hoverBoard === "opposition" && {
                 backgroundColor: "#eaeaea",

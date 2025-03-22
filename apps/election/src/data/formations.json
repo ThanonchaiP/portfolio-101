@@ -106,9 +106,9 @@
   },
   {
     "id": "16",
-    "label": "เพื่อไทย แต่มีน้องลุง",
-    "name": "เพื่อไทย แต่มีน้องลุง",
-    "description": "เพื่อไทย แต่มีน้องลุง",
+    "label": "Sunny Pirates",
+    "name": "Sunny Pirates",
+    "description": "Sunny Pirates",
     "governmentPartyRefCodes": [
       "1",
       "2",
@@ -131,7 +131,7 @@
     "otherPartyRefCodes": [],
     "translations": {
       "th": {
-        "name": "เพื่อไทย แต่มีน้องลุง"
+        "name": "Sunny Pirates"
       },
       "en": {
         "name": "With Uncle's Brother"
@@ -140,9 +140,9 @@
   },
   {
     "id": "17",
-    "label": "\"เพื่อไทย\"",
-    "name": "\"เพื่อไทย\"",
-    "description": "\"เพื่อไทย\"",
+    "label": "\"นิ่งไว้!!!!!\"",
+    "name": "\"นิ่งไว้!!!!!\"",
+    "description": "\"นิ่งไว้!!!!!\"",
     "governmentPartyRefCodes": [
       "2",
       "19",
