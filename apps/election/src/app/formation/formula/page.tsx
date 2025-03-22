@@ -30,6 +30,7 @@ export default function FormationFormulaPage() {
     onSetSourceBoard,
     onSetDragOffset,
     onSetShowClone,
+    onReset,
   } = useFormationStore();
 
   const { data } = useGetFormation({ formationId });
@@ -124,6 +125,7 @@ export default function FormationFormulaPage() {
 
   useEffect(() => {
     if (!data) return;
+
     const {
       governmentPartyRefCodes,
       oppositionPartyRefCodes,
@@ -135,9 +137,9 @@ export default function FormationFormulaPage() {
       opposition: oppositionPartyRefCodes,
       other: otherPartyRefCodes,
     });
-  }, [data, onSetDataSource]);
 
-  // if (isPending) return null;
+    return () => onReset();
+  }, [data, onReset, onSetDataSource]);
 
   return (
     <Fragment>

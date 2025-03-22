@@ -11,6 +11,8 @@ import formations from "@/data/formations.json";
 import { Formation } from "../../types";
 import { FormationCandidateGroup } from "../formation-candidate-group";
 
+import { OverviewTotal } from "./overview-total";
+
 type FormationOverviewProps = {
   formation?: Formation;
 };
@@ -46,6 +48,8 @@ const FormationOverviewElement = ({ formation }: FormationOverviewProps) => {
           />
           <FormationCandidateGroup />
         </div>
+
+        <OverviewTotal />
       </div>
 
       <p className="mx-auto flex cursor-pointer items-center gap-1 font-bold text-gray-600 hover:text-gray-800">

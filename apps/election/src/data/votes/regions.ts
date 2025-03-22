@@ -6113,7 +6113,7 @@ export const regions: RegionVote = {
           name_en: "Gaara",
           partyId: "1",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gaara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/shikamaru-sm.webp",
           party: {
             id: "1",
             name_th: "นินจาคาถาโอ้โฮเฮะ",
@@ -14244,7 +14244,7 @@ export const regions: RegionVote = {
           name_en: "Gaara",
           partyId: "1",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gaara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/shikamaru-sm.webp",
           party: {
             id: "1",
             name_th: "นินจาคาถาโอ้โฮเฮะ",
@@ -15864,7 +15864,7 @@ export const regions: RegionVote = {
           name_en: "Gaara",
           partyId: "1",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gaara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/shikamaru-sm.webp",
           party: {
             id: "1",
             name_th: "นินจาคาถาโอ้โฮเฮะ",
@@ -23873,7 +23873,7 @@ export const regions: RegionVote = {
           name_en: "Gaara",
           partyId: "1",
           image:
-            "https://election-66.s3.ap-southeast-7.amazonaws.com/gaara-sm.png",
+            "https://election-66.s3.ap-southeast-7.amazonaws.com/shikamaru-sm.webp",
           party: {
             id: "1",
             name_th: "นินจาคาถาโอ้โฮเฮะ",
