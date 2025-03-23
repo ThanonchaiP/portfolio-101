@@ -21,7 +21,7 @@ export const useBreakpoint = () => {
       else if (width >= breakpoints.lg) setBreakpoint("lg");
       else if (width >= breakpoints.md) setBreakpoint("md");
       else if (width >= breakpoints.sm) setBreakpoint("sm");
-      else setBreakpoint(null);
+      else setBreakpoint("sm");
     };
 
     updateBreakpoint();
