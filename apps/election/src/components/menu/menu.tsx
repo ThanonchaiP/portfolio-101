@@ -33,12 +33,12 @@ export const Menu = () => {
   const pathname = usePathname();
 
   return (
-    <div className="flex flex-1 flex-col gap-6 pt-12">
+    <div className="flex w-full flex-1 justify-center gap-4 overflow-auto lg:w-fit lg:flex-none lg:justify-start xl:flex-1 xl:flex-col xl:gap-6 xl:pt-12">
       {navItems.map((item) => (
         <MenuItem key={item.href} {...item} pathname={pathname} />
       ))}
 
-      <div className="flex flex-col gap-[10px]">
+      <div className="hidden flex-col gap-[10px] xl:flex">
         {subNavItems.map((item) => (
           <Link
             key={item.href}
