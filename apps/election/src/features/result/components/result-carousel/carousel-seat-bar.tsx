@@ -34,11 +34,11 @@ export const CarouselSeatBar = ({
   return (
     <div className="relative flex h-8 w-full items-center bg-white">
       <div
-        className="absolute bottom-[50px] right-0 z-10 flex cursor-pointer items-center gap-2"
+        className="absolute bottom-[36px] right-0 z-10 flex cursor-pointer items-center gap-2 md:bottom-[50px]"
         onClick={toggle}
       >
         <div className="inline-block size-4 bg-slate-400" />
-        <h3>
+        <h3 className="text-xs md:text-base">
           พรรคอื่น ๆ {morePartyCount} ที่นั่ง
           <Icon
             icon="material-symbols:info"

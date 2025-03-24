@@ -38,8 +38,8 @@ export const ResultCarousel = () => {
   };
 
   return (
-    <div className="flex h-full max-w-[800px] flex-1 items-center justify-center">
-      <div className="relative m-auto h-fit w-full pb-[60px]">
+    <div className="flex size-full flex-1 items-center justify-center">
+      <div className="relative h-fit w-full max-w-[620px] pb-[60px] lg:max-w-[800px] lg:pb-[60px]">
         <CarouselPagination
           activeIndex={activeIndex}
           formations={formations}

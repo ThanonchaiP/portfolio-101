@@ -33,7 +33,7 @@ export const Menu = () => {
   const pathname = usePathname();
 
   return (
-    <div className="flex w-full flex-1 justify-center gap-4 overflow-auto lg:w-fit lg:flex-none lg:justify-start xl:flex-1 xl:flex-col xl:gap-6 xl:pt-12">
+    <div className="flex w-full flex-1 justify-start gap-4 overflow-auto px-2 md:justify-center lg:w-fit lg:flex-none lg:justify-start lg:px-0 xl:flex-1 xl:flex-col xl:gap-6 xl:pt-12">
       {navItems.map((item) => (
         <MenuItem key={item.href} {...item} pathname={pathname} />
       ))}

@@ -16,15 +16,15 @@ export const CarouselCharacterCard = ({
   };
 
   const sizeStyles = {
-    left: "size-[64px]",
-    center: "size-[74px]",
-    right: "size-[64px]",
+    left: "md:size-[64px] size-[54px]",
+    center: "md:size-[74px] size-[54px]",
+    right: "md:size-[64px] size-[54px]",
   };
 
   const textStyles = {
-    left: "h-[30px] text-3xl",
-    center: "h-[36px] text-4xl",
-    right: "h-[30px] text-3xl",
+    left: "md:h-[30px] md:text-3xl",
+    center: "md:h-[36px] md:text-4xl",
+    right: "md:h-[30px] md:text-3xl",
   };
 
   return (
@@ -47,11 +47,13 @@ export const CarouselCharacterCard = ({
             className={`absolute ${positionStyles[position]} flex ${sizeStyles[position]} flex-col justify-center bg-slate-50 text-center`}
           >
             <h3
-              className={`${textStyles[position]} font-bold text-[var(--primary)]`}
+              className={`${textStyles[position]} text-lg font-bold text-[var(--primary)]`}
             >
               {seatCount}
             </h3>
-            <p className="text-[var(--primary)]">ที่นั่ง</p>
+            <p className="text-sm text-[var(--primary)] md:text-base">
+              ที่นั่ง
+            </p>
           </div>
         </div>
       </div>
