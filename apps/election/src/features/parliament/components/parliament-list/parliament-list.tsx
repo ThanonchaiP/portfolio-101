@@ -7,7 +7,7 @@ export const ParliamentList = () => {
   const { data, isPending } = useGetPartyCount({ regionId: "geo" });
 
   return (
-    <div className="flex h-full flex-1 overflow-hidden">
+    <div className="flex h-full overflow-hidden lg:max-h-[80vh] xl:max-h-none">
       <div className="flex w-full flex-col">
         <div
           className="border-b border-gray-200"
@@ -28,7 +28,7 @@ export const ParliamentList = () => {
               <br />
               (ที่นั่ง)
             </div>
-            <div className="ml-3 w-[10vmin] text-right text-sm">
+            <div className="ml-3 hidden w-[10vmin] text-right text-sm md:block">
               ทั้งหมด
               <br />
               (ที่นั่ง)

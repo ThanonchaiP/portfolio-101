@@ -45,20 +45,21 @@ export const ParliamentListItem = ({
       )}
       style={{ backgroundColor: isWinner ? party.color : "" }}
     >
-      {/* ลำดับหมายเลข */}
       <h1
         className={cn(
-          "min-w-[26px] text-center text-[26px] font-bold",
-          isWinner && "text-[32px]",
+          "hidden min-w-[26px] text-center text-xl font-bold md:block md:text-[26px]",
+          isWinner && "text-2xl md:text-[32px]",
         )}
       >
         {number}
       </h1>
 
-      {/* โลโก้ + ชื่อพรรค */}
-      <div className="ml-3 flex flex-1 items-center gap-3">
+      <div className="flex flex-1 items-center gap-3 md:ml-3">
         <div
-          className={cn("min-w-[76px] rounded p-[6px]", isWinner && "bg-white")}
+          className={cn(
+            "relative max-w-[46px] rounded p-[6px] md:min-w-[76px] md:max-w-none",
+            isWinner && "bg-white",
+          )}
         >
           <Image
             alt="party-image"
@@ -67,18 +68,22 @@ export const ParliamentListItem = ({
             height={28}
             className="size-auto"
           />
+
+          <span className="absolute bottom-[-9px] left-[-4px] flex size-[18px] items-center justify-center rounded-sm bg-white font-bold text-gray-700 shadow-md">
+            {number}
+          </span>
         </div>
         <h3
           className={cn(
-            "text-lg font-medium text-gray-600",
-            isWinner && "text-2xl font-bold text-white",
+            "text-base font-medium text-gray-600 md:text-lg",
+            isWinner && "text-xl font-bold text-white md:text-2xl",
           )}
         >
           {party.name_en}
+          <div className="block md:hidden">รวม {party.count} ที่นั่ง</div>
         </h3>
       </div>
 
-      {/* ข้อมูลจำนวนที่นั่ง */}
       <InfoBlock
         value={Math.floor(party.count / 2)}
         subValue={(party.count / 2) * 900}
@@ -90,8 +95,7 @@ export const ParliamentListItem = ({
         isWinner={isWinner}
       />
 
-      {/* จำนวนที่นั่งทั้งหมด */}
-      <div className="ml-3 flex w-[10vmin] flex-col items-end">
+      <div className="ml-3 hidden w-[10vmin] flex-col items-end md:flex">
         <div
           className={cn(
             "rounded text-black",

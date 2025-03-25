@@ -84,12 +84,12 @@ export const ParliamentSeat = () => {
   return (
     <div className="flex flex-1 items-center">
       <div className="flex w-full flex-col gap-5">
-        <div className="flex w-[83%] flex-col gap-1 text-center">
-          <span className="text-xl font-medium">
+        <div className="flex flex-col gap-1 text-center md:w-[83%]">
+          <span className="text-base font-medium md:text-xl">
             ผลการเลือกตั้ง ส.ส. ทั้งหมด
           </span>
-          <span className="text-2xl font-light text-[var(--primary)]">
-            <span className="text-4xl font-bold">400</span> ที่นั่ง
+          <span className="text-lg font-light text-[var(--primary)] md:text-2xl">
+            <span className="text-2xl font-bold md:text-4xl">400</span> ที่นั่ง
           </span>
         </div>
 
