@@ -28,8 +28,8 @@ export const FormationItem = ({
             "polygon(0% 0%, calc(100% - 12px) 0%, 100% 12px, 100% 100%, 0% 100%)",
         }}
       >
-        <h3 className="text-xl font-medium">{label}</h3>
-        <div className="shrink-0 rounded bg-gray-500 px-2 py-1 font-medium text-white transition-colors group-hover:bg-[var(--background)] group-hover:text-[var(--primary)]">
+        <h3 className="text-base font-medium md:text-xl">{label}</h3>
+        <div className="shrink-0 rounded bg-gray-500 px-2 py-1 text-sm font-medium text-white transition-colors group-hover:bg-[var(--background)] group-hover:text-[var(--primary)] md:text-base">
           รวม {totalSeats} ที่นั่ง
         </div>
       </div>

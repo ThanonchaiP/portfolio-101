@@ -16,7 +16,7 @@ export const FormationList = () => {
 
   return (
     <div className="flex w-full justify-center">
-      <div className="mt-6 grid w-[90%] grid-cols-3 gap-8">
+      <div className="mt-6 grid w-full grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 xl:w-[90%]">
         {data?.data.map((formation) => {
           const totalSeats = formation.governmentPartyRefCodes.reduce(
             (acc, partyId) => acc + (partiesObj[partyId]?.count || 0),
