@@ -8,7 +8,7 @@ export const FormationCandidateGroup = () => {
   const [first, second, third] = dataSource.government;
 
   return (
-    <div className="relative z-0 w-full pt-[85%]">
+    <div className="relative z-0 hidden w-full pt-[85%] xl:block">
       <div className="absolute inset-0 grid grid-cols-[1fr,1.25fr,1fr] items-center">
         <CandidateCard position="left" party={second} />
         <CandidateCard position="center" party={first} />

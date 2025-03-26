@@ -2,6 +2,7 @@ import { Icon } from "@iconify/react";
 import { motion } from "framer-motion";
 import { Fragment, useCallback } from "react";
 
+import { useBreakpoint } from "@/hooks/use-breakpoint";
 import { cn } from "@/lib/utils";
 import { PartyCount } from "@/types";
 
@@ -33,6 +34,7 @@ export const FormationBoard = ({
     onSetShowClone,
     onSwapFormation,
   } = useFormationStore();
+  const breakpoint = useBreakpoint();
 
   const { government, opposition } = dataSource;
 
@@ -82,7 +84,12 @@ export const FormationBoard = ({
 
   return (
     <Fragment>
-      <div className="mx-6 my-4 grid grid-rows-2 gap-4">
+      <div
+        className={cn(
+          "mx-6 grid grid-rows-2 gap-4 bg-fuchsia-400 py-4 xl:my-4 xl:py-0",
+          breakpoint === "lg",
+        )}
+      >
         <div
           id="government-board"
           className="relative z-[1] flex size-full flex-col"
@@ -108,13 +115,17 @@ export const FormationBoard = ({
           </div>
           <div
             className={cn(
-              "grid h-full grid-cols-7 grid-rows-2 gap-2 rounded rounded-tl-none border border-[#C18821] bg-[#F2EADB] p-3 transition-colors",
-              government.length > 14 && "grid-cols-8",
+              "grid h-full grid-cols-10 gap-2 rounded rounded-tl-none border border-[#C18821] bg-[#F2EADB] p-3 transition-colors xl:grid-cols-7 xl:grid-rows-2",
+              government.length > 14 && "grid-cols-12 xl:grid-cols-8",
             )}
             style={{
               ...(hoverBoard === "government" && {
                 backgroundColor: "#eee2ce",
               }),
+              ...(breakpoint === "lg" &&
+                government.length > 10 && {
+                  gridTemplateColumns: `repeat(${government.length}, 1fr)`,
+                }),
             }}
           >
             {dataSource.government.map((party) => (
@@ -195,13 +206,17 @@ export const FormationBoard = ({
 
           <div
             className={cn(
-              "z-[1] grid h-full grid-cols-7 grid-rows-2 gap-2 rounded rounded-tl-none border border-[#919090] bg-[#f8f8f8] p-3 transition-colors",
-              opposition.length > 14 && "grid-cols-8",
+              "z-[1] grid h-full grid-cols-10 gap-2 rounded rounded-tl-none border border-[#919090] bg-[#f8f8f8] p-3 transition-colors xl:grid-cols-7 xl:grid-rows-2",
+              opposition.length > 14 && "grid-cols-12 xl:grid-cols-8",
             )}
             style={{
               ...(hoverBoard === "opposition" && {
                 backgroundColor: "#eaeaea",
               }),
+              ...(breakpoint === "lg" &&
+                opposition.length > 10 && {
+                  gridTemplateColumns: `repeat(${opposition.length}, 1fr)`,
+                }),
             }}
           >
             {dataSource.opposition.map((party) => (
@@ -251,21 +266,22 @@ export const FormationBoard = ({
 
       <div
         id="other-board"
-        className="flex h-screen flex-col overflow-y-auto bg-gray-200 pt-4"
+        className="flex h-full flex-col overflow-y-auto bg-gray-200 p-3 xl:h-screen xl:p-0 xl:pt-4"
         onMouseUp={(e) => handleBoardDrop(e, "other")}
         onMouseEnter={() => handleMouseEnterBoard("other")}
         onMouseLeave={handleMouseLeaveBoard}
       >
-        <h3 className="px-1 text-center text-lg font-medium">
+        <h3 className="px-1 text-lg font-medium xl:text-center">
           ยังไม่เลือกฝ่าย
         </h3>
 
-        <div className="flex flex-col gap-3 px-3 py-4">
+        <div className="flex size-full gap-3 pt-2 xl:flex-col xl:px-3 xl:pt-4">
           {dataSource.other.map((party) => (
             <FormationPartyCard
               key={party.id}
               party={party}
               board="other"
+              className="w-[72px] xl:w-full"
               handleDragStart={handleDragStart}
               isDragging={dragging?.id === party.id}
             />

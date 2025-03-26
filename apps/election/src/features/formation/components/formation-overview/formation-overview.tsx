@@ -25,19 +25,19 @@ const FormationOverviewElement = ({ formation }: FormationOverviewProps) => {
   };
 
   return (
-    <div className="flex flex-col justify-between py-6">
-      <div className="flex flex-col gap-4">
-        <div className="flex w-full items-center justify-between">
+    <div className="flex justify-between gap-4 p-4 md:justify-start md:p-6 xl:flex-col xl:justify-between xl:gap-0 xl:px-0">
+      <div className="flex gap-4 xl:flex-col">
+        <div className="flex items-center justify-between xl:w-full">
           <Link
             href="/formation"
-            className="flex items-center gap-2 rounded-3xl bg-white px-6 py-2 text-[var(--primary)] shadow-md hover:text-orange-600"
+            className="flex items-center gap-2 rounded-3xl bg-white px-6 py-2 text-sm text-[var(--primary)] shadow-md hover:text-orange-600 md:text-base"
           >
             <Icon icon="material-symbols:arrow-left-alt-rounded" />
             กลับ
           </Link>
         </div>
 
-        <div className="flex flex-col items-center">
+        <div className="hidden flex-col items-center md:flex">
           <Select
             defaultValue={formation?.id ?? ""}
             onChange={onChange}
@@ -52,7 +52,7 @@ const FormationOverviewElement = ({ formation }: FormationOverviewProps) => {
         <OverviewTotal />
       </div>
 
-      <p className="mx-auto flex cursor-pointer items-center gap-1 font-bold text-gray-600 hover:text-gray-800">
+      <p className="flex cursor-pointer items-center gap-1 text-sm font-bold text-gray-600 hover:text-gray-800 xl:mx-auto xl:text-base">
         <Icon icon="material-symbols:settings-rounded" /> กรอกที่นั่ง
       </p>
     </div>

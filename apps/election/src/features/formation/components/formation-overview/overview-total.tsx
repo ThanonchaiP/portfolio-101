@@ -12,7 +12,7 @@ export const OverviewTotal = () => {
 
   return (
     <>
-      <div className="mx-auto flex w-[200px] max-w-[200px] items-center justify-between rounded border border-[#c18821] px-2 py-1 text-[#c18821]">
+      <div className="hidden max-w-[200px] items-center justify-between rounded border border-[#c18821] px-2 py-1 text-[#c18821] xl:mx-auto xl:flex xl:w-[200px]">
         <span className="font-medium">รวมทั้งหมด</span>
         <div className="flex items-center gap-2">
           <span className="text-2xl font-bold">{governmentSeats}</span>
@@ -20,7 +20,7 @@ export const OverviewTotal = () => {
         </div>
       </div>
 
-      <button className="mx-auto mt-2 flex items-center justify-center gap-1 rounded bg-[var(--primary)] px-3 py-2 text-xl font-medium text-white hover:brightness-90">
+      <button className="flex max-h-[45px] items-center justify-center gap-1 rounded bg-[var(--primary)] px-3 py-2 text-sm font-medium text-white hover:brightness-90 md:text-base xl:mx-auto xl:mt-2 xl:text-xl">
         <Icon icon="material-symbols:handshake" />
         จับขั้วเลย
       </button>

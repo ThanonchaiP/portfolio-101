@@ -10,6 +10,7 @@ type FormationPartyCardProps = {
   party: PartyCount;
   board: Board;
   isDragging?: boolean;
+  className?: string;
   handleDragStart?: (
     e: React.MouseEvent,
     party: PartyCount,
@@ -69,6 +70,7 @@ const SeatCounter = ({ count }: { count: number }) => (
 const FormationPartyCardElement = ({
   party,
   board,
+  className,
   isDragging,
   handleDragStart,
 }: FormationPartyCardProps) => {
@@ -81,7 +83,11 @@ const FormationPartyCardElement = ({
   return (
     <div
       id={`party-${party.id}`}
-      className={cn("h-fit cursor-grab touch-none", isDragging && "opacity-60")}
+      className={cn(
+        "h-full cursor-grab touch-none xl:h-fit",
+        isDragging && "opacity-60",
+        className && className,
+      )}
       onMouseDown={handleMouseDown}
     >
       <div className="pointer-events-none relative h-0 w-full select-none pt-[125%]">
