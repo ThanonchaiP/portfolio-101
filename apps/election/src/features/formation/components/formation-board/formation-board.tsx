@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import { Fragment, useCallback } from "react";
 
 import { useBreakpoint } from "@/hooks/use-breakpoint";
-import { cn } from "@/lib/utils";
 import { PartyCount } from "@/types";
 
 import { useFormationStore } from "../../store";
@@ -84,12 +83,7 @@ export const FormationBoard = ({
 
   return (
     <Fragment>
-      <div
-        className={cn(
-          "mx-6 grid grid-rows-2 gap-4 bg-fuchsia-400 py-4 xl:my-4 xl:py-0",
-          breakpoint === "lg",
-        )}
-      >
+      <div className="grid grid-rows-2 gap-4 py-4 md:mx-6 xl:my-4 xl:py-0">
         <div
           id="government-board"
           className="relative z-[1] flex size-full flex-col"
@@ -98,30 +92,37 @@ export const FormationBoard = ({
           onMouseLeave={handleMouseLeaveBoard}
         >
           <div
-            className={cn(
-              "relative z-10 mb-[-1.5px] flex w-[36%] items-center justify-between rounded rounded-b-none border border-b-0 border-[#C18821] bg-[#F2EADB] px-3 py-2 transition-colors",
-            )}
+            className={
+              "relative z-10 mb-[-1.5px] flex w-[56%] items-center justify-between rounded rounded-b-none border border-b-0 border-[#C18821] bg-[#F2EADB] px-3 py-2 transition-colors md:w-[36%]"
+            }
             style={{
               ...(hoverBoard === "government" && {
                 backgroundColor: "#eee2ce",
               }),
             }}
           >
-            <h3 className="text-2xl font-bold text-[#C18821]">ฝ่ายรัฐบาล</h3>
+            <h3 className="text-base font-bold text-[#C18821] md:text-2xl">
+              ฝ่ายรัฐบาล
+            </h3>
             <span className="rounded bg-[#C18821] px-3 py-1 text-white">
-              <span className="text-2xl font-bold">{govermentCount}</span>{" "}
+              <span className="text-base font-bold md:text-2xl">
+                {govermentCount}
+              </span>{" "}
               ที่นั่ง
             </span>
           </div>
           <div
-            className={cn(
-              "grid h-full grid-cols-10 gap-2 rounded rounded-tl-none border border-[#C18821] bg-[#F2EADB] p-3 transition-colors xl:grid-cols-7 xl:grid-rows-2",
-              government.length > 14 && "grid-cols-12 xl:grid-cols-8",
-            )}
+            className={
+              "grid h-full grid-cols-10 gap-2 rounded rounded-tl-none border border-[#C18821] bg-[#F2EADB] p-3 transition-colors xl:grid-cols-7 xl:grid-rows-2"
+            }
             style={{
               ...(hoverBoard === "government" && {
                 backgroundColor: "#eee2ce",
               }),
+              ...(["xl", "2xl"].includes(breakpoint ?? "") &&
+                government.length > 14 && {
+                  gridTemplateColumns: `repeat(${Math.ceil(government.length / 2)}, 1fr)`,
+                }),
               ...(breakpoint === "lg" &&
                 government.length > 10 && {
                   gridTemplateColumns: `repeat(${government.length}, 1fr)`,
@@ -180,39 +181,49 @@ export const FormationBoard = ({
           onMouseLeave={handleMouseLeaveBoard}
         >
           <div
-            className="relative z-10 mb-[-1.5px] flex w-[36%] items-center justify-between rounded rounded-b-none border border-b-0 border-[#919090] bg-[#f8f8f8] px-3 py-2 transition-colors"
+            className="relative z-10 mb-[-1.5px] flex w-[56%] items-center justify-between rounded rounded-b-none border border-b-0 border-[#919090] bg-[#f8f8f8] px-3 py-2 transition-colors md:w-[36%]"
             style={{
               ...(hoverBoard === "opposition" && {
                 backgroundColor: "#eaeaea",
               }),
             }}
           >
-            <h3 className="text-2xl font-bold text-[#919090]">ฝ่ายค้าน</h3>
+            <h3 className="text-base font-bold text-[#919090] md:text-2xl">
+              ฝ่ายค้าน
+            </h3>
             <span className="rounded bg-[#919090] px-3 py-1 text-white">
-              <span className="text-2xl font-bold">{oppositionCount}</span>{" "}
+              <span className="text-base font-bold md:text-2xl">
+                {oppositionCount}
+              </span>{" "}
               ที่นั่ง
             </span>
           </div>
 
-          <div className="absolute flex size-full items-start justify-center">
+          <div className="absolute flex size-full items-start justify-end pr-5 md:justify-center md:pr-0">
             <button
               onClick={onSwapFormation}
-              className="flex items-center gap-[6px] rounded bg-[var(--primary)] px-3 py-2 text-xl font-medium text-white"
+              className="flex items-center gap-[6px] rounded bg-[var(--primary)] px-2 py-1 text-base font-medium text-white md:px-3 md:py-2 md:text-xl"
             >
-              <Icon icon="material-symbols:swap-vert" fontSize={28} />
+              <Icon
+                icon="material-symbols:swap-vert"
+                className="text-base md:text-[28px]"
+              />
               สลับฝ่าย
             </button>
           </div>
 
           <div
-            className={cn(
-              "z-[1] grid h-full grid-cols-10 gap-2 rounded rounded-tl-none border border-[#919090] bg-[#f8f8f8] p-3 transition-colors xl:grid-cols-7 xl:grid-rows-2",
-              opposition.length > 14 && "grid-cols-12 xl:grid-cols-8",
-            )}
+            className={
+              "z-[1] grid h-full grid-cols-10 gap-2 rounded rounded-tl-none border border-[#919090] bg-[#f8f8f8] p-3 transition-colors xl:grid-cols-7 xl:grid-rows-2"
+            }
             style={{
               ...(hoverBoard === "opposition" && {
                 backgroundColor: "#eaeaea",
               }),
+              ...(["xl", "2xl"].includes(breakpoint ?? "") &&
+                opposition.length > 14 && {
+                  gridTemplateColumns: `repeat(${Math.ceil(opposition.length / 2)}, 1fr)`,
+                }),
               ...(breakpoint === "lg" &&
                 opposition.length > 10 && {
                   gridTemplateColumns: `repeat(${opposition.length}, 1fr)`,
@@ -266,12 +277,12 @@ export const FormationBoard = ({
 
       <div
         id="other-board"
-        className="flex h-full flex-col overflow-y-auto bg-gray-200 p-3 xl:h-screen xl:p-0 xl:pt-4"
+        className="flex h-full flex-col bg-gray-200 p-3 md:overflow-y-auto xl:h-screen xl:p-0 xl:pt-4"
         onMouseUp={(e) => handleBoardDrop(e, "other")}
         onMouseEnter={() => handleMouseEnterBoard("other")}
         onMouseLeave={handleMouseLeaveBoard}
       >
-        <h3 className="px-1 text-lg font-medium xl:text-center">
+        <h3 className="px-1 text-base font-medium lg:text-lg xl:text-center">
           ยังไม่เลือกฝ่าย
         </h3>
 
@@ -281,7 +292,7 @@ export const FormationBoard = ({
               key={party.id}
               party={party}
               board="other"
-              className="w-[72px] xl:w-full"
+              className="w-[50px] lg:w-[72px] xl:w-full"
               handleDragStart={handleDragStart}
               isDragging={dragging?.id === party.id}
             />

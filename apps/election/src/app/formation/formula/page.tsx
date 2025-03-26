@@ -144,12 +144,12 @@ export default function FormationFormulaPage() {
   return (
     <Fragment>
       <div
-        className="flex grid-cols-1 flex-col overflow-auto md:bg-red-300 lg:h-screen lg:bg-blue-300 xl:grid xl:grid-cols-[1fr,max(923px,64%)] xl:bg-green-300 xl:pl-6"
+        className="flex h-screen grid-cols-1 flex-col overflow-auto xl:grid xl:grid-cols-[1fr,max(923px,64%)] xl:pl-6"
         onMouseMove={handleDragMove}
         onMouseUp={() => handleDragEnd(null)}
       >
         <FormationOverview formation={data} />
-        <div className="grid h-full grid-cols-1 grid-rows-[1fr,150px] xl:grid-cols-[1fr,12%] xl:grid-rows-none">
+        <div className="grid h-full grid-cols-1 grid-rows-[1fr,120px] lg:grid-rows-[1fr,150px] xl:grid-cols-[1fr,12%] xl:grid-rows-none">
           <FormationBoard
             handleBoardDrop={handleBoardDrop}
             handleMouseEnterBoard={handleMouseEnterBoard}

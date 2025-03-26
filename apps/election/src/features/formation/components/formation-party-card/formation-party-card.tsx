@@ -63,7 +63,7 @@ const CandidateImage = ({ image }: { image: string }) => (
 const SeatCounter = ({ count }: { count: number }) => (
   <div className="absolute bottom-0 left-0 z-[3] flex h-1/5 w-full items-center justify-center gap-1 bg-black text-white">
     <p>{count}</p>
-    <p>ที่นั่ง</p>
+    <p className="hidden md:inline-block">ที่นั่ง</p>
   </div>
 );
 
@@ -84,7 +84,7 @@ const FormationPartyCardElement = ({
     <div
       id={`party-${party.id}`}
       className={cn(
-        "h-full cursor-grab touch-none xl:h-fit",
+        "h-fit cursor-grab touch-none",
         isDragging && "opacity-60",
         className && className,
       )}
