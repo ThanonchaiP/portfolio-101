@@ -5,12 +5,17 @@ import { useParams } from "next/navigation";
 
 import { Modal } from "@/components/modal";
 import { useToggle } from "@/hooks/use-toggle";
+import { cn } from "@/lib/utils";
 
 import { useGetPartyCount } from "../../api/get-party-count";
 
 import { GeoPartyCountItem } from "./geo-party-count-item";
 
-export const GeoPartyCount = () => {
+type GeoPartyCountProps = {
+  className?: string;
+};
+
+export const GeoPartyCount = ({ className }: GeoPartyCountProps) => {
   const [open, toggle] = useToggle();
 
   const regionId = (useParams().region ?? "geo") as string;
@@ -24,7 +29,7 @@ export const GeoPartyCount = () => {
   );
 
   return (
-    <div className="mt-2">
+    <div className={cn("mt-2", className)}>
       <h3 className="text-[21px]">ผลคะแนน</h3>
 
       <div className="mt-4 flex flex-col gap-2">
