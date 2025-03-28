@@ -25,7 +25,7 @@ const InfoBlock = ({
       isWinner && "text-white",
     )}
   >
-    <h3 className="h-[30px] text-[26px] font-bold">{value}</h3>
+    <h3 className="h-[30px] text-xl font-bold md:text-[26px]">{value}</h3>
     <h3 className="text-[15px] font-medium">
       {formatNumberWithCommas(subValue)}
     </h3>
@@ -76,7 +76,7 @@ export const ParliamentListItem = ({
         <h3
           className={cn(
             "text-base font-medium text-gray-600 md:text-lg",
-            isWinner && "text-xl font-bold text-white md:text-2xl",
+            isWinner && "text-lg font-bold text-white md:text-2xl",
           )}
         >
           {party.name_en}
