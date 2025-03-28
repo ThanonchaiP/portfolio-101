@@ -10,9 +10,9 @@ type GeoVoteListProps = {
 
 export const GeoVoteList = ({ data, isLoading }: GeoVoteListProps) => {
   return (
-    <div className="flex max-h-full flex-col">
-      <div className="bg-[#E5E4E3] p-[10px]">
-        <div className="relative w-full max-w-sm">
+    <div className="flex h-full max-h-[1100px] flex-col overflow-hidden xl:max-h-none">
+      <div className="bg-[#E5E4E3] p-2 lg:p-[10px]">
+        <div className="relative w-full lg:max-w-sm">
           <input
             type="text"
             placeholder="ค้นหาจากชื่อจังหวัด/เขต"

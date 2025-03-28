@@ -30,7 +30,7 @@ export const GeoPartyCount = ({ className }: GeoPartyCountProps) => {
 
   return (
     <div className={cn("mt-2", className)}>
-      <h3 className="text-[21px]">ผลคะแนน</h3>
+      <h3 className="text-base md:text-[21px]">ผลคะแนน</h3>
 
       <div className="mt-4 flex flex-col gap-2">
         {topParties.map((party) => (

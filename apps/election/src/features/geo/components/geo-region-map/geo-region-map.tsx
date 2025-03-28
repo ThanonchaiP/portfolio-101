@@ -12,6 +12,7 @@ import {
   Northeastern,
   Southern,
 } from "@/data/region";
+import { cn } from "@/lib/utils";
 
 import { RegionVote } from "../../types";
 import { GeoRegionMapTooltip } from "../geo-region-map-tooltip";
@@ -19,6 +20,7 @@ import { GeoRegionMapTooltip } from "../geo-region-map-tooltip";
 type GeoRegionMapProps = {
   region: string;
   data?: RegionVote;
+  className?: string;
 };
 
 const regionComponents: Record<string, JSX.Element> = {
@@ -33,7 +35,11 @@ const regionComponents: Record<string, JSX.Element> = {
 
 const Fallback = () => <div>Region not found</div>;
 
-export const GeoRegionMap = ({ region, data }: GeoRegionMapProps) => {
+export const GeoRegionMap = ({
+  region,
+  data,
+  className,
+}: GeoRegionMapProps) => {
   const { width } = useWindowDimensions();
 
   const [tootltip, setTooltip] = useState({
@@ -99,7 +105,10 @@ export const GeoRegionMap = ({ region, data }: GeoRegionMapProps) => {
   return (
     <div
       id="region-wrapper"
-      className="relative flex size-full max-h-full items-center justify-center"
+      className={cn(
+        "relative flex size-full max-h-full items-center justify-center",
+        className && className,
+      )}
     >
       {regionComponents[region] ?? <Fallback />}
 

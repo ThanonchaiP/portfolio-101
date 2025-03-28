@@ -13,7 +13,7 @@ export const GeoVoteItem = ({ vote }: GeoVoteItemProps) => {
   return (
     <div className="cursor-pointer border-b border-gray-300 bg-white pb-2 pl-[14px] pr-2 pt-4 transition-colors hover:bg-[#FAF2EC]">
       <div className="flex items-center justify-between text-[var(--primary)]">
-        <h3>{vote[0].district?.name_th}</h3>
+        <h3 className="text-sm md:text-base">{vote[0].district?.name_th}</h3>
         <h3 className="pt-1 text-sm">
           ห่างกัน
           <strong className="ml-1">
@@ -28,18 +28,20 @@ export const GeoVoteItem = ({ vote }: GeoVoteItemProps) => {
               <h4 className="min-w-[10px] text-lg font-semibold text-gray-700">
                 {index + 1}
               </h4>
-              <Image
-                alt="party-image"
-                src={item.candidate.party.image}
-                width={60}
-                height={28}
-                className="size-auto"
-              />
-              <h4>{item.candidate.name_en}</h4>
+              <div className="min-w-[44px] max-w-[44px] md:min-w-[64px] md:max-w-[64px]">
+                <Image
+                  alt="party-image"
+                  src={item.candidate.party.image}
+                  width={60}
+                  height={28}
+                  className="size-auto"
+                />
+              </div>
+              <h4 className="text-sm md:text-base">{item.candidate.name_en}</h4>
             </div>
             <h4
               className={cn(
-                "text-[21px] font-bold text-gray-700",
+                "text-lg font-bold text-gray-700 md:text-[21px]",
                 index > 0 && "text-gray-400",
               )}
             >

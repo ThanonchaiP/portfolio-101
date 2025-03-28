@@ -17,7 +17,7 @@ export const GeoSwitchData = () => {
   };
 
   return (
-    <div className="absolute right-2 top-0 flex shrink-0 select-none rounded bg-white p-[6px] shadow-md">
+    <div className="right-2 top-0 flex max-w-[221px] shrink-0 select-none rounded bg-white p-[6px] shadow-md xl:absolute">
       {list.map((item) => (
         <Button
           key={item.name}

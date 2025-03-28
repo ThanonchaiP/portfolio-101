@@ -10,7 +10,7 @@ export const GeoRegionMenu = () => {
   const pathname = usePathname();
 
   return (
-    <div className="flex flex-col gap-[6px]">
+    <div className="flex gap-[6px] overflow-y-auto xl:flex-col">
       <GeoRegionMenuItem
         alias="ทั่วประเทศ"
         constituency={400}

@@ -26,7 +26,8 @@ export const GeoPartyCountItem = ({
         <h3 className={cn(eclipse && "max-w-[120px] truncate")}>{name_en}</h3>
       </div>
       <h3 className="pt-px text-sm text-[var(--primary)]">
-        <span className="text-[21px] font-bold">{count}</span> ที่นั่ง
+        <span className="text-base font-bold md:text-[21px]">{count}</span>{" "}
+        ที่นั่ง
       </h3>
     </div>
   );
