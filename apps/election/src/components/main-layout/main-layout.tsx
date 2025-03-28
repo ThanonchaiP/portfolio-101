@@ -15,7 +15,7 @@ export const MainLayout = ({ children }: MainLayoutProps) => {
   return (
     <main
       className={cn(
-        "flex flex-col gap-7 p-[0px_0px_120px] md:bg-red-300 lg:h-screen lg:bg-blue-300 lg:p-8 lg:pt-4 xl:flex-row xl:gap-0 xl:bg-green-300 xl:pt-8",
+        "flex flex-col gap-7 p-[0px_0px_120px] lg:h-screen lg:p-8 lg:pt-4 xl:flex-row xl:gap-0 xl:pt-8",
         pathname.startsWith("/geo") && "lg:h-auto xl:h-screen",
       )}
     >

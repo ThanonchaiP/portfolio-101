@@ -2,6 +2,7 @@
 
 import { use } from "react";
 
+import regions from "@/data/regions.json";
 import {
   GeoPartyCount,
   GeoRegionMap,
@@ -14,10 +15,16 @@ type RegionPageProps = {
   params: Promise<{ region: string }>;
 };
 
+const REGION_ID = regions.map((region) => region.id);
+
 export default function RegionPage({ params }: RegionPageProps) {
   const { region } = use(params);
 
   const { data, isPending } = useGetRegionVote({ regionId: region });
+
+  if (REGION_ID.indexOf(region) === -1) {
+    throw new Error("Region not found");
+  }
 
   return (
     <>
