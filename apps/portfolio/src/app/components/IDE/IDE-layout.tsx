@@ -1,6 +1,7 @@
 import { PropsWithChildren } from "react";
 
 import { DraggableWindow } from "./draggable-window";
+import { FooterBar } from "./footer-bar";
 import { TitleBar } from "./title-bar";
 
 export const IDELayout = ({ children }: PropsWithChildren) => {
@@ -14,7 +15,7 @@ export const IDELayout = ({ children }: PropsWithChildren) => {
         <div className="h-[calc(100%-3.5rem)]">{children}</div>
 
         {/* Footer */}
-        {/* <Footer/> */}
+        <FooterBar />
       </DraggableWindow>
     </div>
   );
