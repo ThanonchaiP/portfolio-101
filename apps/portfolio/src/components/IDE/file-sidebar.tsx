@@ -1,9 +1,11 @@
+"use client";
+
 import { Icon } from "@iconify/react";
 import Link from "next/link";
 import { useState } from "react";
 
-import { useTabsStore } from "@/app/store";
 import { cn } from "@/lib/utils";
+import { useTabsStore } from "@/store";
 import { Tab } from "@/types";
 
 type FileItem = Tab;
@@ -82,7 +84,7 @@ export const FileSidebar = () => {
   ];
 
   return (
-    <div className="size-full max-w-[290px] overflow-y-auto border-r border-gray-800 bg-[#1e1e1e] p-3 text-sm">
+    <div className="size-full  overflow-y-auto border-r border-gray-800 bg-[#1e1e1e] p-3 text-sm">
       {folders.map((folder) => (
         <div key={folder.name} className="mb-2">
           <div

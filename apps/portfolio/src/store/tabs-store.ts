@@ -17,7 +17,7 @@ type TabsStore = TabState & TabAction;
 
 const createInitialState = (): TabState => ({
   openTabs: [],
-  activeTab: "/",
+  activeTab: null,
 });
 
 export const useTabsStore = create<TabsStore>((set) => ({
