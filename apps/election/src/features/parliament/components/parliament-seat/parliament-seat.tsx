@@ -1,8 +1,8 @@
 import { useEffect, useState, useMemo } from "react";
 
-import { useWindowDimensions } from "@/app/hooks";
 import { PartySeat } from "@/data/party-seat";
 import { useGetPartyCount } from "@/features/geo";
+import { useWindowDimensions } from "@/hooks/use-window-dimensions";
 import { PartyCount } from "@/types";
 
 import { ParliamentSeatTooltip } from "../parliament-seat-tooltip";
