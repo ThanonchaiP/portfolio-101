@@ -2,7 +2,6 @@
 
 import { JSX, useEffect, useState } from "react";
 
-import { useWindowDimensions } from "@/app/hooks";
 import {
   Bangkok,
   Central,
@@ -12,6 +11,7 @@ import {
   Northeastern,
   Southern,
 } from "@/data/region";
+import { useWindowDimensions } from "@/hooks/use-window-dimensions";
 import { cn } from "@/lib/utils";
 
 import { RegionVote } from "../../types";
