@@ -2,7 +2,7 @@
 
 import { cn } from "@/lib/utils";
 
-export const TitleBar = () => {
+export const Titlebar = () => {
   return (
     <div
       className={cn(

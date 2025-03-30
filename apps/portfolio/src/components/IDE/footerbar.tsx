@@ -3,7 +3,7 @@
 import { Icon } from "@iconify/react";
 import Link from "next/link";
 
-export const FooterBar = () => {
+export const Footerbar = () => {
   return (
     <div className="fixed inset-x-0 bottom-0 flex h-6 items-center justify-between border-t border-gray-800 bg-[#1f1f1f] px-3 text-[11px] text-white">
       <div className="flex items-center gap-3">

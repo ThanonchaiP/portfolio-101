@@ -6,9 +6,9 @@ import { ResizablePanel, ResizablePanelGroup } from "../resizable/resizable";
 
 import { DraggableWindow } from "./draggable-window";
 import { FileSidebar } from "./file-sidebar";
-import { FooterBar } from "./footer-bar";
+import { Footerbar } from "./footerbar";
 import { Tabs } from "./tabs";
-import { TitleBar } from "./title-bar";
+import { Titlebar } from "./titlebar";
 
 export const IDELayout = ({ children }: PropsWithChildren) => {
   const [mounted, setMounted] = useState(false);
@@ -21,7 +21,7 @@ export const IDELayout = ({ children }: PropsWithChildren) => {
     <div className="flex min-h-screen w-screen items-center justify-center overflow-hidden p-0 md:p-4">
       <DraggableWindow>
         {/* Title bar */}
-        <TitleBar />
+        <Titlebar />
 
         {/* IDE Content */}
         <div className="h-[calc(100%-3.5rem)]">
@@ -45,7 +45,7 @@ export const IDELayout = ({ children }: PropsWithChildren) => {
         </div>
 
         {/* Footer */}
-        <FooterBar />
+        <Footerbar />
       </DraggableWindow>
     </div>
   );
