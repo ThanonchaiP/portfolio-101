@@ -12,9 +12,7 @@ export const TitleBar = () => {
         <div className="size-2.5 rounded-full bg-[#febc2e]" />
         <div className="size-2.5 rounded-full bg-[#28c840]" />
       </div>
-      <div className="select-none text-xs text-white md:ml-[-42px]">
-        Portfolio - VS Code
-      </div>
+      <div className="select-none text-xs text-white">Portfolio - VS Code</div>
       <div></div>
     </div>
   );

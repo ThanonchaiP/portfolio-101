@@ -26,10 +26,10 @@ export const FooterBar = () => {
         </p>
       </div>
       <div className="flex items-center gap-3">
-        <span>UTF-8</span>
-        <span>LF</span>
-        <div className="flex items-center gap-1">
-          <Icon icon="material-symbols:check-rounded" fontSize={14} />
+        <span className="hover:text-gray-300">UTF-8</span>
+        <span className="hover:text-gray-300">LF</span>
+        <div className="flex items-center gap-1 hover:text-gray-300">
+          <Icon icon="line-md:check-all" fontSize={14} />
           <span>Prettier</span>
         </div>
       </div>

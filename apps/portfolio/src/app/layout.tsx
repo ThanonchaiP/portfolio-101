@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import { JetBrains_Mono } from "next/font/google";
 
+import { IDELayout } from "@/components/IDE";
+
 import "./globals.css";
-import { IDELayout } from "./components/IDE";
 
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
