@@ -9,7 +9,7 @@ type TabState = {
 
 type TabAction = {
   addTab: (tab: Tab) => void;
-  removeTab: (path: string) => void;
+  removeTab: (path: string, action?: () => void) => void;
   setActiveTab: (path: string) => void;
 };
 
@@ -31,8 +31,13 @@ export const useTabsStore = create<TabsStore>((set) => ({
       return { ...state, activeTab: tab.path };
     });
   },
-  removeTab: (path) => {
+  removeTab: (path: string, action) => {
     set((state) => {
+      if (state.openTabs.length === 1) {
+        action?.();
+        return { openTabs: [], activeTab: "/" };
+      }
+
       const newTabs = state.openTabs.filter((tab) => tab.path !== path);
       const newActiveTab =
         newTabs.length > 0 ? newTabs[newTabs.length - 1].path : null;

@@ -2,7 +2,7 @@
 
 import { Icon } from "@iconify/react/dist/iconify.js";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useEffect } from "react";
 
 import { useBreakpoint } from "@/hooks/use-breakpoint";
@@ -39,6 +39,7 @@ const NAVIGATION_ITEMS: Tab[] = [
 ];
 
 export const Tabs = () => {
+  const router = useRouter();
   const pathname = usePathname();
   const breakpoint = useBreakpoint();
   const { openTabs, activeTab, removeTab, setActiveTab } = useTabsStore();
@@ -85,7 +86,7 @@ export const Tabs = () => {
                   activeTab === tab.path && "opacity-100"
                 )}
                 fontSize={14}
-                onClick={() => removeTab(tab.path)}
+                onClick={() => removeTab(tab.path, () => router.push("/"))}
               />
             )}
           </div>
