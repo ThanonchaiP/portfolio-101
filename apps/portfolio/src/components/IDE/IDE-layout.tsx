@@ -2,7 +2,7 @@
 
 import { PropsWithChildren, useEffect, useState } from "react";
 
-import { ResizablePanel, ResizablePanelGroup } from "../resizable/resizable";
+import { ResizablePanel, ResizablePanelGroup } from "../resizable";
 
 import { DraggableWindow } from "./draggable-window";
 import { FileSidebar } from "./file-sidebar";
