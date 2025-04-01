@@ -5,6 +5,7 @@ import { PropsWithChildren } from "react";
 
 import { cn } from "@/lib/utils";
 
+import { Disclaimer } from "../disclaimer";
 import { Sidebar } from "../sidebar";
 
 type MainLayoutProps = PropsWithChildren;
@@ -21,6 +22,7 @@ export const MainLayout = ({ children }: MainLayoutProps) => {
     >
       <Sidebar />
       <div className="flex-1 px-4 lg:h-full lg:p-0 xl:pl-6">{children}</div>
+      <Disclaimer />
     </main>
   );
 };
