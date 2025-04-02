@@ -34,7 +34,10 @@ export const IDELayout = ({ children }: PropsWithChildren) => {
                 <div className="flex h-full flex-col">
                   <Tabs />
                   <div className="flex flex-1 overflow-y-auto bg-gray-800">
-                    <main className="size-full max-w-full overflow-x-hidden px-4">
+                    <main
+                      className="size-full max-w-full overflow-x-hidden px-4"
+                      style={{ scrollbarWidth: "thin" }}
+                    >
                       {children}
                     </main>
                   </div>

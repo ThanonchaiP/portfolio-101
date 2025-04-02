@@ -11,7 +11,7 @@ export function DraggableWindow({ children }: DraggableWindowProps) {
   const [mounted, setMounted] = useState(false);
   const [isLargeScreen, setIsLargeScreen] = useState(true);
   const [size, setSize] = useState({
-    width: 1600,
+    width: 1176,
     height: 900,
   });
 
@@ -23,7 +23,7 @@ export function DraggableWindow({ children }: DraggableWindowProps) {
 
       if (isLg) {
         const padding = 128; // Reduced padding
-        const maxWidth = Math.min(window.innerWidth - padding, 1600);
+        const maxWidth = Math.min(window.innerWidth - padding, 1176);
         const maxHeight = Math.min(window.innerHeight - 64, 900);
 
         setSize({

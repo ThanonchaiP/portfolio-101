@@ -12,7 +12,7 @@ export default function Home() {
         text="👋 Hi, I'm Thanonchai Paliwong"
         className="text-lg font-bold text-slate-200 md:text-2xl lg:text-3xl"
       />
-      <p className="text-sm text-slate-400 md:text-lg">
+      <p className="max-w-[800px] text-sm text-slate-400 md:text-lg">
         Frontend Developer dedicated to building modern, high-performance
         applications. My expertise includes JavaScript, TypeScript, React,
         Tailwind CSS, and Next.js, ensuring scalable and visually stunning web
