@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 export default function WorkExperience() {
   return (
     <div className="py-8">
-      <h3 className="mb-12 text-center text-2xl text-slate-100">
+      <h3 className="mb-10 text-center text-2xl text-slate-100">
         Work Experience
       </h3>
 
@@ -19,7 +19,7 @@ export default function WorkExperience() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: index * 0.2 }}
           >
-            <div className="flex flex-wrap items-center justify-between gap-1 text-xs text-slate-200 md:text-base">
+            <div className="flex flex-wrap items-center justify-between gap-2 text-xs text-slate-200 md:text-base">
               <div className="flex items-center gap-2">
                 <Icon
                   icon="solar:code-linear"
