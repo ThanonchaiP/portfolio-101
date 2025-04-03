@@ -6,6 +6,7 @@ import { useEffect } from "react";
 
 import "prismjs/components/prism-json";
 import "prismjs/components/prism-typescript";
+import { cn } from "@/lib/utils";
 
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
@@ -70,7 +71,7 @@ export function CodeBlock({ code, language = "json" }: StyledCodeProps) {
   return (
     <div className={`${jetbrainsMono.className} overflow-hidden`}>
       <pre className="rounded-lg text-base">
-        <code className={`language-${language}`}>{code}</code>
+        <code className={cn(`language-${language}`)}>{code}</code>
       </pre>
       <style jsx global>{`
         .token.comment,
