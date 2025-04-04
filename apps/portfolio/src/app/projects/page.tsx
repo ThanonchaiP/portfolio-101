@@ -96,8 +96,9 @@ const projects = [
     description:
       "Election66 Thai PBS Clone is a replication of the Thai PBS election results platform, designed to simulate real-time vote counting, candidate information, and election statistics. Built with Next.js, TypeScript, and Tailwind CSS.",
     image: "/image/projects/election.png",
-    github: "https://election-frontend.vercel.app/",
-    demo: "https://election-frontend.vercel.app/",
+    github:
+      "https://github.com/ThanonchaiP/portfolio-101/tree/main/apps/election",
+    demo: "https://election.14again.life",
     stack: ["Next.js", "TypeScript", "Tailwind CSS"],
   },
   {
@@ -106,7 +107,9 @@ const projects = [
     description:
       "A modern and responsive personal portfolio website built with Next.js, TypeScript, and Tailwind CSS to showcase my skills, projects, and professional experience as a Frontend Developer.",
     image: "/image/projects/portfolio.png",
-    demo: "https://election-frontend.vercel.app/",
+    github:
+      "https://github.com/ThanonchaiP/portfolio-101/tree/main/apps/portfolio",
+    demo: "https://portfolio.14again.life",
     stack: ["Next.js", "TypeScript", "Tailwind CSS"],
   },
 ];
