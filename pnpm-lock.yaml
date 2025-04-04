@@ -123,6 +123,9 @@ importers:
       next:
         specifier: 15.2.4
         version: 15.2.4(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      prismjs:
+        specifier: ^1.30.0
+        version: 1.30.0
       react:
         specifier: ^19.0.0
         version: 19.0.0
@@ -160,6 +163,9 @@ importers:
       '@types/node':
         specifier: ^20
         version: 20.17.17
+      '@types/prismjs':
+        specifier: ^1.26.5
+        version: 1.26.5
       '@types/react':
         specifier: ^19
         version: 19.0.8
@@ -833,6 +839,9 @@ packages:
 
   '@types/node@22.13.0':
     resolution: {integrity: sha512-ClIbNe36lawluuvq3+YYhnIN2CELi+6q8NpnM7PYp4hBn/TatfboPgVSm2rwKRfnV2M+Ty9GWDFI64KEe+kysA==}
+
+  '@types/prismjs@1.26.5':
+    resolution: {integrity: sha512-AUZTa7hQ2KY5L7AmtSiqxlhWxb4ina0yd8hNbl4TWuqnv/pFP0nDMb3YrfSBf4hJVGLh2YEIBfKaBW/9UEl6IQ==}
 
   '@types/react-dom@19.0.3':
     resolution: {integrity: sha512-0Knk+HJiMP/qOZgMyNFamlIjw9OFCsyC2ZbigmEEyXXixgre6IQpm/4V+r3qH4GC1JPvRJKInw+on2rV6YZLeA==}
@@ -2550,6 +2559,10 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
+  prismjs@1.30.0:
+    resolution: {integrity: sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==}
+    engines: {node: '>=6'}
+
   prop-types@15.8.1:
     resolution: {integrity: sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==}
 
@@ -3631,6 +3644,8 @@ snapshots:
   '@types/node@22.13.0':
     dependencies:
       undici-types: 6.20.0
+
+  '@types/prismjs@1.26.5': {}
 
   '@types/react-dom@19.0.3(@types/react@19.0.8)':
     dependencies:
@@ -5590,6 +5605,8 @@ snapshots:
       prettier: 3.4.2
 
   prettier@3.4.2: {}
+
+  prismjs@1.30.0: {}
 
   prop-types@15.8.1:
     dependencies:

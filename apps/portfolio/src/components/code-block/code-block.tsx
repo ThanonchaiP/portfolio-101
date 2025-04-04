@@ -4,9 +4,10 @@ import { JetBrains_Mono } from "next/font/google";
 import Prism from "prismjs";
 import { useEffect } from "react";
 
+import { cn } from "@/lib/utils";
+
 import "prismjs/components/prism-json";
 import "prismjs/components/prism-typescript";
-import { cn } from "@/lib/utils";
 
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
