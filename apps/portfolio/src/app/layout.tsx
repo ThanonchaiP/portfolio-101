@@ -8,8 +8,8 @@ import "./globals.css";
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Portfolio - IDE Style",
-  description: "A developer portfolio styled like a modern IDE",
+  title: "Portfolio - VS Code",
+  description: "A developer portfolio styled like VS Code",
 };
 
 export default function RootLayout({
