@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+body {
+  overflow: hidden;
+  background: #1c2229;
+}
+
+/* Code block styles */
+pre[class*="language-"] {
+  @apply text-sm;
+  background: #282c34;
+  color: #abb2bf;
+  text-shadow: none;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  tab-size: 2;
+  hyphens: none;
+}
+
+/* Line highlighting */
+.code-line {
+  @apply block border-l-[3px] border-transparent pl-4;
+}
+
+.code-line.highlight-line {
+  @apply -mx-4 border-blue-400 bg-gray-800/50;
+}
+
+.line-number::before {
+  @apply mr-4 inline-block w-4 text-right text-gray-500;
+  content: attr(line);
+}
+
+/* Syntax Highlighting */
+.token.comment {
+  color: #7f848e;
+  font-style: italic;
+}
+
+.token.keyword,
+.token.operator,
+.token.selector,
+.token.attr-name {
+  color: #c678dd;
+}
+
+.token.function,
+.token.class-name {
+  color: #61afef;
+}
+
+.token.string,
+.token.char,
+.token.attr-value {
+  color: #98c379;
+}
+
+.token.number,
+.token.boolean {
+  color: #e5c07b;
+}
+
+.token.property,
+.token.constant,
+.token.symbol {
+  color: #e06c75;
+}
+
+.token.punctuation {
+  color: #abb2bf;
+}

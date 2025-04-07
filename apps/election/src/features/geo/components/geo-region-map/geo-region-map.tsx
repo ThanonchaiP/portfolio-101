@@ -55,19 +55,19 @@ export const GeoRegionMap = ({
       setTooltip((prev) => ({ ...prev, show: false }));
     };
 
-    const onClick = (id: string) => {
-      document.querySelectorAll("svg g g").forEach((e) => {
-        if (
-          e.id === id ||
-          e.id.includes(`area-${id.split("-")[1]}`) ||
-          e.id === `province-${id.slice(5, 7)}-name`
-        ) {
-          e.setAttribute("opacity", "1");
-        } else {
-          e.setAttribute("opacity", "0.3");
-        }
-      });
-    };
+    // const onClick = (id: string) => {
+    //   document.querySelectorAll("svg g g").forEach((e) => {
+    //     if (
+    //       e.id === id ||
+    //       e.id.includes(`area-${id.split("-")[1]}`) ||
+    //       e.id === `province-${id.slice(5, 7)}-name`
+    //     ) {
+    //       e.setAttribute("opacity", "1");
+    //     } else {
+    //       e.setAttribute("opacity", "0.3");
+    //     }
+    //   });
+    // };
 
     const regionElement = document.getElementById("region-wrapper");
 
@@ -89,7 +89,7 @@ export const GeoRegionMap = ({
           show: true,
         });
       });
-      e.addEventListener("click", () => onClick(e.id));
+      // e.addEventListener("click", () => onClick(e.id));
       e.addEventListener("mouseleave", handleMouseLeave);
     });
 
@@ -97,7 +97,7 @@ export const GeoRegionMap = ({
       regionElement?.querySelectorAll("svg g g").forEach((e) => {
         e.removeEventListener("mouseenter", () => console.log("remove"));
         e.removeEventListener("mouseleave", handleMouseLeave);
-        e.removeEventListener("click", () => console.log("remove"));
+        // e.removeEventListener("click", () => console.log("remove"));
       });
     };
   }, [data, width]);
