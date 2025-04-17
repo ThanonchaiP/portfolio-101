@@ -20,6 +20,7 @@ const LOCATION = "Bangkok, Thailand"
 const skills = {
   languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
   frameworks: [
+    "React.js",
     "Next.js",
     "Node.js",
     "Express.js",
