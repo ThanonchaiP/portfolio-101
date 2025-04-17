@@ -2,6 +2,9 @@ import Link from "next/link";
 
 import { useTabsStore } from "@/store";
 
+const RESUME_URL =
+  "https://drive.google.com/file/d/14H-r6cvyV6jTFgrvolgHgGqmgjkfK1mM/view?usp=drive_link";
+
 export const HomeNavigation = () => {
   const addTab = useTabsStore((state) => state.addTab);
 
@@ -20,9 +23,14 @@ export const HomeNavigation = () => {
       >
         About Me
       </Link>
-      <button className="cursor-pointer rounded border border-gray-300 px-4 py-2 text-sm text-gray-300 transition-colors hover:bg-blue-950 md:text-base">
-        Download Resume
-      </button>
+      <Link
+        href={RESUME_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="cursor-pointer rounded border border-gray-300 px-4 py-2 text-sm text-gray-300 transition-colors hover:bg-blue-950 md:text-base"
+      >
+        Resume
+      </Link>
     </div>
   );
 };
