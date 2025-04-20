@@ -5,7 +5,7 @@ import AppProvider from "@/providers/app";
 
 import "./globals.css";
 
-const geistSans = Kanit({
+const kanitSans = Kanit({
   variable: "--font-kanit-sans",
   subsets: ["thai"],
   weight: ["400", "500", "700"],
@@ -23,7 +23,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} antialiased`}>
+      <body className={`${kanitSans.variable} antialiased`}>
         <AppProvider>{children}</AppProvider>
       </body>
     </html>
