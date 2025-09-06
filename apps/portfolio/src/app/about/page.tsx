@@ -13,7 +13,7 @@ const TITLE = "About Me"
 
 const FULL_NAME = "Thanonchai Paliwong"
 const POSITION = "Frontend Developer"
-const YEARS_OF_EXPERIENCE = "2.8"
+const YEARS_OF_EXPERIENCE = "3"
 const LOCATION = "Bangkok, Thailand"
 
 // Top Skills
@@ -30,6 +30,7 @@ const skills = {
     "Ant Design",
     "MUI", //Material UI
     "TanStack Query",
+    "n8n"
   ]
 }
 `;
