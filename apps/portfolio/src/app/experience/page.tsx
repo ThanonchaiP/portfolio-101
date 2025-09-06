@@ -77,10 +77,20 @@ export default function WorkExperience() {
 
 const workExperience = [
   {
+    id: 4,
+    title: "Frontend Developer",
+    company: "FutureSkill",
+    date: "June 2025 - Present",
+    responsibilities: [
+      "Responsible for developing an e-Learning platform using React and Next.js.",
+    ],
+    stack: ["React.js", "Next.js", "TypeScript"],
+  },
+  {
     id: 1,
     title: "Frontend Developer",
     company: "Security Pitch",
-    date: "April 2023 - Present",
+    date: "April 2023 - June 2025",
     responsibilities: [
       "Develop and maintained scalable web applications using React.js and Next.js.",
       "Develop and maintain core features to enhance functionality and user experience.",
