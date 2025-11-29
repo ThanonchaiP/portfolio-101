@@ -3,12 +3,12 @@ import path from "path";
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "standalone",
+  // output: "standalone",
   outputFileTracingRoot: path.join(__dirname, "../../"),
   reactStrictMode: true,
-  reactCompiler: {
-    compilationMode: "annotation",
-  },
+  // reactCompiler: {
+  //   compilationMode: "annotation",
+  // },
 };
 
 export default nextConfig;
