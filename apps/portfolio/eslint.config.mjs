@@ -1,49 +1,42 @@
-import { dirname } from "path";
-import { fileURLToPath } from "url";
+import { defineConfig, globalIgnores } from "eslint/config";
+import nextVitals from "eslint-config-next/core-web-vitals";
+import eslintPluginImport from "eslint-plugin-import";
 
-import { FlatCompat } from "@eslint/eslintrc";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-
-const compat = new FlatCompat({
-  baseDirectory: __dirname,
-});
-
-const eslintConfig = [
-  ...compat.config({
-    plugins: ["@tanstack/query"],
-    extends: [
-      "next/core-web-vitals",
-      "next/typescript",
-      "plugin:tailwindcss/recommended",
-      "plugin:@typescript-eslint/recommended",
-      "prettier",
-      "plugin:@tanstack/eslint-plugin-query/recommended",
-    ],
+const eslintConfig = defineConfig([
+  ...nextVitals,
+  {
+    files: ["**/*.{js,jsx,ts,tsx}"],
     rules: {
-      "no-var": "error",
-      "import/order": [
-        "error",
-        {
-          groups: [
-            "builtin",
-            "external",
-            "internal",
-            "parent",
-            "sibling",
-            "index",
-            "object",
-          ],
-          "newlines-between": "always",
-          alphabetize: {
-            order: "asc",
-            caseInsensitive: true,
-          },
-        },
-      ],
+      "react/no-unescaped-entities": "off",
+      "@next/next/no-page-custom-font": "off",
+      "react-hooks/set-state-in-effect": "off",
     },
-  }),
-];
+  },
+
+  // Import plugin configuration
+  {
+    plugins: {
+      import: eslintPluginImport,
+    },
+  },
+  globalIgnores([".next/**", "out/**", "build/**", "next-env.d.ts"]),
+]);
 
 export default eslintConfig;
+// import { defineConfig, globalIgnores } from "eslint/config";
+// import nextVitals from "eslint-config-next/core-web-vitals";
+
+// const eslintConfig = defineConfig([
+//   ...nextVitals,
+//   {
+//     files: ["**/*.{js,jsx,ts,tsx}"],
+//     rules: {
+//       "react/no-unescaped-entities": "off",
+//       "@next/next/no-page-custom-font": "off",
+//       "react-hooks/set-state-in-effect": "off",
+//     },
+//   },
+//   globalIgnores([".next/**", "out/**", "build/**", "next-env.d.ts"]),
+// ]);
+
+// export default eslintConfig;
