@@ -1,5 +1,6 @@
 import axios from "axios";
 
+import { API_URL } from "@/config";
 import regions from "@/data/regions.json";
 import region1 from "@/data/votes/region-1.json";
 import region2 from "@/data/votes/region-2.json";
@@ -40,7 +41,8 @@ export async function GET(
   { params }: { params: Promise<{ regionId: string }> },
 ) {
   const regionId = (await params).regionId;
-  const host = new URL(request.url).origin;
+  // Statically rendered handlers see a placeholder request.url — see docs/adr/0002.
+  const host = new URL(API_URL as string).origin;
 
   const region = regions.find((region) => region.id === regionId) ?? [];
 

@@ -65,8 +65,7 @@ export const ParliamentListItem = ({
             alt="party-image"
             src={party.image}
             width={60}
-            height={28}
-            className="size-auto"
+            height={26}
           />
 
           <span className="absolute bottom-[-9px] left-[-4px] flex size-[18px] items-center justify-center rounded-sm bg-white font-bold text-gray-700 shadow-md">

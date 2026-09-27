@@ -6,7 +6,10 @@
     "dev": "next dev --turbopack",
     "build": "next lint && next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "build:worker": "cross-env NEXT_PUBLIC_API_URL=https://election.t-paliwong.workers.dev/api opennextjs-cloudflare build",
+    "deploy": "pnpm build:worker && wrangler deploy",
+    "preview": "cross-env NEXT_PUBLIC_API_URL=http://localhost:8787 opennextjs-cloudflare build && wrangler dev"
   },
   "dependencies": {
     "@lukemorales/query-key-factory": "^1.3.4",
@@ -40,6 +43,9 @@
     "prettier": "^3.4.2",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "typescript": "^5",
+    "@opennextjs/cloudflare": "^1",
+    "cross-env": "^7",
+    "wrangler": "^4"
   }
 }

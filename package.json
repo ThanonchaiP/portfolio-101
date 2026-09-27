@@ -6,7 +6,11 @@
     "dev": "turbo dev",
     "lint": "turbo lint",
     "dev:web": "turbo dev --filter web",
+    "dev:portfolio": "turbo dev --filter portfolio",
     "dev:election": "turbo dev --filter election",
+    "deploy": "pnpm --filter portfolio run deploy && pnpm --filter election run deploy",
+    "deploy:portfolio": "pnpm --filter portfolio run deploy",
+    "deploy:election": "pnpm --filter election run deploy",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {

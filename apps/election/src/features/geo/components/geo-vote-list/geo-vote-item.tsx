@@ -33,8 +33,7 @@ export const GeoVoteItem = ({ vote }: GeoVoteItemProps) => {
                   alt="party-image"
                   src={item.candidate.party.image}
                   width={60}
-                  height={28}
-                  className="size-auto"
+                  height={26}
                 />
               </div>
               <h4 className="text-sm md:text-base">{item.candidate.name_en}</h4>

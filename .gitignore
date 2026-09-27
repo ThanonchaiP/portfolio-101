@@ -27,6 +27,10 @@ out/
 build
 dist
 
+# Cloudflare
+.open-next/
+.wrangler/
+
 
 # Debug
 npm-debug.log*
@@ -36,3 +40,6 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+# ZCode local state
+.zcode/

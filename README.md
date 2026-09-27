@@ -1,84 +1,37 @@
-# Turborepo starter
+# portfolio-101
 
-This Turborepo starter is maintained by the Turborepo core team.
+Monorepo ส่วนตัว (pnpm + Turborepo) — แอป Next.js ทุกตัว deploy บน **Cloudflare Workers**
 
-## Using this example
+## แอปใน repo
 
-Run the following command:
+| App | คืออะไร | URL |
+|---|---|---|
+| `apps/portfolio` | Personal portfolio ธีม VS Code — static ล้วน | https://portfolio.t-paliwong.workers.dev |
+| `apps/election` | เว็บผลเลือกตั้ง 66 เรียลไทม์ — มี API routes รันบน OpenNext | https://election.t-paliwong.workers.dev |
+| `apps/web` | Turborepo starter — ยังไม่ใช้งาน ไม่ deploy | — |
 
-```sh
-npx create-turbo@latest
+Shared packages: `@repo/ui`, `@repo/eslint-config`, `@repo/typescript-config`
+
+## คำสั่งที่ใช้จริง
+
+```bash
+pnpm install              # ติดตั้งครั้งแรก (ต้องมี Node 18+ / pnpm 9)
+
+pnpm dev:election         # dev เว็บ election        → localhost:3000
+pnpm dev:portfolio        # dev เว็บ portfolio      → localhost:3000
+
+pnpm deploy               # deploy ทั้งสองแอปขึ้น Cloudflare
+pnpm deploy:election      # deploy เฉพาะ election
+pnpm deploy:portfolio     # deploy เฉพาะ portfolio
+
+pnpm build                # build ทุกแอป (turbo)
+pnpm lint                 # lint ทุกแอป
 ```
 
-## What's inside?
+ต้อง `pnpm exec wrangler login` ครั้งแรกก่อน deploy — รายละเอียดทั้งหมด (preview บน workerd, ตรวจหลัง deploy, rollback, troubleshooting) อยู่ที่ **[docs/deploying.md](docs/deploying.md)**
 
-This Turborepo includes the following packages/apps:
+## เอกสาร
 
-### Apps and Packages
-
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
-
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
-
-### Utilities
-
-This Turborepo has some additional tools already setup for you:
-
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
-
-### Build
-
-To build all apps and packages, run the following command:
-
-```
-cd my-turborepo
-pnpm build
-```
-
-### Develop
-
-To develop all apps and packages, run the following command:
-
-```
-cd my-turborepo
-pnpm dev
-```
-
-### Remote Caching
-
-> [!TIP]
-> Vercel Remote Cache is free for all plans. Get started today at [vercel.com](https://vercel.com/signup?/signup?utm_source=remote-cache-sdk&utm_campaign=free_remote_cache).
-
-Turborepo can use a technique known as [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
-
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup?utm_source=turborepo-examples), then enter the following commands:
-
-```
-cd my-turborepo
-npx turbo login
-```
-
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
-
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
-
-```
-npx turbo link
-```
-
-## Useful Links
-
-Learn more about the power of Turborepo:
-
-- [Tasks](https://turbo.build/repo/docs/core-concepts/monorepos/running-tasks)
-- [Caching](https://turbo.build/repo/docs/core-concepts/caching)
-- [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
-- [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
-- [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
-- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+- [docs/deploying.md](docs/deploying.md) — คู่มือ deploy ละเอียด: วงจรงาน, ข้อจำกัดของแพลนฟรี, rollback, troubleshooting
+- [CONTEXT.md](CONTEXT.md) — ศัพท์ที่ใช้ในโปรเจกต์ (glossary)
+- [docs/adr/](docs/adr/) — การตัดสินใจเชิงสถาปัตยกรรม: เลือก Workers แทน Vercel, election ใช้ OpenNext, กฎการใช้รูปแบบ unoptimized

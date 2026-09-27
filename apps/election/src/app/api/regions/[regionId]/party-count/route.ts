@@ -1,5 +1,6 @@
 import axios from "axios";
 
+import { API_URL } from "@/config";
 import region1 from "@/data/votes/region-1.json";
 import region2 from "@/data/votes/region-2.json";
 import region3 from "@/data/votes/region-3.json";
@@ -61,7 +62,8 @@ export async function GET(
     return Response.json({ data: getPartyCount(partyCount) });
   }
 
-  const host = new URL(request.url).origin;
+  // Statically rendered handlers see a placeholder request.url — see docs/adr/0002.
+  const host = new URL(API_URL as string).origin;
 
   const votes = await getVotes(regionId);
   const votesByDistrict = groupById(votes);

@@ -26,8 +26,7 @@ export const ResultListItem = ({
               alt="party-image"
               src={party.image}
               width={60}
-              height={28}
-              className="size-auto"
+              height={26}
             />
           </div>
           <span className="absolute bottom-[-9px] left-[-9px] flex size-[20px] items-center justify-center rounded-sm bg-white font-bold shadow-md">

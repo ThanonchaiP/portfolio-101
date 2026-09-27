@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# election
 
-## Getting Started
+เว็บผลการเลือกตั้ง 66 เรียลไทม์ (Next.js 15) — หน้าเว็บเป็น client components ดึงข้อมูลผ่าน react-query จาก API routes ของตัวเอง (`/api/*`)
 
-First, run the development server:
+## Deploy
+
+Deploy ผ่าน **OpenNext adapter** (`@opennextjs/cloudflare`) เป็น SSR worker เพราะมี API routes ที่ต้องรัน server-side จริง (รายเหตุผล: `docs/adr/0002` ที่ root)
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm dev:election                   # ที่ root — dev server (client ยิง API ที่ localhost:3000 คือตัวมันเอง)
+pnpm --filter election preview      # preview บน workerd จริง → localhost:8787
+pnpm deploy:election                # ที่ root — build + deploy
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ข้อควรรู้:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `NEXT_PUBLIC_API_URL` ถูก bake ตอน build — deploy script (`build:worker` ใน package.json นี้) ส่งค่า production เข้าไปผ่าน cross-env และต้องมี `/api` ป้ายท้ายเสมอ
+- `/api/candidates` เป็น `force-dynamic` โดยเจตนา ห้ามเอาออก และ route ที่ self-call ต้อง derive origin จาก `API_URL` — เหตุผลทั้งหมดใน `docs/adr/0002` ที่ root
+- รูปทำงานแบบ unoptimized (แพลนฟรีไม่มี optimizer) — pin ขนาดทุก `next/image` ตาม `docs/adr/0003` ที่ root
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+คู่มือเต็ม: `../../docs/deploying.md`

@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# portfolio
 
-## Getting Started
+Personal portfolio ธีม VS Code (Next.js 16) — เพจทั้งหมดเป็น static ล้วน
 
-First, run the development server:
+## Deploy
+
+Deploy เป็น **Static Assets worker** (ไม่มี server): `next build` แบบ static export สร้าง `out/` แล้ว upload ขึ้น Cloudflare
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm dev:portfolio                  # ที่ root — dev server
+pnpm --filter portfolio preview     # preview บน workerd จริง → localhost:8787
+pnpm deploy:portfolio               # ที่ root — build + deploy
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ข้อจำกัด: static export จึงเพิ่ม API route / Server Action / middleware ไม่ได้ และรูปทำงานแบบ unoptimized (ต้อง pin ขนาด — ดู `docs/adr/0003` ที่ root)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+คู่มือเต็ม: `../../docs/deploying.md`

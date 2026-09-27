@@ -19,9 +19,10 @@ export const GeoPartyCountItem = ({
         <Image
           alt={`${name_en} party logo`}
           src={image}
-          width={30}
-          height={18}
-          className="size-auto"
+          // Unoptimized images (docs/adr/0003): pin the display size (source
+          // file is 148x63) — without this the raw 148px file renders.
+          width={32}
+          height={14}
         />
         <h3 className={cn(eclipse && "max-w-[120px] truncate")}>{name_en}</h3>
       </div>
