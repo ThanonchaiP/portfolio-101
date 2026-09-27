@@ -98,7 +98,7 @@ const projects = [
     image: "/image/projects/election.png",
     github:
       "https://github.com/ThanonchaiP/portfolio-101/tree/main/apps/election",
-    demo: "https://election.14again.life",
+    demo: "https://election.14again.online",
     stack: ["Next.js", "TypeScript", "Tailwind CSS"],
   },
   {
@@ -109,7 +109,7 @@ const projects = [
     image: "/image/projects/portfolio.png",
     github:
       "https://github.com/ThanonchaiP/portfolio-101/tree/main/apps/portfolio",
-    demo: "https://portfolio.14again.life",
+    demo: "https://portfolio.14again.online",
     stack: ["Next.js", "TypeScript", "Tailwind CSS"],
   },
 ];

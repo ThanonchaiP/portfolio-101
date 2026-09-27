@@ -6,8 +6,8 @@ Monorepo ส่วนตัว (pnpm + Turborepo) — แอป Next.js ทุ�
 
 | App | คืออะไร | URL |
 |---|---|---|
-| `apps/portfolio` | Personal portfolio ธีม VS Code — static ล้วน | https://portfolio.t-paliwong.workers.dev |
-| `apps/election` | เว็บผลเลือกตั้ง 66 เรียลไทม์ — มี API routes รันบน OpenNext | https://election.t-paliwong.workers.dev |
+| `apps/portfolio` | Personal portfolio ธีม VS Code — static ล้วน | https://portfolio.14again.online |
+| `apps/election` | เว็บผลเลือกตั้ง 66 เรียลไทม์ — มี API routes รันบน OpenNext | https://election.14again.online |
 | `apps/web` | Turborepo starter — ยังไม่ใช้งาน ไม่ deploy | — |
 
 Shared packages: `@repo/ui`, `@repo/eslint-config`, `@repo/typescript-config`

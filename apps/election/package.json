@@ -7,7 +7,7 @@
     "build": "next lint && next build",
     "start": "next start",
     "lint": "next lint",
-    "build:worker": "cross-env NEXT_PUBLIC_API_URL=https://election.t-paliwong.workers.dev/api opennextjs-cloudflare build",
+    "build:worker": "cross-env NEXT_PUBLIC_API_URL=https://election.14again.online/api opennextjs-cloudflare build",
     "deploy": "pnpm build:worker && wrangler deploy",
     "preview": "cross-env NEXT_PUBLIC_API_URL=http://localhost:8787 opennextjs-cloudflare build && wrangler dev"
   },

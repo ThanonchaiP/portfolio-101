@@ -6,8 +6,8 @@
 
 | App | ประเภท | Deploy ด้วย | URL หลัง deploy |
 |---|---|---|---|
-| `apps/portfolio` | Static Assets worker (ไม่มี server) | `pnpm deploy:portfolio` | https://portfolio.t-paliwong.workers.dev |
-| `apps/election` | OpenNext SSR worker (มี API routes) | `pnpm deploy:election` | https://election.t-paliwong.workers.dev |
+| `apps/portfolio` | Static Assets worker (ไม่มี server) | `pnpm deploy:portfolio` | https://portfolio.14again.online |
+| `apps/election` | OpenNext SSR worker (มี API routes) | `pnpm deploy:election` | https://election.14again.online |
 | `apps/web` | Turborepo starter — **ไม่ deploy** | — | — |
 
 `pnpm deploy` = deploy ทั้งสองแอปเรียงกัน (portfolio ก่อน แล้ว election) แต่ละแอปเป็น worker อิสระกัน ตัวใดพังไม่กระทบอีกตัว
@@ -55,7 +55,7 @@ pnpm deploy:election
 
 `pnpm deploy:election` ทำอะไรบ้าง (ตามลำดับ):
 
-1. `cross-env NEXT_PUBLIC_API_URL=https://election.t-paliwong.workers.dev/api opennextjs-cloudflare build`
+1. `cross-env NEXT_PUBLIC_API_URL=https://election.14again.online/api opennextjs-cloudflare build`
    - รัน `next build` (client bundle จะ bake URL production เข้าไป — process env ชนะ `.env.local` ที่เก็บ localhost ไว้)
    - สร้าง `.open-next/` (worker.js + assets)
 2. `wrangler deploy` — upload worker + assets แล้วสลับ traffic ทันที (second-level deploy)
@@ -82,13 +82,13 @@ pnpm deploy:portfolio
 for p in / /parliament /geo /formation /api/parties /api/districts /api/formation \
          /api/candidates /api/regions/1 /api/regions/geo/party-count; do
   printf "%-32s -> " "$p"
-  curl -s -o /dev/null -w "%{http_code}\n" "https://election.t-paliwong.workers.dev$p"
+  curl -s -o /dev/null -w "%{http_code}\n" "https://election.14again.online$p"
 done
 
 # portfolio
 for p in / /about /contact /experience /projects; do
   printf "%-14s -> " "$p"
-  curl -s -o /dev/null -w "%{http_code}\n" "https://portfolio.t-paliwong.workers.dev$p"
+  curl -s -o /dev/null -w "%{http_code}\n" "https://portfolio.14again.online$p"
 done
 ```
 
@@ -107,7 +107,25 @@ done
    # ดูบรรทัด "Total Upload: ... / gzip: ..." — ต้องต่ำกว่า 3072 KiB
    ```
 5. **portfolio เป็น static export ล้วน** — เพิ่ม API route / Server Action / middleware ไม่ได้ (build จะ fail) อะไรที่ต้องใช้ server ต้องไปอยู่ที่ election หรือ worker แยก (ADR-0001)
-6. **`NEXT_PUBLIC_API_URL` ถูก bake ตอน build** — ถ้าวันหนึ่งเปลี่ยนโดเมน (เช่นได้ 14again.life กลับมา) ต้องไปแก้ค่าใน script `build:worker` ที่ `apps/election/package.json` ด้วย ไม่ใช่แค่ config (ADR-0002)
+6. **`NEXT_PUBLIC_API_URL` ถูก bake ตอน build** — ค่าปัจจุบันคือ `https://election.14again.online/api` ตั้งใน script `build:worker` ที่ `apps/election/package.json` ถ้าจะเปลี่ยนโดเมนต้องแก้ค่านี้ด้วย ไม่ใช่แค่ `wrangler.jsonc` (ADR-0002)
+
+---
+
+## Custom domain
+
+ทั้งสองแอป serve บน custom domain เป็น URL หลักตัวเดียว (workers.dev ปิดอยู่) — ตั้งใน `wrangler.jsonc` ของแต่ละแอป:
+
+- portfolio → `portfolio.14again.online`
+- election → `election.14again.online`
+
+```jsonc
+"routes": [{ "pattern": "portfolio.14again.online", "custom_domain": true }],
+"workers_dev": false
+```
+
+- ตอน deploy wrangler จะสร้าง DNS record + TLS certificate ให้เอง — เงื่อนไขคือ zone (`14again.online`) ต้องอยู่ในบัญชี Cloudflare เดียวกับ worker ถ้าไม่ใช่ deploy จะ fail ด้วย error เรื่อง zone ทันที
+- `workers_dev: false` ปิดทั้ง URL `*.workers.dev` และ Preview URLs — ใช้ `wrangler dev` สำหรับทดสอบแทน ถ้าจะเปิดกลับเปลี่ยนเป็น `true` แล้ว deploy ใหม่
+- **ถ้าจะเปลี่ยนโดเมน**: แก้ `pattern` ใน `wrangler.jsonc` **และ** `NEXT_PUBLIC_API_URL` ใน script `build:worker` ของ election ด้วย (ข้อ 6 ด้านบน) — client และ API routes ที่ self-call กันเองอ้าง origin จากค่านี้ (ADR-0002)
 
 ---
 
@@ -151,5 +169,4 @@ cd apps/portfolio && pnpm exec wrangler rollback
 
 ## เรื่องที่ยังไม่ได้ทำ (roadmap)
 
-- **Custom domain** `portfolio.14again.life` / `election.14again.life` — ต้องยืนยันว่าโดเมนเป็น zone ในบัญชี Cloudflare นี้ก่อน แล้วเพิ่ม custom domain ใน `wrangler.jsonc` ทั้งสองแอป และอย่าลืมแก้ `build:worker` ของ election (ข้อ 6 ด้านบน)
 - **CI/CD อัตโนมัติ** — ตอนนี้ deploy ด้วยมือ ถ้าจะเพิ่ม GitHub Actions ต้องตั้ง `CLOUDFLARE_API_TOKEN` เป็น repo secret

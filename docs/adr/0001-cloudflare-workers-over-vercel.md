@@ -10,5 +10,5 @@ Both apps are Next.js, for which Vercel is the default host, but we deploy them 
 ## Consequences
 
 - Cloudflare's built-in image optimization needs a paid plan, so both apps run with `images.unoptimized` (their images are small local/S3 assets).
-- Initial URLs are `*.workers.dev`; the intended custom domains (`portfolio.14again.life`, `election.14again.life`, already hardcoded in Portfolio's projects page) are a follow-up once that zone is confirmed on the account.
+- Initial URLs were `*.workers.dev`; both apps now serve on custom domains (`portfolio.14again.online`, `election.14again.online` — the zone is on the same account), attached in each app's `wrangler.jsonc` with `workers_dev` disabled, so the workers.dev URLs no longer serve.
 - Election's Worker bundle must stay under the free plan's 3 MB compressed size limit.

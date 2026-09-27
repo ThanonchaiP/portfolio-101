@@ -2,6 +2,8 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "portfolio",
   "compatibility_date": "2026-01-01",
+  "routes": [{ "pattern": "portfolio.14again.online", "custom_domain": true }],
+  "workers_dev": false,
   "assets": {
     "directory": "./out",
     "not_found_handling": "404-page"

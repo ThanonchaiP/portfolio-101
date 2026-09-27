@@ -17,6 +17,6 @@ const contactCode = `// Contact Me
   },
   "socials": {
     "github": "https://github.com/ThanonchaiP",
-    "portfolio": "https://portfolio.14again.life",
+    "portfolio": "https://portfolio.14again.online",
   }
 }`;
